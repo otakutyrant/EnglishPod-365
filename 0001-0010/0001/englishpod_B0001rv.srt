@@ -1,0 +1,160 @@
+﻿1
+00:00:01,214 --> 00:00:07,330
+The EnglishPod Audio Review Listen to the meaning, then say the vocabulary word.
+
+2
+00:00:09,134 --> 00:00:10,247
+Not yet completed.
+
+3
+00:00:10,763 --> 00:00:11,854
+Need more time.
+
+4
+00:00:13,767 --> 00:00:15,018
+Still working on.
+
+5
+00:00:18,000 --> 00:00:18,625
+Suggest.
+
+6
+00:00:20,749 --> 00:00:21,774
+Would recommend.
+
+7
+00:00:23,549 --> 00:00:24,043
+Free.
+
+8
+00:00:26,000 --> 00:00:26,887
+Complementary.
+
+9
+00:00:28,734 --> 00:00:29,556
+To choose.
+
+10
+00:00:30,152 --> 00:00:30,690
+Pick.
+
+11
+00:00:32,807 --> 00:00:33,549
+Go with.
+
+12
+00:00:35,229 --> 00:00:36,269
+To get quickly.
+
+13
+00:00:38,443 --> 00:00:39,112
+Grab.
+
+14
+00:00:40,450 --> 00:00:41,614
+Let's try that faster.
+
+15
+00:00:44,080 --> 00:00:45,112
+Not yet completed.
+
+16
+00:00:45,680 --> 00:00:46,669
+Need more time.
+
+17
+00:00:47,680 --> 00:00:48,923
+Still working on.
+
+18
+00:00:50,240 --> 00:00:51,229
+To get quickly.
+
+19
+00:00:52,385 --> 00:00:53,090
+Grab.
+
+20
+00:00:54,370 --> 00:00:55,134
+Suggest.
+
+21
+00:00:56,247 --> 00:00:57,214
+Would recommend.
+
+22
+00:00:58,480 --> 00:00:59,498
+To get quickly.
+
+23
+00:01:00,654 --> 00:01:01,345
+Grab.
+
+24
+00:01:02,720 --> 00:01:03,585
+To choose.
+
+25
+00:01:04,000 --> 00:01:04,589
+Pick.
+
+26
+00:01:05,730 --> 00:01:06,480
+Go with.
+
+27
+00:01:07,621 --> 00:01:10,101
+Now say the word and hear it in a sentence.
+
+28
+00:01:11,512 --> 00:01:12,821
+Still working on.
+
+29
+00:01:17,636 --> 00:01:19,098
+Have you decided what to do tonight?
+
+30
+00:01:19,956 --> 00:01:21,000
+I'm still working on it.
+
+31
+00:01:22,429 --> 00:01:23,345
+Complementary.
+
+32
+00:01:28,327 --> 00:01:30,269
+Would you like a complementary dessert?
+
+33
+00:01:32,000 --> 00:01:32,712
+Go with.
+
+34
+00:01:36,690 --> 00:01:39,000
+I'll go with the red dress instead of the blue one.
+
+35
+00:01:40,356 --> 00:01:41,018
+Grab.
+
+36
+00:01:44,334 --> 00:01:45,956
+Let's grab some beers after work.
+
+37
+00:01:47,774 --> 00:01:48,509
+Go with.
+
+38
+00:01:52,516 --> 00:01:54,807
+I'll go with the red dress instead of the blue one.
+
+39
+00:01:56,167 --> 00:01:56,872
+Grab.
+
+40
+00:02:00,196 --> 00:02:01,810
+Let's grab some beers after work.
+
