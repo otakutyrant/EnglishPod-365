@@ -1,0 +1,28 @@
+1
+00:00:00,000 --> 00:00:31,000
+EnglishPod.com Sure.
+
+2
+00:00:32,000 --> 00:00:37,000
+Well, the avocado sandwich is delicious, and it's the healthiest thing on the menu.
+
+3
+00:00:37,000 --> 00:00:40,000
+Personally, I think the beef salad is the tastiest choice.
+
+4
+00:00:40,000 --> 00:00:41,000
+I usually get that.
+
+5
+00:00:42,000 --> 00:00:45,000
+Also, the milkshakes are the best milkshakes in town.
+
+6
+00:00:45,000 --> 00:00:47,000
+Well, thanks for the suggestions.
+
+7
+00:00:47,000 --> 00:00:48,000
+No, don't mention it.
+

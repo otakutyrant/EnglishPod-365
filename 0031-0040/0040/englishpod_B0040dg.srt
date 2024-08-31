@@ -1,0 +1,84 @@
+1
+00:00:01,000 --> 00:00:10,000
+EnglishPod.com Um, sorry to bother you.
+
+2
+00:00:10,000 --> 00:00:12,000
+My name is Rachel.
+
+3
+00:00:12,000 --> 00:00:12,000
+I'm new here.
+
+4
+00:00:13,000 --> 00:00:14,000
+Can I ask you for a favor?
+
+5
+00:00:15,000 --> 00:00:16,000
+Hi Rachel, welcome on board.
+
+6
+00:00:16,000 --> 00:00:17,000
+I'm afraid I can't help you right now.
+
+7
+00:00:18,000 --> 00:00:19,000
+I'm getting ready for a very important meeting.
+
+8
+00:00:20,000 --> 00:00:23,000
+Excuse me, but can I bother you for a second?
+
+9
+00:00:23,000 --> 00:00:24,000
+You know what?
+
+10
+00:00:24,000 --> 00:00:27,000
+I'd love to help you, but I'm about to meet an important client.
+
+11
+00:00:27,000 --> 00:00:29,000
+Do you want to ask Sean instead?
+
+12
+00:00:29,000 --> 00:00:31,000
+He sits right over there.
+
+13
+00:00:36,000 --> 00:00:37,000
+Sorry to interrupt you, Sean.
+
+14
+00:00:38,000 --> 00:00:39,000
+Could you do me a quick favor?
+
+15
+00:00:39,000 --> 00:00:41,000
+Actually, I'm working on a document that's due in a couple of minutes.
+
+16
+00:00:41,000 --> 00:00:42,000
+I really can't talk right now.
+
+17
+00:00:43,000 --> 00:00:43,000
+Sorry about that.
+
+18
+00:00:44,000 --> 00:00:45,000
+Jeez!
+
+19
+00:00:46,000 --> 00:00:48,000
+I just want to know where the bathroom is.
+
+20
+00:00:48,000 --> 00:00:49,000
+What's wrong with you people?
+
+21
+00:00:57,000 --> 00:00:58,000
+Thanks for watching!
+

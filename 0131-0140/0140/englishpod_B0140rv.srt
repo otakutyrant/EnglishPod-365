@@ -1,0 +1,472 @@
+1
+00:00:00,000 --> 00:00:07,000
+The EnglishPod Audio Review Listen to the meaning, then say the vocabulary word.
+
+2
+00:00:08,000 --> 00:00:10,000
+Always becoming different.
+
+3
+00:00:12,000 --> 00:00:13,000
+Ever-changing.
+
+4
+00:00:16,000 --> 00:00:21,000
+A written promise that a seller will repair a product if a problem arises.
+
+5
+00:00:24,000 --> 00:00:25,000
+Warranty.
+
+6
+00:00:26,000 --> 00:00:29,000
+No longer useful.
+
+7
+00:00:31,000 --> 00:00:32,000
+Obsolete.
+
+8
+00:00:33,000 --> 00:00:35,000
+A portable computer.
+
+9
+00:00:37,000 --> 00:00:38,000
+Laptop.
+
+10
+00:00:40,000 --> 00:00:41,000
+The direction of an event.
+
+11
+00:00:44,000 --> 00:00:46,000
+Where something is going.
+
+12
+00:00:48,000 --> 00:00:50,000
+To change into a more advanced state.
+
+13
+00:00:53,000 --> 00:00:54,000
+Evolve.
+
+14
+00:00:54,000 --> 00:00:59,000
+To be completely unaware of something.
+
+15
+00:01:00,000 --> 00:01:03,000
+I have no idea.
+
+16
+00:01:05,000 --> 00:01:09,000
+A device that allows computers to communicate without wires.
+
+17
+00:01:12,000 --> 00:01:13,000
+Wireless modem.
+
+18
+00:01:15,000 --> 00:01:16,000
+To suddenly stop functioning.
+
+19
+00:01:19,000 --> 00:01:20,000
+Freeze.
+
+20
+00:01:21,000 --> 00:01:25,000
+A system for communicating between computers.
+
+21
+00:01:27,000 --> 00:01:28,000
+Network.
+
+22
+00:01:31,000 --> 00:01:32,000
+A computer application.
+
+23
+00:01:35,000 --> 00:01:35,000
+Program.
+
+24
+00:01:37,000 --> 00:01:40,000
+Unit to measure a computer storage capacity.
+
+25
+00:01:43,000 --> 00:01:44,000
+Gigabyte.
+
+26
+00:01:46,000 --> 00:01:49,000
+Part of computer that temporarily stores information.
+
+27
+00:01:51,000 --> 00:01:54,000
+Random access memory.
+
+28
+00:01:56,000 --> 00:01:58,000
+Part of computer that stores data.
+
+29
+00:02:00,000 --> 00:02:02,000
+Hard disk.
+
+30
+00:02:04,000 --> 00:02:06,000
+Measurement of computer processor speed.
+
+31
+00:02:09,000 --> 00:02:11,000
+gigahertz.
+
+32
+00:02:12,000 --> 00:02:15,000
+Device in a computer that manages operations.
+
+33
+00:02:17,000 --> 00:02:18,000
+Processor.
+
+34
+00:02:21,000 --> 00:02:22,000
+To suddenly stop functioning.
+
+35
+00:02:26,000 --> 00:02:26,000
+Crash.
+
+36
+00:02:28,000 --> 00:02:30,000
+To make a written promise.
+
+37
+00:02:33,000 --> 00:02:34,000
+Guarantee.
+
+38
+00:02:35,000 --> 00:02:37,000
+Let's try that faster.
+
+39
+00:02:38,000 --> 00:02:40,000
+A computer application.
+
+40
+00:02:42,000 --> 00:02:43,000
+Program.
+
+41
+00:02:44,000 --> 00:02:47,000
+Measurement of computer processor speed.
+
+42
+00:02:50,000 --> 00:02:51,000
+gigahertz.
+
+43
+00:02:51,000 --> 00:02:53,000
+The direction of an event.
+
+44
+00:02:55,000 --> 00:02:57,000
+Where something is going.
+
+45
+00:02:58,000 --> 00:03:01,000
+Unit to measure a computer storage capacity.
+
+46
+00:03:03,000 --> 00:03:04,000
+Gigabyte.
+
+47
+00:03:06,000 --> 00:03:07,000
+No longer useful.
+
+48
+00:03:09,000 --> 00:03:10,000
+Obsolete.
+
+49
+00:03:11,000 --> 00:03:15,000
+Device in a computer that manages operations.
+
+50
+00:03:16,000 --> 00:03:17,000
+Processor.
+
+51
+00:03:19,000 --> 00:03:20,000
+Always becoming different.
+
+52
+00:03:23,000 --> 00:03:24,000
+Ever-changing.
+
+53
+00:03:25,000 --> 00:03:28,000
+A device that allows computers to communicate without wires.
+
+54
+00:03:31,000 --> 00:03:32,000
+Wireless modem.
+
+55
+00:03:34,000 --> 00:03:38,000
+A written promise that a seller will repair a product if a problem arises.
+
+56
+00:03:40,000 --> 00:03:41,000
+Warranty.
+
+57
+00:03:42,000 --> 00:03:45,000
+Part of computer that stores data.
+
+58
+00:03:48,000 --> 00:03:48,000
+Hard disk.
+
+59
+00:03:50,000 --> 00:03:51,000
+To suddenly stop functioning.
+
+60
+00:03:54,000 --> 00:03:54,000
+Crash.
+
+61
+00:03:56,000 --> 00:03:58,000
+To make a written promise.
+
+62
+00:04:00,000 --> 00:04:01,000
+Guarantee.
+
+63
+00:04:03,000 --> 00:04:06,000
+Part of computer that temporarily stores information.
+
+64
+00:04:07,000 --> 00:04:10,000
+Random access memory.
+
+65
+00:04:12,000 --> 00:04:13,000
+To suddenly stop functioning.
+
+66
+00:04:15,000 --> 00:04:16,000
+Freeze.
+
+67
+00:04:18,000 --> 00:04:19,000
+A portable computer.
+
+68
+00:04:21,000 --> 00:04:22,000
+Laptop.
+
+69
+00:04:23,000 --> 00:04:26,000
+To change into a more advanced state.
+
+70
+00:04:28,000 --> 00:04:29,000
+Evolve.
+
+71
+00:04:30,000 --> 00:04:33,000
+A system for communicating between computers.
+
+72
+00:04:35,000 --> 00:04:36,000
+Network.
+
+73
+00:04:38,000 --> 00:04:40,000
+To be completely unaware of something.
+
+74
+00:04:42,000 --> 00:04:44,000
+I have no idea.
+
+75
+00:04:46,000 --> 00:04:49,000
+Now say the word and hear it in a sentence.
+
+76
+00:04:51,000 --> 00:04:51,000
+Ever-changing.
+
+77
+00:04:54,000 --> 00:04:55,000
+Ever-changing.
+
+78
+00:04:57,000 --> 00:05:02,000
+There is always something new in this ever-changing world.
+
+79
+00:05:05,000 --> 00:05:06,000
+Ever-changing.
+
+80
+00:05:13,000 --> 00:05:18,000
+Times are ever-changing and we must prepare ourselves better every day.
+
+81
+00:05:20,000 --> 00:05:22,000
+Ever-changing.
+
+82
+00:05:29,000 --> 00:05:34,000
+The flu is an ever-changing virus that continues to claim many lives.
+
+83
+00:05:36,000 --> 00:05:37,000
+Obsolete.
+
+84
+00:05:37,000 --> 00:05:38,000
+Obsolete.
+
+85
+00:05:44,000 --> 00:05:49,000
+This fleet of battleships from World War II is completely obsolete.
+
+86
+00:05:51,000 --> 00:05:52,000
+Obsolete.
+
+87
+00:05:58,000 --> 00:06:03,000
+Broom is an obsolete word that means mist or fog.
+
+88
+00:06:05,000 --> 00:06:06,000
+Obsolete.
+
+89
+00:06:15,000 --> 00:06:19,000
+A VHS is a device that is practically obsolete nowadays.
+
+90
+00:06:20,000 --> 00:06:21,000
+Who buys tapes anymore?
+
+91
+00:06:24,000 --> 00:06:26,000
+Where something is going.
+
+92
+00:06:33,000 --> 00:06:35,000
+We fight every day.
+
+93
+00:06:35,000 --> 00:06:38,000
+I don't know where this relationship is going.
+
+94
+00:06:41,000 --> 00:06:42,000
+Where something is going.
+
+95
+00:06:48,000 --> 00:06:50,000
+Where is this movie going?
+
+96
+00:06:50,000 --> 00:06:52,000
+I don't understand what's happening.
+
+97
+00:06:54,000 --> 00:06:56,000
+Where something is going.
+
+98
+00:07:03,000 --> 00:07:04,000
+You want to do what?
+
+99
+00:07:05,000 --> 00:07:07,000
+Where are you going with this conversation?
+
+100
+00:07:09,000 --> 00:07:11,000
+I have no idea.
+
+101
+00:07:17,000 --> 00:07:19,000
+I can't find my keys.
+
+102
+00:07:19,000 --> 00:07:21,000
+I have no idea where I put them.
+
+103
+00:07:23,000 --> 00:07:25,000
+I have no idea.
+
+104
+00:07:26,000 --> 00:07:27,000
+I have no idea.
+
+105
+00:07:32,000 --> 00:07:35,000
+I have no idea where Tom went.
+
+106
+00:07:35,000 --> 00:07:37,000
+Maybe he's in the bathroom?
+
+107
+00:07:39,000 --> 00:07:41,000
+I have no idea.
+
+108
+00:07:41,000 --> 00:07:42,000
+I have no idea.
+
+109
+00:07:51,000 --> 00:07:55,000
+You have no idea how embarrassed I was.
+
+110
+00:07:55,000 --> 00:08:00,000
+I mean, I accidentally burped while presenting my project to the board of directors.
+
+111
+00:08:03,000 --> 00:08:03,000
+Freeze.
+
+112
+00:08:03,000 --> 00:08:04,000
+Freeze.
+
+113
+00:08:09,000 --> 00:08:12,000
+If your computer freezes, you'll have to shut it down.
+
+114
+00:08:14,000 --> 00:08:15,000
+Freeze.
+
+115
+00:08:22,000 --> 00:08:24,000
+Something is wrong with my mobile phone.
+
+116
+00:08:25,000 --> 00:08:26,000
+It keeps freezing.
+
+117
+00:08:28,000 --> 00:08:29,000
+Freeze.
+
+118
+00:08:35,000 --> 00:08:40,000
+The files are not ready yet because my computer froze last night.
+

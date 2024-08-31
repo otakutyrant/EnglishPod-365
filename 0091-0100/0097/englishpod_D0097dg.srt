@@ -1,0 +1,88 @@
+1
+00:00:01,000 --> 00:00:08,000
+EnglishPod.com And now, let's go to Kenny Williams for today's weather forecast.
+
+2
+00:00:09,000 --> 00:00:11,000
+Thank you, Bill, and good morning Salt Lake City.
+
+3
+00:00:12,000 --> 00:00:13,000
+What's the weather looking like today, Kenny?
+
+4
+00:00:13,000 --> 00:00:15,000
+Well, it's a bit of a mixed bag in Utah today.
+
+5
+00:00:16,000 --> 00:00:21,000
+We've got heavy cloud cover here in northern Utah, and we're calling for scattered showers throughout the day with a daytime high of 45 degrees.
+
+6
+00:00:21,000 --> 00:00:25,000
+Now, if we move down to the south of the state, we can see that a cold front is moving in.
+
+7
+00:00:26,000 --> 00:00:30,000
+We can expect clear skies, but it will be quite cold with temperatures hovering around the 30-degree mark.
+
+8
+00:00:30,000 --> 00:00:33,000
+It's a chilly day, folks, so don't forget your coats.
+
+9
+00:00:34,000 --> 00:00:35,000
+What about tomorrow, Kenny?
+
+10
+00:00:36,000 --> 00:00:37,000
+Do you have good news for us?
+
+11
+00:00:37,000 --> 00:00:39,000
+Well, it'll be a rainy day for northern Utah.
+
+12
+00:00:39,000 --> 00:00:41,000
+We can expect some isolated downpours in the morning.
+
+13
+00:00:42,000 --> 00:00:45,000
+Winds will be coming in from the northeast, with gust reaching 23 miles per hour.
+
+14
+00:00:46,000 --> 00:00:48,000
+Salt Lake City can expect the rain to turn to sleet in the evening.
+
+15
+00:00:49,000 --> 00:00:51,000
+Things are looking a bit better for the south.
+
+16
+00:00:51,000 --> 00:00:53,000
+We'll see cloudy skies with a chance of showers.
+
+17
+00:00:53,000 --> 00:00:57,000
+Later in the day, we can expect partly cloudy skies with a forecast high of 38 degrees.
+
+18
+00:00:58,000 --> 00:00:59,000
+You heard it, folks.
+
+19
+00:00:59,000 --> 00:01:00,000
+It's going to be a cold one.
+
+20
+00:01:00,000 --> 00:01:01,000
+That's right, Bill.
+
+21
+00:01:02,000 --> 00:01:04,000
+We'll have more later on today on the 6 o'clock news.
+
+22
+00:01:04,000 --> 00:01:06,000
+That's the weather forecast for this morning.
+

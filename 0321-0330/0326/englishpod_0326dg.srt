@@ -1,0 +1,52 @@
+1
+00:00:03,000 --> 00:00:09,000
+Look, Jimmy's report card came today.
+
+2
+00:00:09,000 --> 00:00:10,000
+Let's have a look.
+
+3
+00:00:11,000 --> 00:00:11,000
+What is this?
+
+4
+00:00:12,000 --> 00:00:13,000
+Where are all the grades?
+
+5
+00:00:14,000 --> 00:00:15,000
+He's in the third grade, Sam.
+
+6
+00:00:16,000 --> 00:00:20,000
+You see, under each subject that he's being taught in school, he receives a mark from one to three.
+
+7
+00:00:21,000 --> 00:00:24,000
+A one means his achievement or work is excellence.
+
+8
+00:00:24,000 --> 00:00:29,000
+Here in science, for example, he got a two, which means it's satisfactory.
+
+9
+00:00:29,000 --> 00:00:31,000
+What about here in physical education?
+
+10
+00:00:31,000 --> 00:00:35,000
+He got a three here, which means it's unsatisfactory.
+
+11
+00:00:35,000 --> 00:00:37,000
+We should work on that with him.
+
+12
+00:00:37,000 --> 00:00:38,000
+So confusing.
+
+13
+00:00:38,000 --> 00:00:43,000
+In my day, we got an A or a B if we were doing well, and if we failed an exam, we would get an F.
+

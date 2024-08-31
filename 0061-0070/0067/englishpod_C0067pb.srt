@@ -1,0 +1,960 @@
+1
+00:00:01,000 --> 00:00:04,000
+Hello English learners, welcome back to EnglishPod.
+
+2
+00:00:04,000 --> 00:00:05,000
+My name is Marco.
+
+3
+00:00:05,000 --> 00:00:06,000
+And I'm Erica.
+
+4
+00:00:06,000 --> 00:00:10,000
+And today we're bringing you another great lesson about sports, part of our sports series.
+
+5
+00:00:11,000 --> 00:00:18,000
+That's right, and in this lesson we are talking about maybe the world's most favorite sports.
+
+6
+00:00:18,000 --> 00:00:22,000
+Right, one of the most popular sports in the world, soccer.
+
+7
+00:00:22,000 --> 00:00:25,000
+Or also known as football in other countries.
+
+8
+00:00:25,000 --> 00:00:25,000
+Yes.
+
+9
+00:00:25,000 --> 00:00:33,000
+Okay, so before we get started with this great lesson, let's take a look at some of the words we'll find in the dialogue in Vocabulary Preview.
+
+10
+00:00:36,000 --> 00:00:39,000
+We're going to look at three words here.
+
+11
+00:00:39,000 --> 00:00:41,000
+The first word is wingman.
+
+12
+00:00:42,000 --> 00:00:43,000
+Wingman.
+
+13
+00:00:43,000 --> 00:00:43,000
+A wingman.
+
+14
+00:00:44,000 --> 00:00:48,000
+Now wingman isn't really related to soccer in any way.
+
+15
+00:00:48,000 --> 00:00:48,000
+Okay.
+
+16
+00:00:49,000 --> 00:00:53,000
+But it's a way of referring to somebody as your right hand.
+
+17
+00:00:53,000 --> 00:00:54,000
+So your helper.
+
+18
+00:00:55,000 --> 00:00:57,000
+Your helper, your number one guy.
+
+19
+00:00:57,000 --> 00:00:57,000
+Okay.
+
+20
+00:00:58,000 --> 00:00:58,000
+Right.
+
+21
+00:00:58,000 --> 00:01:02,000
+So a wingman is someone who helps you a lot.
+
+22
+00:01:02,000 --> 00:01:03,000
+Uh huh, exactly.
+
+23
+00:01:04,000 --> 00:01:06,000
+Okay, our next word, tied.
+
+24
+00:01:07,000 --> 00:01:08,000
+Tied.
+
+25
+00:01:08,000 --> 00:01:09,000
+They are tied.
+
+26
+00:01:10,000 --> 00:01:11,000
+They are tied.
+
+27
+00:01:11,000 --> 00:01:17,000
+Now this is an interesting word because tie can be a noun, verb, and an adjective, right?
+
+28
+00:01:17,000 --> 00:01:18,000
+Exactly.
+
+29
+00:01:18,000 --> 00:01:20,000
+So in this case, they are tied.
+
+30
+00:01:20,000 --> 00:01:23,000
+It's an adjective meaning they have the same score.
+
+31
+00:01:24,000 --> 00:01:24,000
+Okay.
+
+32
+00:01:25,000 --> 00:01:30,000
+And a tie is a game that has ended with no winner or loser.
+
+33
+00:01:30,000 --> 00:01:32,000
+Both of them had the same score.
+
+34
+00:01:32,000 --> 00:01:32,000
+Exactly.
+
+35
+00:01:33,000 --> 00:01:39,000
+And so obviously the verb to tie is to reach the same score as your other team.
+
+36
+00:01:39,000 --> 00:01:40,000
+Exactly.
+
+37
+00:01:40,000 --> 00:01:46,000
+Alright, well our third word can also be used as a noun and a verb and it is foul.
+
+38
+00:01:47,000 --> 00:01:48,000
+Fouled.
+
+39
+00:01:48,000 --> 00:01:49,000
+Fouled.
+
+40
+00:01:50,000 --> 00:01:56,000
+Okay, so to foul somebody is to do something to them that is not allowed in the sport.
+
+41
+00:01:57,000 --> 00:01:57,000
+Okay.
+
+42
+00:01:58,000 --> 00:02:02,000
+And so when you do this, you have committed a foul.
+
+43
+00:02:02,000 --> 00:02:02,000
+Exactly.
+
+44
+00:02:03,000 --> 00:02:05,000
+Okay, so you use it in the same way.
+
+45
+00:02:05,000 --> 00:02:06,000
+To foul or a foul.
+
+46
+00:02:06,000 --> 00:02:07,000
+Interesting.
+
+47
+00:02:08,000 --> 00:02:11,000
+Well, we're going to hear these three words in context now.
+
+48
+00:02:12,000 --> 00:02:15,000
+So why don't we listen to our soccer dialogue?
+
+49
+00:02:29,000 --> 00:02:30,000
+Welcome back soccer fans.
+
+50
+00:02:30,000 --> 00:02:35,000
+My name is Rick Fields and as always, I am joined by my commentating wingman Bob Copeland.
+
+51
+00:02:35,000 --> 00:02:45,000
+And we're in the brink of soccer history today as Ecuador and Brazil are tied 1-1 as we begin the second half of the 2022 World Cup.
+
+52
+00:02:46,000 --> 00:02:49,000
+The ref calls the players for the kickoff and here we go.
+
+53
+00:02:49,000 --> 00:02:53,000
+Ecuador quickly passes the ball to the midfield but oh it's out of bounds.
+
+54
+00:02:53,000 --> 00:02:54,000
+That'll be a throw in for Brazil.
+
+55
+00:02:55,000 --> 00:03:00,000
+Adriano has the ball and makes a long pass to Robinho and the ref has called him offside.
+
+56
+00:03:00,000 --> 00:03:02,000
+No question about it, he was offside by a mile.
+
+57
+00:03:02,000 --> 00:03:04,000
+We have a goal kick for Ecuador.
+
+58
+00:03:05,000 --> 00:03:06,000
+Edison Mendez heads it to Valencia.
+
+59
+00:03:06,000 --> 00:03:10,000
+He shoots deflected by the defender and we have a corner kick.
+
+60
+00:03:10,000 --> 00:03:11,000
+Del Gallo takes the corner.
+
+61
+00:03:12,000 --> 00:03:13,000
+We have a foul.
+
+62
+00:03:13,000 --> 00:03:17,000
+Oh no, Dita the goalkeeper has fouled the Ecuadorian player.
+
+63
+00:03:17,000 --> 00:03:20,000
+He gets a yellow card and that will be a penalty kick.
+
+64
+00:03:20,000 --> 00:03:25,000
+This is the perfect opportunity for Ecuador to get ahead in this and become world champions.
+
+65
+00:03:25,000 --> 00:03:26,000
+He gets ready for the kick.
+
+66
+00:03:26,000 --> 00:03:28,000
+He shoots and he...
+
+67
+00:03:39,000 --> 00:03:45,000
+Okay, so Ecuador tied with Brazil in the 2022 World Cup.
+
+68
+00:03:45,000 --> 00:03:50,000
+Wow Marco, I'm really happy to see that you are able to see so far into the future.
+
+69
+00:03:51,000 --> 00:03:56,000
+Well, I called it so in 2022 if we do win the World Cup you know who said it first.
+
+70
+00:03:56,000 --> 00:03:57,000
+All right, do you have money on that?
+
+71
+00:03:58,000 --> 00:03:58,000
+Uh, yes.
+
+72
+00:03:59,000 --> 00:04:07,000
+All right, so apart from this we saw some really great vocabulary in this lesson so let's take a look at it now in Language Takeaway.
+
+73
+00:04:09,000 --> 00:04:10,000
+Language Takeaway.
+
+74
+00:04:11,000 --> 00:04:15,000
+All right, we've got a lot of soccer words for you but they're all important.
+
+75
+00:04:16,000 --> 00:04:18,000
+So let's take a look at the first one.
+
+76
+00:04:19,000 --> 00:04:19,000
+Kickoff.
+
+77
+00:04:20,000 --> 00:04:21,000
+Kickoff.
+
+78
+00:04:21,000 --> 00:04:22,000
+Kickoff.
+
+79
+00:04:22,000 --> 00:04:23,000
+So a kickoff.
+
+80
+00:04:23,000 --> 00:04:25,000
+This is how you start a soccer game, right?
+
+81
+00:04:26,000 --> 00:04:31,000
+Right, so it's the very beginning the referee blows the whistle and you kick the ball to another player.
+
+82
+00:04:31,000 --> 00:04:31,000
+That's the kickoff.
+
+83
+00:04:32,000 --> 00:04:35,000
+Okay, so our next phrase out of bounds.
+
+84
+00:04:36,000 --> 00:04:37,000
+Out of bounds.
+
+85
+00:04:37,000 --> 00:04:38,000
+Out of bounds.
+
+86
+00:04:39,000 --> 00:04:40,000
+Okay, out of bounds.
+
+87
+00:04:40,000 --> 00:04:42,000
+This is a great word.
+
+88
+00:04:42,000 --> 00:04:47,000
+So in soccer when the ball goes out of bounds it goes outside the white lines, right?
+
+89
+00:04:48,000 --> 00:04:49,000
+Outside of the playing field.
+
+90
+00:04:49,000 --> 00:04:51,000
+Okay, and you can use it in all other sports.
+
+91
+00:04:51,000 --> 00:04:52,000
+You can use it in basketball.
+
+92
+00:04:52,000 --> 00:04:56,000
+You can use it in tennis or football or anything.
+
+93
+00:04:56,000 --> 00:05:00,000
+Right, so any part that is not for playing.
+
+94
+00:05:00,000 --> 00:05:01,000
+Out of bounds.
+
+95
+00:05:01,000 --> 00:05:02,000
+What's our next word?
+
+96
+00:05:03,000 --> 00:05:04,000
+Throw in.
+
+97
+00:05:04,000 --> 00:05:05,000
+A throw in.
+
+98
+00:05:06,000 --> 00:05:07,000
+A throw in.
+
+99
+00:05:07,000 --> 00:05:09,000
+Okay, so a throw in.
+
+100
+00:05:10,000 --> 00:05:11,000
+The ball goes out of bounds.
+
+101
+00:05:12,000 --> 00:05:13,000
+How do you put it back into play?
+
+102
+00:05:13,000 --> 00:05:15,000
+Obviously, a throw in.
+
+103
+00:05:15,000 --> 00:05:17,000
+Okay, so you throw in the ball.
+
+104
+00:05:17,000 --> 00:05:21,000
+That's the only time where a soccer player will actually grab the ball with his hands.
+
+105
+00:05:21,000 --> 00:05:24,000
+All right, now another soccer term we have here.
+
+106
+00:05:24,000 --> 00:05:25,000
+Offside.
+
+107
+00:05:26,000 --> 00:05:26,000
+Offside.
+
+108
+00:05:27,000 --> 00:05:27,000
+Offside.
+
+109
+00:05:28,000 --> 00:05:36,000
+Okay, so this is a soccer field, and you are trying to score a goal.
+
+110
+00:05:36,000 --> 00:05:38,000
+Now you have some defenders, right?
+
+111
+00:05:38,000 --> 00:05:45,000
+Those are the people who are trying to take the ball away, and you pass the ball to somebody who is behind the defenders.
+
+112
+00:05:46,000 --> 00:05:48,000
+Oh, and that person is offside.
+
+113
+00:05:48,000 --> 00:05:56,000
+Exactly, so you must be at all times in the same position as the defenders or in front of them, but you can't be all the way in the back.
+
+114
+00:05:56,000 --> 00:06:00,000
+Okay, so is this a noun or a verb or an adjective?
+
+115
+00:06:01,000 --> 00:06:02,000
+So this is an adjective.
+
+116
+00:06:02,000 --> 00:06:03,000
+He is offside.
+
+117
+00:06:03,000 --> 00:06:04,000
+That's his condition.
+
+118
+00:06:04,000 --> 00:06:05,000
+Okay, great.
+
+119
+00:06:05,000 --> 00:06:07,000
+Excellent explanation, Marco.
+
+120
+00:06:07,000 --> 00:06:07,000
+Thank you.
+
+121
+00:06:07,000 --> 00:06:15,000
+All right, now we're going to look at three different phrases for three types of kicks in soccer.
+
+122
+00:06:15,000 --> 00:06:18,000
+Okay, so let's take a look at this.
+
+123
+00:06:18,000 --> 00:06:20,000
+The first one is goal kick.
+
+124
+00:06:20,000 --> 00:06:21,000
+A goal kick.
+
+125
+00:06:21,000 --> 00:06:22,000
+Okay, goal kick.
+
+126
+00:06:22,000 --> 00:06:24,000
+So who does the goal kick?
+
+127
+00:06:26,000 --> 00:06:29,000
+It's a keeper who takes the goal kick.
+
+128
+00:06:29,000 --> 00:06:31,000
+Okay, so when the goalie kicks the ball.
+
+129
+00:06:32,000 --> 00:06:34,000
+Now, what about a corner kick?
+
+130
+00:06:35,000 --> 00:06:45,000
+Okay, so if the team is attacking and the ball goes out of bounds in the back area near the goal, then they get a corner kick.
+
+131
+00:06:45,000 --> 00:06:47,000
+They gotta kick the ball from the corner of the field.
+
+132
+00:06:48,000 --> 00:06:51,000
+This is a great chance to score a goal, isn't it?
+
+133
+00:06:51,000 --> 00:06:52,000
+Exactly, yes.
+
+134
+00:06:52,000 --> 00:06:53,000
+Okay, and our final kick.
+
+135
+00:06:54,000 --> 00:06:55,000
+A penalty kick.
+
+136
+00:06:56,000 --> 00:06:56,000
+Penalty kick.
+
+137
+00:06:57,000 --> 00:06:57,000
+Penalty kick.
+
+138
+00:06:57,000 --> 00:07:03,000
+So if a player gets fouled while he is in the area near the goal, okay, he gets a penalty kick.
+
+139
+00:07:03,000 --> 00:07:05,000
+So basically it's just him.
+
+140
+00:07:05,000 --> 00:07:12,000
+I think it's 13 or 15 steps away from the goalie and he gets the opportunity to score or to kick the ball.
+
+141
+00:07:12,000 --> 00:07:15,000
+So there are no defenders or other players in the way.
+
+142
+00:07:15,000 --> 00:07:15,000
+Nobody.
+
+143
+00:07:16,000 --> 00:07:18,000
+Wow, another great chance to score a goal.
+
+144
+00:07:19,000 --> 00:07:19,000
+Right.
+
+145
+00:07:19,000 --> 00:07:24,000
+All right, in context.
+
+146
+00:07:24,000 --> 00:07:27,000
+So let's listen this time a little bit slower.
+
+147
+00:07:30,000 --> 00:07:33,000
+Welcome back soccer fans.
+
+148
+00:07:34,000 --> 00:07:43,000
+My name is Rick Fields and as always, I am joined by my commentating wingman, Bob Copeland.
+
+149
+00:07:44,000 --> 00:07:59,000
+And we're on the brink of soccer history today as Ecuador and Brazil are tied 1-1 as we begin the second half of the 2022 World Cup.
+
+150
+00:07:59,000 --> 00:08:04,000
+The ref calls the players for the kickoff and here we go.
+
+151
+00:08:05,000 --> 00:08:11,000
+Ecuador quickly passes the ball to the midfield but oh it's out of bounds.
+
+152
+00:08:11,000 --> 00:08:14,000
+That will be a throw-in for Brazil.
+
+153
+00:08:14,000 --> 00:08:20,000
+Adriano has the ball and makes a long pass to Rubinho and the ref has called him offside.
+
+154
+00:08:21,000 --> 00:08:22,000
+No question about it.
+
+155
+00:08:23,000 --> 00:08:24,000
+He was offside by a mile.
+
+156
+00:08:25,000 --> 00:08:27,000
+We have a goal kick for Ecuador.
+
+157
+00:08:27,000 --> 00:08:30,000
+Edison Mendez heads it to Valencia.
+
+158
+00:08:30,000 --> 00:08:31,000
+He shoots.
+
+159
+00:08:31,000 --> 00:08:35,000
+Deflected by the defender and we have a corner kick.
+
+160
+00:08:36,000 --> 00:08:39,000
+Delgado takes the corner and we have a foul.
+
+161
+00:08:40,000 --> 00:08:45,000
+Oh no, Dida the goalkeeper has fouled the Ecuadorian player.
+
+162
+00:08:45,000 --> 00:08:49,000
+He gets a yellow card and that will be a penalty kick.
+
+163
+00:08:49,000 --> 00:08:55,000
+This is the perfect opportunity for Ecuador to get ahead in this match and become world champions.
+
+164
+00:08:55,000 --> 00:09:15,000
+He gets ready for the All right so we heard these words that we were talking about in context and now some really interesting phrases came up and this would be a good time to take a look at them in Fluency Builder.
+
+165
+00:09:17,000 --> 00:09:17,000
+Fluency Builder.
+
+166
+00:09:18,000 --> 00:09:22,000
+Well Marco there are three great phrases in this dialogue that I want to look at.
+
+167
+00:09:23,000 --> 00:09:26,000
+The first one, on the brink of.
+
+168
+00:09:27,000 --> 00:09:29,000
+We are on the brink of.
+
+169
+00:09:32,000 --> 00:09:34,000
+We're on the brink of.
+
+170
+00:09:34,000 --> 00:09:35,000
+What is it?
+
+171
+00:09:35,000 --> 00:09:36,000
+What exactly does that mean?
+
+172
+00:09:36,000 --> 00:09:40,000
+Well why don't we hear some examples to help us understand the meaning.
+
+173
+00:09:41,000 --> 00:09:42,000
+Example one.
+
+174
+00:09:43,000 --> 00:09:45,000
+Look we don't have any money.
+
+175
+00:09:45,000 --> 00:09:47,000
+We're on the brink of going bankrupt.
+
+176
+00:09:48,000 --> 00:09:49,000
+Example two.
+
+177
+00:09:51,000 --> 00:09:53,000
+The two countries are on the brink of war.
+
+178
+00:09:55,000 --> 00:09:56,000
+Example three.
+
+179
+00:09:59,000 --> 00:10:01,000
+We're on the brink of an important discovery.
+
+180
+00:10:03,000 --> 00:10:05,000
+All right so great examples.
+
+181
+00:10:05,000 --> 00:10:06,000
+On the brink of.
+
+182
+00:10:06,000 --> 00:10:07,000
+At a critical point.
+
+183
+00:10:08,000 --> 00:10:10,000
+Exactly it means you're almost there right?
+
+184
+00:10:10,000 --> 00:10:16,000
+Okay yeah very good and what about this next phrase that I saw and it was really interesting.
+
+185
+00:10:17,000 --> 00:10:18,000
+No question about it.
+
+186
+00:10:18,000 --> 00:10:19,000
+No question about it.
+
+187
+00:10:20,000 --> 00:10:22,000
+No question about it.
+
+188
+00:10:22,000 --> 00:10:23,000
+No question about it.
+
+189
+00:10:24,000 --> 00:10:31,000
+All right so this is a statement that doesn't really make much sense but what am I saying when I say oh no question about it.
+
+190
+00:10:31,000 --> 00:10:35,000
+You're saying I agree there is no doubt you're right.
+
+191
+00:10:35,000 --> 00:10:37,000
+You're right okay.
+
+192
+00:10:37,000 --> 00:10:38,000
+Well let's give some examples.
+
+193
+00:10:39,000 --> 00:10:43,000
+I could say there's no question about it Ecuador is a great soccer team.
+
+194
+00:10:44,000 --> 00:10:52,000
+There is no question about that all right so or you can say no question about it our company makes the best products on the market.
+
+195
+00:10:53,000 --> 00:10:58,000
+Okay so really useful phrase that you can use in sports or anywhere else.
+
+196
+00:10:58,000 --> 00:11:05,000
+Okay and now let's take a look at our last phrase for Fluency Builder and it's a really good one to exaggerate a little bit.
+
+197
+00:11:05,000 --> 00:11:06,000
+Okay by a mile.
+
+198
+00:11:07,000 --> 00:11:08,000
+By a mile.
+
+199
+00:11:08,000 --> 00:11:09,000
+By a mile.
+
+200
+00:11:09,000 --> 00:11:12,000
+So he was offside by a mile.
+
+201
+00:11:12,000 --> 00:11:16,000
+Right so the commentator is saying that he was very offside.
+
+202
+00:11:16,000 --> 00:11:18,000
+That it was really obvious.
+
+203
+00:11:18,000 --> 00:11:22,000
+Right so you can use that also in different contexts maybe not in sports.
+
+204
+00:11:23,000 --> 00:11:29,000
+Okay so maybe we can say our company is ahead of all the others by a mile.
+
+205
+00:11:30,000 --> 00:11:36,000
+Right or if you tell somebody to guess your age and they say oh I think you are 42.
+
+206
+00:11:36,000 --> 00:11:39,000
+Oh you could say you're off by a mile.
+
+207
+00:11:39,000 --> 00:11:41,000
+Right so you're really really wrong.
+
+208
+00:11:41,000 --> 00:11:44,000
+Exactly yeah so it's a way of exaggerating a little bit.
+
+209
+00:11:44,000 --> 00:11:46,000
+Yes and saying it's really obvious.
+
+210
+00:11:46,000 --> 00:11:53,000
+Right well three awesome phrases and I think it will help us to hear them one more time so let's listen to the dialogue.
+
+211
+00:12:09,000 --> 00:12:14,000
+Welcome back soccer fans my name is Rick Fields and as always I am joined by my commentating wingman Bob Copeland.
+
+212
+00:12:15,000 --> 00:12:25,000
+And we're in the brink of soccer history today as Ecuador and Brazil are tied 1-1 as we begin the second half of the 2022 World Cup.
+
+213
+00:12:26,000 --> 00:12:28,000
+The ref calls the players for the kickoff and here we go.
+
+214
+00:12:29,000 --> 00:12:32,000
+Ecuador quickly passes the ball to the midfield but oh it's out of bounds.
+
+215
+00:12:33,000 --> 00:12:34,000
+That will be a throw in for Brazil.
+
+216
+00:12:35,000 --> 00:12:39,000
+Adriano has the ball and makes a long pass to Robinho and the ref has called him offside.
+
+217
+00:12:40,000 --> 00:12:42,000
+No question about it he was offside by a mile.
+
+218
+00:12:42,000 --> 00:12:44,000
+We have a goal kick for Ecuador.
+
+219
+00:12:44,000 --> 00:12:50,000
+Edison Mendez heads it to Valencia he shoots deflected by the defender and we have a corner kick.
+
+220
+00:12:50,000 --> 00:12:52,000
+Del Gallo takes the corner we have a foul.
+
+221
+00:12:53,000 --> 00:12:57,000
+Oh no Dita the goalkeeper has fouled the Ecuadorian player.
+
+222
+00:12:57,000 --> 00:13:00,000
+He gets a yellow card and that will be a penalty kick.
+
+223
+00:13:00,000 --> 00:13:04,000
+This is the perfect opportunity for Ecuador to get ahead in this match and become world champions.
+
+224
+00:13:05,000 --> 00:13:07,000
+He gets ready for the kick he shoots and he...
+
+225
+00:13:19,000 --> 00:13:25,000
+Okay well as you all may know soccer is a very popular sport especially in Latin America.
+
+226
+00:13:26,000 --> 00:13:31,000
+That's right and your favorite team Ecuador are they are they really this good in soccer?
+
+227
+00:13:31,000 --> 00:13:33,000
+Are they really gonna win the 2022 cup?
+
+228
+00:13:34,000 --> 00:13:35,000
+Well maybe not.
+
+229
+00:13:35,000 --> 00:13:45,000
+Well actually Ecuador has has improved with time but usually it's the strong teams like Argentina and Brazil who dominate the region right?
+
+230
+00:13:46,000 --> 00:13:48,000
+Right um but yeah hopefully we'll make it next time.
+
+231
+00:13:49,000 --> 00:13:55,000
+Okay well I have my money on Ecuador and for 2022 but yeah not on Canada there's no hope for us.
+
+232
+00:13:56,000 --> 00:14:00,000
+Well Canada is doing really well now they actually beat Mexico if I'm not mistaken.
+
+233
+00:14:01,000 --> 00:14:08,000
+Oh actually that sort of yeah I kind of remember that now but there's I think there's no hope for us to beat Brazil or Argentina one of these big countries.
+
+234
+00:14:09,000 --> 00:14:12,000
+We have the next world cup coming up so it's really exciting and I don't know who's gonna win.
+
+235
+00:14:13,000 --> 00:14:18,000
+All right well um listeners who do you think is going to win?
+
+236
+00:14:18,000 --> 00:14:20,000
+Who is the best soccer team out there?
+
+237
+00:14:20,000 --> 00:14:30,000
+Right they're really good soccer teams although some of our some countries aren't really known for their soccer like Russia you don't really hear too much soccer from Russia really or from China is for that.
+
+238
+00:14:31,000 --> 00:14:32,000
+I wonder how popular it is in these countries.
+
+239
+00:14:33,000 --> 00:14:49,000
+So let us know come to our website EnglishPod.com tell us how popular soccer is in your country or what team you are a fan of I know many people like the European cups and they're fans of Barcelona or the Italian teams.
+
+240
+00:14:49,000 --> 00:14:54,000
+Well come to the website Marco and I are always around to answer your questions and until next time goodbye.
+

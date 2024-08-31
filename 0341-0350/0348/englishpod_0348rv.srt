@@ -1,0 +1,232 @@
+1
+00:00:00,000 --> 00:00:07,000
+The EnglishPod Audio Review Listen to the meaning, then say the vocabulary word.
+
+2
+00:00:08,000 --> 00:00:11,000
+A treatment to beautify the face.
+
+3
+00:00:13,000 --> 00:00:14,000
+Facial.
+
+4
+00:00:17,000 --> 00:00:22,000
+A cosmetic treatment of the hands and fingernails, including trimming and polishing of the nails.
+
+5
+00:00:25,000 --> 00:00:26,000
+Menocure.
+
+6
+00:00:27,000 --> 00:00:30,000
+Professional care and treatment of the feet.
+
+7
+00:00:32,000 --> 00:00:33,000
+Pedicure.
+
+8
+00:00:35,000 --> 00:00:38,000
+A luxurious resort or result hotel.
+
+9
+00:00:40,000 --> 00:00:41,000
+Spa.
+
+10
+00:00:42,000 --> 00:00:46,000
+To remove the surface of something, such as skin and dirt.
+
+11
+00:00:49,000 --> 00:00:49,000
+Exfoliate.
+
+12
+00:00:51,000 --> 00:01:00,000
+A substance formulated to prevent sunburn, skin cancers and other conditions caused by excessive exposure to the sun.
+
+13
+00:01:02,000 --> 00:01:03,000
+Sunscreen.
+
+14
+00:01:05,000 --> 00:01:06,000
+Let's try that faster.
+
+15
+00:01:08,000 --> 00:01:13,000
+A cosmetic treatment of the hands and fingernails, including trimming and polishing of the nails.
+
+16
+00:01:16,000 --> 00:01:16,000
+Menocure.
+
+17
+00:01:17,000 --> 00:01:27,000
+A substance formulated to prevent sunburn, skin cancers and other conditions caused by excessive exposure to the sun.
+
+18
+00:01:28,000 --> 00:01:29,000
+Sunscreen.
+
+19
+00:01:30,000 --> 00:01:32,000
+A treatment to beautify the face.
+
+20
+00:01:34,000 --> 00:01:35,000
+Facial.
+
+21
+00:01:36,000 --> 00:01:39,000
+A luxurious resort or result hotel.
+
+22
+00:01:41,000 --> 00:01:42,000
+Spa.
+
+23
+00:01:42,000 --> 00:01:47,000
+To remove the surface of something, such as skin and dirt.
+
+24
+00:01:49,000 --> 00:01:49,000
+Exfoliate.
+
+25
+00:01:51,000 --> 00:01:53,000
+Professional care and treatment of the feet.
+
+26
+00:01:55,000 --> 00:01:56,000
+Pedicure.
+
+27
+00:01:57,000 --> 00:01:59,000
+Now say the word and hear it in a sentence.
+
+28
+00:02:01,000 --> 00:02:02,000
+Sunscreen.
+
+29
+00:02:06,000 --> 00:02:09,000
+Don't forget to put some sunscreen on today.
+
+30
+00:02:11,000 --> 00:02:12,000
+Sunscreen.
+
+31
+00:02:17,000 --> 00:02:20,000
+I forgot to put my sunscreen on and now I'm sunburn everywhere.
+
+32
+00:02:23,000 --> 00:02:23,000
+Sunscreen.
+
+33
+00:02:28,000 --> 00:02:31,000
+If you don't put sunscreen on you could get skin cancer.
+
+34
+00:02:33,000 --> 00:02:34,000
+Exfoliate.
+
+35
+00:02:39,000 --> 00:02:43,000
+I have a lot of dry skin, maybe I need to exfoliate.
+
+36
+00:02:46,000 --> 00:02:46,000
+Exfoliate.
+
+37
+00:02:52,000 --> 00:02:56,000
+It's good to exfoliate once in a while to let your face freshen up.
+
+38
+00:02:58,000 --> 00:02:59,000
+Exfoliate.
+
+39
+00:03:03,000 --> 00:03:06,000
+I like to exfoliate my skin with a hot rock.
+
+40
+00:03:08,000 --> 00:03:09,000
+Facial.
+
+41
+00:03:13,000 --> 00:03:16,000
+Hey girlfriend, do you feel like getting a facial?
+
+42
+00:03:19,000 --> 00:03:19,000
+Facial.
+
+43
+00:03:24,000 --> 00:03:29,000
+I'm so stressed at work, I need to get a facial and relax.
+
+44
+00:03:31,000 --> 00:03:31,000
+Facial.
+
+45
+00:03:36,000 --> 00:03:39,000
+I look so young because I get a facial every week.
+
+46
+00:03:41,000 --> 00:03:42,000
+Manicure.
+
+47
+00:03:47,000 --> 00:03:51,000
+Your nails are really long, maybe you should get a manicure.
+
+48
+00:03:53,000 --> 00:03:54,000
+Manicure.
+
+49
+00:03:57,000 --> 00:04:00,000
+I think I'll get a manicure before my wedding.
+
+50
+00:04:02,000 --> 00:04:03,000
+Manicure.
+
+51
+00:04:08,000 --> 00:04:10,000
+My husband loves it when I get a manicure.
+
+52
+00:04:13,000 --> 00:04:13,000
+Pedicure.
+
+53
+00:04:18,000 --> 00:04:22,000
+Your toes are disgusting, you need to get a pedicure.
+
+54
+00:04:24,000 --> 00:04:24,000
+Pedicure.
+
+55
+00:04:31,000 --> 00:04:35,000
+I think if I get a pedicure I won't be afraid to walk along the beach.
+
+56
+00:04:37,000 --> 00:04:38,000
+Pedicure.
+
+57
+00:04:44,000 --> 00:04:49,000
+If I get a pedicure I can play sport again without hurting my toes.
+
+58
+00:04:52,000 --> 00:04:53,000
+Thanks for watching!
+

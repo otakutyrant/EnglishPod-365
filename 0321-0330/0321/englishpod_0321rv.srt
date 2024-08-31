@@ -1,0 +1,228 @@
+1
+00:00:00,000 --> 00:00:07,000
+The EnglishPod Audio Review Listen to the meaning, then say the vocabulary word.
+
+2
+00:00:08,000 --> 00:00:12,000
+The result of mixing two or more things together.
+
+3
+00:00:14,000 --> 00:00:15,000
+Combination.
+
+4
+00:00:17,000 --> 00:00:20,000
+Filled with food, no longer hungry.
+
+5
+00:00:23,000 --> 00:00:23,000
+Stuff.
+
+6
+00:00:25,000 --> 00:00:28,000
+Having the ability to think of new ideas.
+
+7
+00:00:31,000 --> 00:00:31,000
+Creative.
+
+8
+00:00:34,000 --> 00:00:40,000
+A person not native to or naturalised in the country or jurisdiction under consideration.
+
+9
+00:00:43,000 --> 00:00:44,000
+Foreigner.
+
+10
+00:00:45,000 --> 00:00:46,000
+Tasty.
+
+11
+00:00:48,000 --> 00:00:49,000
+Delicious.
+
+12
+00:00:50,000 --> 00:00:51,000
+Food.
+
+13
+00:00:53,000 --> 00:00:54,000
+Dish.
+
+14
+00:00:56,000 --> 00:00:57,000
+Let's try that faster.
+
+15
+00:00:59,000 --> 00:01:03,000
+The result of mixing two or more things together.
+
+16
+00:01:04,000 --> 00:01:05,000
+Combination.
+
+17
+00:01:07,000 --> 00:01:09,000
+Having the ability to think of new ideas.
+
+18
+00:01:12,000 --> 00:01:12,000
+Creative.
+
+19
+00:01:14,000 --> 00:01:16,000
+Filled with food, no longer hungry.
+
+20
+00:01:17,000 --> 00:01:18,000
+Stuff.
+
+21
+00:01:20,000 --> 00:01:21,000
+Tasty.
+
+22
+00:01:22,000 --> 00:01:23,000
+Delicious.
+
+23
+00:01:25,000 --> 00:01:31,000
+A person not native to or naturalised in the country or jurisdiction under consideration.
+
+24
+00:01:33,000 --> 00:01:34,000
+Foreigner.
+
+25
+00:01:35,000 --> 00:01:35,000
+Food.
+
+26
+00:01:37,000 --> 00:01:38,000
+Dish.
+
+27
+00:01:40,000 --> 00:01:42,000
+Now say the word and hear it in a sentence.
+
+28
+00:01:44,000 --> 00:01:44,000
+Stuff.
+
+29
+00:01:50,000 --> 00:01:53,000
+I ate so much last night, I'm so stuffed.
+
+30
+00:01:55,000 --> 00:01:56,000
+Stuff.
+
+31
+00:02:01,000 --> 00:02:05,000
+Don't stuff yourself with too much candy, we still have dinner left.
+
+32
+00:02:07,000 --> 00:02:07,000
+Stuff.
+
+33
+00:02:12,000 --> 00:02:16,000
+My friend stuffed himself with cake, now he can't move.
+
+34
+00:02:18,000 --> 00:02:19,000
+Creative.
+
+35
+00:02:24,000 --> 00:02:27,000
+Your cooking is so creative, I wish I was good as you.
+
+36
+00:02:29,000 --> 00:02:30,000
+Creative.
+
+37
+00:02:35,000 --> 00:02:40,000
+This movie is very creative, the director is very smart.
+
+38
+00:02:42,000 --> 00:02:42,000
+Creative.
+
+39
+00:02:48,000 --> 00:02:52,000
+I like people who are creative, who think outside the box.
+
+40
+00:02:54,000 --> 00:02:55,000
+Combination.
+
+41
+00:03:00,000 --> 00:03:05,000
+This is a great combination, the flavours really work well together.
+
+42
+00:03:07,000 --> 00:03:08,000
+Combination.
+
+43
+00:03:13,000 --> 00:03:16,000
+Yuck, I don't like the combination of salt and pepper.
+
+44
+00:03:19,000 --> 00:03:19,000
+Combination.
+
+45
+00:03:25,000 --> 00:03:29,000
+I wonder if the coach has thought of any new combinations for the match.
+
+46
+00:03:32,000 --> 00:03:32,000
+Foreigner.
+
+47
+00:03:38,000 --> 00:03:44,000
+I don't like foreigners, they are always disrespectful to local culture.
+
+48
+00:03:47,000 --> 00:03:48,000
+Foreigner.
+
+49
+00:03:54,000 --> 00:04:00,000
+It is important as a foreigner living overseas to at least attempt to learn the local language.
+
+50
+00:04:03,000 --> 00:04:04,000
+Foreigner.
+
+51
+00:04:09,000 --> 00:04:13,000
+We should make foreigners feel welcome and safe in our home country.
+
+52
+00:04:15,000 --> 00:04:15,000
+Delicious.
+
+53
+00:04:20,000 --> 00:04:24,000
+This lunch was delicious, thank you very much.
+
+54
+00:04:26,000 --> 00:04:27,000
+Delicious.
+
+55
+00:04:33,000 --> 00:04:38,000
+I love eating at this Italian restaurant, they always make delicious pasta.
+
+56
+00:04:41,000 --> 00:04:41,000
+Delicious.
+
+57
+00:04:46,000 --> 00:04:49,000
+My favourite food is mango, it's so delicious.
+

@@ -1,0 +1,56 @@
+1
+00:00:00,000 --> 00:00:31,000
+EnglishPod.com Yeah, I think that's the best option.
+
+2
+00:00:31,000 --> 00:00:32,000
+Do you serve food on a train?
+
+3
+00:00:33,000 --> 00:00:34,000
+12 hours is such a long time.
+
+4
+00:00:34,000 --> 00:00:35,000
+Yes, of course.
+
+5
+00:00:35,000 --> 00:00:39,000
+There is a dining car towards the end of the train where they serve meals at all times.
+
+6
+00:00:39,000 --> 00:00:42,000
+We do provide complimentary water and coffee for all of our passengers.
+
+7
+00:00:43,000 --> 00:00:43,000
+Great.
+
+8
+00:00:43,000 --> 00:00:44,000
+I'll take it.
+
+9
+00:00:44,000 --> 00:00:45,000
+Here you are, sir.
+
+10
+00:00:45,000 --> 00:00:48,000
+Your train leaves from platform number 9 at 9 on the dot.
+
+11
+00:00:49,000 --> 00:00:53,000
+Remember to be here at least 30 minutes before your scheduled departure time or else you might miss your train.
+
+12
+00:00:54,000 --> 00:00:54,000
+I understand.
+
+13
+00:00:55,000 --> 00:00:56,000
+Thank you very much.
+
+14
+00:00:56,000 --> 00:00:57,000
+Have a great trip.
+

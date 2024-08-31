@@ -1,0 +1,360 @@
+1
+00:00:00,000 --> 00:00:07,000
+The EnglishPod Audio Review Listen to the meaning, then say the vocabulary word.
+
+2
+00:00:08,000 --> 00:00:11,000
+Make someone scared and uncomfortable.
+
+3
+00:00:13,000 --> 00:00:15,000
+Creep out.
+
+4
+00:00:18,000 --> 00:00:20,000
+Very disturbing or frightening.
+
+5
+00:00:23,000 --> 00:00:23,000
+Chilling.
+
+6
+00:00:25,000 --> 00:00:28,000
+Unable to be explained by science.
+
+7
+00:00:31,000 --> 00:00:32,000
+Supernatural.
+
+8
+00:00:34,000 --> 00:00:36,000
+Strange and a little frightening.
+
+9
+00:00:39,000 --> 00:00:40,000
+Spooky.
+
+10
+00:00:42,000 --> 00:00:44,000
+Extremely scary.
+
+11
+00:00:47,000 --> 00:00:47,000
+Terrifying.
+
+12
+00:00:50,000 --> 00:00:51,000
+Frightening in appearance.
+
+13
+00:00:54,000 --> 00:00:55,000
+Scary-looking.
+
+14
+00:00:58,000 --> 00:00:59,000
+Strange or scary.
+
+15
+00:01:01,000 --> 00:01:02,000
+Creepy.
+
+16
+00:01:04,000 --> 00:01:05,000
+A very large house.
+
+17
+00:01:08,000 --> 00:01:08,000
+Mansion.
+
+18
+00:01:10,000 --> 00:01:13,000
+A ghost lives or visit a place.
+
+19
+00:01:16,000 --> 00:01:17,000
+Haunt.
+
+20
+00:01:18,000 --> 00:01:21,000
+To try and get information about something.
+
+21
+00:01:25,000 --> 00:01:26,000
+Investigate.
+
+22
+00:01:27,000 --> 00:01:30,000
+Someone who is too afraid to do what is right.
+
+23
+00:01:32,000 --> 00:01:33,000
+Coward.
+
+24
+00:01:35,000 --> 00:01:39,000
+Small bumps on your skin caused by fear, cold, etc.
+
+25
+00:01:42,000 --> 00:01:43,000
+Goosebumps.
+
+26
+00:01:45,000 --> 00:01:47,000
+Someone who is always scared of things.
+
+27
+00:01:50,000 --> 00:01:51,000
+Scaredy-cat.
+
+28
+00:01:52,000 --> 00:01:54,000
+Let's try that faster.
+
+29
+00:01:56,000 --> 00:01:57,000
+Strange or scary.
+
+30
+00:01:59,000 --> 00:02:00,000
+Creepy.
+
+31
+00:02:01,000 --> 00:02:03,000
+Strange and a little frightening.
+
+32
+00:02:05,000 --> 00:02:06,000
+Spooky.
+
+33
+00:02:08,000 --> 00:02:10,000
+Make someone scared and uncomfortable.
+
+34
+00:02:12,000 --> 00:02:13,000
+Creep out.
+
+35
+00:02:15,000 --> 00:02:18,000
+A ghost lives or visit a place.
+
+36
+00:02:20,000 --> 00:02:21,000
+Haunt.
+
+37
+00:02:23,000 --> 00:02:24,000
+Frightening in appearance.
+
+38
+00:02:26,000 --> 00:02:27,000
+Scary-looking.
+
+39
+00:02:29,000 --> 00:02:32,000
+Unable to be explained by science.
+
+40
+00:02:34,000 --> 00:02:34,000
+Supernatural.
+
+41
+00:02:36,000 --> 00:02:38,000
+A very large house.
+
+42
+00:02:40,000 --> 00:02:40,000
+Mansion.
+
+43
+00:02:42,000 --> 00:02:45,000
+To try and get information about something.
+
+44
+00:02:48,000 --> 00:02:48,000
+Investigate.
+
+45
+00:02:50,000 --> 00:02:52,000
+Someone who is always scared of things.
+
+46
+00:02:54,000 --> 00:02:55,000
+Scaredy-cat.
+
+47
+00:02:56,000 --> 00:02:58,000
+Someone who is too afraid to do what is right.
+
+48
+00:03:01,000 --> 00:03:01,000
+Coward.
+
+49
+00:03:03,000 --> 00:03:05,000
+Very disturbing or frightening.
+
+50
+00:03:07,000 --> 00:03:08,000
+Chilling.
+
+51
+00:03:09,000 --> 00:03:13,000
+Small bumps on your skin caused by fear, cold, etc.
+
+52
+00:03:17,000 --> 00:03:17,000
+Goosebumps.
+
+53
+00:03:19,000 --> 00:03:20,000
+Extremely scary.
+
+54
+00:03:23,000 --> 00:03:23,000
+Terrifying.
+
+55
+00:03:25,000 --> 00:03:28,000
+Now say the word and hear it in a sentence.
+
+56
+00:03:30,000 --> 00:03:31,000
+Scary-looking.
+
+57
+00:03:32,000 --> 00:03:33,000
+Scary-looking.
+
+58
+00:03:36,000 --> 00:03:38,000
+That guy is making me nervous.
+
+59
+00:03:39,000 --> 00:03:40,000
+He's really creepy-looking.
+
+60
+00:03:42,000 --> 00:03:43,000
+Scary-looking.
+
+61
+00:03:50,000 --> 00:03:53,000
+I saw the craziest-looking house today.
+
+62
+00:03:53,000 --> 00:03:55,000
+It was built upside down.
+
+63
+00:03:57,000 --> 00:03:58,000
+Scary-looking.
+
+64
+00:03:58,000 --> 00:03:58,000
+Scary-looking.
+
+65
+00:04:03,000 --> 00:04:05,000
+What a nice-looking dog.
+
+66
+00:04:05,000 --> 00:04:06,000
+Can I pet him?
+
+67
+00:04:08,000 --> 00:04:09,000
+Spooky.
+
+68
+00:04:17,000 --> 00:04:24,000
+Whenever I walk by the Main Street graveyard, I get a really spooky feeling that someone is following me.
+
+69
+00:04:26,000 --> 00:04:27,000
+Spooky.
+
+70
+00:04:34,000 --> 00:04:37,000
+Why don't you sleep over at my house this weekend?
+
+71
+00:04:38,000 --> 00:04:40,000
+Your house is kind of spooky at night.
+
+72
+00:04:42,000 --> 00:04:42,000
+Spooky.
+
+73
+00:04:49,000 --> 00:04:51,000
+That was so spooky!
+
+74
+00:04:51,000 --> 00:04:54,000
+The TV turned on while I was out of the room.
+
+75
+00:05:02,000 --> 00:05:05,000
+Walking alone at night gives me the creeps.
+
+76
+00:05:06,000 --> 00:05:08,000
+I always feel like someone is going to attack me.
+
+77
+00:05:14,000 --> 00:05:15,000
+Mr.
+
+78
+00:05:15,000 --> 00:05:18,000
+Crane gives me the creeps whenever he tries to touch me.
+
+79
+00:05:25,000 --> 00:05:29,000
+Small, dark spaces always gives my sister the creeps.
+
+80
+00:05:33,000 --> 00:05:33,000
+Goosebumps.
+
+81
+00:05:37,000 --> 00:05:39,000
+Can you turn down the air conditioning?
+
+82
+00:05:40,000 --> 00:05:41,000
+I have the goosebumps.
+
+83
+00:05:43,000 --> 00:05:44,000
+Goosebumps.
+
+84
+00:05:51,000 --> 00:05:56,000
+When I think about how the murderer lived near my house, I get goosebumps.
+
+85
+00:05:58,000 --> 00:05:59,000
+Goosebumps.
+
+86
+00:06:03,000 --> 00:06:06,000
+Do you get goosebumps when you watch scary movies?
+
+87
+00:06:12,000 --> 00:06:17,000
+I swear the ghost of Old Man Fink haunts my dreams every night.
+
+88
+00:06:24,000 --> 00:06:29,000
+David told me that there is a ghost that haunts the seventh floor of this hotel.
+
+89
+00:06:35,000 --> 00:06:37,000
+Weird things happen in that house.
+
+90
+00:06:38,000 --> 00:06:39,000
+I think it must be haunted.
+

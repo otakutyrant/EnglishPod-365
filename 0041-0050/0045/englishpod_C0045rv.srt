@@ -1,0 +1,356 @@
+1
+00:00:00,000 --> 00:00:07,000
+The EnglishPod Audio Review Listen to the meaning, then say the vocabulary word.
+
+2
+00:00:08,000 --> 00:00:11,000
+Dating or going out with someone.
+
+3
+00:00:13,000 --> 00:00:13,000
+Seeing someone.
+
+4
+00:00:16,000 --> 00:00:23,000
+Having a romantic relationship with someone else, not your husband or wife or boyfriend or girlfriend.
+
+5
+00:00:25,000 --> 00:00:26,000
+Cheat on someone.
+
+6
+00:00:26,000 --> 00:00:32,000
+A relationship that is temporarily on hold.
+
+7
+00:00:34,000 --> 00:00:35,000
+On a break.
+
+8
+00:00:37,000 --> 00:00:40,000
+Calm down, relax, organize your thoughts.
+
+9
+00:00:42,000 --> 00:00:43,000
+Pull yourself together.
+
+10
+00:00:45,000 --> 00:00:47,000
+Acting in a childish way.
+
+11
+00:00:50,000 --> 00:00:50,000
+Immature.
+
+12
+00:00:51,000 --> 00:00:58,000
+Having or showing concern only for yourself and not the needs or feelings of other people.
+
+13
+00:01:01,000 --> 00:01:01,000
+Selfish.
+
+14
+00:01:02,000 --> 00:01:05,000
+Damage, destroy something.
+
+15
+00:01:07,000 --> 00:01:07,000
+Ruin.
+
+16
+00:01:10,000 --> 00:01:11,000
+End a relationship.
+
+17
+00:01:13,000 --> 00:01:14,000
+Break up.
+
+18
+00:01:15,000 --> 00:01:20,000
+End a relationship when the other person does not want to.
+
+19
+00:01:21,000 --> 00:01:22,000
+Dump someone.
+
+20
+00:01:24,000 --> 00:01:27,000
+Serious, long-term boyfriend or girlfriend.
+
+21
+00:01:29,000 --> 00:01:30,000
+Partner.
+
+22
+00:01:31,000 --> 00:01:34,000
+Former boyfriend, girlfriend, husband or wife.
+
+23
+00:01:36,000 --> 00:01:36,000
+Ex.
+
+24
+00:01:38,000 --> 00:01:40,000
+Romantic social life.
+
+25
+00:01:42,000 --> 00:01:43,000
+Love life.
+
+26
+00:01:45,000 --> 00:01:47,000
+Don't worry, it's not so serious.
+
+27
+00:01:49,000 --> 00:01:51,000
+It's not the end of the world.
+
+28
+00:01:53,000 --> 00:01:54,000
+Let's try that faster.
+
+29
+00:01:56,000 --> 00:02:03,000
+Having a romantic relationship with someone else, not your husband or wife or boyfriend or girlfriend.
+
+30
+00:02:04,000 --> 00:02:05,000
+Cheat on someone.
+
+31
+00:02:06,000 --> 00:02:10,000
+Calm down, relax, organize your thoughts.
+
+32
+00:02:11,000 --> 00:02:13,000
+Pull yourself together.
+
+33
+00:02:14,000 --> 00:02:15,000
+Romantic social life.
+
+34
+00:02:17,000 --> 00:02:18,000
+Love life.
+
+35
+00:02:19,000 --> 00:02:21,000
+Damage, destroy something.
+
+36
+00:02:23,000 --> 00:02:23,000
+Ruin.
+
+37
+00:02:25,000 --> 00:02:28,000
+Former boyfriend, girlfriend, husband or wife.
+
+38
+00:02:29,000 --> 00:02:29,000
+Ex.
+
+39
+00:02:31,000 --> 00:02:33,000
+Don't worry, it's not so serious.
+
+40
+00:02:35,000 --> 00:02:36,000
+It's not the end of the world.
+
+41
+00:02:37,000 --> 00:02:40,000
+Acting in a childish way.
+
+42
+00:02:42,000 --> 00:02:43,000
+Immature.
+
+43
+00:02:44,000 --> 00:02:47,000
+A relationship that is temporarily on hold.
+
+44
+00:02:49,000 --> 00:02:50,000
+On a break.
+
+45
+00:02:51,000 --> 00:02:53,000
+End a relationship.
+
+46
+00:02:55,000 --> 00:02:55,000
+Break up.
+
+47
+00:02:57,000 --> 00:02:59,000
+Dating or going out with someone.
+
+48
+00:03:00,000 --> 00:03:01,000
+Seeing someone.
+
+49
+00:03:02,000 --> 00:03:07,000
+End a relationship when the other person does not want to.
+
+50
+00:03:08,000 --> 00:03:09,000
+Dump someone.
+
+51
+00:03:10,000 --> 00:03:13,000
+Serious long-term boyfriend or girlfriend.
+
+52
+00:03:15,000 --> 00:03:15,000
+Partner.
+
+53
+00:03:16,000 --> 00:03:22,000
+Having or showing concern only for yourself and not the needs or feelings of other people.
+
+54
+00:03:24,000 --> 00:03:25,000
+Selfish.
+
+55
+00:03:26,000 --> 00:03:29,000
+Now say the word and hear it in a sentence.
+
+56
+00:03:30,000 --> 00:03:31,000
+Seeing someone.
+
+57
+00:03:36,000 --> 00:03:38,000
+I think that Carl is seeing someone from the office.
+
+58
+00:03:40,000 --> 00:03:41,000
+Seeing someone.
+
+59
+00:03:46,000 --> 00:03:51,000
+Peter asked me to be his girlfriend but I'm seeing someone so I had to say no.
+
+60
+00:03:53,000 --> 00:03:53,000
+Seeing someone.
+
+61
+00:03:58,000 --> 00:04:02,000
+If you are not seeing anyone, I would like to ask you out to dinner.
+
+62
+00:04:03,000 --> 00:04:04,000
+Cheat on someone.
+
+63
+00:04:09,000 --> 00:04:12,000
+They got a divorce because Mary cheated on her husband.
+
+64
+00:04:14,000 --> 00:04:15,000
+Cheat on someone.
+
+65
+00:04:22,000 --> 00:04:28,000
+My friend went to the cinema yesterday and found his girlfriend there cheating on him with another guy.
+
+66
+00:04:30,000 --> 00:04:31,000
+Cheat on someone.
+
+67
+00:04:36,000 --> 00:04:41,000
+I cheated on my girlfriend one time but she never found out about it.
+
+68
+00:04:42,000 --> 00:04:43,000
+Pull yourself together.
+
+69
+00:04:47,000 --> 00:04:49,000
+This is no time to panic.
+
+70
+00:04:49,000 --> 00:04:50,000
+Pull yourself together.
+
+71
+00:04:51,000 --> 00:04:52,000
+Pull yourself together.
+
+72
+00:04:56,000 --> 00:05:00,000
+You have to pull yourself together and solve your problem.
+
+73
+00:05:01,000 --> 00:05:03,000
+Pull yourself together.
+
+74
+00:05:07,000 --> 00:05:09,000
+Calm down.
+
+75
+00:05:09,000 --> 00:05:10,000
+Pull yourself together.
+
+76
+00:05:10,000 --> 00:05:12,000
+Get out there and score a goal.
+
+77
+00:05:19,000 --> 00:05:23,000
+It's not like I can just leave my office whenever I want.
+
+78
+00:05:23,000 --> 00:05:24,000
+My boss will fire me.
+
+79
+00:05:30,000 --> 00:05:34,000
+It's not like you can just insult me and then expect me to not feel bad.
+
+80
+00:05:41,000 --> 00:05:44,000
+It's not like we can just use all our savings on this trip.
+
+81
+00:05:45,000 --> 00:05:46,000
+We have to think about the future.
+
+82
+00:05:47,000 --> 00:05:48,000
+Ruin.
+
+83
+00:05:53,000 --> 00:05:55,000
+You spilled red wine on my shirt.
+
+84
+00:05:56,000 --> 00:05:57,000
+You've ruined it.
+
+85
+00:05:57,000 --> 00:05:58,000
+Ruin.
+
+86
+00:05:58,000 --> 00:05:58,000
+Ruin.
+
+87
+00:06:04,000 --> 00:06:10,000
+We were having such a nice day at the park and then you ruined it by arguing with me.
+
+88
+00:06:11,000 --> 00:06:11,000
+Ruin.
+
+89
+00:06:16,000 --> 00:06:21,000
+I accidentally ruined the turkey by leaving it in the oven too long.
+

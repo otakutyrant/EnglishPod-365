@@ -1,0 +1,428 @@
+1
+00:00:00,000 --> 00:00:07,000
+The EnglishPod Audio Review Listen to the meaning, then say the vocabulary word.
+
+2
+00:00:09,000 --> 00:00:11,000
+Ranking with the best in the whole world.
+
+3
+00:00:13,000 --> 00:00:14,000
+World class.
+
+4
+00:00:17,000 --> 00:00:22,000
+The song that represents a country and that is played in ceremonies.
+
+5
+00:00:24,000 --> 00:00:26,000
+National anthem.
+
+6
+00:00:27,000 --> 00:00:31,000
+A person who controls and judges a baseball game.
+
+7
+00:00:34,000 --> 00:00:35,000
+Umpire.
+
+8
+00:00:37,000 --> 00:00:38,000
+Get ready to hit the ball.
+
+9
+00:00:41,000 --> 00:00:42,000
+Up at bat.
+
+10
+00:00:44,000 --> 00:00:46,000
+Get the energy to throw the ball.
+
+11
+00:00:49,000 --> 00:00:49,000
+Wind up.
+
+12
+00:00:51,000 --> 00:00:57,000
+A ball thrown on a curve, not straight, that is hard to hit.
+
+13
+00:00:59,000 --> 00:00:59,000
+Curve ball.
+
+14
+00:01:02,000 --> 00:01:04,000
+The player who throws the ball to the batter.
+
+15
+00:01:07,000 --> 00:01:07,000
+Pitcher.
+
+16
+00:01:09,000 --> 00:01:13,000
+The player behind home plate who catches the ball without being hit.
+
+17
+00:01:16,000 --> 00:01:17,000
+Catcher.
+
+18
+00:01:18,000 --> 00:01:22,000
+A hit that travels low along the baseline.
+
+19
+00:01:24,000 --> 00:01:25,000
+Line drive.
+
+20
+00:01:27,000 --> 00:01:30,000
+Do something quickly and in a disorganized way.
+
+21
+00:01:33,000 --> 00:01:34,000
+Scramble.
+
+22
+00:01:36,000 --> 00:01:40,000
+A player who plays in the area that is relatively far from the pitch.
+
+23
+00:01:43,000 --> 00:01:44,000
+Outfielder.
+
+24
+00:01:45,000 --> 00:01:48,000
+Successfully gets to the base.
+
+25
+00:01:50,000 --> 00:01:51,000
+Safe.
+
+26
+00:01:53,000 --> 00:01:56,000
+A hit that strikes the ball out of the field.
+
+27
+00:01:58,000 --> 00:01:59,000
+Home run.
+
+28
+00:02:01,000 --> 00:02:08,000
+A set of baseball containing a turn at bat and a turn infield for each side.
+
+29
+00:02:10,000 --> 00:02:10,000
+Inning.
+
+30
+00:02:12,000 --> 00:02:15,000
+The next in line to do something.
+
+31
+00:02:17,000 --> 00:02:19,000
+Up to bat.
+
+32
+00:02:21,000 --> 00:02:22,000
+An approximate number.
+
+33
+00:02:25,000 --> 00:02:26,000
+Ballpark figure.
+
+34
+00:02:28,000 --> 00:02:31,000
+To do something very well or very successfully.
+
+35
+00:02:34,000 --> 00:02:35,000
+Hit it out of the park.
+
+36
+00:02:36,000 --> 00:02:39,000
+Immediately without delay.
+
+37
+00:02:42,000 --> 00:02:42,000
+Off the bat.
+
+38
+00:02:45,000 --> 00:02:48,000
+An unusual, crazy, or eccentric person.
+
+39
+00:02:51,000 --> 00:02:52,000
+Screwball.
+
+40
+00:02:53,000 --> 00:02:55,000
+Let's try that faster.
+
+41
+00:02:57,000 --> 00:02:59,000
+Immediately without delay.
+
+42
+00:03:01,000 --> 00:03:02,000
+Off the bat.
+
+43
+00:03:03,000 --> 00:03:08,000
+The song that represents a country and that is played in ceremonies.
+
+44
+00:03:10,000 --> 00:03:11,000
+National anthem.
+
+45
+00:03:13,000 --> 00:03:17,000
+The player behind home plate who catches the ball without being hit.
+
+46
+00:03:19,000 --> 00:03:20,000
+Catcher.
+
+47
+00:03:21,000 --> 00:03:23,000
+Get ready to hit the ball.
+
+48
+00:03:25,000 --> 00:03:26,000
+Up at bat.
+
+49
+00:03:26,000 --> 00:03:33,000
+A ball thrown on a curve, not straight, that is hard to hit.
+
+50
+00:03:35,000 --> 00:03:35,000
+Curve ball.
+
+51
+00:03:37,000 --> 00:03:38,000
+An approximate number.
+
+52
+00:03:40,000 --> 00:03:41,000
+Ballpark figure.
+
+53
+00:03:43,000 --> 00:03:46,000
+To do something very well or very successfully.
+
+54
+00:03:48,000 --> 00:03:49,000
+Hit it out of the park.
+
+55
+00:03:51,000 --> 00:03:54,000
+A hit that strikes the ball out of the field.
+
+56
+00:03:55,000 --> 00:03:57,000
+Home run.
+
+57
+00:03:58,000 --> 00:04:01,000
+Ranking with the best in the whole world.
+
+58
+00:04:03,000 --> 00:04:03,000
+World class.
+
+59
+00:04:05,000 --> 00:04:08,000
+Do something quickly and in a disorganized way.
+
+60
+00:04:11,000 --> 00:04:11,000
+Scramble.
+
+61
+00:04:13,000 --> 00:04:17,000
+A player who plays in the area that is relatively far from the pitch.
+
+62
+00:04:19,000 --> 00:04:20,000
+Outfielder.
+
+63
+00:04:21,000 --> 00:04:24,000
+The next in line to do something.
+
+64
+00:04:25,000 --> 00:04:26,000
+Up to bat.
+
+65
+00:04:28,000 --> 00:04:34,000
+A set of baseball containing a turn at bat and a turn infield for each side.
+
+66
+00:04:36,000 --> 00:04:37,000
+Inning.
+
+67
+00:04:38,000 --> 00:04:41,000
+A hit that travels low along the baseline.
+
+68
+00:04:43,000 --> 00:04:44,000
+Line drive.
+
+69
+00:04:45,000 --> 00:04:49,000
+An unusual, crazy, or eccentric person.
+
+70
+00:04:51,000 --> 00:04:52,000
+Screwball.
+
+71
+00:04:54,000 --> 00:04:55,000
+Successfully gets to the base.
+
+72
+00:04:58,000 --> 00:04:58,000
+Safe.
+
+73
+00:05:01,000 --> 00:05:03,000
+The player who throws the ball to the batter.
+
+74
+00:05:05,000 --> 00:05:06,000
+Pitcher.
+
+75
+00:05:07,000 --> 00:05:11,000
+A person who controls and judges a baseball game.
+
+76
+00:05:13,000 --> 00:05:13,000
+Umpire.
+
+77
+00:05:15,000 --> 00:05:17,000
+Get the energy to throw the ball.
+
+78
+00:05:19,000 --> 00:05:19,000
+Wind up.
+
+79
+00:05:21,000 --> 00:05:23,000
+Now say the word and hear it in a sentence.
+
+80
+00:05:26,000 --> 00:05:26,000
+World class.
+
+81
+00:05:33,000 --> 00:05:37,000
+That was a world class performance that the actors displayed tonight.
+
+82
+00:05:39,000 --> 00:05:41,000
+World class.
+
+83
+00:05:46,000 --> 00:05:50,000
+We are building a world class management team.
+
+84
+00:05:52,000 --> 00:05:53,000
+World class.
+
+85
+00:05:59,000 --> 00:06:04,000
+Our company aspires to be world class leaders in IT development.
+
+86
+00:06:06,000 --> 00:06:06,000
+Curveball.
+
+87
+00:06:13,000 --> 00:06:17,000
+My boss threw me a curveball today, so I have to stay and work late.
+
+88
+00:06:20,000 --> 00:06:20,000
+Curveball.
+
+89
+00:06:28,000 --> 00:06:32,000
+It was a huge curveball when she asked me how many kids I wanted to have.
+
+90
+00:06:33,000 --> 00:06:34,000
+How am I supposed to know?
+
+91
+00:06:36,000 --> 00:06:37,000
+Curveball.
+
+92
+00:06:44,000 --> 00:06:48,000
+I've been thrown so many curveballs this month with this new project.
+
+93
+00:06:48,000 --> 00:06:50,000
+I can't take it anymore.
+
+94
+00:06:57,000 --> 00:06:59,000
+Great job on that sales presentation.
+
+95
+00:06:59,000 --> 00:07:01,000
+You really hit a home run.
+
+96
+00:07:08,000 --> 00:07:11,000
+Our sales team hit a home run this month by doubling our revenue.
+
+97
+00:07:19,000 --> 00:07:24,000
+Janice hit a home run today with her great dissertation on consumer psychology.
+
+98
+00:07:31,000 --> 00:07:33,000
+Our team is ahead by five points.
+
+99
+00:07:33,000 --> 00:07:34,000
+We are going to win.
+
+100
+00:07:41,000 --> 00:07:45,000
+That runner is ahead of everyone else by more than two minutes.
+
+101
+00:07:53,000 --> 00:07:58,000
+Our sales team is ahead by more than $1,000 on this month's target sales.
+
+102
+00:08:00,000 --> 00:08:01,000
+Scramble.
+
+103
+00:08:07,000 --> 00:08:12,000
+I woke up late today and had to scramble to work as fast as I could.
+
+104
+00:08:14,000 --> 00:08:15,000
+Scramble.
+
+105
+00:08:21,000 --> 00:08:26,000
+When Mike's cat got lost, we all scrambled around the neighborhood looking for him.
+
+106
+00:08:29,000 --> 00:08:29,000
+Scramble.
+
+107
+00:08:35,000 --> 00:08:40,000
+I saw a mouse in the kitchen, but he scrambled under the stove before I could catch it.
+

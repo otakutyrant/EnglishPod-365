@@ -1,0 +1,320 @@
+1
+00:00:00,000 --> 00:00:07,000
+The EnglishPod Audio Review Listen to the meaning, then say the vocabulary word.
+
+2
+00:00:08,000 --> 00:00:11,000
+A huge balloon risen up by hot air.
+
+3
+00:00:12,000 --> 00:00:13,000
+Hot air balloon.
+
+4
+00:00:16,000 --> 00:00:18,000
+In an area of work study.
+
+5
+00:00:20,000 --> 00:00:21,000
+In the field.
+
+6
+00:00:23,000 --> 00:00:24,000
+Having a sharp surface.
+
+7
+00:00:27,000 --> 00:00:27,000
+Jagged.
+
+8
+00:00:29,000 --> 00:00:31,000
+Larger than what is listed.
+
+9
+00:00:33,000 --> 00:00:33,000
+Oversized.
+
+10
+00:00:35,000 --> 00:00:37,000
+If something said earlier is true.
+
+11
+00:00:39,000 --> 00:00:40,000
+In that case.
+
+12
+00:00:42,000 --> 00:00:43,000
+Gliding in a hang glider.
+
+13
+00:00:45,000 --> 00:00:46,000
+Hang gliding.
+
+14
+00:00:48,000 --> 00:00:50,000
+The easiest way, the most likely thing.
+
+15
+00:00:52,000 --> 00:00:54,000
+The closest thing you can get to.
+
+16
+00:00:55,000 --> 00:00:58,000
+Ride a bicycle designed for riding in mountainous.
+
+17
+00:01:01,000 --> 00:01:01,000
+Mountain biking.
+
+18
+00:01:04,000 --> 00:01:06,000
+The sport of scaling rock masses on mountainsides.
+
+19
+00:01:09,000 --> 00:01:09,000
+Rock climbing.
+
+20
+00:01:11,000 --> 00:01:13,000
+The sport of descending a steep road.
+
+21
+00:01:15,000 --> 00:01:16,000
+Street luge.
+
+22
+00:01:18,000 --> 00:01:20,000
+The sport of rafting down fast flowing rivers.
+
+23
+00:01:22,000 --> 00:01:24,000
+White water rafting.
+
+24
+00:01:25,000 --> 00:01:27,000
+Let's try that faster.
+
+25
+00:01:29,000 --> 00:01:32,000
+The sport of scaling rock masses on mountainsides.
+
+26
+00:01:33,000 --> 00:01:34,000
+Rock climbing.
+
+27
+00:01:35,000 --> 00:01:37,000
+If something said earlier is true.
+
+28
+00:01:39,000 --> 00:01:40,000
+In that case.
+
+29
+00:01:41,000 --> 00:01:42,000
+Gliding in a hang glider.
+
+30
+00:01:44,000 --> 00:01:45,000
+Hang gliding.
+
+31
+00:01:46,000 --> 00:01:48,000
+The sport of rafting down fast flowing rivers.
+
+32
+00:01:50,000 --> 00:01:52,000
+White water rafting.
+
+33
+00:01:52,000 --> 00:01:54,000
+Having a sharp surface.
+
+34
+00:01:56,000 --> 00:01:56,000
+Jagged.
+
+35
+00:01:57,000 --> 00:02:00,000
+Ride a bicycle designed for riding in mountainous.
+
+36
+00:02:02,000 --> 00:02:03,000
+Mountain biking.
+
+37
+00:02:04,000 --> 00:02:06,000
+The easiest way, the most likely thing.
+
+38
+00:02:08,000 --> 00:02:10,000
+The closest thing you can get to.
+
+39
+00:02:11,000 --> 00:02:13,000
+In an area of work study.
+
+40
+00:02:14,000 --> 00:02:15,000
+In the field.
+
+41
+00:02:15,000 --> 00:02:19,000
+A huge balloon risen up by hot air.
+
+42
+00:02:20,000 --> 00:02:21,000
+Hot air balloon.
+
+43
+00:02:22,000 --> 00:02:24,000
+The sport of descending a steep road.
+
+44
+00:02:26,000 --> 00:02:27,000
+Street luge.
+
+45
+00:02:28,000 --> 00:02:30,000
+Larger than what is listed.
+
+46
+00:02:31,000 --> 00:02:32,000
+Oversize.
+
+47
+00:02:33,000 --> 00:02:36,000
+Now say the word and hear it in a sentence.
+
+48
+00:02:37,000 --> 00:02:38,000
+In the field.
+
+49
+00:02:44,000 --> 00:02:47,000
+I've been working in the medical field for 20 years now.
+
+50
+00:02:48,000 --> 00:02:49,000
+I know it inside and out.
+
+51
+00:02:51,000 --> 00:02:51,000
+In the field.
+
+52
+00:02:58,000 --> 00:03:00,000
+He's only worked in the field for less than a year.
+
+53
+00:03:00,000 --> 00:03:03,000
+So I have no idea why they hired him as the new supervisor.
+
+54
+00:03:05,000 --> 00:03:06,000
+In the field.
+
+55
+00:03:11,000 --> 00:03:15,000
+They tested the new theory for two years in the field before publishing their findings.
+
+56
+00:03:17,000 --> 00:03:18,000
+White water rafting.
+
+57
+00:03:25,000 --> 00:03:32,000
+I clung to the sides of the raft as we headed for the rapids and silently wished I had never signed up for white water rafting.
+
+58
+00:03:34,000 --> 00:03:35,000
+White water rafting.
+
+59
+00:03:40,000 --> 00:03:41,000
+White water rafting.
+
+60
+00:03:41,000 --> 00:03:46,000
+She has white water rafted many many times before so you should trust her to get through the journey safely.
+
+61
+00:03:48,000 --> 00:03:49,000
+White water rafting.
+
+62
+00:03:54,000 --> 00:03:58,000
+The summer camp I'll be attending is offering a white water rafting excursion.
+
+63
+00:04:00,000 --> 00:04:01,000
+Jagged.
+
+64
+00:04:06,000 --> 00:04:11,000
+I clung to the bridge as I looked down at the jagged rocks hundreds of feet beneath me.
+
+65
+00:04:13,000 --> 00:04:13,000
+Jagged.
+
+66
+00:04:18,000 --> 00:04:22,000
+As I picked up the broken glass the jagged edges cut into my hand.
+
+67
+00:04:24,000 --> 00:04:24,000
+Jagged.
+
+68
+00:04:29,000 --> 00:04:32,000
+The tailor began to cut off the jagged edges of the piece of fabric.
+
+69
+00:04:33,000 --> 00:04:35,000
+Oversized.
+
+70
+00:04:37,000 --> 00:04:40,000
+The oversized coat engulfed me.
+
+71
+00:04:41,000 --> 00:04:42,000
+Oversized.
+
+72
+00:04:45,000 --> 00:04:48,000
+I began to fall asleep in the oversized armchair.
+
+73
+00:04:50,000 --> 00:04:51,000
+Oversized.
+
+74
+00:04:59,000 --> 00:05:06,000
+In the oil fields in Alberta, oversized trucks three stories tall transport oil sands from the field to the refinery.
+
+75
+00:05:08,000 --> 00:05:11,000
+The closest thing you can get to.
+
+76
+00:05:15,000 --> 00:05:19,000
+Eating McDonald's is the closest thing you can get to eating Western food in China.
+
+77
+00:05:21,000 --> 00:05:23,000
+The closest thing you can get to.
+
+78
+00:05:32,000 --> 00:05:39,000
+Descending a steep incline on a roller coaster is the closest you can get to experiencing zero gravity without having to get on a jet plane.
+
+79
+00:05:41,000 --> 00:05:44,000
+The closest thing you can get to.
+
+80
+00:05:49,000 --> 00:05:53,000
+Driving this car is the closest I can get to riding in luxury for under 30 grand.
+

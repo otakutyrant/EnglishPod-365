@@ -1,0 +1,56 @@
+1
+00:00:01,000 --> 00:00:12,000
+EnglishPod.com Mr.
+
+2
+00:00:12,000 --> 00:00:13,000
+McKenna, do you have a second?
+
+3
+00:00:13,000 --> 00:00:15,000
+I need to talk to you about something.
+
+4
+00:00:15,000 --> 00:00:15,000
+Sure.
+
+5
+00:00:16,000 --> 00:00:17,000
+Liv, what can I do for you?
+
+6
+00:00:17,000 --> 00:00:19,000
+Well, I was just wondering.
+
+7
+00:00:19,000 --> 00:00:27,000
+You see, I know I've used up all my vacation days this year, but my sister's getting married and the wedding is overseas and, well...
+
+8
+00:00:27,000 --> 00:00:28,000
+You want to take some time off, is that right?
+
+9
+00:00:29,000 --> 00:00:33,000
+Well, sir, I was just hoping I might be able to take some unpaid leave this year.
+
+10
+00:00:34,000 --> 00:00:35,000
+What dates are you planning on taking off?
+
+11
+00:00:35,000 --> 00:00:38,000
+I'll need at least two months notice so that I can plan for your absence.
+
+12
+00:00:39,000 --> 00:00:43,000
+I was thinking of taking off from September 1st until the 30th.
+
+13
+00:00:44,000 --> 00:00:45,000
+Would you be okay with that?
+
+14
+00:00:46,000 --> 00:00:48,000
+Well, I guess so.
+

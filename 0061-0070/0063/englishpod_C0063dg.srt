@@ -1,0 +1,84 @@
+1
+00:00:01,000 --> 00:00:09,000
+EnglishPod.com Good afternoon.
+
+2
+00:00:10,000 --> 00:00:10,000
+May I help you?
+
+3
+00:00:11,000 --> 00:00:14,000
+Yes, I'm here to see Joanna Stevens.
+
+4
+00:00:14,000 --> 00:00:15,000
+I have an appointment at 4.
+
+5
+00:00:15,000 --> 00:00:16,000
+Certainly.
+
+6
+00:00:16,000 --> 00:00:17,000
+May I take your name?
+
+7
+00:00:18,000 --> 00:00:19,000
+I'll let her know you've arrived.
+
+8
+00:00:20,000 --> 00:00:20,000
+Sure.
+
+9
+00:00:20,000 --> 00:00:21,000
+It's Josh O'Neill.
+
+10
+00:00:24,000 --> 00:00:25,000
+Ms.
+
+11
+00:00:25,000 --> 00:00:26,000
+Stevens will be with you momentarily.
+
+12
+00:00:27,000 --> 00:00:28,000
+Can I offer you something to drink?
+
+13
+00:00:28,000 --> 00:00:30,000
+Yes, coffee would be nice.
+
+14
+00:00:30,000 --> 00:00:31,000
+Thank you.
+
+15
+00:00:39,000 --> 00:00:41,000
+Here you are.
+
+16
+00:00:41,000 --> 00:00:41,000
+Ms.
+
+17
+00:00:41,000 --> 00:00:43,000
+Stevens is ready for you now.
+
+18
+00:00:43,000 --> 00:00:44,000
+I'll show you to her office.
+
+19
+00:00:45,000 --> 00:00:45,000
+Right this way.
+
+20
+00:00:49,000 --> 00:00:51,000
+Just watch your step here.
+
+21
+00:00:58,000 --> 00:00:59,000
+Thanks for watching.
+

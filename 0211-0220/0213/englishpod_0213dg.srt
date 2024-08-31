@@ -1,0 +1,72 @@
+1
+00:00:01,000 --> 00:00:10,000
+EnglishPod.com Hi Daniel, how are you holding up?
+
+2
+00:00:10,000 --> 00:00:11,000
+I'm greatly sorry for your loss.
+
+3
+00:00:12,000 --> 00:00:13,000
+Thank you, I'm doing much better.
+
+4
+00:00:14,000 --> 00:00:16,000
+I've begun organizing everything for the funeral.
+
+5
+00:00:17,000 --> 00:00:18,000
+How's that going?
+
+6
+00:00:18,000 --> 00:00:20,000
+It's a lot harder than I imagined.
+
+7
+00:00:20,000 --> 00:00:22,000
+There are many things that you have to arrange.
+
+8
+00:00:23,000 --> 00:00:27,000
+I booked a time and date with the funeral home, but I still have a lot of things to do.
+
+9
+00:00:27,000 --> 00:00:29,000
+Have you bought a burial plot and a casket?
+
+10
+00:00:30,000 --> 00:00:32,000
+No, Wendy is being cremated.
+
+11
+00:00:33,000 --> 00:00:35,000
+She always talked about how she didn't want to be buried.
+
+12
+00:00:36,000 --> 00:00:40,000
+I already chose a cremation urn and we plan to spread the ashes in the ocean.
+
+13
+00:00:41,000 --> 00:00:41,000
+I see.
+
+14
+00:00:42,000 --> 00:00:44,000
+That sounds like something she would have really liked.
+
+15
+00:00:44,000 --> 00:00:46,000
+I'm sure the memorial service will be tasteful.
+
+16
+00:00:46,000 --> 00:00:47,000
+You're doing a great job.
+
+17
+00:00:48,000 --> 00:00:49,000
+Thanks.
+
+18
+00:00:49,000 --> 00:00:57,000
+It hasn't been easy, but luckily we have life insurance and Wendy left behind a detailed will that will sort out any other legal matters.
+

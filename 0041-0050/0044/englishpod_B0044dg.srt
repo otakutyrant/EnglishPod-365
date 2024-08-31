@@ -1,0 +1,88 @@
+1
+00:00:01,000 --> 00:00:10,000
+EnglishPod.com Morning.
+
+2
+00:00:10,000 --> 00:00:11,000
+Hi there Mr.
+
+3
+00:00:11,000 --> 00:00:13,000
+Anderson, how are you on this fine morning?
+
+4
+00:00:14,000 --> 00:00:15,000
+Fine, thank you.
+
+5
+00:00:15,000 --> 00:00:17,000
+It sure is cold this morning, isn't it?
+
+6
+00:00:17,000 --> 00:00:19,000
+I barely even got out of bed.
+
+7
+00:00:19,000 --> 00:00:21,000
+Yeah, it's pretty cold alright.
+
+8
+00:00:22,000 --> 00:00:23,000
+Did you catch the news this morning?
+
+9
+00:00:24,000 --> 00:00:26,000
+I heard that there was a fire in Byron Street.
+
+10
+00:00:26,000 --> 00:00:28,000
+No, I didn't hear about that.
+
+11
+00:00:28,000 --> 00:00:31,000
+Did you happen to watch the football game last night?
+
+12
+00:00:31,000 --> 00:00:33,000
+The Patriots scored in the last minute.
+
+13
+00:00:33,000 --> 00:00:35,000
+No, I don't like football.
+
+14
+00:00:36,000 --> 00:00:39,000
+Oh, by the way, I saw you with your daughter at the office Christmas party.
+
+15
+00:00:40,000 --> 00:00:41,000
+She's really beautiful.
+
+16
+00:00:41,000 --> 00:00:42,000
+She's my wife.
+
+17
+00:00:42,000 --> 00:00:43,000
+Oh, here's my floor.
+
+18
+00:00:44,000 --> 00:00:45,000
+Nice talking to you.
+
+19
+00:00:45,000 --> 00:00:45,000
+Goodbye.
+
+20
+00:00:46,000 --> 00:00:47,000
+Oh sir, this is the 56th floor.
+
+21
+00:00:48,000 --> 00:00:48,000
+We're on the 70th.
+
+22
+00:00:49,000 --> 00:00:51,000
+That's okay, I'll take the stairs.
+

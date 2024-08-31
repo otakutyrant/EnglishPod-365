@@ -1,0 +1,308 @@
+1
+00:00:03,000 --> 00:00:07,000
+Listen to the meaning, then say the vocabulary word.
+
+2
+00:00:09,000 --> 00:00:12,000
+A piece of paper that proves you bought something.
+
+3
+00:00:14,000 --> 00:00:15,000
+Receipt.
+
+4
+00:00:18,000 --> 00:00:20,000
+Go back to the original place.
+
+5
+00:00:23,000 --> 00:00:23,000
+Return.
+
+6
+00:00:26,000 --> 00:00:28,000
+Control a device for computer.
+
+7
+00:00:31,000 --> 00:00:31,000
+Keyboard.
+
+8
+00:00:34,000 --> 00:00:37,000
+Things that a company makes or sells.
+
+9
+00:00:39,000 --> 00:00:40,000
+Product.
+
+10
+00:00:42,000 --> 00:00:45,000
+To move to and fro, vibrate, quiver.
+
+11
+00:00:48,000 --> 00:00:49,000
+Flicker.
+
+12
+00:00:51,000 --> 00:00:55,000
+To cause or allow to run or fall from a container.
+
+13
+00:00:57,000 --> 00:00:58,000
+Spill.
+
+14
+00:01:00,000 --> 00:01:04,000
+Give something and receive something in return.
+
+15
+00:01:06,000 --> 00:01:07,000
+Exchange.
+
+16
+00:01:10,000 --> 00:01:12,000
+Having a mistake or error.
+
+17
+00:01:15,000 --> 00:01:16,000
+Defective.
+
+18
+00:01:19,000 --> 00:01:20,000
+To get your money back.
+
+19
+00:01:24,000 --> 00:01:25,000
+Refund.
+
+20
+00:01:26,000 --> 00:01:29,000
+Fragile, easily damaged.
+
+21
+00:01:32,000 --> 00:01:33,000
+Delicate.
+
+22
+00:01:35,000 --> 00:01:36,000
+Let's try that faster.
+
+23
+00:01:38,000 --> 00:01:41,000
+Give something and receive something in return.
+
+24
+00:01:44,000 --> 00:01:44,000
+Exchange.
+
+25
+00:01:44,000 --> 00:01:45,000
+Exchange.
+
+26
+00:01:46,000 --> 00:01:50,000
+To cause or allow to run or fall from a container.
+
+27
+00:01:52,000 --> 00:01:53,000
+Spill.
+
+28
+00:01:55,000 --> 00:01:57,000
+Fragile, easily damaged.
+
+29
+00:02:00,000 --> 00:02:00,000
+Delicate.
+
+30
+00:02:02,000 --> 00:02:05,000
+To move to and fro, vibrate, quiver.
+
+31
+00:02:08,000 --> 00:02:08,000
+Flicker.
+
+32
+00:02:10,000 --> 00:02:13,000
+Having a mistake or error.
+
+33
+00:02:15,000 --> 00:02:16,000
+Defective.
+
+34
+00:02:18,000 --> 00:02:21,000
+A piece of paper that proves you bought something.
+
+35
+00:02:23,000 --> 00:02:24,000
+Receipt.
+
+36
+00:02:25,000 --> 00:02:28,000
+Things that a company makes or sells.
+
+37
+00:02:30,000 --> 00:02:30,000
+Product.
+
+38
+00:02:32,000 --> 00:02:34,000
+To get your money back.
+
+39
+00:02:37,000 --> 00:02:38,000
+Refund.
+
+40
+00:02:39,000 --> 00:02:41,000
+Controller device for computer.
+
+41
+00:02:44,000 --> 00:02:44,000
+Keyboard.
+
+42
+00:02:47,000 --> 00:02:49,000
+Go back to the original place.
+
+43
+00:02:51,000 --> 00:02:51,000
+Return.
+
+44
+00:02:54,000 --> 00:02:56,000
+Now say the word and hear it in a sentence.
+
+45
+00:02:58,000 --> 00:02:59,000
+Receipt.
+
+46
+00:02:59,000 --> 00:03:00,000
+Receipt.
+
+47
+00:03:03,000 --> 00:03:05,000
+Hello, could I please have the receipt?
+
+48
+00:03:08,000 --> 00:03:08,000
+Receipt.
+
+49
+00:03:12,000 --> 00:03:14,000
+Would you like a receipt?
+
+50
+00:03:17,000 --> 00:03:17,000
+Receipt.
+
+51
+00:03:22,000 --> 00:03:27,000
+Your receipt entitles you to a 5% discount on the purchase price.
+
+52
+00:03:29,000 --> 00:03:30,000
+Delicate.
+
+53
+00:03:36,000 --> 00:03:40,000
+Please mark any items you do not want damaged as delicate.
+
+54
+00:03:43,000 --> 00:03:43,000
+Delicate.
+
+55
+00:03:49,000 --> 00:03:54,000
+This glass face is very delicate, so please wrap it up.
+
+56
+00:03:56,000 --> 00:03:56,000
+Delicate.
+
+57
+00:04:01,000 --> 00:04:04,000
+I'm delicate like glass, please don't hurt me.
+
+58
+00:04:07,000 --> 00:04:08,000
+Exchange.
+
+59
+00:04:08,000 --> 00:04:09,000
+Exchange.
+
+60
+00:04:15,000 --> 00:04:18,000
+Could I please exchange this item for another one of similar price?
+
+61
+00:04:21,000 --> 00:04:22,000
+Exchange.
+
+62
+00:04:29,000 --> 00:04:32,000
+Sorry, we don't do exchanges, only refunds.
+
+63
+00:04:35,000 --> 00:04:35,000
+Exchange.
+
+64
+00:04:40,000 --> 00:04:43,000
+Can we please exchange business cards?
+
+65
+00:04:46,000 --> 00:04:47,000
+Defective.
+
+66
+00:04:52,000 --> 00:04:56,000
+This car is defective, I want my money back.
+
+67
+00:04:58,000 --> 00:04:59,000
+Defective.
+
+68
+00:04:59,000 --> 00:04:59,000
+Defective.
+
+69
+00:05:06,000 --> 00:05:11,000
+If you have any of our products that are defective, please return them for a full refund.
+
+70
+00:05:13,000 --> 00:05:14,000
+Defective.
+
+71
+00:05:20,000 --> 00:05:24,000
+Sorry, but your car warranty is defective, please update it.
+
+72
+00:05:26,000 --> 00:05:27,000
+Refund.
+
+73
+00:05:34,000 --> 00:05:37,000
+My new television is broken, I want a refund.
+
+74
+00:05:40,000 --> 00:05:41,000
+Refund.
+
+75
+00:05:47,000 --> 00:05:50,000
+Sorry, but you damaged this product yourself, we can't give you a refund.
+
+76
+00:05:53,000 --> 00:05:54,000
+Refund.
+
+77
+00:05:59,000 --> 00:06:02,000
+That movie was so bad, I want a refund.
+

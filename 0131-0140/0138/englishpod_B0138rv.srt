@@ -1,0 +1,400 @@
+1
+00:00:00,000 --> 00:00:07,000
+The EnglishPod Audio Review Listen to the meaning, then say the vocabulary word.
+
+2
+00:00:08,000 --> 00:00:11,000
+To make an arrangement to hold something for later.
+
+3
+00:00:14,000 --> 00:00:15,000
+Make a reservation.
+
+4
+00:00:18,000 --> 00:00:20,000
+To make arrangements for later.
+
+5
+00:00:22,000 --> 00:00:23,000
+Book.
+
+6
+00:00:25,000 --> 00:00:26,000
+To not have any.
+
+7
+00:00:28,000 --> 00:00:30,000
+Have no.
+
+8
+00:00:32,000 --> 00:00:36,000
+The protection that is offered by an insurance policy.
+
+9
+00:00:37,000 --> 00:00:38,000
+Coverage.
+
+10
+00:00:41,000 --> 00:00:43,000
+Contract signed with details of car rental.
+
+11
+00:00:46,000 --> 00:00:47,000
+Rental agreement.
+
+12
+00:00:49,000 --> 00:00:50,000
+To have no more.
+
+13
+00:00:53,000 --> 00:00:54,000
+Run out.
+
+14
+00:00:56,000 --> 00:00:57,000
+You should.
+
+15
+00:01:00,000 --> 00:01:00,000
+You better.
+
+16
+00:01:03,000 --> 00:01:08,000
+To leave money when you rent a car and that you get back if you return the car in good condition.
+
+17
+00:01:11,000 --> 00:01:12,000
+Leave a deposit.
+
+18
+00:01:14,000 --> 00:01:16,000
+To purposefully abuse something.
+
+19
+00:01:19,000 --> 00:01:20,000
+Beat the hell out of.
+
+20
+00:01:22,000 --> 00:01:24,000
+A medium-sized car.
+
+21
+00:01:27,000 --> 00:01:28,000
+Mid-sized vehicle.
+
+22
+00:01:31,000 --> 00:01:34,000
+The amount of money to be paid per day the car is rented.
+
+23
+00:01:37,000 --> 00:01:38,000
+Daily rate.
+
+24
+00:01:40,000 --> 00:01:41,000
+At the present time.
+
+25
+00:01:44,000 --> 00:01:45,000
+At the moment.
+
+26
+00:01:47,000 --> 00:01:48,000
+A small car.
+
+27
+00:01:50,000 --> 00:01:51,000
+Compact.
+
+28
+00:01:54,000 --> 00:01:55,000
+Sport utility vehicle.
+
+29
+00:01:58,000 --> 00:01:59,000
+SUV.
+
+30
+00:02:01,000 --> 00:02:04,000
+Protection from costs of accidental damage.
+
+31
+00:02:06,000 --> 00:02:07,000
+Insurance.
+
+32
+00:02:09,000 --> 00:02:11,000
+Let's try that faster.
+
+33
+00:02:12,000 --> 00:02:15,000
+To make an arrangement to hold something for later.
+
+34
+00:02:17,000 --> 00:02:19,000
+Make a reservation.
+
+35
+00:02:20,000 --> 00:02:23,000
+Contract signed with details of car rental.
+
+36
+00:02:25,000 --> 00:02:26,000
+Rental agreement.
+
+37
+00:02:28,000 --> 00:02:29,000
+To not have any.
+
+38
+00:02:31,000 --> 00:02:32,000
+Have no.
+
+39
+00:02:34,000 --> 00:02:35,000
+A small car.
+
+40
+00:02:37,000 --> 00:02:38,000
+Compact.
+
+41
+00:02:38,000 --> 00:02:41,000
+At the present time.
+
+42
+00:02:42,000 --> 00:02:44,000
+At the moment.
+
+43
+00:02:46,000 --> 00:02:47,000
+Sport utility vehicle.
+
+44
+00:02:49,000 --> 00:02:50,000
+SUV.
+
+45
+00:02:52,000 --> 00:02:56,000
+Run out.
+
+46
+00:02:58,000 --> 00:03:01,000
+The protection that is offered by an insurance policy.
+
+47
+00:03:03,000 --> 00:03:03,000
+Coverage.
+
+48
+00:03:04,000 --> 00:03:09,000
+The amount of money to be paid per day the car is rented.
+
+49
+00:03:10,000 --> 00:03:11,000
+Daily rate.
+
+50
+00:03:13,000 --> 00:03:15,000
+A medium-sized car.
+
+51
+00:03:17,000 --> 00:03:18,000
+Mid-sized vehicle.
+
+52
+00:03:20,000 --> 00:03:23,000
+Protection from costs of accidental damage.
+
+53
+00:03:25,000 --> 00:03:26,000
+Insurance.
+
+54
+00:03:28,000 --> 00:03:28,000
+You should.
+
+55
+00:03:30,000 --> 00:03:32,000
+You better.
+
+56
+00:03:34,000 --> 00:03:36,000
+To purposefully abuse something.
+
+57
+00:03:38,000 --> 00:03:39,000
+Beat the hell out of.
+
+58
+00:03:41,000 --> 00:03:43,000
+To make arrangements for later.
+
+59
+00:03:45,000 --> 00:03:45,000
+Book.
+
+60
+00:03:47,000 --> 00:03:52,000
+To leave money when you rent a car and that you get back if you return the car in good condition.
+
+61
+00:03:54,000 --> 00:03:55,000
+Leave a deposit.
+
+62
+00:03:57,000 --> 00:04:00,000
+Now say the word and hear it in a sentence.
+
+63
+00:04:02,000 --> 00:04:03,000
+Make a reservation.
+
+64
+00:04:09,000 --> 00:04:13,000
+I've made a dinner reservation at our favorite restaurant for tomorrow night.
+
+65
+00:04:16,000 --> 00:04:17,000
+Make a reservation.
+
+66
+00:04:24,000 --> 00:04:25,000
+I'm sorry, sir.
+
+67
+00:04:25,000 --> 00:04:28,000
+You need to make a reservation in order to eat here.
+
+68
+00:04:30,000 --> 00:04:31,000
+Make a reservation.
+
+69
+00:04:38,000 --> 00:04:42,000
+Many hotels now offer a service where you can make an online reservation.
+
+70
+00:04:44,000 --> 00:04:45,000
+Have no.
+
+71
+00:04:46,000 --> 00:04:47,000
+Have no.
+
+72
+00:04:47,000 --> 00:04:53,000
+You have no right to tell me what to do.
+
+73
+00:04:55,000 --> 00:04:56,000
+Have no.
+
+74
+00:05:01,000 --> 00:05:04,000
+We have no electricity in the building.
+
+75
+00:05:06,000 --> 00:05:07,000
+Have no.
+
+76
+00:05:13,000 --> 00:05:16,000
+Susan has no money since she lost her job.
+
+77
+00:05:18,000 --> 00:05:19,000
+Run out.
+
+78
+00:05:26,000 --> 00:05:28,000
+We're going to run out of gasoline.
+
+79
+00:05:28,000 --> 00:05:30,000
+You need to find a gas station soon.
+
+80
+00:05:33,000 --> 00:05:34,000
+Run out.
+
+81
+00:05:40,000 --> 00:05:42,000
+Can you buy some milk on your way home?
+
+82
+00:05:42,000 --> 00:05:44,000
+We ran out last night.
+
+83
+00:05:46,000 --> 00:05:47,000
+Run out.
+
+84
+00:05:52,000 --> 00:05:54,000
+My pen ran out of ink.
+
+85
+00:05:54,000 --> 00:05:55,000
+Can you lend me one, please?
+
+86
+00:05:58,000 --> 00:05:58,000
+You better.
+
+87
+00:06:00,000 --> 00:06:01,000
+You better.
+
+88
+00:06:04,000 --> 00:06:08,000
+You better go to the doctor before that cold gets any worse.
+
+89
+00:06:10,000 --> 00:06:11,000
+You better.
+
+90
+00:06:17,000 --> 00:06:18,000
+You better watch out.
+
+91
+00:06:19,000 --> 00:06:20,000
+It's dangerous to go out this late.
+
+92
+00:06:23,000 --> 00:06:24,000
+You better.
+
+93
+00:06:30,000 --> 00:06:35,000
+She better change her attitude or her boss is going to fire her.
+
+94
+00:06:37,000 --> 00:06:38,000
+Beat the hell out of.
+
+95
+00:06:43,000 --> 00:06:47,000
+Our team beat the hell out of the other team last week in the game.
+
+96
+00:06:49,000 --> 00:06:51,000
+Beat the hell out of.
+
+97
+00:06:56,000 --> 00:07:00,000
+If you ever do that again, I'm going to beat the hell out of you.
+
+98
+00:07:03,000 --> 00:07:04,000
+Beat the hell out of.
+
+99
+00:07:10,000 --> 00:07:11,000
+Did you see that?
+
+100
+00:07:12,000 --> 00:07:15,000
+That dog just beat the hell out of that poor cat.
+

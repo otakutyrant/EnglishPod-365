@@ -1,0 +1,444 @@
+1
+00:00:00,000 --> 00:00:07,000
+The EnglishPod Audio Review Listen to the meaning, then say the vocabulary word.
+
+2
+00:00:08,000 --> 00:00:09,000
+Do something.
+
+3
+00:00:09,000 --> 00:00:10,000
+An action is required.
+
+4
+00:00:13,000 --> 00:00:15,000
+Don't just stand there.
+
+5
+00:00:17,000 --> 00:00:19,000
+Choose a place to sit.
+
+6
+00:00:22,000 --> 00:00:23,000
+Take a seat.
+
+7
+00:00:24,000 --> 00:00:29,000
+A short cut of hair to make one look clean.
+
+8
+00:00:33,000 --> 00:00:35,000
+Very fashionable.
+
+9
+00:00:41,000 --> 00:00:44,000
+Resembling silk, very smooth.
+
+10
+00:00:49,000 --> 00:00:51,000
+Having a smooth and bright appearance.
+
+11
+00:00:54,000 --> 00:00:59,000
+Shiny, very good to look great.
+
+12
+00:01:01,000 --> 00:01:07,000
+A million bucks, hair that grows on the sides of a man.
+
+13
+00:01:11,000 --> 00:01:15,000
+Sideburns, hair in form of round shape.
+
+14
+00:01:18,000 --> 00:01:21,000
+Curly, soft.
+
+15
+00:01:24,000 --> 00:01:25,000
+Fluffy.
+
+16
+00:01:27,000 --> 00:01:27,000
+Grow long.
+
+17
+00:01:30,000 --> 00:01:31,000
+Grow out.
+
+18
+00:01:33,000 --> 00:01:37,000
+A kind of hairstyle which very curly hair is formed into a round ball.
+
+19
+00:01:40,000 --> 00:01:41,000
+Afro.
+
+20
+00:01:43,000 --> 00:01:47,000
+A type of hairstyle where the hair is cut very short with an electric razor.
+
+21
+00:01:50,000 --> 00:01:51,000
+Buzz cut.
+
+22
+00:01:52,000 --> 00:02:01,000
+A hairstyle which consists of shaving both sides of the head, leaving a strip of noticeably longer hair on top.
+
+23
+00:02:03,000 --> 00:02:03,000
+Mohawk.
+
+24
+00:02:06,000 --> 00:02:14,000
+A type of hairstyle where the hair on top is left a bit long and styled upwards, resulting in square looking haircut.
+
+25
+00:02:16,000 --> 00:02:17,000
+Flat top.
+
+26
+00:02:17,000 --> 00:02:32,000
+A hairstyle in which most or all of the hair on the head is pulled away from the face, gathered and secured at the back of the head with a hair tie or clip, and allowed to hang freely from that point.
+
+27
+00:02:34,000 --> 00:02:35,000
+Ponytail.
+
+28
+00:02:37,000 --> 00:02:42,000
+Formed by intertwining three or more strands of hair so that the result is similar to a woven textile.
+
+29
+00:02:45,000 --> 00:02:46,000
+Braid.
+
+30
+00:02:47,000 --> 00:02:48,000
+Let's try that faster!
+
+31
+00:02:51,000 --> 00:02:54,000
+A shortcut of hair to make one look clean.
+
+32
+00:02:55,000 --> 00:02:56,000
+Trim.
+
+33
+00:02:58,000 --> 00:03:06,000
+A type of hairstyle where the hair on top is left a bit long and styled upwards, resulting in square looking haircut.
+
+34
+00:03:08,000 --> 00:03:09,000
+Flat top.
+
+35
+00:03:10,000 --> 00:03:14,000
+Hair that grows on the sides of a man.
+
+36
+00:03:16,000 --> 00:03:17,000
+Sideburns.
+
+37
+00:03:18,000 --> 00:03:22,000
+A kind of hairstyle which very curly hair is formed into a round ball.
+
+38
+00:03:24,000 --> 00:03:25,000
+Afro.
+
+39
+00:03:26,000 --> 00:03:29,000
+Hair in form of round shape.
+
+40
+00:03:31,000 --> 00:03:31,000
+Curly.
+
+41
+00:03:33,000 --> 00:03:34,000
+Very fashionable.
+
+42
+00:03:37,000 --> 00:03:38,000
+Fancy.
+
+43
+00:03:39,000 --> 00:03:40,000
+Grow long.
+
+44
+00:03:43,000 --> 00:03:44,000
+Grow out.
+
+45
+00:03:45,000 --> 00:03:47,000
+Having a smooth and bright appearance.
+
+46
+00:03:49,000 --> 00:03:50,000
+Shiny.
+
+47
+00:03:52,000 --> 00:03:56,000
+A type of hairstyle where the hair is cut very short with an electric razor.
+
+48
+00:03:58,000 --> 00:03:59,000
+Buzz cut.
+
+49
+00:04:01,000 --> 00:04:02,000
+Resembling silk.
+
+50
+00:04:02,000 --> 00:04:03,000
+Very smooth.
+
+51
+00:04:05,000 --> 00:04:06,000
+Silky.
+
+52
+00:04:08,000 --> 00:04:20,000
+Hairstyle in which most or all of the hair on the head is pulled away from the face, gathered and secured at the back of the head with a hair tie or clip, and allowed to hang freely from that point.
+
+53
+00:04:23,000 --> 00:04:23,000
+Ponytail.
+
+54
+00:04:25,000 --> 00:04:25,000
+Very good.
+
+55
+00:04:25,000 --> 00:04:26,000
+To look great.
+
+56
+00:04:28,000 --> 00:04:30,000
+A million bucks.
+
+57
+00:04:31,000 --> 00:04:37,000
+Formed by intertwining three or more strands of hair so that the result is similar to a woven textile.
+
+58
+00:04:39,000 --> 00:04:39,000
+Braid.
+
+59
+00:04:41,000 --> 00:04:41,000
+Soft.
+
+60
+00:04:43,000 --> 00:04:44,000
+Fluffy.
+
+61
+00:04:45,000 --> 00:04:53,000
+A hairstyle which consists of shaving both sides of the head, leaving a strip of noticeably longer hair on top.
+
+62
+00:04:55,000 --> 00:04:55,000
+Mohawk.
+
+63
+00:04:57,000 --> 00:04:59,000
+Choose a place to sit.
+
+64
+00:05:01,000 --> 00:05:02,000
+Take a seat.
+
+65
+00:05:03,000 --> 00:05:04,000
+Do something.
+
+66
+00:05:04,000 --> 00:05:06,000
+An action is required.
+
+67
+00:05:08,000 --> 00:05:09,000
+Don't just stand there.
+
+68
+00:05:11,000 --> 00:05:13,000
+Now say the word and hear it in a sentence.
+
+69
+00:05:15,000 --> 00:05:17,000
+Don't just stand there.
+
+70
+00:05:21,000 --> 00:05:22,000
+Don't just stand there.
+
+71
+00:05:23,000 --> 00:05:25,000
+Help me take these boxes into the house.
+
+72
+00:05:27,000 --> 00:05:29,000
+Don't just stand there.
+
+73
+00:05:34,000 --> 00:05:36,000
+The house is on fire.
+
+74
+00:05:36,000 --> 00:05:37,000
+Don't just stand there.
+
+75
+00:05:37,000 --> 00:05:38,000
+Call the fire department.
+
+76
+00:05:41,000 --> 00:05:42,000
+Don't just stand there.
+
+77
+00:05:46,000 --> 00:05:48,000
+Don't just stand there in the rain.
+
+78
+00:05:48,000 --> 00:05:49,000
+Come inside.
+
+79
+00:05:51,000 --> 00:05:52,000
+Fancy.
+
+80
+00:05:57,000 --> 00:06:01,000
+He was practicing some very fancy tricks on his bike.
+
+81
+00:06:03,000 --> 00:06:04,000
+Fancy.
+
+82
+00:06:08,000 --> 00:06:13,000
+When I dance, I don't like to try any fancy moves.
+
+83
+00:06:15,000 --> 00:06:16,000
+Fancy.
+
+84
+00:06:21,000 --> 00:06:23,000
+That was some very fancy driving.
+
+85
+00:06:23,000 --> 00:06:25,000
+How did you do it?
+
+86
+00:06:27,000 --> 00:06:27,000
+Shiny.
+
+87
+00:06:33,000 --> 00:06:34,000
+Wow.
+
+88
+00:06:34,000 --> 00:06:36,000
+I really like your shiny new shoes.
+
+89
+00:06:37,000 --> 00:06:38,000
+They look great.
+
+90
+00:06:40,000 --> 00:06:40,000
+Shiny.
+
+91
+00:06:46,000 --> 00:06:47,000
+Your engagement ring is beautiful.
+
+92
+00:06:48,000 --> 00:06:49,000
+The diamond is so shiny.
+
+93
+00:06:51,000 --> 00:06:52,000
+Shiny.
+
+94
+00:06:57,000 --> 00:07:00,000
+I like the paint color of your new car.
+
+95
+00:07:00,000 --> 00:07:01,000
+It's so shiny.
+
+96
+00:07:03,000 --> 00:07:04,000
+A million bucks.
+
+97
+00:07:10,000 --> 00:07:11,000
+That dress is amazing.
+
+98
+00:07:12,000 --> 00:07:13,000
+You look like a million bucks.
+
+99
+00:07:15,000 --> 00:07:16,000
+A million bucks.
+
+100
+00:07:22,000 --> 00:07:24,000
+I really like how you painted your house.
+
+101
+00:07:24,000 --> 00:07:26,000
+It really looks like a million bucks.
+
+102
+00:07:28,000 --> 00:07:30,000
+A million bucks.
+
+103
+00:07:35,000 --> 00:07:39,000
+After getting no surgery, he really looks like a million bucks.
+
+104
+00:07:41,000 --> 00:07:41,000
+Fluffy.
+
+105
+00:07:46,000 --> 00:07:49,000
+I love the fluffy white fur on my rabbit.
+
+106
+00:07:49,000 --> 00:07:50,000
+It's so cute.
+
+107
+00:07:52,000 --> 00:07:53,000
+Fluffy.
+
+108
+00:07:57,000 --> 00:08:00,000
+I need to have a fluffy pillow to sleep at night.
+
+109
+00:08:02,000 --> 00:08:03,000
+Fluffy.
+
+110
+00:08:09,000 --> 00:08:11,000
+Susan has really nice hair.
+
+111
+00:08:11,000 --> 00:08:13,000
+Her curls are fluffy and beautiful.
+

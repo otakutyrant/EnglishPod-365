@@ -1,0 +1,52 @@
+1
+00:00:00,000 --> 00:00:35,000
+EnglishPod.com What do you want based on the genre, title, or if you know the author, I can point you towards the right direction.
+
+2
+00:00:35,000 --> 00:00:38,000
+I'm looking for a book that has nursery rhymes.
+
+3
+00:00:38,000 --> 00:00:42,000
+That would be in our children's section, that bookshelf there on the right.
+
+4
+00:00:49,000 --> 00:00:52,000
+Okay, I would like to check out these books.
+
+5
+00:00:53,000 --> 00:00:54,000
+Do you have a library card?
+
+6
+00:00:55,000 --> 00:00:56,000
+No, how do I get one?
+
+7
+00:00:56,000 --> 00:01:01,000
+I just need to see a driver's license or a utility bill to prove that you are a resident of this state.
+
+8
+00:01:02,000 --> 00:01:03,000
+Here you go.
+
+9
+00:01:04,000 --> 00:01:05,000
+So, you're all set.
+
+10
+00:01:05,000 --> 00:01:06,000
+You can have these books for two weeks.
+
+11
+00:01:07,000 --> 00:01:10,000
+If you need to have them longer, you can bring them here to renew them.
+
+12
+00:01:10,000 --> 00:01:13,000
+If you don't, you get charged ten cents a day for each book.
+
+13
+00:01:13,000 --> 00:01:14,000
+Okay, thanks.
+

@@ -1,0 +1,384 @@
+1
+00:00:00,000 --> 00:00:07,000
+The EnglishPod Audio Review Listen to the meaning, then say the vocabulary word.
+
+2
+00:00:08,000 --> 00:00:11,000
+Appear, come to a place.
+
+3
+00:00:13,000 --> 00:00:14,000
+Show up.
+
+4
+00:00:17,000 --> 00:00:19,000
+Crazy, not normal.
+
+5
+00:00:21,000 --> 00:00:22,000
+Insane.
+
+6
+00:00:23,000 --> 00:00:27,000
+Follow and watch a person, usually dangerous.
+
+7
+00:00:30,000 --> 00:00:31,000
+Stalk.
+
+8
+00:00:32,000 --> 00:00:34,000
+Crazy person.
+
+9
+00:00:37,000 --> 00:00:38,000
+Nut job.
+
+10
+00:00:40,000 --> 00:00:43,000
+Angry, excited, or upset about something.
+
+11
+00:00:45,000 --> 00:00:47,000
+Get worked up.
+
+12
+00:00:48,000 --> 00:00:50,000
+With intention.
+
+13
+00:00:52,000 --> 00:00:53,000
+On purpose.
+
+14
+00:00:55,000 --> 00:00:58,000
+Phrase used to show you always do something.
+
+15
+00:01:01,000 --> 00:01:02,000
+Not a day goes by.
+
+16
+00:01:05,000 --> 00:01:08,000
+A close friend who has a deep understanding of you.
+
+17
+00:01:10,000 --> 00:01:11,000
+Soul mate.
+
+18
+00:01:14,000 --> 00:01:15,000
+Despite of anything may happen.
+
+19
+00:01:18,000 --> 00:01:20,000
+No matter what.
+
+20
+00:01:22,000 --> 00:01:24,000
+Deal with something that is difficult.
+
+21
+00:01:26,000 --> 00:01:27,000
+Tackle.
+
+22
+00:01:29,000 --> 00:01:32,000
+Severe mental illness, the state of being crazy.
+
+23
+00:01:36,000 --> 00:01:36,000
+Insanity.
+
+24
+00:01:39,000 --> 00:01:41,000
+To annoy or bother someone many times.
+
+25
+00:01:44,000 --> 00:01:45,000
+Harass.
+
+26
+00:01:47,000 --> 00:01:50,000
+Say that you will do something to hurt or cause harm to a person.
+
+27
+00:01:53,000 --> 00:01:54,000
+Threaten.
+
+28
+00:01:56,000 --> 00:01:58,000
+Person who commits a crime.
+
+29
+00:02:01,000 --> 00:02:01,000
+Perpetrator.
+
+30
+00:02:04,000 --> 00:02:08,000
+A person who follows someone for a long period of time in a way that is dangerous.
+
+31
+00:02:11,000 --> 00:02:11,000
+Stalker.
+
+32
+00:02:13,000 --> 00:02:14,000
+Let's try that faster.
+
+33
+00:02:16,000 --> 00:02:17,000
+Crazy person.
+
+34
+00:02:21,000 --> 00:02:21,000
+Nut job.
+
+35
+00:02:23,000 --> 00:02:24,000
+Crazy, not normal.
+
+36
+00:02:26,000 --> 00:02:27,000
+Insane.
+
+37
+00:02:28,000 --> 00:02:32,000
+Say that you will do something to hurt or cause harm to a person.
+
+38
+00:02:34,000 --> 00:02:35,000
+Threaten.
+
+39
+00:02:36,000 --> 00:02:39,000
+Appear, come to a place.
+
+40
+00:02:41,000 --> 00:02:42,000
+Show up.
+
+41
+00:02:44,000 --> 00:02:45,000
+Despite of anything may happen.
+
+42
+00:02:47,000 --> 00:02:49,000
+No matter what.
+
+43
+00:02:51,000 --> 00:02:54,000
+To annoy or bother someone many times.
+
+44
+00:02:55,000 --> 00:02:56,000
+Harass.
+
+45
+00:02:58,000 --> 00:02:58,000
+With intention.
+
+46
+00:03:00,000 --> 00:03:01,000
+On purpose.
+
+47
+00:03:02,000 --> 00:03:06,000
+Follow and watch a person, usually dangerous.
+
+48
+00:03:08,000 --> 00:03:09,000
+Stalk.
+
+49
+00:03:11,000 --> 00:03:14,000
+A close friend who has a deep understanding of you.
+
+50
+00:03:16,000 --> 00:03:16,000
+Soulmate.
+
+51
+00:03:18,000 --> 00:03:21,000
+Phrase used to show you always do something.
+
+52
+00:03:23,000 --> 00:03:25,000
+Not a day goes by.
+
+53
+00:03:27,000 --> 00:03:29,000
+Person who commits a crime.
+
+54
+00:03:31,000 --> 00:03:32,000
+Perpetrator.
+
+55
+00:03:34,000 --> 00:03:38,000
+A person who follows someone for a long period of time in a way that is dangerous.
+
+56
+00:03:40,000 --> 00:03:41,000
+Stalker.
+
+57
+00:03:42,000 --> 00:03:46,000
+Severe mental illness, the state of being crazy.
+
+58
+00:03:48,000 --> 00:03:49,000
+Insanity.
+
+59
+00:03:51,000 --> 00:03:54,000
+Angry, excited, or upset about something.
+
+60
+00:03:56,000 --> 00:03:58,000
+Get worked up.
+
+61
+00:03:58,000 --> 00:04:00,000
+Deal with something that is difficult.
+
+62
+00:04:03,000 --> 00:04:03,000
+Tackle.
+
+63
+00:04:05,000 --> 00:04:07,000
+Now say the word and hear it in a sentence.
+
+64
+00:04:09,000 --> 00:04:10,000
+Show up.
+
+65
+00:04:15,000 --> 00:04:19,000
+We were waiting for you like an hour and you never showed up.
+
+66
+00:04:21,000 --> 00:04:22,000
+Show up.
+
+67
+00:04:28,000 --> 00:04:30,000
+I didn't invite him to the party.
+
+68
+00:04:30,000 --> 00:04:32,000
+He just simply showed up uninvited.
+
+69
+00:04:35,000 --> 00:04:36,000
+Show up.
+
+70
+00:04:41,000 --> 00:04:45,000
+After months of being lost, my dog finally showed up.
+
+71
+00:04:51,000 --> 00:04:52,000
+Don't worry about the bill.
+
+72
+00:04:52,000 --> 00:04:54,000
+I'll take care of it.
+
+73
+00:05:01,000 --> 00:05:02,000
+I'm glad we hired a wedding planner.
+
+74
+00:05:03,000 --> 00:05:05,000
+She is taking care of everything.
+
+75
+00:05:11,000 --> 00:05:15,000
+I hired a lawyer that will take care of everything for the divorce process.
+
+76
+00:05:18,000 --> 00:05:20,000
+Get worked up.
+
+77
+00:05:24,000 --> 00:05:25,000
+It's not a problem.
+
+78
+00:05:25,000 --> 00:05:27,000
+You are getting all worked up for no reason.
+
+79
+00:05:30,000 --> 00:05:31,000
+Get worked up.
+
+80
+00:05:37,000 --> 00:05:39,000
+Don't get worked up.
+
+81
+00:05:39,000 --> 00:05:42,000
+I will cook dinner and have it ready by the time your boss arrives.
+
+82
+00:05:44,000 --> 00:05:47,000
+Get worked up.
+
+83
+00:05:52,000 --> 00:05:55,000
+Pete gets easily worked up over small problems at work.
+
+84
+00:05:57,000 --> 00:05:59,000
+No matter what.
+
+85
+00:06:04,000 --> 00:06:08,000
+You can always tell me anything, no matter what it is.
+
+86
+00:06:09,000 --> 00:06:11,000
+No matter what.
+
+87
+00:06:16,000 --> 00:06:19,000
+No matter what, I have to pay the phone bill today.
+
+88
+00:06:21,000 --> 00:06:23,000
+No matter what.
+
+89
+00:06:28,000 --> 00:06:31,000
+My dad told me I have to go to college, no matter what.
+
+90
+00:06:33,000 --> 00:06:34,000
+Tackle.
+
+91
+00:06:39,000 --> 00:06:44,000
+The company has a very big problem that we must tackle in order to survive.
+
+92
+00:06:46,000 --> 00:06:47,000
+Tackle.
+
+93
+00:06:52,000 --> 00:06:56,000
+I don't know how you do it, tackling all these problems at once.
+
+94
+00:06:58,000 --> 00:06:59,000
+Tackle.
+
+95
+00:06:59,000 --> 00:07:00,000
+Tackle.
+
+96
+00:07:04,000 --> 00:07:09,000
+In life, there are many obstacles that we must tackle in order to be successful.
+

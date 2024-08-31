@@ -1,0 +1,96 @@
+1
+00:00:01,000 --> 00:00:07,000
+EnglishPod.com Ah, Michelle.
+
+2
+00:00:08,000 --> 00:00:08,000
+Hi.
+
+3
+00:00:08,000 --> 00:00:09,000
+I was hoping to see you.
+
+4
+00:00:10,000 --> 00:00:10,000
+How have you been?
+
+5
+00:00:10,000 --> 00:00:11,000
+How's the family?
+
+6
+00:00:11,000 --> 00:00:12,000
+Oh, hello, Mr.
+
+7
+00:00:13,000 --> 00:00:13,000
+Campbell.
+
+8
+00:00:13,000 --> 00:00:15,000
+I'm fine and Jack's doing well.
+
+9
+00:00:15,000 --> 00:00:16,000
+How are you?
+
+10
+00:00:16,000 --> 00:00:18,000
+I'm fine, thanks.
+
+11
+00:00:18,000 --> 00:00:19,000
+I got your report this morning.
+
+12
+00:00:20,000 --> 00:00:20,000
+Thanks for that.
+
+13
+00:00:20,000 --> 00:00:22,000
+Are you joining the conference today?
+
+14
+00:00:22,000 --> 00:00:24,000
+Yes, I'm leaving at 4 p.m.
+
+15
+00:00:24,000 --> 00:00:26,000
+Good, well we can discuss this more then.
+
+16
+00:00:26,000 --> 00:00:29,000
+But I think the figures are looking very good for this quarter.
+
+17
+00:00:30,000 --> 00:00:30,000
+Yes, me too.
+
+18
+00:00:31,000 --> 00:00:33,000
+I'm planning to discuss the advertising budget at the conference.
+
+19
+00:00:33,000 --> 00:00:35,000
+I don't think we should continue with the TV advertising.
+
+20
+00:00:36,000 --> 00:00:37,000
+No, me neither.
+
+21
+00:00:37,000 --> 00:00:39,000
+It's far too expensive.
+
+22
+00:00:39,000 --> 00:00:41,000
+Well, let's discuss this more at the conference.
+
+23
+00:00:41,000 --> 00:00:43,000
+Maybe we can share a taxi there?
+
+24
+00:00:43,000 --> 00:00:44,000
+Yes, sure.
+

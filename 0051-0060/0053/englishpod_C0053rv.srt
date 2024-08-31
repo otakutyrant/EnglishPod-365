@@ -1,0 +1,388 @@
+1
+00:00:00,000 --> 00:00:07,000
+The EnglishPod Audio Review Listen to the meaning, then say the vocabulary word.
+
+2
+00:00:08,000 --> 00:00:10,000
+Quickly, as soon as possible.
+
+3
+00:00:12,000 --> 00:00:12,000
+Right away.
+
+4
+00:00:14,000 --> 00:00:16,000
+In a difficult situation.
+
+5
+00:00:18,000 --> 00:00:19,000
+In the weeds.
+
+6
+00:00:21,000 --> 00:00:24,000
+A chef that assists and helps the head chef.
+
+7
+00:00:26,000 --> 00:00:27,000
+Sous-chef!
+
+8
+00:00:27,000 --> 00:00:33,000
+Remove the outer skin of a fruit or vegetable.
+
+9
+00:00:34,000 --> 00:00:35,000
+Peel!
+
+10
+00:00:37,000 --> 00:00:38,000
+Cut into small pieces.
+
+11
+00:00:40,000 --> 00:00:41,000
+Chop!
+
+12
+00:00:42,000 --> 00:00:45,000
+Do not have so much, having not enough.
+
+13
+00:00:47,000 --> 00:00:48,000
+Running low on.
+
+14
+00:00:50,000 --> 00:00:53,000
+Move or mix something, usually with a spoon.
+
+15
+00:00:55,000 --> 00:00:55,000
+Stir!
+
+16
+00:00:55,000 --> 00:01:01,000
+Cut meat into pieces taking out bones and organs.
+
+17
+00:01:03,000 --> 00:01:03,000
+Butcher!
+
+18
+00:01:05,000 --> 00:01:06,000
+Put butter on something.
+
+19
+00:01:08,000 --> 00:01:08,000
+Butter!
+
+20
+00:01:10,000 --> 00:01:12,000
+Do cut something into small pieces.
+
+21
+00:01:14,000 --> 00:01:14,000
+Dice!
+
+22
+00:01:16,000 --> 00:01:20,000
+A flat piece of kitchen equipment for cooking with fire.
+
+23
+00:01:21,000 --> 00:01:22,000
+Stove!
+
+24
+00:01:23,000 --> 00:01:27,000
+A deep, round container that is used for cooking.
+
+25
+00:01:29,000 --> 00:01:30,000
+Pot!
+
+26
+00:01:31,000 --> 00:01:38,000
+A usually shallow and open metal container that has a handle and that is used for cooking or baking.
+
+27
+00:01:40,000 --> 00:01:40,000
+Pan!
+
+28
+00:01:42,000 --> 00:01:45,000
+To cook food at a very high and dry heat.
+
+29
+00:01:47,000 --> 00:01:48,000
+Bake!
+
+30
+00:01:49,000 --> 00:01:50,000
+Let's try that faster!
+
+31
+00:01:52,000 --> 00:01:54,000
+Quickly, as soon as possible.
+
+32
+00:01:55,000 --> 00:01:56,000
+Right away!
+
+33
+00:01:57,000 --> 00:02:00,000
+A deep, round container that is used for cooking.
+
+34
+00:02:02,000 --> 00:02:02,000
+Pot!
+
+35
+00:02:03,000 --> 00:02:06,000
+A chef that assists and helps the head chef.
+
+36
+00:02:08,000 --> 00:02:09,000
+Sous-chef!
+
+37
+00:02:10,000 --> 00:02:14,000
+A flat piece of kitchen equipment for cooking with fire.
+
+38
+00:02:15,000 --> 00:02:16,000
+Stove!
+
+39
+00:02:16,000 --> 00:02:20,000
+Move or mix something, usually with a spoon.
+
+40
+00:02:22,000 --> 00:02:23,000
+Stir!
+
+41
+00:02:24,000 --> 00:02:26,000
+To cut something into small pieces.
+
+42
+00:02:27,000 --> 00:02:27,000
+Dice!
+
+43
+00:02:28,000 --> 00:02:30,000
+Put butter on something.
+
+44
+00:02:31,000 --> 00:02:32,000
+Butter!
+
+45
+00:02:33,000 --> 00:02:34,000
+In a difficult situation.
+
+46
+00:02:35,000 --> 00:02:36,000
+In the weeds.
+
+47
+00:02:38,000 --> 00:02:44,000
+A usually shallow and open metal container that has a handle and that is used for cooking or baking.
+
+48
+00:02:45,000 --> 00:02:46,000
+Pan!
+
+49
+00:02:47,000 --> 00:02:49,000
+Cut into small pieces.
+
+50
+00:02:50,000 --> 00:02:51,000
+Chop!
+
+51
+00:02:52,000 --> 00:02:55,000
+Cut meat into pieces taking out bones and organs.
+
+52
+00:02:57,000 --> 00:02:57,000
+Butcher!
+
+53
+00:02:59,000 --> 00:03:01,000
+Do not have so much, having not enough.
+
+54
+00:03:03,000 --> 00:03:04,000
+Running low on.
+
+55
+00:03:05,000 --> 00:03:08,000
+Remove the outer skin of a fruit or vegetable.
+
+56
+00:03:10,000 --> 00:03:10,000
+Peel!
+
+57
+00:03:11,000 --> 00:03:15,000
+To cook food at a very high and dry heat.
+
+58
+00:03:16,000 --> 00:03:16,000
+Bake!
+
+59
+00:03:18,000 --> 00:03:21,000
+Now say the word and hear it in a sentence.
+
+60
+00:03:22,000 --> 00:03:22,000
+Peel!
+
+61
+00:03:28,000 --> 00:03:31,000
+You should peel tomatoes before eating them to avoid getting sick.
+
+62
+00:03:33,000 --> 00:03:33,000
+Peel!
+
+63
+00:03:37,000 --> 00:03:39,000
+I hate peeling potatoes.
+
+64
+00:03:40,000 --> 00:03:42,000
+It takes me a very long time.
+
+65
+00:03:47,000 --> 00:03:49,000
+Can you peel this orange for me, please?
+
+66
+00:03:51,000 --> 00:03:51,000
+Chop!
+
+67
+00:03:54,000 --> 00:03:57,000
+When you chop onions, it makes you cry.
+
+68
+00:03:59,000 --> 00:03:59,000
+Chop!
+
+69
+00:04:04,000 --> 00:04:08,000
+You must be careful when chopping vegetables and not cut yourself.
+
+70
+00:04:10,000 --> 00:04:10,000
+Chop!
+
+71
+00:04:14,000 --> 00:04:18,000
+When you chop vegetables, make sure you have a sharp knife.
+
+72
+00:04:19,000 --> 00:04:20,000
+Running low on.
+
+73
+00:04:25,000 --> 00:04:27,000
+We need to find a gas station.
+
+74
+00:04:27,000 --> 00:04:28,000
+We are running low on gas.
+
+75
+00:04:30,000 --> 00:04:31,000
+Running low on.
+
+76
+00:04:36,000 --> 00:04:38,000
+We are running low on beer.
+
+77
+00:04:39,000 --> 00:04:41,000
+Can you go to the store and get some more?
+
+78
+00:04:42,000 --> 00:04:44,000
+Running low on.
+
+79
+00:04:48,000 --> 00:04:51,000
+My flashlight is running low on battery.
+
+80
+00:04:51,000 --> 00:04:52,000
+Do you have another flashlight?
+
+81
+00:04:54,000 --> 00:04:55,000
+Stir!
+
+82
+00:04:59,000 --> 00:05:03,000
+Stir this can of paint so we can start painting the room.
+
+83
+00:05:04,000 --> 00:05:05,000
+Stir!
+
+84
+00:05:08,000 --> 00:05:11,000
+You need to stir your coffee if you add sugar.
+
+85
+00:05:13,000 --> 00:05:14,000
+Stir!
+
+86
+00:05:17,000 --> 00:05:19,000
+Can you please stir the rice?
+
+87
+00:05:19,000 --> 00:05:21,000
+It will burn if you don't.
+
+88
+00:05:22,000 --> 00:05:23,000
+Butcher!
+
+89
+00:05:28,000 --> 00:05:29,000
+It's difficult to butcher meat.
+
+90
+00:05:30,000 --> 00:05:32,000
+I don't know how you do it.
+
+91
+00:05:33,000 --> 00:05:33,000
+Butcher!
+
+92
+00:05:38,000 --> 00:05:40,000
+I spent all day butchering the cow.
+
+93
+00:05:41,000 --> 00:05:42,000
+Now it's ready to cook.
+
+94
+00:05:43,000 --> 00:05:43,000
+Butcher!
+
+95
+00:05:47,000 --> 00:05:51,000
+You have to butcher the chicken before cooking it.
+
+96
+00:05:51,000 --> 00:05:52,000
+You have to make sure it's cooked.
+
+97
+00:05:52,000 --> 00:05:55,000
+Thanks for watching!
+

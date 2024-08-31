@@ -1,0 +1,112 @@
+1
+00:00:01,000 --> 00:00:09,000
+EnglishPod.com Man, it's been forever!
+
+2
+00:00:09,000 --> 00:00:10,000
+What have you been up to lately?
+
+3
+00:00:11,000 --> 00:00:15,000
+I've been busy preparing for my exams, not to mention all the term papers I've had to write.
+
+4
+00:00:16,000 --> 00:00:16,000
+Same here.
+
+5
+00:00:17,000 --> 00:00:20,000
+I'm up to my neck in work, but at least we've got summer holidays after finals.
+
+6
+00:00:21,000 --> 00:00:22,000
+Where are you headed now?
+
+7
+00:00:22,000 --> 00:00:23,000
+I'm going to my anthro class.
+
+8
+00:00:24,000 --> 00:00:29,000
+We've been focusing on Darwin all term, since it's the 200th anniversary of his birth or whatever.
+
+9
+00:00:29,000 --> 00:00:32,000
+I'm sick and tired of Darwin, Darwin, Darwin!
+
+10
+00:00:32,000 --> 00:00:33,000
+What?
+
+11
+00:00:33,000 --> 00:00:33,000
+Why?
+
+12
+00:00:34,000 --> 00:00:35,000
+How can you not like Darwin?
+
+13
+00:00:35,000 --> 00:00:39,000
+His work turned thousands of years of ideas about creation on their head.
+
+14
+00:00:40,000 --> 00:00:44,000
+His theory of evolution revolutionized the fields of biology and anthropology.
+
+15
+00:00:45,000 --> 00:00:46,000
+I don't like him.
+
+16
+00:00:46,000 --> 00:00:49,000
+His theory of human evolution and natural selection is full of holes.
+
+17
+00:00:50,000 --> 00:00:52,000
+It's not as solid as you make it out to be.
+
+18
+00:00:52,000 --> 00:00:57,000
+Say that again and you'll make enemies with half of the academy, not to mention your professors.
+
+19
+00:00:57,000 --> 00:01:08,000
+Furthermore, the explanation proposed by Darwin about the origin of the species and the process of natural selection constitutes a grand step towards a coherent understanding of the world and its very beginnings.
+
+20
+00:01:08,000 --> 00:01:11,000
+I'm not minimizing his huge contributions to science.
+
+21
+00:01:12,000 --> 00:01:16,000
+It's just that his theory reminds me of the conundrum of the chicken and the egg.
+
+22
+00:01:17,000 --> 00:01:18,000
+What are you talking about?
+
+23
+00:01:18,000 --> 00:01:20,000
+Which came first, the chicken or the egg?
+
+24
+00:01:20,000 --> 00:01:24,000
+This is a classic logical problem, and I think it applies to Darwin's theory.
+
+25
+00:01:25,000 --> 00:01:27,000
+How did the very first living organism come to be?
+
+26
+00:01:28,000 --> 00:01:28,000
+Interesting.
+
+27
+00:01:29,000 --> 00:01:32,000
+I think that question is better suited for my philosophy class.
+
+28
+00:01:33,000 --> 00:01:37,000
+In the meantime, how about we settle this with a duel?
+

@@ -1,0 +1,32 @@
+1
+00:00:01,000 --> 00:00:14,000
+EnglishPod.com Good evening ladies, my name is Josh and I'll be your server tonight.
+
+2
+00:00:14,000 --> 00:00:15,000
+May I take your order?
+
+3
+00:00:16,000 --> 00:00:18,000
+Do you have any recommendations?
+
+4
+00:00:19,000 --> 00:00:28,000
+Well, I personally like the chicken panna with cream mushroom sauce, but the prawn fettuccine is also very nice.
+
+5
+00:00:28,000 --> 00:00:34,000
+Mmm, I'd like to have the grilled chicken, but can I have spaghetti instead of penne?
+
+6
+00:00:35,000 --> 00:00:36,000
+Of course, ma'am.
+
+7
+00:00:37,000 --> 00:00:38,000
+And for you?
+
+8
+00:00:41,000 --> 00:00:43,000
+I'll have the horse tripe.
+

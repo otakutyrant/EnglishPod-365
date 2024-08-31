@@ -1,0 +1,76 @@
+1
+00:00:01,000 --> 00:00:08,000
+EnglishPod.com Well, Rebecca, is there anything else you need to know for now?
+
+2
+00:00:08,000 --> 00:00:10,000
+I don't think so, Mr Parsons.
+
+3
+00:00:10,000 --> 00:00:12,000
+I think you have covered all the main points for me.
+
+4
+00:00:13,000 --> 00:00:14,000
+Okay, well, listen.
+
+5
+00:00:14,000 --> 00:00:17,000
+Here's my business card with my mobile number.
+
+6
+00:00:17,000 --> 00:00:20,000
+If any other questions spring to mind, don't hesitate to contact me.
+
+7
+00:00:21,000 --> 00:00:23,000
+Of course, you can also call Miss Childs, too.
+
+8
+00:00:24,000 --> 00:00:24,000
+Great.
+
+9
+00:00:25,000 --> 00:00:27,000
+Um, when can I expect to hear from you?
+
+10
+00:00:28,000 --> 00:00:34,000
+Well, we are finishing the shortlist interviews tomorrow, so we will certainly have a decision made by early next week.
+
+11
+00:00:35,000 --> 00:00:38,000
+Miss Childs will call you to discuss more on Monday or Tuesday.
+
+12
+00:00:38,000 --> 00:00:39,000
+How does that sound?
+
+13
+00:00:40,000 --> 00:00:40,000
+That sounds perfect.
+
+14
+00:00:41,000 --> 00:00:44,000
+Thank you very much for taking the time to speak to me, Mr Parsons.
+
+15
+00:00:44,000 --> 00:00:46,000
+The pleasure's all mine, Rebecca.
+
+16
+00:00:46,000 --> 00:00:48,000
+I hope to hear from you very soon.
+
+17
+00:00:49,000 --> 00:00:49,000
+Absolutely.
+
+18
+00:00:49,000 --> 00:00:51,000
+Thanks for coming, Rebecca.
+
+19
+00:00:51,000 --> 00:00:51,000
+Goodbye.
+

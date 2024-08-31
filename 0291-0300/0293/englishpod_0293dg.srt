@@ -1,0 +1,72 @@
+1
+00:00:04,000 --> 00:00:06,000
+Hello, everyone.
+
+2
+00:00:07,000 --> 00:00:10,000
+My name is Lori and I want to welcome you to this course.
+
+3
+00:00:10,000 --> 00:00:16,000
+We will learn all about one of the oldest yet most delicious foods on this planet, cheese.
+
+4
+00:00:16,000 --> 00:00:17,000
+Let's get started.
+
+5
+00:00:18,000 --> 00:00:24,000
+Cheese is usually categorized into four types, soft, semi-soft, semi-hard and hard.
+
+6
+00:00:24,000 --> 00:00:30,000
+The designation refers to the amount of moisture in the cheese which directly affects its texture.
+
+7
+00:00:31,000 --> 00:00:41,000
+Making cheese is an ancient practice dating back thousands of years and the home cheesemaker can usually find recipes for cheese that fall into any of the four categories.
+
+8
+00:00:42,000 --> 00:00:52,000
+Soft cheese includes cottage cheese, cream cheese, ricotta, brie, blue, roquefort, mozzarella, minster and similar cheeses.
+
+9
+00:00:52,000 --> 00:01:01,000
+These cheeses generally pair well with fruit or meats and can be used as breakfast cheeses in omelet or as pasta fillings.
+
+10
+00:01:01,000 --> 00:01:05,000
+They are usually mildly flavored and very high in moisture.
+
+11
+00:01:05,000 --> 00:01:11,000
+American, Colby, Kojak and similar cheeses are in the semi-soft category.
+
+12
+00:01:11,000 --> 00:01:15,000
+These are slightly stronger in flavor and cover a wide range of uses.
+
+13
+00:01:16,000 --> 00:01:21,000
+Kojak cheese, a blend of Colby and Monterey Jack is one of the most popular.
+
+14
+00:01:22,000 --> 00:01:28,000
+This allows the sharper flavor of the Colby to be combined with the milder Jack cheese and also melts better than plain Colby.
+
+15
+00:01:29,000 --> 00:01:37,000
+Grilled cheese sandwiches often use American cheese and Mexican cheeses such as Asadero and Queso Fresco are becoming more popular.
+
+16
+00:01:38,000 --> 00:01:43,000
+Hard cheeses include Parmesan, Romano, Asiago, Swiss, Gruyere and others.
+
+17
+00:01:43,000 --> 00:01:55,000
+Parmesan and Romano are most familiar as the greatest powder used to top spaghetti but they are also used as a companion mince for fruit, wine, nuts and other appetizer items.
+
+18
+00:01:56,000 --> 00:02:00,000
+Swiss is a popular sandwich cheese and melts well unlike some other hard cheeses.
+

@@ -1,0 +1,136 @@
+1
+00:00:01,000 --> 00:00:08,000
+EnglishPod.com Hey Jordan is that you?
+
+2
+00:00:08,000 --> 00:00:09,000
+Long time no see.
+
+3
+00:00:09,000 --> 00:00:10,000
+Oh hey, no kidding.
+
+4
+00:00:11,000 --> 00:00:13,000
+I haven't seen you since orientation three months ago.
+
+5
+00:00:14,000 --> 00:00:15,000
+So how you been?
+
+6
+00:00:16,000 --> 00:00:17,000
+Settling into college life okay?
+
+7
+00:00:17,000 --> 00:00:18,000
+Yeah, I think so.
+
+8
+00:00:19,000 --> 00:00:22,000
+I pledged Phi Iota Alpha, so I'm living at the frat house now.
+
+9
+00:00:23,000 --> 00:00:25,000
+Oh, so you're a frat boy now, huh?
+
+10
+00:00:25,000 --> 00:00:26,000
+Yeah, yeah, I know.
+
+11
+00:00:29,000 --> 00:00:33,000
+It's got a lot of support and good suggestions from the guys.
+
+12
+00:00:33,000 --> 00:00:34,000
+What about you?
+
+13
+00:00:34,000 --> 00:00:35,000
+What have you been up to?
+
+14
+00:00:35,000 --> 00:00:36,000
+Well, not much.
+
+15
+00:00:36,000 --> 00:00:39,000
+I'm still living at home and commuting to school.
+
+16
+00:00:40,000 --> 00:00:43,000
+I ended up dropping that metalworking class I was so excited about.
+
+17
+00:00:44,000 --> 00:00:46,000
+It just wasn't as interesting as I'd hoped.
+
+18
+00:00:47,000 --> 00:00:52,000
+The guidance counselor suggested that I focus on my prerequisite courses so that I can make sure the credits count.
+
+19
+00:00:53,000 --> 00:00:55,000
+That sounds smart but kinda boring.
+
+20
+00:00:55,000 --> 00:00:57,000
+Yeah, it is a little bit.
+
+21
+00:00:58,000 --> 00:01:01,000
+I joined the great outdoors club though, which has been a lot of fun.
+
+22
+00:01:02,000 --> 00:01:05,000
+We've gone on two camping trips already and I've made some good friends.
+
+23
+00:01:06,000 --> 00:01:06,000
+That's cool.
+
+24
+00:01:07,000 --> 00:01:09,000
+Hey, so have you decided on your major yet?
+
+25
+00:01:09,000 --> 00:01:10,000
+Definitely pre-med.
+
+26
+00:01:10,000 --> 00:01:11,000
+What about you?
+
+27
+00:01:11,000 --> 00:01:16,000
+I still have no clue, but we don't have to declare a major until our sophomore year.
+
+28
+00:01:16,000 --> 00:01:17,000
+So I've got time.
+
+29
+00:01:18,000 --> 00:01:18,000
+Oops!
+
+30
+00:01:18,000 --> 00:01:19,000
+I'm late for class.
+
+31
+00:01:19,000 --> 00:01:19,000
+Gotta run.
+
+32
+00:01:20,000 --> 00:01:20,000
+Okay, take care.
+
+33
+00:01:21,000 --> 00:01:22,000
+Hey, nice running into you.
+
+34
+00:01:23,000 --> 00:01:23,000
+Yeah, you too.
+

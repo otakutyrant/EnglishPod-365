@@ -1,0 +1,48 @@
+1
+00:00:01,000 --> 00:00:11,000
+EnglishPod.com Hello sir, what can I do for you today?
+
+2
+00:00:12,000 --> 00:00:13,000
+Hello, I need a new suit.
+
+3
+00:00:14,000 --> 00:00:17,000
+I have an important interview next week so I really need to look sharp.
+
+4
+00:00:18,000 --> 00:00:22,000
+No problem we have a broad selection of suits all tailor-made so it will fit perfectly.
+
+5
+00:00:23,000 --> 00:00:23,000
+Great.
+
+6
+00:00:24,000 --> 00:00:28,000
+I want a three-piece suit, preferably made from Italian cashmere or wool.
+
+7
+00:00:29,000 --> 00:00:29,000
+Very well, sir.
+
+8
+00:00:30,000 --> 00:00:31,000
+Would you like to have some shirts made also?
+
+9
+00:00:32,000 --> 00:00:32,000
+Sure.
+
+10
+00:00:32,000 --> 00:00:35,000
+I also take some silver cufflinks and a pair of silk ties.
+
+11
+00:00:36,000 --> 00:00:37,000
+Very good.
+
+12
+00:00:37,000 --> 00:00:41,000
+Now if you will accompany me we can take your measurements and choose the patterns for your suit and shirts.
+

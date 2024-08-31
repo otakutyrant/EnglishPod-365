@@ -1,0 +1,116 @@
+1
+00:00:02,000 --> 00:00:08,000
+EnglishPod.com Excuse me, sir.
+
+2
+00:00:09,000 --> 00:00:13,000
+This is the express checkout lane for people who have 15 items or fewer.
+
+3
+00:00:14,000 --> 00:00:16,000
+It looks like you have more than 15 items there.
+
+4
+00:00:16,000 --> 00:00:17,000
+Oh, come on.
+
+5
+00:00:17,000 --> 00:00:19,000
+I have 16 items.
+
+6
+00:00:19,000 --> 00:00:20,000
+Cut me some slack, will ya?
+
+7
+00:00:21,000 --> 00:00:21,000
+Fine.
+
+8
+00:00:22,000 --> 00:00:24,000
+Please place your items on the belt and push your shopping cart through.
+
+9
+00:00:32,000 --> 00:00:35,000
+Do you prefer paper or plastic?
+
+10
+00:00:36,000 --> 00:00:36,000
+Plastic.
+
+11
+00:00:36,000 --> 00:00:38,000
+I also have a couple of coupons.
+
+12
+00:00:38,000 --> 00:00:39,000
+No problem.
+
+13
+00:00:39,000 --> 00:00:40,000
+I'll take those.
+
+14
+00:00:46,000 --> 00:00:48,000
+Sir, these coupons expired yesterday.
+
+15
+00:00:49,000 --> 00:00:49,000
+Darn.
+
+16
+00:00:50,000 --> 00:00:50,000
+Oh well.
+
+17
+00:00:51,000 --> 00:00:52,000
+I guess it's just not my day.
+
+18
+00:00:52,000 --> 00:00:53,000
+Thanks anyway.
+
+19
+00:00:53,000 --> 00:00:55,000
+Do you have a club card or will it be cash?
+
+20
+00:00:56,000 --> 00:00:57,000
+Yeah, I got a club card.
+
+21
+00:00:57,000 --> 00:00:58,000
+Here you go.
+
+22
+00:00:58,000 --> 00:01:00,000
+Will this be debit or credit?
+
+23
+00:01:00,000 --> 00:01:01,000
+Debit, please.
+
+24
+00:01:02,000 --> 00:01:03,000
+Also, could I get cash back?
+
+25
+00:01:04,000 --> 00:01:05,000
+$50 would be great.
+
+26
+00:01:05,000 --> 00:01:05,000
+Yeah, sure.
+
+27
+00:01:08,000 --> 00:01:11,000
+Your total is $78.33.
+
+28
+00:01:11,000 --> 00:01:12,000
+Here's your receipt.
+
+29
+00:01:12,000 --> 00:01:12,000
+Have a nice day.
+

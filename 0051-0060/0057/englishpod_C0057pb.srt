@@ -1,0 +1,1300 @@
+1
+00:00:01,000 --> 00:00:04,000
+Hello, English learners, welcome back to EnglishPod.
+
+2
+00:00:04,000 --> 00:00:05,000
+My name is Marco.
+
+3
+00:00:05,000 --> 00:00:06,000
+And I'm Erica.
+
+4
+00:00:06,000 --> 00:00:08,000
+And today we're back in the office.
+
+5
+00:00:08,000 --> 00:00:12,000
+We have a lesson that's talking about something that goes wrong in the office.
+
+6
+00:00:12,000 --> 00:00:17,000
+Yes, something that I can really understand well, but we'll talk about that later.
+
+7
+00:00:17,000 --> 00:00:19,000
+So this lesson is about a photocopier.
+
+8
+00:00:20,000 --> 00:00:21,000
+A photocopier.
+
+9
+00:00:21,000 --> 00:00:24,000
+So let's take a look at this word in vocabulary preview.
+
+10
+00:00:26,000 --> 00:00:26,000
+Vocabulary preview.
+
+11
+00:00:27,000 --> 00:00:31,000
+All right, so a photocopier makes copies.
+
+12
+00:00:31,000 --> 00:00:33,000
+Yeah, it makes copies of documents.
+
+13
+00:00:33,000 --> 00:00:38,000
+We often call it a copier or a copy machine.
+
+14
+00:00:38,000 --> 00:00:42,000
+Yeah, so you can call it a photocopier, copy machine, or copier.
+
+15
+00:00:42,000 --> 00:00:44,000
+Yes, or a Xerox machine as well.
+
+16
+00:00:45,000 --> 00:00:45,000
+Xerox machine.
+
+17
+00:00:45,000 --> 00:00:48,000
+Yeah, we can talk about that a little bit later, because that's an interesting story.
+
+18
+00:00:49,000 --> 00:00:49,000
+OK.
+
+19
+00:00:49,000 --> 00:00:51,000
+All right, let's take a look at our next word.
+
+20
+00:00:52,000 --> 00:00:52,000
+Toner.
+
+21
+00:00:53,000 --> 00:00:53,000
+Toner.
+
+22
+00:00:54,000 --> 00:00:54,000
+Toner.
+
+23
+00:00:54,000 --> 00:00:55,000
+Toner.
+
+24
+00:00:55,000 --> 00:01:00,000
+So toner is what the copy machine uses to make copies.
+
+25
+00:01:00,000 --> 00:01:01,000
+It's like the ink.
+
+26
+00:01:02,000 --> 00:01:05,000
+It's a very fine black powder.
+
+27
+00:01:06,000 --> 00:01:06,000
+Yeah, yeah.
+
+28
+00:01:06,000 --> 00:01:07,000
+So it's not an ink.
+
+29
+00:01:08,000 --> 00:01:09,000
+No, it's actually dry.
+
+30
+00:01:09,000 --> 00:01:09,000
+OK.
+
+31
+00:01:09,000 --> 00:01:11,000
+Yeah, yeah, it's dry.
+
+32
+00:01:11,000 --> 00:01:13,000
+It's a powder, so you don't want to get that all over you.
+
+33
+00:01:14,000 --> 00:01:14,000
+All right.
+
+34
+00:01:14,000 --> 00:01:15,000
+Well, good advice, Marco.
+
+35
+00:01:15,000 --> 00:01:19,000
+And our last word in vocabulary preview, malfunction.
+
+36
+00:01:20,000 --> 00:01:21,000
+Malfunction.
+
+37
+00:01:21,000 --> 00:01:22,000
+Malfunction.
+
+38
+00:01:22,000 --> 00:01:23,000
+Malfunction.
+
+39
+00:01:23,000 --> 00:01:24,000
+Let's break down this word.
+
+40
+00:01:24,000 --> 00:01:24,000
+All right.
+
+41
+00:01:26,000 --> 00:01:27,000
+To work.
+
+42
+00:01:28,000 --> 00:01:28,000
+All right.
+
+43
+00:01:30,000 --> 00:01:36,000
+I guess mal maybe comes from Latin or something, because in Spanish we say mal, which is something evil or not good.
+
+44
+00:01:36,000 --> 00:01:39,000
+OK, so I think we can understand malfunction is...
+
+45
+00:01:39,000 --> 00:01:41,000
+Not good working, right?
+
+46
+00:01:42,000 --> 00:01:43,000
+Yeah.
+
+47
+00:01:44,000 --> 00:01:46,000
+OK, more or less, it's not working properly.
+
+48
+00:01:47,000 --> 00:01:48,000
+Not working properly, right.
+
+49
+00:01:48,000 --> 00:01:53,000
+OK, well, why don't we listen to the dialogue and find out what isn't working properly.
+
+50
+00:02:00,000 --> 00:02:04,000
+Hey, Carl, can you make a copy of this contract for me, please?
+
+51
+00:02:04,000 --> 00:02:09,000
+And when you have it ready, send it out ASAP to our sub-branch.
+
+52
+00:02:10,000 --> 00:02:10,000
+Sure.
+
+53
+00:02:23,000 --> 00:02:25,000
+I think I broke this thing.
+
+54
+00:02:26,000 --> 00:02:27,000
+Maxine, can you help me out here?
+
+55
+00:02:27,000 --> 00:02:28,000
+I'm not really a tech guy.
+
+56
+00:02:29,000 --> 00:02:30,000
+Yeah, sure.
+
+57
+00:02:30,000 --> 00:02:32,000
+I think it's just out of toner.
+
+58
+00:02:32,000 --> 00:02:34,000
+You can go use the other one upstairs.
+
+59
+00:02:34,000 --> 00:02:38,000
+On your way up, can you fax this while I try and fix this thing?
+
+60
+00:02:40,000 --> 00:02:40,000
+Sure.
+
+61
+00:02:46,000 --> 00:02:49,000
+Damn it, everything in this office seems to be breaking down.
+
+62
+00:02:50,000 --> 00:02:52,000
+I'll send the stupid fax later.
+
+63
+00:02:57,000 --> 00:03:00,000
+Oh great, is someone playing a practical joke on me?
+
+64
+00:03:00,000 --> 00:03:01,000
+This is ridiculous.
+
+65
+00:03:02,000 --> 00:03:03,000
+The elevator has some sort of malfunction.
+
+66
+00:03:04,000 --> 00:03:05,000
+Just take the stairs, dude.
+
+67
+00:03:05,000 --> 00:03:06,000
+What floor are you going to?
+
+68
+00:03:07,000 --> 00:03:09,000
+I have to go up fifteen floors.
+
+69
+00:03:09,000 --> 00:03:11,000
+Never mind.
+
+70
+00:03:18,000 --> 00:03:21,000
+Made it.
+
+71
+00:03:22,000 --> 00:03:23,000
+There's a copier.
+
+72
+00:03:32,000 --> 00:03:33,000
+No!
+
+73
+00:03:40,000 --> 00:03:45,000
+Okay, so this copy machine is definitely not working properly.
+
+74
+00:03:45,000 --> 00:03:47,000
+A serious malfunction.
+
+75
+00:03:47,000 --> 00:03:48,000
+A serious malfunction.
+
+76
+00:03:48,000 --> 00:03:50,000
+I think the whole building exploded.
+
+77
+00:03:51,000 --> 00:03:54,000
+Alright, very dramatic here at EnglishPod, but we have fun, right?
+
+78
+00:03:54,000 --> 00:03:55,000
+Exactly.
+
+79
+00:03:55,000 --> 00:03:59,000
+Okay, let's take a look at some of the great language that we saw in Language Takeaway.
+
+80
+00:04:01,000 --> 00:04:02,000
+Language Takeaway.
+
+81
+00:04:04,000 --> 00:04:08,000
+Alright, three words for you here in Language Takeaway.
+
+82
+00:04:08,000 --> 00:04:09,000
+And we heard all of these in the dialogue.
+
+83
+00:04:11,000 --> 00:04:14,000
+So this guy needs to get a copy ASAP.
+
+84
+00:04:14,000 --> 00:04:15,000
+ASAP.
+
+85
+00:04:15,000 --> 00:04:16,000
+ASAP.
+
+86
+00:04:16,000 --> 00:04:17,000
+Or ASAP.
+
+87
+00:04:18,000 --> 00:04:18,000
+Yes.
+
+88
+00:04:19,000 --> 00:04:19,000
+Meaning?
+
+89
+00:04:20,000 --> 00:04:22,000
+As soon as possible.
+
+90
+00:04:23,000 --> 00:04:24,000
+So really, really fast.
+
+91
+00:04:24,000 --> 00:04:24,000
+Really fast.
+
+92
+00:04:24,000 --> 00:04:25,000
+Yep.
+
+93
+00:04:25,000 --> 00:04:27,000
+This is a very, very common phrase, right?
+
+94
+00:04:28,000 --> 00:04:32,000
+So it's an acronym, and you can say it like ASAP or ASAP.
+
+95
+00:04:33,000 --> 00:04:33,000
+Exactly.
+
+96
+00:04:34,000 --> 00:04:38,000
+Yeah, usually people say it like that because it's too long, I guess, to say as soon as possible.
+
+97
+00:04:38,000 --> 00:04:40,000
+So, hey, I need this document ASAP.
+
+98
+00:04:40,000 --> 00:04:40,000
+Yes.
+
+99
+00:04:41,000 --> 00:04:42,000
+Or ASAP.
+
+100
+00:04:43,000 --> 00:04:44,000
+Okay, let's look at our next word.
+
+101
+00:04:45,000 --> 00:04:46,000
+A practical joke.
+
+102
+00:04:47,000 --> 00:04:48,000
+Practical joke.
+
+103
+00:04:48,000 --> 00:04:49,000
+Practical joke.
+
+104
+00:04:50,000 --> 00:04:51,000
+Practical joke.
+
+105
+00:04:51,000 --> 00:04:53,000
+Okay, so a practical joke.
+
+106
+00:04:53,000 --> 00:04:57,000
+I'm sure we have all played a practical joke on some of our friends, right?
+
+107
+00:04:57,000 --> 00:04:58,000
+Yes.
+
+108
+00:04:58,000 --> 00:05:02,000
+Basically what you do is you do something funny on purpose to someone.
+
+109
+00:05:02,000 --> 00:05:02,000
+Yeah.
+
+110
+00:05:03,000 --> 00:05:04,000
+But something crazy.
+
+111
+00:05:04,000 --> 00:05:05,000
+Crazy, right?
+
+112
+00:05:05,000 --> 00:05:18,000
+For example, when I was in university, there was this guy in our building, and we took all of his bedroom furniture, so his bed, his desk, everything, and put it down on the football field.
+
+113
+00:05:18,000 --> 00:05:19,000
+Nice.
+
+114
+00:05:19,000 --> 00:05:21,000
+Yeah, that was a practical joke.
+
+115
+00:05:21,000 --> 00:05:25,000
+That is a very good and elaborate practical joke.
+
+116
+00:05:25,000 --> 00:05:29,000
+Okay, so practical joke, do something crazy or funny to your friends.
+
+117
+00:05:30,000 --> 00:05:30,000
+Okay.
+
+118
+00:05:30,000 --> 00:05:32,000
+And now let's look at our last word.
+
+119
+00:05:33,000 --> 00:05:33,000
+Never mind.
+
+120
+00:05:34,000 --> 00:05:34,000
+Never mind.
+
+121
+00:05:35,000 --> 00:05:35,000
+Never mind.
+
+122
+00:05:36,000 --> 00:05:36,000
+Never mind.
+
+123
+00:05:37,000 --> 00:05:39,000
+Okay, so if you say never mind, it means...
+
+124
+00:05:39,000 --> 00:05:40,000
+Don't worry about it.
+
+125
+00:05:40,000 --> 00:05:41,000
+Don't worry about it.
+
+126
+00:05:41,000 --> 00:05:41,000
+Forget it.
+
+127
+00:05:41,000 --> 00:05:42,000
+Forget it.
+
+128
+00:05:42,000 --> 00:05:43,000
+Never mind.
+
+129
+00:05:43,000 --> 00:05:43,000
+Yep.
+
+130
+00:05:43,000 --> 00:05:49,000
+Yeah, this is, you know, this is so common, and I think it would be helpful to understand how it's used.
+
+131
+00:05:50,000 --> 00:05:51,000
+So let's hear some examples.
+
+132
+00:05:53,000 --> 00:05:54,000
+Example one.
+
+133
+00:05:56,000 --> 00:05:58,000
+Someone stole my wallet.
+
+134
+00:05:58,000 --> 00:05:59,000
+Oh, wait.
+
+135
+00:05:59,000 --> 00:06:00,000
+Never mind.
+
+136
+00:06:00,000 --> 00:06:02,000
+Here it is.
+
+137
+00:06:05,000 --> 00:06:06,000
+Example two.
+
+138
+00:06:10,000 --> 00:06:12,000
+Can you get some milk on your way home?
+
+139
+00:06:12,000 --> 00:06:13,000
+Oh, never mind.
+
+140
+00:06:14,000 --> 00:06:15,000
+We still have some.
+
+141
+00:06:18,000 --> 00:06:19,000
+Example three.
+
+142
+00:06:22,000 --> 00:06:24,000
+The printer's broken?
+
+143
+00:06:24,000 --> 00:06:25,000
+Never mind.
+
+144
+00:06:25,000 --> 00:06:26,000
+I'll do this later.
+
+145
+00:06:29,000 --> 00:06:40,000
+Okay, great examples, and I think our language takeaway is clear, so why don't we listen to our dialogue for the second time, and then we'll come back and talk about putting it together.
+
+146
+00:06:47,000 --> 00:06:51,000
+Hey, Carl, can you make a copy of this contract for me, please?
+
+147
+00:06:51,000 --> 00:06:56,000
+And when you have it ready, send it out ASAP to our sub-branch.
+
+148
+00:06:57,000 --> 00:06:58,000
+Sure.
+
+149
+00:06:59,000 --> 00:07:00,000
+Um, I think I broke this thing.
+
+150
+00:07:01,000 --> 00:07:02,000
+Maxine, can you help me out here?
+
+151
+00:07:02,000 --> 00:07:04,000
+I'm not really a tech guy.
+
+152
+00:07:04,000 --> 00:07:05,000
+Yeah, sure.
+
+153
+00:07:05,000 --> 00:07:06,000
+I think it's just out of toner.
+
+154
+00:07:07,000 --> 00:07:09,000
+You can go use the other one upstairs.
+
+155
+00:07:09,000 --> 00:07:13,000
+On your way up, can you fax this while I try and fix this thing?
+
+156
+00:07:13,000 --> 00:07:14,000
+Sure.
+
+157
+00:07:14,000 --> 00:07:15,000
+Damn it.
+
+158
+00:07:15,000 --> 00:07:17,000
+Everything in this office seems to be breaking down.
+
+159
+00:07:18,000 --> 00:07:20,000
+I'll send the stupid fax later.
+
+160
+00:07:20,000 --> 00:07:21,000
+Oh, great!
+
+161
+00:07:21,000 --> 00:07:23,000
+Is someone playing a practical joke on me?
+
+162
+00:07:23,000 --> 00:07:23,000
+This is ridiculous!
+
+163
+00:07:25,000 --> 00:07:26,000
+The elevator has some sort of malfunction.
+
+164
+00:07:27,000 --> 00:07:28,000
+Just take the stairs, dude.
+
+165
+00:07:28,000 --> 00:07:29,000
+What floor are you going to?
+
+166
+00:07:30,000 --> 00:07:31,000
+I have to go up fifteen floors!
+
+167
+00:07:32,000 --> 00:07:33,000
+Never mind.
+
+168
+00:07:35,000 --> 00:07:36,000
+Made it.
+
+169
+00:07:37,000 --> 00:07:38,000
+There's a copier.
+
+170
+00:07:39,000 --> 00:07:39,000
+No!
+
+171
+00:07:43,000 --> 00:07:49,000
+In this dialogue, there's some great language that can be used in many different patterns, or in many different ways.
+
+172
+00:07:49,000 --> 00:07:55,000
+So, in today's Putting It Together, we're going to show you how to use three of these patterns.
+
+173
+00:07:57,000 --> 00:08:04,000
+Okay, the first pattern that we can look at is out of toner.
+
+174
+00:08:04,000 --> 00:08:06,000
+Out of toner.
+
+175
+00:08:06,000 --> 00:08:06,000
+Right.
+
+176
+00:08:07,000 --> 00:08:08,000
+So, we already talked about toner.
+
+177
+00:08:08,000 --> 00:08:08,000
+Yep.
+
+178
+00:08:09,000 --> 00:08:10,000
+Let's talk about out of.
+
+179
+00:08:10,000 --> 00:08:13,000
+Okay, so when you are out of, you have none.
+
+180
+00:08:14,000 --> 00:08:14,000
+Right.
+
+181
+00:08:14,000 --> 00:08:16,000
+So, let's change a little bit.
+
+182
+00:08:16,000 --> 00:08:18,000
+So, I can say, I am out of milk.
+
+183
+00:08:18,000 --> 00:08:19,000
+Uh-huh.
+
+184
+00:08:19,000 --> 00:08:21,000
+I'm out of time.
+
+185
+00:08:21,000 --> 00:08:22,000
+Out of time.
+
+186
+00:08:22,000 --> 00:08:22,000
+Right.
+
+187
+00:08:22,000 --> 00:08:26,000
+If you're driving, I'm out of gas or gasoline.
+
+188
+00:08:27,000 --> 00:08:28,000
+So, out of plus noun.
+
+189
+00:08:29,000 --> 00:08:29,000
+Mm-hmm.
+
+190
+00:08:30,000 --> 00:08:30,000
+Perfect.
+
+191
+00:08:30,000 --> 00:08:31,000
+It means you don't have none.
+
+192
+00:08:32,000 --> 00:08:32,000
+Yeah, you don't have none.
+
+193
+00:08:33,000 --> 00:08:34,000
+EnglishPod.com.
+
+194
+00:08:34,000 --> 00:08:35,000
+EnglishPod.com.
+
+195
+00:08:35,000 --> 00:08:36,000
+You ain't got none.
+
+196
+00:08:37,000 --> 00:08:38,000
+Eubonics.com.
+
+197
+00:08:39,000 --> 00:08:39,000
+All right.
+
+198
+00:08:39,000 --> 00:08:40,000
+Out of time.
+
+199
+00:08:40,000 --> 00:08:42,000
+Let's take a look at our second one.
+
+200
+00:08:42,000 --> 00:08:43,000
+On your way up.
+
+201
+00:08:43,000 --> 00:08:43,000
+Yeah.
+
+202
+00:08:44,000 --> 00:08:44,000
+On your way up.
+
+203
+00:08:45,000 --> 00:08:46,000
+On your way.
+
+204
+00:08:46,000 --> 00:08:46,000
+Right.
+
+205
+00:08:46,000 --> 00:08:46,000
+Mm-hmm.
+
+206
+00:08:46,000 --> 00:08:51,000
+So, this is a great way when you are talking to someone and they're going somewhere.
+
+207
+00:08:51,000 --> 00:08:51,000
+Yes.
+
+208
+00:08:52,000 --> 00:08:52,000
+Right.
+
+209
+00:08:52,000 --> 00:08:54,000
+So, on your way up.
+
+210
+00:08:54,000 --> 00:08:55,000
+Can you bring this to HR?
+
+211
+00:08:56,000 --> 00:08:56,000
+Okay.
+
+212
+00:08:57,000 --> 00:08:58,000
+On your way to the store.
+
+213
+00:08:58,000 --> 00:09:00,000
+Can you mail this letter?
+
+214
+00:09:01,000 --> 00:09:03,000
+Or maybe on your way home.
+
+215
+00:09:03,000 --> 00:09:05,000
+Can you buy me some flowers?
+
+216
+00:09:07,000 --> 00:09:07,000
+Nice.
+
+217
+00:09:07,000 --> 00:09:08,000
+All right.
+
+218
+00:09:08,000 --> 00:09:10,000
+So, on your way, it means.
+
+219
+00:09:10,000 --> 00:09:12,000
+It means while you are going there.
+
+220
+00:09:12,000 --> 00:09:13,000
+Right.
+
+221
+00:09:13,000 --> 00:09:13,000
+Yeah.
+
+222
+00:09:13,000 --> 00:09:15,000
+Taking advantage of the fact that you are going somewhere.
+
+223
+00:09:15,000 --> 00:09:16,000
+Yes.
+
+224
+00:09:16,000 --> 00:09:16,000
+Okay.
+
+225
+00:09:16,000 --> 00:09:18,000
+Now, let's take a look at our last one.
+
+226
+00:09:19,000 --> 00:09:20,000
+And this is a really great phrase.
+
+227
+00:09:20,000 --> 00:09:21,000
+Mm-hmm.
+
+228
+00:09:21,000 --> 00:09:21,000
+Breakdown.
+
+229
+00:09:22,000 --> 00:09:22,000
+Breakdown.
+
+230
+00:09:23,000 --> 00:09:25,000
+In our dialogue, we heard breaking down.
+
+231
+00:09:25,000 --> 00:09:26,000
+Yes.
+
+232
+00:09:26,000 --> 00:09:26,000
+Right?
+
+233
+00:09:26,000 --> 00:09:29,000
+Everything in the office seems to be breaking down.
+
+234
+00:09:29,000 --> 00:09:29,000
+Right.
+
+235
+00:09:29,000 --> 00:09:31,000
+So, when something breaks down.
+
+236
+00:09:32,000 --> 00:09:32,000
+It stops working.
+
+237
+00:09:33,000 --> 00:09:34,000
+It stops working.
+
+238
+00:09:34,000 --> 00:09:34,000
+Yeah.
+
+239
+00:09:34,000 --> 00:09:34,000
+Exactly.
+
+240
+00:09:35,000 --> 00:09:36,000
+So, we can change it a little bit.
+
+241
+00:09:36,000 --> 00:09:38,000
+What happens if we say break up?
+
+242
+00:09:39,000 --> 00:09:39,000
+Ooh.
+
+243
+00:09:39,000 --> 00:09:40,000
+Boyfriend and girlfriend.
+
+244
+00:09:40,000 --> 00:09:41,000
+Right.
+
+245
+00:09:41,000 --> 00:09:42,000
+They end their relationship.
+
+246
+00:09:42,000 --> 00:09:42,000
+Okay.
+
+247
+00:09:42,000 --> 00:09:43,000
+Okay.
+
+248
+00:09:43,000 --> 00:09:47,000
+So, we can maybe think about it as their relationship stops working.
+
+249
+00:09:47,000 --> 00:09:48,000
+Oh, nice one.
+
+250
+00:09:48,000 --> 00:09:48,000
+Right?
+
+251
+00:09:48,000 --> 00:09:48,000
+Yeah.
+
+252
+00:09:48,000 --> 00:09:49,000
+Okay.
+
+253
+00:09:49,000 --> 00:09:50,000
+What about break in?
+
+254
+00:09:51,000 --> 00:09:53,000
+Enter a place using force.
+
+255
+00:09:54,000 --> 00:09:54,000
+Right.
+
+256
+00:09:54,000 --> 00:09:57,000
+You enter a house that's not yours.
+
+257
+00:09:57,000 --> 00:09:57,000
+Yeah.
+
+258
+00:09:57,000 --> 00:10:01,000
+So, if you break into a house, maybe you break the window and climb in.
+
+259
+00:10:01,000 --> 00:10:01,000
+Okay.
+
+260
+00:10:02,000 --> 00:10:02,000
+Mm-hmm.
+
+261
+00:10:02,000 --> 00:10:03,000
+What about break out?
+
+262
+00:10:03,000 --> 00:10:04,000
+The opposite.
+
+263
+00:10:05,000 --> 00:10:08,000
+So, for example, you might break out of jail.
+
+264
+00:10:08,000 --> 00:10:09,000
+Break out of prison.
+
+265
+00:10:09,000 --> 00:10:09,000
+Yeah.
+
+266
+00:10:10,000 --> 00:10:11,000
+So, this is a great phrase.
+
+267
+00:10:11,000 --> 00:10:16,000
+You can change the last word from break down, break up, break in.
+
+268
+00:10:16,000 --> 00:10:17,000
+And it means different things.
+
+269
+00:10:18,000 --> 00:10:20,000
+So, use different prepositions for different meanings.
+
+270
+00:10:21,000 --> 00:10:21,000
+Perfect.
+
+271
+00:10:21,000 --> 00:10:21,000
+Mm-hmm.
+
+272
+00:10:22,000 --> 00:10:22,000
+Okay.
+
+273
+00:10:22,000 --> 00:10:30,000
+So, now let's listen to our dialogue for the last time, and then Erica and I will be back and talk a little bit more about malfunctioning office supplies.
+
+274
+00:10:40,000 --> 00:10:44,000
+Hey, Carl, can you make a copy of this contract for me, please?
+
+275
+00:10:44,000 --> 00:10:49,000
+And when you have it ready, send it out ASAP to our sub-branch.
+
+276
+00:10:50,000 --> 00:10:50,000
+Sure.
+
+277
+00:11:02,000 --> 00:11:05,000
+Um, I think I broke this thing.
+
+278
+00:11:05,000 --> 00:11:06,000
+Maxine, can you help me out here?
+
+279
+00:11:07,000 --> 00:11:08,000
+I'm not really a tech guy.
+
+280
+00:11:09,000 --> 00:11:10,000
+Yeah, sure.
+
+281
+00:11:10,000 --> 00:11:12,000
+I think it's just out of toner.
+
+282
+00:11:12,000 --> 00:11:14,000
+You can go use the other one upstairs.
+
+283
+00:11:14,000 --> 00:11:18,000
+On your way up, can you fax this while I try and fix this thing?
+
+284
+00:11:19,000 --> 00:11:20,000
+Sure.
+
+285
+00:11:26,000 --> 00:11:26,000
+Damn it.
+
+286
+00:11:27,000 --> 00:11:29,000
+Everything in this office seems to be breaking down.
+
+287
+00:11:29,000 --> 00:11:31,000
+I'll send the stupid fax later.
+
+288
+00:11:37,000 --> 00:11:38,000
+Oh, great!
+
+289
+00:11:38,000 --> 00:11:40,000
+Is someone playing a practical joke on me?
+
+290
+00:11:40,000 --> 00:11:40,000
+This is ridiculous!
+
+291
+00:11:42,000 --> 00:11:43,000
+The elevator has some sort of malfunction.
+
+292
+00:11:44,000 --> 00:11:45,000
+Just take the stairs, dude.
+
+293
+00:11:45,000 --> 00:11:46,000
+What floor are you going to?
+
+294
+00:11:47,000 --> 00:11:49,000
+I have to go up fifteen floors!
+
+295
+00:11:50,000 --> 00:11:50,000
+Never mind.
+
+296
+00:12:00,000 --> 00:12:01,000
+Made it.
+
+297
+00:12:02,000 --> 00:12:03,000
+There's a copier.
+
+298
+00:12:09,000 --> 00:12:09,000
+No!
+
+299
+00:12:21,000 --> 00:12:26,000
+Alright, so Erica, everything that you touch that's electronic seems to malfunction, right?
+
+300
+00:12:26,000 --> 00:12:28,000
+This is absolutely true.
+
+301
+00:12:29,000 --> 00:12:31,000
+I don't know what it is, but you know what?
+
+302
+00:12:31,000 --> 00:12:35,000
+If I turn on a computer, it will suddenly get a virus.
+
+303
+00:12:36,000 --> 00:12:39,000
+And even if I'm very careful, it still breaks.
+
+304
+00:12:39,000 --> 00:12:40,000
+Yeah, it happens sometimes.
+
+305
+00:12:40,000 --> 00:12:41,000
+I can relate to that.
+
+306
+00:12:42,000 --> 00:12:47,000
+But you are much better at computers and technology than I am.
+
+307
+00:12:47,000 --> 00:12:49,000
+Well, I really, really like them.
+
+308
+00:12:49,000 --> 00:12:56,000
+And, well, I guess even I know a little bit about copy machines or copiers because my uncles are copy technicians.
+
+309
+00:12:57,000 --> 00:12:57,000
+Really?
+
+310
+00:12:59,000 --> 00:13:06,000
+They fix copiers that broke down, or they replace toner, and they do all that stuff.
+
+311
+00:13:06,000 --> 00:13:08,000
+So that's why I know a little bit about it.
+
+312
+00:13:08,000 --> 00:13:10,000
+But actually the original term is a Xerox machine.
+
+313
+00:13:11,000 --> 00:13:11,000
+Yes, why is that?
+
+314
+00:13:12,000 --> 00:13:12,000
+From the brand, right?
+
+315
+00:13:13,000 --> 00:13:20,000
+There's a brand called Xerox, and Xerox invented and patented this technology of making copies.
+
+316
+00:13:20,000 --> 00:13:24,000
+Alright, well the next time my photocopier explodes, I'll call you.
+
+317
+00:13:25,000 --> 00:13:26,000
+Call my uncles, right?
+
+318
+00:13:26,000 --> 00:13:26,000
+Okay.
+
+319
+00:13:27,000 --> 00:13:35,000
+Alright, and well let us know how things in your office break down, or if you have any stories of Erica that breaks everything she touches.
+
+320
+00:13:35,000 --> 00:13:36,000
+Yeah, it's true.
+
+321
+00:13:37,000 --> 00:13:44,000
+Alright, so come to our website, come to our comments section, and leave your opinions and we'll be there to also answer any doubts or questions you might have.
+
+322
+00:13:44,000 --> 00:13:50,000
+That's right, you can find us at EnglishPod.com, and Marco and I are always around.
+
+323
+00:13:50,000 --> 00:13:51,000
+Alright, so we'll see you guys there.
+
+324
+00:13:52,000 --> 00:13:52,000
+Yeah, we will.
+
+325
+00:13:53,000 --> 00:13:57,000
+Okay guys, thanks for listening, and until next time, goodbye.
+

@@ -1,0 +1,496 @@
+1
+00:00:00,000 --> 00:00:07,000
+The EnglishPod Audio Review Listen to the meaning, then say the vocabulary word.
+
+2
+00:00:08,000 --> 00:00:11,000
+A real or specific solution to a problem.
+
+3
+00:00:14,000 --> 00:00:15,000
+Concrete solutions.
+
+4
+00:00:18,000 --> 00:00:19,000
+Increase sales.
+
+5
+00:00:22,000 --> 00:00:23,000
+Drive sales.
+
+6
+00:00:25,000 --> 00:00:26,000
+In the industry.
+
+7
+00:00:28,000 --> 00:00:29,000
+In the market.
+
+8
+00:00:32,000 --> 00:00:36,000
+Be as good as or better than other companies in the same industry.
+
+9
+00:00:38,000 --> 00:00:40,000
+To match the competitors.
+
+10
+00:00:42,000 --> 00:00:45,000
+Will not work, will not be approved.
+
+11
+00:00:47,000 --> 00:00:48,000
+Will never fly.
+
+12
+00:00:50,000 --> 00:00:53,000
+Something done to make people aware of a product.
+
+13
+00:00:55,000 --> 00:00:56,000
+Promotion.
+
+14
+00:00:59,000 --> 00:01:00,000
+Will arrive very soon.
+
+15
+00:01:02,000 --> 00:01:04,000
+Be here any minute.
+
+16
+00:01:06,000 --> 00:01:07,000
+Thinking about.
+
+17
+00:01:09,000 --> 00:01:11,000
+To consider.
+
+18
+00:01:12,000 --> 00:01:13,000
+Excellent.
+
+19
+00:01:15,000 --> 00:01:16,000
+Brilliant.
+
+20
+00:01:18,000 --> 00:01:21,000
+As good as or better than others of the same type.
+
+21
+00:01:24,000 --> 00:01:25,000
+Competitive.
+
+22
+00:01:26,000 --> 00:01:28,000
+Make sales successfully.
+
+23
+00:01:31,000 --> 00:01:32,000
+Win sales.
+
+24
+00:01:34,000 --> 00:01:37,000
+Plans for a company's sales activities.
+
+25
+00:01:39,000 --> 00:01:41,000
+Sales strategy.
+
+26
+00:01:42,000 --> 00:01:46,000
+The process a customer goes through when deciding to buy a product.
+
+27
+00:01:48,000 --> 00:01:50,000
+Sales cycle.
+
+28
+00:01:50,000 --> 00:01:53,000
+To sell more than others.
+
+29
+00:01:56,000 --> 00:01:57,000
+To outsell.
+
+30
+00:01:59,000 --> 00:02:02,000
+When a customer buys the same brand over and over.
+
+31
+00:02:04,000 --> 00:02:05,000
+Customer loyalty.
+
+32
+00:02:07,000 --> 00:02:08,000
+Let's try that faster.
+
+33
+00:02:11,000 --> 00:02:11,000
+Excellent.
+
+34
+00:02:13,000 --> 00:02:14,000
+Brilliant.
+
+35
+00:02:15,000 --> 00:02:16,000
+Will arrive very soon.
+
+36
+00:02:18,000 --> 00:02:20,000
+Be here any minute.
+
+37
+00:02:22,000 --> 00:02:23,000
+To sell more than others.
+
+38
+00:02:25,000 --> 00:02:26,000
+To outsell.
+
+39
+00:02:28,000 --> 00:02:30,000
+Will not work, will not be approved.
+
+40
+00:02:32,000 --> 00:02:33,000
+Will never fly.
+
+41
+00:02:35,000 --> 00:02:38,000
+The process a customer goes through when deciding to buy a product.
+
+42
+00:02:40,000 --> 00:02:42,000
+Sales cycle.
+
+43
+00:02:43,000 --> 00:02:46,000
+Something done to make people aware of a product.
+
+44
+00:02:48,000 --> 00:02:49,000
+Promotion.
+
+45
+00:02:50,000 --> 00:02:51,000
+In the industry.
+
+46
+00:02:53,000 --> 00:02:54,000
+In the market.
+
+47
+00:02:56,000 --> 00:02:57,000
+Increase sales.
+
+48
+00:02:59,000 --> 00:03:00,000
+Drive sales.
+
+49
+00:03:01,000 --> 00:03:05,000
+Be as good as or better than other companies in the same industry.
+
+50
+00:03:07,000 --> 00:03:09,000
+To match the competitors.
+
+51
+00:03:11,000 --> 00:03:14,000
+As good as or better than others of the same type.
+
+52
+00:03:16,000 --> 00:03:17,000
+Competitive.
+
+53
+00:03:18,000 --> 00:03:20,000
+Make sales successfully.
+
+54
+00:03:22,000 --> 00:03:23,000
+Win sales.
+
+55
+00:03:25,000 --> 00:03:27,000
+Plans for a company's sales activities.
+
+56
+00:03:29,000 --> 00:03:31,000
+Sales strategy.
+
+57
+00:03:32,000 --> 00:03:35,000
+When a customer buys the same brand over and over.
+
+58
+00:03:37,000 --> 00:03:38,000
+Customer loyalty.
+
+59
+00:03:40,000 --> 00:03:41,000
+Thinking about.
+
+60
+00:03:41,000 --> 00:03:44,000
+To consider.
+
+61
+00:03:45,000 --> 00:03:48,000
+A real or specific solution to a problem.
+
+62
+00:03:50,000 --> 00:03:52,000
+Concrete solutions.
+
+63
+00:03:53,000 --> 00:03:56,000
+Now say the word and hear it in a sentence.
+
+64
+00:03:57,000 --> 00:03:59,000
+Drive sales.
+
+65
+00:04:03,000 --> 00:04:04,000
+Drive sales.
+
+66
+00:04:05,000 --> 00:04:12,000
+If we want to drive sales, I think we need to spend more time training our salespeople.
+
+67
+00:04:13,000 --> 00:04:15,000
+Drive sales.
+
+68
+00:04:20,000 --> 00:04:25,000
+The most important thing for us right now is to focus on driving sales.
+
+69
+00:04:27,000 --> 00:04:28,000
+Drive sales.
+
+70
+00:04:35,000 --> 00:04:36,000
+Drive sales.
+
+71
+00:04:36,000 --> 00:04:41,000
+I think if we increase our marketing budget, it will help us to drive sales in the fourth quarter.
+
+72
+00:04:49,000 --> 00:04:55,000
+I expect each of you to come to the meeting tomorrow with concrete solutions for our recruitment problem.
+
+73
+00:04:59,000 --> 00:05:03,000
+Dale, have you come up with any concrete solutions?
+
+74
+00:05:09,000 --> 00:05:14,000
+I'm sorry, but I just can't offer any concrete solutions right now.
+
+75
+00:05:15,000 --> 00:05:16,000
+Promotion.
+
+76
+00:05:22,000 --> 00:05:28,000
+We can't have a sales promotion right now because our costs are too high.
+
+77
+00:05:29,000 --> 00:05:30,000
+Promotion.
+
+78
+00:05:37,000 --> 00:05:40,000
+The department store is offering a promotion.
+
+79
+00:05:40,000 --> 00:05:42,000
+Everything is 50% off.
+
+80
+00:05:42,000 --> 00:05:43,000
+Let's go shopping.
+
+81
+00:05:45,000 --> 00:05:46,000
+Promotion.
+
+82
+00:05:52,000 --> 00:05:56,000
+A two-for-one promotion might be a way to attract new customers.
+
+83
+00:06:02,000 --> 00:06:06,000
+We guarantee that we can match the competitors' lowest price.
+
+84
+00:06:13,000 --> 00:06:16,000
+It's impossible for us to match the competitors.
+
+85
+00:06:16,000 --> 00:06:18,000
+Our costs are just too high.
+
+86
+00:06:25,000 --> 00:06:29,000
+Do you think we can match the competitors' quality and still keep our price low?
+
+87
+00:06:31,000 --> 00:06:31,000
+In the market.
+
+88
+00:06:38,000 --> 00:06:40,000
+EnglishPod is the best podcast in the market.
+
+89
+00:06:42,000 --> 00:06:44,000
+In the market.
+
+90
+00:06:50,000 --> 00:06:54,000
+iPods are the most popular MP3 players in the market.
+
+91
+00:06:55,000 --> 00:06:57,000
+In the market.
+
+92
+00:07:02,000 --> 00:07:05,000
+Our product is the cheapest in the market.
+
+93
+00:07:07,000 --> 00:07:09,000
+We'll never fly.
+
+94
+00:07:16,000 --> 00:07:19,000
+This marketing plan will never fly.
+
+95
+00:07:19,000 --> 00:07:22,000
+We just don't have enough money for it.
+
+96
+00:07:23,000 --> 00:07:25,000
+We'll never fly.
+
+97
+00:07:29,000 --> 00:07:34,000
+I like that idea, but it'll never fly with management.
+
+98
+00:07:35,000 --> 00:07:37,000
+We'll never fly.
+
+99
+00:07:44,000 --> 00:07:45,000
+We'll never fly.
+
+100
+00:07:45,000 --> 00:07:49,000
+Brad told me his idea for a film script, but the story will never fly.
+
+101
+00:07:49,000 --> 00:07:51,000
+It's not interesting enough.
+
+102
+00:07:52,000 --> 00:07:54,000
+Be here any minute.
+
+103
+00:07:58,000 --> 00:07:59,000
+Hurry up!
+
+104
+00:08:00,000 --> 00:08:01,000
+The bus will be here any minute.
+
+105
+00:08:03,000 --> 00:08:05,000
+Be here any minute.
+
+106
+00:08:11,000 --> 00:08:12,000
+Nick just called.
+
+107
+00:08:13,000 --> 00:08:15,000
+He said he should be here any minute.
+
+108
+00:08:17,000 --> 00:08:19,000
+Be here any minute.
+
+109
+00:08:24,000 --> 00:08:26,000
+Is everything prepared for the meeting?
+
+110
+00:08:26,000 --> 00:08:28,000
+The CEO will be here any minute.
+
+111
+00:08:30,000 --> 00:08:30,000
+To consider.
+
+112
+00:08:33,000 --> 00:08:36,000
+We're considering a sales promotion.
+
+113
+00:08:37,000 --> 00:08:38,000
+To consider.
+
+114
+00:08:42,000 --> 00:08:45,000
+I think we need to consider a new sales strategy.
+
+115
+00:08:47,000 --> 00:08:48,000
+To consider.
+
+116
+00:08:52,000 --> 00:08:54,000
+Have you considered reducing the price?
+
+117
+00:08:56,000 --> 00:08:57,000
+Brilliant.
+
+118
+00:09:00,000 --> 00:09:02,000
+That's a brilliant idea.
+
+119
+00:09:04,000 --> 00:09:04,000
+Brilliant.
+
+120
+00:09:04,000 --> 00:09:05,000
+Brilliant.
+
+121
+00:09:08,000 --> 00:09:10,000
+This is a brilliant marketing plan.
+
+122
+00:09:12,000 --> 00:09:12,000
+Brilliant.
+
+123
+00:09:17,000 --> 00:09:18,000
+What a brilliant suggestion.
+
+124
+00:09:19,000 --> 00:09:20,000
+Thanks Roger.
+

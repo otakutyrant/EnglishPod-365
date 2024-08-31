@@ -1,0 +1,136 @@
+1
+00:00:01,000 --> 00:00:08,000
+EnglishPod.com I hate coming to high school reunions.
+
+2
+00:00:08,000 --> 00:00:09,000
+It'll be great, honey.
+
+3
+00:00:10,000 --> 00:00:14,000
+We will get to see your old classmates and catch up to see how they've been doing.
+
+4
+00:00:15,000 --> 00:00:16,000
+Yeah, I guess so.
+
+5
+00:00:17,000 --> 00:00:17,000
+Oh, look.
+
+6
+00:00:18,000 --> 00:00:19,000
+There's Robert Matthews.
+
+7
+00:00:19,000 --> 00:00:20,000
+Rob!
+
+8
+00:00:20,000 --> 00:00:21,000
+Hey, Bill.
+
+9
+00:00:21,000 --> 00:00:21,000
+Wow.
+
+10
+00:00:22,000 --> 00:00:23,000
+Great to see you.
+
+11
+00:00:23,000 --> 00:00:23,000
+Likewise.
+
+12
+00:00:24,000 --> 00:00:25,000
+It's been a long time.
+
+13
+00:00:25,000 --> 00:00:26,000
+This is my wife, Dorothy.
+
+14
+00:00:27,000 --> 00:00:28,000
+Pleasure to meet you.
+
+15
+00:00:28,000 --> 00:00:29,000
+So, Bill, how have you been?
+
+16
+00:00:30,000 --> 00:00:30,000
+Can't complain.
+
+17
+00:00:31,000 --> 00:00:34,000
+We have two children who are in college and my business is going well.
+
+18
+00:00:35,000 --> 00:00:35,000
+How about you?
+
+19
+00:00:36,000 --> 00:00:37,000
+Ah, you know me.
+
+20
+00:00:37,000 --> 00:00:39,000
+I'm a dedicated bachelor.
+
+21
+00:00:39,000 --> 00:00:42,000
+I never married, although I do have a beautiful daughter with Mary.
+
+22
+00:00:43,000 --> 00:00:43,000
+You remember her.
+
+23
+00:00:44,000 --> 00:00:45,000
+We were high school sweethearts.
+
+24
+00:00:45,000 --> 00:00:49,000
+It didn't really work out between us, but I really can't complain either.
+
+25
+00:00:49,000 --> 00:00:50,000
+That's good.
+
+26
+00:00:50,000 --> 00:00:51,000
+Have you seen Frank?
+
+27
+00:00:51,000 --> 00:00:53,000
+I was hoping he would come tonight.
+
+28
+00:00:53,000 --> 00:00:54,000
+You didn't hear?
+
+29
+00:00:55,000 --> 00:00:56,000
+Frank passed away last year.
+
+30
+00:00:57,000 --> 00:00:58,000
+Are you serious?
+
+31
+00:00:58,000 --> 00:01:00,000
+Nah, I'm just janking your chain.
+
+32
+00:01:00,000 --> 00:01:01,000
+He'll be here soon.
+
+33
+00:01:01,000 --> 00:01:02,000
+I saw him last week.
+
+34
+00:01:02,000 --> 00:01:03,000
+He told me he would show up.
+

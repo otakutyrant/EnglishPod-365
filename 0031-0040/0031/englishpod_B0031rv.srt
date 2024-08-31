@@ -1,0 +1,256 @@
+1
+00:00:00,000 --> 00:00:07,000
+The EnglishPod Audio Review Listen to the meaning, then say the vocabulary word.
+
+2
+00:00:08,000 --> 00:00:09,000
+What is the matter?
+
+3
+00:00:11,000 --> 00:00:12,000
+What's up?
+
+4
+00:00:15,000 --> 00:00:17,000
+Schedule something for a different time.
+
+5
+00:00:19,000 --> 00:00:19,000
+Reschedule.
+
+6
+00:00:21,000 --> 00:00:23,000
+Cause problem or trouble.
+
+7
+00:00:25,000 --> 00:00:26,000
+Inconvenience.
+
+8
+00:00:27,000 --> 00:00:30,000
+Occur in an unexpected way.
+
+9
+00:00:31,000 --> 00:00:32,000
+Come up.
+
+10
+00:00:33,000 --> 00:00:36,000
+Decide to do something at a later time.
+
+11
+00:00:38,000 --> 00:00:39,000
+Postpone.
+
+12
+00:00:41,000 --> 00:00:41,000
+Not surprisingly.
+
+13
+00:00:43,000 --> 00:00:44,000
+No wonder.
+
+14
+00:00:46,000 --> 00:00:47,000
+Let's try that faster.
+
+15
+00:00:49,000 --> 00:00:50,000
+Cause problem or trouble.
+
+16
+00:00:51,000 --> 00:00:52,000
+Inconvenience.
+
+17
+00:00:53,000 --> 00:00:54,000
+Not surprisingly.
+
+18
+00:00:54,000 --> 00:00:56,000
+No wonder.
+
+19
+00:00:57,000 --> 00:00:59,000
+Cause problem or trouble.
+
+20
+00:01:00,000 --> 00:01:01,000
+Inconvenience.
+
+21
+00:01:02,000 --> 00:01:03,000
+What is the matter?
+
+22
+00:01:04,000 --> 00:01:04,000
+What's up?
+
+23
+00:01:05,000 --> 00:01:07,000
+Not surprisingly.
+
+24
+00:01:08,000 --> 00:01:08,000
+No wonder.
+
+25
+00:01:09,000 --> 00:01:11,000
+Schedule something for a different time.
+
+26
+00:01:12,000 --> 00:01:13,000
+Reschedule.
+
+27
+00:01:14,000 --> 00:01:16,000
+Cause problem or trouble.
+
+28
+00:01:17,000 --> 00:01:18,000
+Inconvenience.
+
+29
+00:01:19,000 --> 00:01:21,000
+Schedule something for a different time.
+
+30
+00:01:22,000 --> 00:01:23,000
+Reschedule.
+
+31
+00:01:24,000 --> 00:01:26,000
+Cause problem or trouble.
+
+32
+00:01:26,000 --> 00:01:27,000
+Inconvenience.
+
+33
+00:01:29,000 --> 00:01:31,000
+Schedule something for a different time.
+
+34
+00:01:31,000 --> 00:01:32,000
+Reschedule.
+
+35
+00:01:33,000 --> 00:01:36,000
+Decide to do something at a later time.
+
+36
+00:01:37,000 --> 00:01:38,000
+Postpone.
+
+37
+00:01:39,000 --> 00:01:41,000
+Schedule something for a different time.
+
+38
+00:01:42,000 --> 00:01:42,000
+Reschedule.
+
+39
+00:01:44,000 --> 00:01:45,000
+Not surprisingly.
+
+40
+00:01:46,000 --> 00:01:46,000
+No wonder.
+
+41
+00:01:48,000 --> 00:01:50,000
+Now say the word and hear it in a sentence.
+
+42
+00:01:52,000 --> 00:01:53,000
+Reschedule.
+
+43
+00:01:58,000 --> 00:01:59,000
+I'm not feeling well.
+
+44
+00:01:59,000 --> 00:02:02,000
+Could you reschedule my meeting with John 2 tomorrow afternoon?
+
+45
+00:02:04,000 --> 00:02:05,000
+Inconvenience.
+
+46
+00:02:09,000 --> 00:02:12,000
+I don't want to inconvenience you so I'll pick up the flowers on my way home.
+
+47
+00:02:14,000 --> 00:02:14,000
+Postpone.
+
+48
+00:02:18,000 --> 00:02:21,000
+Since Robert is late again, we have to postpone the meeting.
+
+49
+00:02:23,000 --> 00:02:24,000
+Make it.
+
+50
+00:02:28,000 --> 00:02:28,000
+I'm sorry.
+
+51
+00:02:29,000 --> 00:02:30,000
+I can't make it to the meeting today.
+
+52
+00:02:30,000 --> 00:02:31,000
+I'm very sick.
+
+53
+00:02:32,000 --> 00:02:33,000
+No wonder.
+
+54
+00:02:39,000 --> 00:02:42,000
+Rebecca has lived in the States for five years.
+
+55
+00:02:42,000 --> 00:02:44,000
+No wonder she speaks English so fast.
+
+56
+00:02:47,000 --> 00:02:48,000
+Come up.
+
+57
+00:02:52,000 --> 00:02:54,000
+I'm sorry that I'm late.
+
+58
+00:02:54,000 --> 00:02:57,000
+This thing came up at work and I had to stay and take care of it.
+
+59
+00:02:59,000 --> 00:02:59,000
+Postpone.
+
+60
+00:03:03,000 --> 00:03:06,000
+Since Robert is late again, we have to postpone the meeting.
+
+61
+00:03:08,000 --> 00:03:09,000
+Make it.
+
+62
+00:03:13,000 --> 00:03:14,000
+I'm sorry.
+
+63
+00:03:14,000 --> 00:03:15,000
+I can't make it to the meeting today.
+
+64
+00:03:15,000 --> 00:03:16,000
+I'm very sick.
+

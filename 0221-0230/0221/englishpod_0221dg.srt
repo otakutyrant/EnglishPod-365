@@ -1,0 +1,56 @@
+1
+00:00:00,000 --> 00:00:31,000
+EnglishPod.com Do you hear the starter motor crank?
+
+2
+00:00:33,000 --> 00:00:33,000
+Yeah.
+
+3
+00:00:33,000 --> 00:00:37,000
+It sounds like it usually does when I start the car, but nothing else happens.
+
+4
+00:00:38,000 --> 00:00:39,000
+The engine won't start.
+
+5
+00:00:39,000 --> 00:00:41,000
+Should I maybe press the accelerator?
+
+6
+00:00:42,000 --> 00:00:42,000
+No.
+
+7
+00:00:42,000 --> 00:00:48,000
+If you step on the accelerator pedal, you can flood the carburetor and your car will never start.
+
+8
+00:00:48,000 --> 00:00:50,000
+So what do you think it is?
+
+9
+00:00:50,000 --> 00:00:54,000
+I know this may seem like a silly question, but does your car have gasoline?
+
+10
+00:00:56,000 --> 00:00:57,000
+Um, yeah.
+
+11
+00:00:58,000 --> 00:00:58,000
+Right.
+
+12
+00:00:59,000 --> 00:01:00,000
+I got the car started.
+
+13
+00:01:01,000 --> 00:01:01,000
+Thanks for your help.
+
+14
+00:01:02,000 --> 00:01:04,000
+I told you to fill the tank!
+

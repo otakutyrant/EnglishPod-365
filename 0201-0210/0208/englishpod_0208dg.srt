@@ -1,0 +1,68 @@
+1
+00:00:01,000 --> 00:00:09,000
+EnglishPod.com Sorry to bother you, sir, but I have some bad news.
+
+2
+00:00:10,000 --> 00:00:10,000
+What is it?
+
+3
+00:00:11,000 --> 00:00:15,000
+Well, the stock market just took a huge plunge and we've lost a lot of money.
+
+4
+00:00:16,000 --> 00:00:17,000
+What do you mean?
+
+5
+00:00:17,000 --> 00:00:18,000
+What happened?
+
+6
+00:00:18,000 --> 00:00:23,000
+There are many factors that weigh in, but Nasdaq is down 200 points.
+
+7
+00:00:23,000 --> 00:00:25,000
+The Dow Jones indicator also suffered.
+
+8
+00:00:26,000 --> 00:00:29,000
+Our portfolio is worth half of what it was worth one week ago.
+
+9
+00:00:29,000 --> 00:00:30,000
+How is this possible?
+
+10
+00:00:31,000 --> 00:00:38,000
+You are supposed to be talking to our stockbrokers and making sure that our securities and investments are safe and making a profitable return.
+
+11
+00:00:39,000 --> 00:00:40,000
+I know, sir.
+
+12
+00:00:40,000 --> 00:00:43,000
+We didn't expect a bull market to become a bear market all of a sudden.
+
+13
+00:00:44,000 --> 00:00:52,000
+On the other hand, you still have some high-yield trash bonds and government bonds that will give us enough liquidity to cut our losses and reinvest in emerging markets.
+
+14
+00:00:53,000 --> 00:00:57,000
+We could potentially make this tragedy work for us and make us think outside the box.
+
+15
+00:00:58,000 --> 00:00:59,000
+Do what you have to do.
+
+16
+00:01:00,000 --> 00:01:03,000
+One other thing, don't tell the rest of the stockholders about this.
+
+17
+00:01:03,000 --> 00:01:05,000
+If they find out, it's the end of this company.
+

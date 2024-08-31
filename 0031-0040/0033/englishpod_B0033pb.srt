@@ -1,0 +1,896 @@
+1
+00:00:01,000 --> 00:00:02,000
+Hello English learners.
+
+2
+00:00:02,000 --> 00:00:03,000
+Welcome back to EnglishPod.
+
+3
+00:00:04,000 --> 00:00:04,000
+My name is Marco.
+
+4
+00:00:05,000 --> 00:00:05,000
+And I'm Erica.
+
+5
+00:00:06,000 --> 00:00:09,000
+And today we have another great elementary lesson for you all.
+
+6
+00:00:09,000 --> 00:00:09,000
+That's right.
+
+7
+00:00:09,000 --> 00:00:12,000
+We've got a lesson for all you sports fans out there.
+
+8
+00:00:12,000 --> 00:00:12,000
+Right.
+
+9
+00:00:13,000 --> 00:00:15,000
+We're doing a podcast on sports today.
+
+10
+00:00:15,000 --> 00:00:17,000
+We're starting off with basketball.
+
+11
+00:00:17,000 --> 00:00:17,000
+Uh-huh.
+
+12
+00:00:17,000 --> 00:00:23,000
+So we've got lots of language about basketball and sports in this lesson today.
+
+13
+00:00:23,000 --> 00:00:24,000
+Great.
+
+14
+00:00:24,000 --> 00:00:26,000
+So let's take a look at our vocabulary preview.
+
+15
+00:00:27,000 --> 00:00:30,000
+Vocabulary Preview Two words for you today.
+
+16
+00:00:30,000 --> 00:00:32,000
+The first one is foul.
+
+17
+00:00:33,000 --> 00:00:33,000
+Foul.
+
+18
+00:00:33,000 --> 00:00:34,000
+Foul.
+
+19
+00:00:35,000 --> 00:00:35,000
+A foul.
+
+20
+00:00:36,000 --> 00:00:40,000
+Basically it's an action in a game that is not allowed.
+
+21
+00:00:40,000 --> 00:00:40,000
+Right.
+
+22
+00:00:40,000 --> 00:00:43,000
+So if you're playing basketball and you kick the other player.
+
+23
+00:00:43,000 --> 00:00:44,000
+That's a foul.
+
+24
+00:00:44,000 --> 00:00:44,000
+That's a foul.
+
+25
+00:00:44,000 --> 00:00:45,000
+That's a pretty big foul.
+
+26
+00:00:45,000 --> 00:00:45,000
+Yeah.
+
+27
+00:00:46,000 --> 00:00:48,000
+If you're playing soccer and you pick up the ball.
+
+28
+00:00:49,000 --> 00:00:50,000
+That's also a foul.
+
+29
+00:00:50,000 --> 00:00:50,000
+Uh-huh.
+
+30
+00:00:51,000 --> 00:00:53,000
+Our second word is ref.
+
+31
+00:00:53,000 --> 00:00:53,000
+Ref.
+
+32
+00:00:54,000 --> 00:00:54,000
+R-E-F.
+
+33
+00:00:54,000 --> 00:00:56,000
+Also known as a referee.
+
+34
+00:00:57,000 --> 00:00:57,000
+Uh-huh.
+
+35
+00:00:57,000 --> 00:00:57,000
+Right.
+
+36
+00:00:58,000 --> 00:01:00,000
+So a referee is...
+
+37
+00:01:00,000 --> 00:01:01,000
+Basically like the judge of a game.
+
+38
+00:01:02,000 --> 00:01:02,000
+The judge of the game.
+
+39
+00:01:03,000 --> 00:01:03,000
+Yeah.
+
+40
+00:01:03,000 --> 00:01:04,000
+So he's the one that will...
+
+41
+00:01:04,000 --> 00:01:05,000
+Say, that was a foul.
+
+42
+00:01:05,000 --> 00:01:06,000
+That was a foul.
+
+43
+00:01:06,000 --> 00:01:06,000
+Exactly.
+
+44
+00:01:07,000 --> 00:01:07,000
+Ref.
+
+45
+00:01:08,000 --> 00:01:09,000
+Also known as referee.
+
+46
+00:01:09,000 --> 00:01:09,000
+Okay.
+
+47
+00:01:10,000 --> 00:01:11,000
+So two great words.
+
+48
+00:01:11,000 --> 00:01:13,000
+We're going to hear them in our dialogue.
+
+49
+00:01:13,000 --> 00:01:18,000
+And we're going to be listening to two guys who are watching a basketball game on TV.
+
+50
+00:01:29,000 --> 00:01:32,000
+Hey, has the game started yet?
+
+51
+00:01:32,000 --> 00:01:32,000
+Yeah.
+
+52
+00:01:32,000 --> 00:01:33,000
+About five minutes ago.
+
+53
+00:01:33,000 --> 00:01:34,000
+Who's winning?
+
+54
+00:01:34,000 --> 00:01:35,000
+The Bulls, of course.
+
+55
+00:01:37,000 --> 00:01:37,000
+What?
+
+56
+00:01:38,000 --> 00:01:39,000
+That wasn't a foul.
+
+57
+00:01:39,000 --> 00:01:40,000
+Oh, come on, ref.
+
+58
+00:01:40,000 --> 00:01:41,000
+Don't worry.
+
+59
+00:01:41,000 --> 00:01:43,000
+Shaq always screws up free throws.
+
+60
+00:01:45,000 --> 00:01:46,000
+You were right.
+
+61
+00:01:46,000 --> 00:01:47,000
+He didn't make the shot.
+
+62
+00:01:50,000 --> 00:01:51,000
+Yeah.
+
+63
+00:01:53,000 --> 00:01:54,000
+That was a great shot.
+
+64
+00:01:54,000 --> 00:01:54,000
+Three pointer.
+
+65
+00:01:54,000 --> 00:01:54,000
+Yeah.
+
+66
+00:01:55,000 --> 00:01:56,000
+Did you see that?
+
+67
+00:01:56,000 --> 00:01:57,000
+He traveled to the ref.
+
+68
+00:01:57,000 --> 00:01:58,000
+Didn't even call it.
+
+69
+00:01:58,000 --> 00:01:59,000
+This ref needs glasses.
+
+70
+00:02:00,000 --> 00:02:00,000
+Hey, ref.
+
+71
+00:02:00,000 --> 00:02:01,000
+Open your eyes.
+
+72
+00:02:03,000 --> 00:02:04,000
+Can't believe he didn't see that.
+
+73
+00:02:05,000 --> 00:02:05,000
+Okay.
+
+74
+00:02:06,000 --> 00:02:06,000
+End of the first quarter.
+
+75
+00:02:07,000 --> 00:02:07,000
+All right.
+
+76
+00:02:07,000 --> 00:02:08,000
+I'm going to make a beer run.
+
+77
+00:02:13,000 --> 00:02:14,000
+All right.
+
+78
+00:02:14,000 --> 00:02:18,000
+A really common situation whenever you're watching games with friends, right?
+
+79
+00:02:18,000 --> 00:02:19,000
+You need to get a beer.
+
+80
+00:02:20,000 --> 00:02:22,000
+We'll talk about that in a little while.
+
+81
+00:02:23,000 --> 00:02:24,000
+Let's take a look at language takeaway.
+
+82
+00:02:26,000 --> 00:02:27,000
+Language takeaway.
+
+83
+00:02:29,000 --> 00:02:29,000
+Okay.
+
+84
+00:02:29,000 --> 00:02:31,000
+Let's take a look at our first word on language takeaway.
+
+85
+00:02:33,000 --> 00:02:33,000
+Free throw.
+
+86
+00:02:34,000 --> 00:02:35,000
+Free throw.
+
+87
+00:02:35,000 --> 00:02:36,000
+Free throw.
+
+88
+00:02:36,000 --> 00:02:39,000
+This one's a bit hard to say, isn't it?
+
+89
+00:02:39,000 --> 00:02:46,000
+It's a little bit hard to explain, but if you're playing basketball and if someone fouls you, you get a free throw.
+
+90
+00:02:46,000 --> 00:02:51,000
+So that's when all the players line up around you and you can throw the ball.
+
+91
+00:02:51,000 --> 00:02:55,000
+To the basket without anyone blocking you or anything.
+
+92
+00:02:55,000 --> 00:02:55,000
+Right.
+
+93
+00:02:55,000 --> 00:02:59,000
+A little bit complicated, but I'm sure the basketball fans understand what a free throw is.
+
+94
+00:02:59,000 --> 00:02:59,000
+All right.
+
+95
+00:02:59,000 --> 00:03:01,000
+Our next word is?
+
+96
+00:03:01,000 --> 00:03:02,000
+Make the shot.
+
+97
+00:03:03,000 --> 00:03:04,000
+Make the shot.
+
+98
+00:03:04,000 --> 00:03:05,000
+Make the shot.
+
+99
+00:03:05,000 --> 00:03:11,000
+Let's listen to some examples and we'll understand the meaning of make the shot.
+
+100
+00:03:12,000 --> 00:03:13,000
+Example one.
+
+101
+00:03:15,000 --> 00:03:16,000
+I can't believe it.
+
+102
+00:03:16,000 --> 00:03:18,000
+He made the shot from the other side of the court.
+
+103
+00:03:21,000 --> 00:03:22,000
+Example two.
+
+104
+00:03:26,000 --> 00:03:28,000
+There's no way he's going to make that shot.
+
+105
+00:03:28,000 --> 00:03:30,000
+He's way too far away from the net.
+
+106
+00:03:35,000 --> 00:03:35,000
+Example three.
+
+107
+00:03:38,000 --> 00:03:41,000
+If Gretzky makes this shot, they're going to win the Stanley Cup.
+
+108
+00:03:45,000 --> 00:03:50,000
+So it's clear now to make the shot is to successfully put the ball in the basket.
+
+109
+00:03:50,000 --> 00:03:52,000
+You can use this expression in other sports as well, right?
+
+110
+00:03:53,000 --> 00:03:55,000
+Yeah, you can use it in hockey to make the shot.
+
+111
+00:03:55,000 --> 00:03:56,000
+You could also use it in golf.
+
+112
+00:03:57,000 --> 00:03:59,000
+In a lot of different sports they use the term to shoot.
+
+113
+00:03:59,000 --> 00:04:00,000
+Yes.
+
+114
+00:04:00,000 --> 00:04:00,000
+Shoot the ball.
+
+115
+00:04:01,000 --> 00:04:03,000
+So anytime you shoot the ball, you can make the shot.
+
+116
+00:04:03,000 --> 00:04:03,000
+Exactly.
+
+117
+00:04:04,000 --> 00:04:06,000
+Okay, our next word today, three pointer.
+
+118
+00:04:07,000 --> 00:04:08,000
+Three pointer.
+
+119
+00:04:09,000 --> 00:04:09,000
+Three pointer.
+
+120
+00:04:10,000 --> 00:04:11,000
+A three pointer.
+
+121
+00:04:11,000 --> 00:04:14,000
+It's a shot in basketball when you get three points.
+
+122
+00:04:15,000 --> 00:04:15,000
+Yes.
+
+123
+00:04:15,000 --> 00:04:18,000
+Usually this shot is taken from further out.
+
+124
+00:04:18,000 --> 00:04:19,000
+Yeah, farther distance.
+
+125
+00:04:19,000 --> 00:04:22,000
+Yeah, so it's a little bit more difficult to make this shot.
+
+126
+00:04:22,000 --> 00:04:29,000
+You know, sometimes people might say a three point shot or something like that, but our EnglishPod learners, they know.
+
+127
+00:04:30,000 --> 00:04:31,000
+It's a three pointer.
+
+128
+00:04:31,000 --> 00:04:34,000
+Yeah, you'll sound really knowledgeable, really cool using that one.
+
+129
+00:04:34,000 --> 00:04:35,000
+Three pointer.
+
+130
+00:04:36,000 --> 00:04:38,000
+And our last word today, travel.
+
+131
+00:04:39,000 --> 00:04:39,000
+Travel.
+
+132
+00:04:40,000 --> 00:04:40,000
+To travel.
+
+133
+00:04:40,000 --> 00:04:41,000
+Travel.
+
+134
+00:04:42,000 --> 00:04:43,000
+When you walk with the basketball.
+
+135
+00:04:43,000 --> 00:04:47,000
+Well, technically you're allowed to take two steps in basketball.
+
+136
+00:04:48,000 --> 00:04:51,000
+So when you take more than two steps, then it's traveling.
+
+137
+00:04:52,000 --> 00:04:55,000
+So, yeah, traveling means to take more than two steps with the ball.
+
+138
+00:04:55,000 --> 00:04:58,000
+Let's listen to the dialogue a second time.
+
+139
+00:04:58,000 --> 00:05:03,000
+This time it'll be a bit slower so that we can understand some of these great phrases we just talked about.
+
+140
+00:05:08,000 --> 00:05:11,000
+Hey, has the game started yet?
+
+141
+00:05:11,000 --> 00:05:14,000
+Yeah, about five minutes ago.
+
+142
+00:05:14,000 --> 00:05:15,000
+Oh, who's winning?
+
+143
+00:05:16,000 --> 00:05:17,000
+The Bulls, of course.
+
+144
+00:05:18,000 --> 00:05:19,000
+What?
+
+145
+00:05:19,000 --> 00:05:21,000
+That wasn't a foul!
+
+146
+00:05:21,000 --> 00:05:22,000
+Oh, come on, ref!
+
+147
+00:05:22,000 --> 00:05:27,000
+Don't worry, Shaq always screws up free throws.
+
+148
+00:05:27,000 --> 00:05:28,000
+Yeah, you were right.
+
+149
+00:05:29,000 --> 00:05:30,000
+He didn't make the shot.
+
+150
+00:05:31,000 --> 00:05:33,000
+Yeah, that was a great shot.
+
+151
+00:05:34,000 --> 00:05:35,000
+Three pointer, yeah!
+
+152
+00:05:35,000 --> 00:05:37,000
+Oh, did you see that?
+
+153
+00:05:37,000 --> 00:05:39,000
+He traveled and the ref didn't even call it.
+
+154
+00:05:40,000 --> 00:05:41,000
+This ref needs glasses.
+
+155
+00:05:42,000 --> 00:05:43,000
+Hey, ref!
+
+156
+00:05:43,000 --> 00:05:44,000
+Open your eyes!
+
+157
+00:05:45,000 --> 00:05:47,000
+I can't believe you didn't see that.
+
+158
+00:05:48,000 --> 00:05:49,000
+Okay.
+
+159
+00:05:49,000 --> 00:05:50,000
+The end of the first quarter.
+
+160
+00:05:51,000 --> 00:05:52,000
+Hey, I'm going to make a beer run.
+
+161
+00:05:52,000 --> 00:05:52,000
+Sweet.
+
+162
+00:05:57,000 --> 00:06:01,000
+Alright sports fans, so now let's take a look at Fluency Builder.
+
+163
+00:06:02,000 --> 00:06:03,000
+Fluency Builder.
+
+164
+00:06:04,000 --> 00:06:09,000
+Okay, today on Fluency Builder we have two really common words that you would listen to while you're watching a game.
+
+165
+00:06:09,000 --> 00:06:11,000
+Yeah, these are sort of slangy words, hey?
+
+166
+00:06:11,000 --> 00:06:13,000
+Yeah, they're kind of common.
+
+167
+00:06:13,000 --> 00:06:14,000
+Like informal.
+
+168
+00:06:14,000 --> 00:06:15,000
+Informal.
+
+169
+00:06:15,000 --> 00:06:17,000
+The first one that we have is screw up.
+
+170
+00:06:18,000 --> 00:06:19,000
+Screw up.
+
+171
+00:06:19,000 --> 00:06:20,000
+Screw up.
+
+172
+00:06:20,000 --> 00:06:21,000
+Screw up.
+
+173
+00:06:21,000 --> 00:06:22,000
+To screw up.
+
+174
+00:06:22,000 --> 00:06:25,000
+Yeah, so this is a good way of saying...
+
+175
+00:06:25,000 --> 00:06:26,000
+To make a mistake.
+
+176
+00:06:28,000 --> 00:06:30,000
+Let's listen to some examples of how this word is used.
+
+177
+00:06:32,000 --> 00:06:33,000
+Example one.
+
+178
+00:06:36,000 --> 00:06:37,000
+Jill, you really screwed up this time.
+
+179
+00:06:38,000 --> 00:06:38,000
+You're fired.
+
+180
+00:06:43,000 --> 00:06:44,000
+Example two.
+
+181
+00:06:48,000 --> 00:06:49,000
+This game is important.
+
+182
+00:06:49,000 --> 00:06:51,000
+If you screw it up, we're out of the finals.
+
+183
+00:06:55,000 --> 00:06:56,000
+Example three.
+
+184
+00:06:59,000 --> 00:06:59,000
+Example four.
+
+185
+00:07:02,000 --> 00:07:08,000
+Okay, so screw up is mess up.
+
+186
+00:07:09,000 --> 00:07:09,000
+Yeah, make a mistake.
+
+187
+00:07:09,000 --> 00:07:10,000
+Make a mistake.
+
+188
+00:07:10,000 --> 00:07:15,000
+Great, and our last word on Fluency Builder today, a beer run.
+
+189
+00:07:15,000 --> 00:07:16,000
+A beer run.
+
+190
+00:07:16,000 --> 00:07:17,000
+Beer run.
+
+191
+00:07:17,000 --> 00:07:19,000
+So what is this beer run?
+
+192
+00:07:19,000 --> 00:07:20,000
+You run to get beer.
+
+193
+00:07:21,000 --> 00:07:24,000
+You go to the store and get beer, get more beer.
+
+194
+00:07:24,000 --> 00:07:27,000
+So it's just an expression meaning to go and get more beer.
+
+195
+00:07:27,000 --> 00:07:31,000
+Yeah, usually you're watching a game or you're at home with your friends.
+
+196
+00:07:31,000 --> 00:07:34,000
+You run out of beer, so somebody has to...
+
+197
+00:07:34,000 --> 00:07:35,000
+Go get some beer.
+
+198
+00:07:35,000 --> 00:07:36,000
+Go get some beer.
+
+199
+00:07:36,000 --> 00:07:36,000
+Make a beer run.
+
+200
+00:07:40,000 --> 00:07:45,000
+Hey, has the game started yet?
+
+201
+00:07:45,000 --> 00:07:46,000
+Yeah, about five minutes ago.
+
+202
+00:07:46,000 --> 00:07:47,000
+Who's winning?
+
+203
+00:07:47,000 --> 00:07:48,000
+The Bulls, of course.
+
+204
+00:07:50,000 --> 00:07:50,000
+What?
+
+205
+00:07:51,000 --> 00:07:52,000
+That wasn't a foul.
+
+206
+00:07:52,000 --> 00:07:53,000
+Oh, come on, ref.
+
+207
+00:07:53,000 --> 00:07:56,000
+Don't worry, Shaq always screws up free throws.
+
+208
+00:07:58,000 --> 00:08:00,000
+You were right, he didn't make the shot.
+
+209
+00:08:04,000 --> 00:08:07,000
+Yeah, that was a great shot.
+
+210
+00:08:07,000 --> 00:08:07,000
+Three pointer, yeah.
+
+211
+00:08:08,000 --> 00:08:09,000
+Did you see that?
+
+212
+00:08:09,000 --> 00:08:11,000
+He traveled and the ref didn't even call it.
+
+213
+00:08:11,000 --> 00:08:12,000
+This ref needs glasses.
+
+214
+00:08:13,000 --> 00:08:14,000
+Hey ref, open your eyes.
+
+215
+00:08:15,000 --> 00:08:17,000
+Can't believe he didn't see that.
+
+216
+00:08:17,000 --> 00:08:19,000
+Okay, end of the first quarter.
+
+217
+00:08:20,000 --> 00:08:21,000
+Alright, I'm going to make a beer run.
+
+218
+00:08:25,000 --> 00:08:27,000
+Okay, guys, I hope you enjoyed our lesson today.
+
+219
+00:08:28,000 --> 00:08:31,000
+We'll be bringing you more sports lessons in the future.
+
+220
+00:08:31,000 --> 00:08:35,000
+So if you have a particular sport that you want to learn about, you can tell us.
+
+221
+00:08:35,000 --> 00:08:37,000
+Come to our website, EnglishPod.com.
+
+222
+00:08:38,000 --> 00:08:42,000
+Yeah, and leave us your comments or your suggestions or any doubts that you have.
+
+223
+00:08:43,000 --> 00:08:45,000
+And we're always there to answer it, so we'll see you there.
+
+224
+00:08:45,000 --> 00:08:47,000
+Yes, until next time, bye.
+

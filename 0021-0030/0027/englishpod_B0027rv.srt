@@ -1,0 +1,256 @@
+1
+00:00:00,000 --> 00:00:07,000
+The EnglishPod Audio Review Listen to the meaning, then say the vocabulary word.
+
+2
+00:00:08,000 --> 00:00:10,000
+Have some time, not busy.
+
+3
+00:00:12,000 --> 00:00:13,000
+Have a second.
+
+4
+00:00:15,000 --> 00:00:17,000
+Take all of something.
+
+5
+00:00:19,000 --> 00:00:20,000
+Use up.
+
+6
+00:00:21,000 --> 00:00:24,000
+In another country across the ocean.
+
+7
+00:00:26,000 --> 00:00:27,000
+Overseas.
+
+8
+00:00:28,000 --> 00:00:30,000
+Stop working for a short time.
+
+9
+00:00:32,000 --> 00:00:34,000
+Take some time off.
+
+10
+00:00:35,000 --> 00:00:39,000
+Information that tells you about something or warns about something.
+
+11
+00:00:41,000 --> 00:00:41,000
+Notice.
+
+12
+00:00:43,000 --> 00:00:43,000
+Agree.
+
+13
+00:00:45,000 --> 00:00:46,000
+Be okay with that.
+
+14
+00:00:48,000 --> 00:00:50,000
+Time away from work that is not paid.
+
+15
+00:00:52,000 --> 00:00:53,000
+Unpaid leave.
+
+16
+00:00:54,000 --> 00:00:56,000
+Let's try that faster.
+
+17
+00:00:57,000 --> 00:01:00,000
+Time away from work that is not paid.
+
+18
+00:01:01,000 --> 00:01:02,000
+Unpaid leave.
+
+19
+00:01:03,000 --> 00:01:06,000
+Information that tells you about something or warns about something.
+
+20
+00:01:07,000 --> 00:01:08,000
+Notice.
+
+21
+00:01:09,000 --> 00:01:11,000
+Stop working for a short time.
+
+22
+00:01:12,000 --> 00:01:13,000
+Take some time off.
+
+23
+00:01:14,000 --> 00:01:15,000
+Take all of something.
+
+24
+00:01:17,000 --> 00:01:17,000
+Use up.
+
+25
+00:01:18,000 --> 00:01:21,000
+In another country across the ocean.
+
+26
+00:01:22,000 --> 00:01:23,000
+Overseas.
+
+27
+00:01:24,000 --> 00:01:24,000
+Agree.
+
+28
+00:01:25,000 --> 00:01:26,000
+Be okay with that.
+
+29
+00:01:27,000 --> 00:01:28,000
+Take all of something.
+
+30
+00:01:29,000 --> 00:01:30,000
+Use up.
+
+31
+00:01:31,000 --> 00:01:33,000
+Stop working for a short time.
+
+32
+00:01:34,000 --> 00:01:35,000
+Take some time off.
+
+33
+00:01:36,000 --> 00:01:38,000
+Have some time, not busy.
+
+34
+00:01:39,000 --> 00:01:40,000
+Have a second.
+
+35
+00:01:41,000 --> 00:01:43,000
+Stop working for a short time.
+
+36
+00:01:44,000 --> 00:01:45,000
+Take some time off.
+
+37
+00:01:46,000 --> 00:01:48,000
+Have some time, not busy.
+
+38
+00:01:49,000 --> 00:01:50,000
+Have a second.
+
+39
+00:01:51,000 --> 00:01:52,000
+Take all of something.
+
+40
+00:01:54,000 --> 00:01:54,000
+Use up.
+
+41
+00:01:56,000 --> 00:01:58,000
+Now say the word and hear it in a sentence.
+
+42
+00:02:00,000 --> 00:02:00,000
+Have a second.
+
+43
+00:02:03,000 --> 00:02:04,000
+Do you have a sec?
+
+44
+00:02:04,000 --> 00:02:05,000
+I need to talk to you.
+
+45
+00:02:07,000 --> 00:02:08,000
+Use up.
+
+46
+00:02:14,000 --> 00:02:17,000
+I'm afraid I cannot join you for this trip.
+
+47
+00:02:17,000 --> 00:02:20,000
+I've used up all my vacation days.
+
+48
+00:02:21,000 --> 00:02:22,000
+Overseas.
+
+49
+00:02:25,000 --> 00:02:26,000
+I've never traveled overseas.
+
+50
+00:02:28,000 --> 00:02:30,000
+Take some time off.
+
+51
+00:02:33,000 --> 00:02:35,000
+I have an exam tomorrow.
+
+52
+00:02:35,000 --> 00:02:38,000
+May I take some time off today to study?
+
+53
+00:02:39,000 --> 00:02:40,000
+Notice.
+
+54
+00:02:40,000 --> 00:02:40,000
+Notice.
+
+55
+00:02:46,000 --> 00:02:50,000
+If you want to quit your job, make sure you give enough notice.
+
+56
+00:02:50,000 --> 00:02:53,000
+You'll need to tell us four weeks in advance.
+
+57
+00:02:55,000 --> 00:02:55,000
+Overseas.
+
+58
+00:02:58,000 --> 00:03:00,000
+I've never traveled overseas.
+
+59
+00:03:02,000 --> 00:03:03,000
+Take some time off.
+
+60
+00:03:07,000 --> 00:03:09,000
+I have an exam tomorrow.
+
+61
+00:03:09,000 --> 00:03:11,000
+May I take some time off today to study?
+
+62
+00:03:13,000 --> 00:03:13,000
+Notice.
+
+63
+00:03:20,000 --> 00:03:23,000
+If you want to quit your job, make sure you give enough notice.
+
+64
+00:03:24,000 --> 00:03:26,000
+You'll need to tell us four weeks in advance.
+

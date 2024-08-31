@@ -1,0 +1,120 @@
+1
+00:00:01,000 --> 00:00:11,000
+EnglishPod.com Good afternoon.
+
+2
+00:00:11,000 --> 00:00:12,000
+Did you call for a plumber?
+
+3
+00:00:12,000 --> 00:00:13,000
+Yes, yes I did.
+
+4
+00:00:13,000 --> 00:00:14,000
+Please come in.
+
+5
+00:00:15,000 --> 00:00:17,000
+I'm so glad you came.
+
+6
+00:00:17,000 --> 00:00:18,000
+This old house is falling apart.
+
+7
+00:00:19,000 --> 00:00:20,000
+Come into the bathroom.
+
+8
+00:00:22,000 --> 00:00:25,000
+See, here, there's water leaking everywhere.
+
+9
+00:00:26,000 --> 00:00:26,000
+I see.
+
+10
+00:00:27,000 --> 00:00:27,000
+Let me have a look.
+
+11
+00:00:29,000 --> 00:00:32,000
+It seems that your toilet is clogged and that's why it won't flush.
+
+12
+00:00:33,000 --> 00:00:34,000
+Let me just get my plunger.
+
+13
+00:00:41,000 --> 00:00:42,000
+No, that's not working either.
+
+14
+00:00:43,000 --> 00:00:46,000
+I suspect that there's some sort of foreign object in the pipe that's causing a blockage.
+
+15
+00:00:47,000 --> 00:00:49,000
+That's what's making your toilet overflow.
+
+16
+00:00:49,000 --> 00:00:52,000
+Oh, that must be because of my four-year-old daughter.
+
+17
+00:00:52,000 --> 00:00:54,000
+She is always flushing things down the toilet.
+
+18
+00:00:55,000 --> 00:00:56,000
+You know how kids are.
+
+19
+00:00:56,000 --> 00:00:58,000
+Yeah, I have a little one myself.
+
+20
+00:00:58,000 --> 00:01:03,000
+Anyway, these water pipes are really rusty, so they also should be changed.
+
+21
+00:01:04,000 --> 00:01:06,000
+That could be causing water to not drain completely.
+
+22
+00:01:06,000 --> 00:01:08,000
+That might lead to more problems in the future.
+
+23
+00:01:09,000 --> 00:01:12,000
+I would suggest fixing this faucet that isn't shutting off properly.
+
+24
+00:01:12,000 --> 00:01:14,000
+I could have it all finished by today if it's urgent.
+
+25
+00:01:14,000 --> 00:01:15,000
+That would be great.
+
+26
+00:01:16,000 --> 00:01:16,000
+Is it expensive?
+
+27
+00:01:17,000 --> 00:01:18,000
+Let's see.
+
+28
+00:01:18,000 --> 00:01:19,000
+I would say about $800.
+
+29
+00:01:20,000 --> 00:01:20,000
+What?
+
+30
+00:01:21,000 --> 00:01:23,000
+That's more than I make in a day and I'm a heart surgeon.
+

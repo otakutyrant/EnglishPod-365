@@ -1,0 +1,312 @@
+1
+00:00:00,000 --> 00:00:07,000
+The EnglishPod Audio Review Listen to the meaning, then say the vocabulary word.
+
+2
+00:00:09,000 --> 00:00:11,000
+Live in a place permanently.
+
+3
+00:00:13,000 --> 00:00:14,000
+Reside.
+
+4
+00:00:17,000 --> 00:00:20,000
+Free from disease or injury in good condition.
+
+5
+00:00:23,000 --> 00:00:24,000
+Sound.
+
+6
+00:00:26,000 --> 00:00:29,000
+By means of or as a result of this.
+
+7
+00:00:32,000 --> 00:00:33,000
+Hereby.
+
+8
+00:00:35,000 --> 00:00:38,000
+A paper made to settle property after one's death.
+
+9
+00:00:40,000 --> 00:00:42,000
+Last will and testament.
+
+10
+00:00:44,000 --> 00:00:46,000
+The body of a dead person.
+
+11
+00:00:50,000 --> 00:00:51,000
+Remains.
+
+12
+00:00:52,000 --> 00:00:54,000
+The highest point, top.
+
+13
+00:00:57,000 --> 00:00:58,000
+Summit.
+
+14
+00:01:01,000 --> 00:01:03,000
+Everything you own, all your assets.
+
+15
+00:01:05,000 --> 00:01:06,000
+Estate.
+
+16
+00:01:07,000 --> 00:01:10,000
+Choose someone to do a particular job.
+
+17
+00:01:12,000 --> 00:01:13,000
+Appoint.
+
+18
+00:01:15,000 --> 00:01:16,000
+Add or append.
+
+19
+00:01:19,000 --> 00:01:20,000
+Affix.
+
+20
+00:01:21,000 --> 00:01:24,000
+To sign at the end of the will or contract.
+
+21
+00:01:27,000 --> 00:01:28,000
+Subscribe.
+
+22
+00:01:30,000 --> 00:01:32,000
+A person's partner in marriage.
+
+23
+00:01:34,000 --> 00:01:35,000
+Spouse.
+
+24
+00:01:37,000 --> 00:01:37,000
+Cancel.
+
+25
+00:01:40,000 --> 00:01:40,000
+Revoke.
+
+26
+00:01:45,000 --> 00:01:47,000
+The body of a dead person.
+
+27
+00:01:50,000 --> 00:01:51,000
+Remains.
+
+28
+00:01:53,000 --> 00:01:53,000
+Cancel.
+
+29
+00:01:56,000 --> 00:02:00,000
+Choose someone to do a particular job.
+
+30
+00:02:02,000 --> 00:02:02,000
+Appoint.
+
+31
+00:02:07,000 --> 00:02:08,000
+Spouse.
+
+32
+00:02:10,000 --> 00:02:12,000
+To sign at the end of the will or contract.
+
+33
+00:02:14,000 --> 00:02:15,000
+Subscribe.
+
+34
+00:02:16,000 --> 00:02:18,000
+Add or append.
+
+35
+00:02:20,000 --> 00:02:21,000
+Affix.
+
+36
+00:02:22,000 --> 00:02:25,000
+A paper made to settle property after one's death.
+
+37
+00:02:27,000 --> 00:02:29,000
+Last will and testament.
+
+38
+00:02:30,000 --> 00:02:34,000
+Free from disease or injury in good condition.
+
+39
+00:02:36,000 --> 00:02:37,000
+Sound.
+
+40
+00:02:38,000 --> 00:02:40,000
+The highest point, top.
+
+41
+00:02:42,000 --> 00:02:43,000
+Summit.
+
+42
+00:02:45,000 --> 00:02:48,000
+By means of or as a result of this.
+
+43
+00:02:50,000 --> 00:02:51,000
+Hereby.
+
+44
+00:02:52,000 --> 00:02:54,000
+Live in a place permanently.
+
+45
+00:02:56,000 --> 00:02:57,000
+Reside.
+
+46
+00:02:59,000 --> 00:03:01,000
+Everything you own, all your assets.
+
+47
+00:03:03,000 --> 00:03:04,000
+Estate.
+
+48
+00:03:04,000 --> 00:03:08,000
+Now say the word and hear it in a sentence.
+
+49
+00:03:10,000 --> 00:03:10,000
+Revoke.
+
+50
+00:03:15,000 --> 00:03:18,000
+His driving license was revoked by the police.
+
+51
+00:03:20,000 --> 00:03:21,000
+Revoke.
+
+52
+00:03:24,000 --> 00:03:27,000
+My parents revoked my phone privileges.
+
+53
+00:03:29,000 --> 00:03:30,000
+Revoke.
+
+54
+00:03:35,000 --> 00:03:38,000
+The court decided to revoke the terrorist citizenship.
+
+55
+00:03:41,000 --> 00:03:41,000
+Remains.
+
+56
+00:03:46,000 --> 00:03:48,000
+The remains were transferred to the morgue.
+
+57
+00:03:50,000 --> 00:03:51,000
+Remains.
+
+58
+00:03:55,000 --> 00:03:58,000
+A cemetery has the remains of many people.
+
+59
+00:04:00,000 --> 00:04:01,000
+Remains.
+
+60
+00:04:05,000 --> 00:04:09,000
+The police covered the remains with a white sheet.
+
+61
+00:04:10,000 --> 00:04:11,000
+Estate.
+
+62
+00:04:16,000 --> 00:04:20,000
+Bill Gates' estate is valued at over one billion dollars.
+
+63
+00:04:22,000 --> 00:04:22,000
+Estate.
+
+64
+00:04:30,000 --> 00:04:36,000
+A person's estate is comprised of all assets which are held in the descendant's name alone.
+
+65
+00:04:38,000 --> 00:04:39,000
+Estate.
+
+66
+00:04:44,000 --> 00:04:48,000
+The family divided the estate equally among everyone.
+
+67
+00:04:50,000 --> 00:04:50,000
+Hereby.
+
+68
+00:04:54,000 --> 00:04:57,000
+I hereby declare you husband and wife.
+
+69
+00:04:59,000 --> 00:04:59,000
+Hereby.
+
+70
+00:05:04,000 --> 00:05:07,000
+I hereby resign as President of the United States.
+
+71
+00:05:09,000 --> 00:05:10,000
+Hereby.
+
+72
+00:05:14,000 --> 00:05:17,000
+We hereby commit to obeying the laws of this country.
+
+73
+00:05:19,000 --> 00:05:19,000
+Appoint.
+
+74
+00:05:24,000 --> 00:05:26,000
+The President appointed me as the Vice President.
+
+75
+00:05:28,000 --> 00:05:29,000
+Appoint.
+
+76
+00:05:34,000 --> 00:05:37,000
+My teacher appointed me as the classroom monitor.
+
+77
+00:05:39,000 --> 00:05:40,000
+Appoint.
+
+78
+00:05:45,000 --> 00:05:48,000
+He was appointed as the child's legal guardian.
+

@@ -1,0 +1,560 @@
+1
+00:00:00,000 --> 00:00:07,000
+The EnglishPod Audio Review Listen to the meaning, then say the vocabulary word.
+
+2
+00:00:09,000 --> 00:00:12,000
+The increase of the world's temperature due to pollution.
+
+3
+00:00:14,000 --> 00:00:15,000
+Global warming.
+
+4
+00:00:18,000 --> 00:00:21,000
+The change in the world's temperature and weather patterns.
+
+5
+00:00:24,000 --> 00:00:24,000
+Climate change.
+
+6
+00:00:26,000 --> 00:00:29,000
+The act of making others believe something false.
+
+7
+00:00:32,000 --> 00:00:32,000
+Deception.
+
+8
+00:00:35,000 --> 00:00:40,000
+Fuel made with dead animals or plants, such as oil, gas, natural gas.
+
+9
+00:00:42,000 --> 00:00:43,000
+Fossil fuel.
+
+10
+00:00:45,000 --> 00:00:47,000
+Of or relating to planets.
+
+11
+00:00:50,000 --> 00:00:51,000
+Planetary.
+
+12
+00:00:52,000 --> 00:00:55,000
+The action of cutting down forests.
+
+13
+00:00:58,000 --> 00:00:59,000
+Deforestation.
+
+14
+00:01:01,000 --> 00:01:03,000
+Everything that exists in a certain environment.
+
+15
+00:01:06,000 --> 00:01:06,000
+Ecosystem.
+
+16
+00:01:08,000 --> 00:01:10,000
+The act of producing gas.
+
+17
+00:01:12,000 --> 00:01:13,000
+Emission.
+
+18
+00:01:15,000 --> 00:01:18,000
+The thick layer of ice or snow on the poles.
+
+19
+00:01:20,000 --> 00:01:21,000
+Polar ice cap.
+
+20
+00:01:23,000 --> 00:01:25,000
+Support a point of view.
+
+21
+00:01:27,000 --> 00:01:27,000
+Endorse.
+
+22
+00:01:30,000 --> 00:01:32,000
+Be led to make believe something not true.
+
+23
+00:01:35,000 --> 00:01:35,000
+Mislead.
+
+24
+00:01:37,000 --> 00:01:40,000
+A polite way to show you do not agree with someone.
+
+25
+00:01:43,000 --> 00:01:43,000
+Beg to differ.
+
+26
+00:01:45,000 --> 00:01:46,000
+Highlight.
+
+27
+00:01:49,000 --> 00:01:49,000
+Emphasize.
+
+28
+00:01:51,000 --> 00:01:52,000
+Give out.
+
+29
+00:01:52,000 --> 00:01:53,000
+Announce the public.
+
+30
+00:01:55,000 --> 00:01:56,000
+Put forth.
+
+31
+00:01:59,000 --> 00:02:02,000
+So true that does not need to be discussed anymore.
+
+32
+00:02:04,000 --> 00:02:05,000
+Indisputable.
+
+33
+00:02:07,000 --> 00:02:09,000
+Influence someone's ideas for your own benefit.
+
+34
+00:02:12,000 --> 00:02:13,000
+Manipulate.
+
+35
+00:02:14,000 --> 00:02:17,000
+Saying something so as to frighten people.
+
+36
+00:02:19,000 --> 00:02:20,000
+Scaremongering.
+
+37
+00:02:22,000 --> 00:02:25,000
+A gas that increases the global temperature.
+
+38
+00:02:27,000 --> 00:02:28,000
+Greenhouse gases.
+
+39
+00:02:30,000 --> 00:02:33,000
+Type of animal in danger of dying out.
+
+40
+00:02:35,000 --> 00:02:37,000
+Endangered species.
+
+41
+00:02:37,000 --> 00:02:42,000
+To say that you do not deny something's true.
+
+42
+00:02:45,000 --> 00:02:46,000
+Concede.
+
+43
+00:02:47,000 --> 00:02:48,000
+With total power.
+
+44
+00:02:50,000 --> 00:02:51,000
+Autocratic.
+
+45
+00:02:53,000 --> 00:02:54,000
+Result or outcome.
+
+46
+00:02:57,000 --> 00:02:57,000
+End.
+
+47
+00:02:59,000 --> 00:03:01,000
+Deceiving, dishonest.
+
+48
+00:03:03,000 --> 00:03:04,000
+Duplicitous.
+
+49
+00:03:05,000 --> 00:03:09,000
+Being illegally bribed or paid by someone.
+
+50
+00:03:11,000 --> 00:03:12,000
+In the pocket of.
+
+51
+00:03:14,000 --> 00:03:16,000
+Used to show the name is not really suitable.
+
+52
+00:03:19,000 --> 00:03:19,000
+So-called.
+
+53
+00:03:21,000 --> 00:03:22,000
+Let's try that faster.
+
+54
+00:03:24,000 --> 00:03:27,000
+The act of making others believe something false.
+
+55
+00:03:29,000 --> 00:03:30,000
+Deception.
+
+56
+00:03:31,000 --> 00:03:34,000
+Type of animal in danger of dying out.
+
+57
+00:03:36,000 --> 00:03:37,000
+Endangered species.
+
+58
+00:03:39,000 --> 00:03:42,000
+So true that does not need to be discussed anymore.
+
+59
+00:03:44,000 --> 00:03:44,000
+Indisputable.
+
+60
+00:03:45,000 --> 00:03:47,000
+Result or outcome.
+
+61
+00:03:49,000 --> 00:03:49,000
+End.
+
+62
+00:03:51,000 --> 00:03:54,000
+The thick layer of ice or snow on the poles.
+
+63
+00:03:56,000 --> 00:03:57,000
+Polar ice cap.
+
+64
+00:03:58,000 --> 00:03:59,000
+With total power.
+
+65
+00:04:01,000 --> 00:04:02,000
+Autocratic.
+
+66
+00:04:03,000 --> 00:04:05,000
+The action of cutting down forests.
+
+67
+00:04:07,000 --> 00:04:08,000
+Deforestation.
+
+68
+00:04:09,000 --> 00:04:11,000
+The act of producing gas.
+
+69
+00:04:13,000 --> 00:04:14,000
+Emission.
+
+70
+00:04:15,000 --> 00:04:18,000
+Be led to make believe something not true.
+
+71
+00:04:20,000 --> 00:04:20,000
+Mislead.
+
+72
+00:04:22,000 --> 00:04:24,000
+Saying something so as to frighten people.
+
+73
+00:04:26,000 --> 00:04:27,000
+Scaremongering.
+
+74
+00:04:28,000 --> 00:04:29,000
+Give out.
+
+75
+00:04:29,000 --> 00:04:30,000
+Announce the public.
+
+76
+00:04:32,000 --> 00:04:33,000
+Put forth.
+
+77
+00:04:34,000 --> 00:04:37,000
+The change in the world's temperature and weather patterns.
+
+78
+00:04:39,000 --> 00:04:40,000
+Climate change.
+
+79
+00:04:42,000 --> 00:04:42,000
+Highlight.
+
+80
+00:04:44,000 --> 00:04:45,000
+Emphasize.
+
+81
+00:04:47,000 --> 00:04:50,000
+The increase of the world's temperature due to pollution.
+
+82
+00:04:52,000 --> 00:04:53,000
+Global warming.
+
+83
+00:04:54,000 --> 00:04:57,000
+Of or relating to planets.
+
+84
+00:04:59,000 --> 00:05:00,000
+Planetary.
+
+85
+00:05:01,000 --> 00:05:03,000
+Support a point of view.
+
+86
+00:05:04,000 --> 00:05:05,000
+Endorse.
+
+87
+00:05:06,000 --> 00:05:09,000
+Used to show the name is not really suitable.
+
+88
+00:05:10,000 --> 00:05:11,000
+So-called.
+
+89
+00:05:13,000 --> 00:05:15,000
+A gas that increases the global temperature.
+
+90
+00:05:17,000 --> 00:05:18,000
+Greenhouse gases.
+
+91
+00:05:18,000 --> 00:05:23,000
+To say that you do not deny something's true.
+
+92
+00:05:25,000 --> 00:05:26,000
+Concede.
+
+93
+00:05:27,000 --> 00:05:30,000
+A polite way to show you do not agree with someone.
+
+94
+00:05:31,000 --> 00:05:32,000
+Beg to differ.
+
+95
+00:05:34,000 --> 00:05:36,000
+Influence someone's ideas for your own benefit.
+
+96
+00:05:38,000 --> 00:05:39,000
+Manipulate.
+
+97
+00:05:40,000 --> 00:05:43,000
+Everything that exists in a certain environment.
+
+98
+00:05:45,000 --> 00:05:46,000
+Ecosystem.
+
+99
+00:05:47,000 --> 00:05:53,000
+Fuel made with dead animals or plants such as oil, gas, natural gas.
+
+100
+00:05:55,000 --> 00:05:56,000
+Fossil fuel.
+
+101
+00:05:57,000 --> 00:06:00,000
+Being illegally bribed or paid by someone.
+
+102
+00:06:02,000 --> 00:06:03,000
+In the pocket of.
+
+103
+00:06:04,000 --> 00:06:06,000
+Deceiving, dishonest.
+
+104
+00:06:08,000 --> 00:06:08,000
+Duplicitous.
+
+105
+00:06:10,000 --> 00:06:12,000
+Now say the word and hear it in a sentence.
+
+106
+00:06:14,000 --> 00:06:14,000
+Beg to differ.
+
+107
+00:06:21,000 --> 00:06:23,000
+You said money is the most important thing in life.
+
+108
+00:06:24,000 --> 00:06:25,000
+But I beg to differ.
+
+109
+00:06:25,000 --> 00:06:27,000
+In my opinion the best things in life are free.
+
+110
+00:06:29,000 --> 00:06:29,000
+Beg to differ.
+
+111
+00:06:35,000 --> 00:06:38,000
+Most people believe that the internet is giving us greater freedom of expression.
+
+112
+00:06:39,000 --> 00:06:40,000
+I beg to differ.
+
+113
+00:06:41,000 --> 00:06:42,000
+Beg to differ.
+
+114
+00:06:49,000 --> 00:06:49,000
+I beg to differ.
+
+115
+00:06:50,000 --> 00:06:52,000
+I would beg to differ with the idea that we need to downsize.
+
+116
+00:06:53,000 --> 00:06:57,000
+If we just reorganize our system of communication we could optimize efficiency.
+
+117
+00:07:04,000 --> 00:07:06,000
+I know that you don't believe in raising taxes.
+
+118
+00:07:06,000 --> 00:07:10,000
+But at the very least you have to admit that this is the best way for our government to raise money.
+
+119
+00:07:15,000 --> 00:07:19,000
+If we're not going to learn from our mistakes, at the very least, let's not repeat them.
+
+120
+00:07:24,000 --> 00:07:28,000
+Even if you can't say the whole time, at the very least show up at the party and say hi.
+
+121
+00:07:29,000 --> 00:07:30,000
+In the pocket of.
+
+122
+00:07:35,000 --> 00:07:40,000
+You know Judge Smith is in the pocket of the criminals because he always declares them innocent.
+
+123
+00:07:41,000 --> 00:07:43,000
+In the pocket of.
+
+124
+00:07:49,000 --> 00:07:52,000
+Car manufacturers are in the pockets of the big oil producers.
+
+125
+00:07:52,000 --> 00:07:54,000
+That's why they haven't developed electric cars yet.
+
+126
+00:07:56,000 --> 00:07:57,000
+In the pocket of.
+
+127
+00:08:02,000 --> 00:08:04,000
+I think the Senator is in the pocket of the tobacco industry.
+
+128
+00:08:05,000 --> 00:08:06,000
+He keeps promoting their interests.
+
+129
+00:08:08,000 --> 00:08:09,000
+So called.
+
+130
+00:08:12,000 --> 00:08:15,000
+My so called friends are spreading rumors about me.
+
+131
+00:08:16,000 --> 00:08:17,000
+So called.
+
+132
+00:08:21,000 --> 00:08:26,000
+This so called cost savings plan is actually costing us more money.
+
+133
+00:08:27,000 --> 00:08:28,000
+So called.
+
+134
+00:08:32,000 --> 00:08:37,000
+The so called disaster actually opened up a lot of opportunities for us.
+
+135
+00:08:41,000 --> 00:08:43,000
+You're so full of it.
+
+136
+00:08:43,000 --> 00:08:44,000
+You've never been to the moon.
+
+137
+00:08:49,000 --> 00:08:51,000
+Don't believe a word Tom says.
+
+138
+00:08:51,000 --> 00:08:52,000
+He's full of it.
+
+139
+00:08:57,000 --> 00:08:59,000
+I think this argument is full of it.
+
+140
+00:08:59,000 --> 00:09:02,000
+There's no way that the global temperature is getting cooler.
+

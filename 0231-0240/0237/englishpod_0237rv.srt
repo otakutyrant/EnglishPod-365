@@ -1,0 +1,292 @@
+1
+00:00:00,000 --> 00:00:07,000
+The EnglishPod Audio Review Listen to the meaning, then say the vocabulary word.
+
+2
+00:00:09,000 --> 00:00:11,000
+Out of bed and beginning to move around.
+
+3
+00:00:13,000 --> 00:00:14,000
+Up and about.
+
+4
+00:00:16,000 --> 00:00:18,000
+To keep time for a particular purpose.
+
+5
+00:00:21,000 --> 00:00:21,000
+Set aside.
+
+6
+00:00:23,000 --> 00:00:23,000
+Often.
+
+7
+00:00:26,000 --> 00:00:26,000
+Frequently.
+
+8
+00:00:27,000 --> 00:00:29,000
+Almost never.
+
+9
+00:00:31,000 --> 00:00:31,000
+Seldom.
+
+10
+00:00:33,000 --> 00:00:33,000
+Whenever.
+
+11
+00:00:35,000 --> 00:00:36,000
+At which time.
+
+12
+00:00:38,000 --> 00:00:39,000
+Once in a while.
+
+13
+00:00:41,000 --> 00:00:42,000
+From time to time.
+
+14
+00:00:44,000 --> 00:00:44,000
+Frequently.
+
+15
+00:00:46,000 --> 00:00:47,000
+Often times.
+
+16
+00:00:49,000 --> 00:00:51,000
+Cosmetics apply to improve your appearance.
+
+17
+00:00:53,000 --> 00:00:54,000
+Makeup.
+
+18
+00:00:55,000 --> 00:00:56,000
+A set of clothes.
+
+19
+00:00:58,000 --> 00:00:59,000
+Outfit.
+
+20
+00:01:00,000 --> 00:01:02,000
+Let's try that faster.
+
+21
+00:01:04,000 --> 00:01:04,000
+Often.
+
+22
+00:01:06,000 --> 00:01:06,000
+Frequently.
+
+23
+00:01:08,000 --> 00:01:10,000
+Out of bed and beginning to move around.
+
+24
+00:01:11,000 --> 00:01:12,000
+Up and about.
+
+25
+00:01:13,000 --> 00:01:16,000
+Cosmetics apply to improve your appearance.
+
+26
+00:01:17,000 --> 00:01:18,000
+Makeup.
+
+27
+00:01:19,000 --> 00:01:19,000
+Frequently.
+
+28
+00:01:21,000 --> 00:01:22,000
+Often times.
+
+29
+00:01:23,000 --> 00:01:24,000
+Almost never.
+
+30
+00:01:25,000 --> 00:01:26,000
+Seldom.
+
+31
+00:01:26,000 --> 00:01:28,000
+Once in a while.
+
+32
+00:01:29,000 --> 00:01:30,000
+From time to time.
+
+33
+00:01:32,000 --> 00:01:32,000
+A set of clothes.
+
+34
+00:01:34,000 --> 00:01:34,000
+Outfit.
+
+35
+00:01:36,000 --> 00:01:38,000
+To keep time for a particular purpose.
+
+36
+00:01:40,000 --> 00:01:40,000
+Set aside.
+
+37
+00:01:41,000 --> 00:01:42,000
+Whenever.
+
+38
+00:01:43,000 --> 00:01:44,000
+At which time.
+
+39
+00:01:46,000 --> 00:01:48,000
+Now say the word and hear it in a sentence.
+
+40
+00:01:50,000 --> 00:01:50,000
+Up and about.
+
+41
+00:01:51,000 --> 00:01:52,000
+Once in a while.
+
+42
+00:01:52,000 --> 00:01:55,000
+Once in a while.
+
+43
+00:01:56,000 --> 00:01:56,000
+Once in a while.
+
+44
+00:01:56,000 --> 00:01:59,000
+Once I started taking the medication, I was up and about in no time.
+
+45
+00:02:01,000 --> 00:02:02,000
+Up and about.
+
+46
+00:02:06,000 --> 00:02:08,000
+He's usually up and about by 7am.
+
+47
+00:02:10,000 --> 00:02:10,000
+Up and about.
+
+48
+00:02:17,000 --> 00:02:20,000
+Everyone else in the house is usually already up and about by the time I wake up.
+
+49
+00:02:22,000 --> 00:02:23,000
+Set aside.
+
+50
+00:02:27,000 --> 00:02:30,000
+I set aside 20 minutes every day to meditate.
+
+51
+00:02:31,000 --> 00:02:32,000
+Set aside.
+
+52
+00:02:37,000 --> 00:02:41,000
+You really need to set aside some time this week to work on your final project.
+
+53
+00:02:42,000 --> 00:02:43,000
+Set aside.
+
+54
+00:02:47,000 --> 00:02:52,000
+I set aside food for the next day's lunch and then ate the rest for dinner.
+
+55
+00:02:54,000 --> 00:02:54,000
+Frequently.
+
+56
+00:02:58,000 --> 00:03:01,000
+She frequently visits her grandfather on the weekends.
+
+57
+00:03:03,000 --> 00:03:03,000
+Frequently.
+
+58
+00:03:08,000 --> 00:03:12,000
+I frequently like to take drives in the countryside to get out of the city.
+
+59
+00:03:14,000 --> 00:03:14,000
+Frequently.
+
+60
+00:03:19,000 --> 00:03:23,000
+I eat the fish, but not frequently, maybe once or twice a month.
+
+61
+00:03:25,000 --> 00:03:26,000
+Seldom.
+
+62
+00:03:29,000 --> 00:03:31,000
+He seldom speaks about his family.
+
+63
+00:03:33,000 --> 00:03:33,000
+Seldom.
+
+64
+00:03:38,000 --> 00:03:40,000
+My roommate is always in her room.
+
+65
+00:03:40,000 --> 00:03:41,000
+She seldom comes out.
+
+66
+00:03:43,000 --> 00:03:43,000
+Seldom.
+
+67
+00:03:48,000 --> 00:03:52,000
+I seldom manage to see my family now that I'm living on the other side of the country.
+
+68
+00:03:54,000 --> 00:03:55,000
+At which time.
+
+69
+00:04:00,000 --> 00:04:04,000
+I walked in the room, at which time my dog leaped up and gave me a huge kiss.
+
+70
+00:04:06,000 --> 00:04:07,000
+At which time.
+
+71
+00:04:13,000 --> 00:04:16,000
+Dessert was served after dinner, at which time a string quartet began to play.
+
+72
+00:04:18,000 --> 00:04:20,000
+At which time.
+
+73
+00:04:26,000 --> 00:04:33,000
+He found a dead end so he turned around and started to walk back down the alleyway, at which time several gang members turned the corner and stopped in front of him.
+

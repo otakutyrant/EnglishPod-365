@@ -1,0 +1,248 @@
+1
+00:00:00,000 --> 00:00:07,000
+The EnglishPod Audio Review Listen to the meaning, then say the vocabulary word.
+
+2
+00:00:08,000 --> 00:00:09,000
+What is happening?
+
+3
+00:00:09,000 --> 00:00:10,000
+An informal greeting.
+
+4
+00:00:13,000 --> 00:00:13,000
+What's up?
+
+5
+00:00:16,000 --> 00:00:20,000
+Something that is extremely difficult to deal with or withstand.
+
+6
+00:00:22,000 --> 00:00:30,000
+Killer A set of statements or principles devised to explain a group of facts or phenomena.
+
+7
+00:00:32,000 --> 00:00:39,000
+Theory The theory that a cosmic explosion caused the origin of the universe.
+
+8
+00:00:42,000 --> 00:00:48,000
+Big Bang The substance of which something is made.
+
+9
+00:00:49,000 --> 00:00:49,000
+Material.
+
+10
+00:00:51,000 --> 00:00:58,000
+Matter The situation where there is an unequal amount of different things.
+
+11
+00:01:00,000 --> 00:01:06,000
+Imbalance Any one tiny part of matter.
+
+12
+00:01:08,000 --> 00:01:18,000
+Particle A particle that has the same mass as another particle but has opposite values for its other properties.
+
+13
+00:01:20,000 --> 00:01:33,000
+Antiparticle Ideas or concepts Notion A state of something being very exact.
+
+14
+00:01:35,000 --> 00:01:41,000
+Rigor Use vague language so as to deceive someone.
+
+15
+00:01:43,000 --> 00:01:50,000
+Equivocate Surviving a difficult experience or trouble.
+
+16
+00:01:52,000 --> 00:02:04,000
+Withstand The scientific study of matter in outer space, especially the positions, dimensions, distribution, motion, composition, energy and evolution of celestial bodies and phenomenon.
+
+17
+00:02:07,000 --> 00:02:16,000
+Astronomy A region of space resulting from the collapse of a star with extremely high gravitational field.
+
+18
+00:02:17,000 --> 00:02:23,000
+Black hole A small, faint, very dense star.
+
+19
+00:02:25,000 --> 00:02:35,000
+White dwarf The tendency of all matter and energy in the universe to evolve toward a state of inert uniformity.
+
+20
+00:02:37,000 --> 00:02:48,000
+Entropy A point of infinite density and infinitesimal volume at which space and time become infinitely distorted according to the theory of general relativity.
+
+21
+00:02:51,000 --> 00:02:58,000
+Singularity A seemingly contradictory statement that may nonetheless be true.
+
+22
+00:03:00,000 --> 00:03:04,000
+Paradox Let's try that faster.
+
+23
+00:03:07,000 --> 00:03:10,000
+The substance of which something is made.
+
+24
+00:03:10,000 --> 00:03:18,000
+Material Matter Surviving a difficult experience or trouble.
+
+25
+00:03:20,000 --> 00:03:27,000
+Withstand Use vague language so as to deceive someone.
+
+26
+00:03:28,000 --> 00:03:37,000
+Equivocate A particle that has the same mass as another particle but has opposite values for its other properties.
+
+27
+00:03:39,000 --> 00:03:45,000
+Antiparticle Any one tiny part of matter.
+
+28
+00:03:47,000 --> 00:03:53,000
+Particle The situation where there is an unequal amount of different things.
+
+29
+00:03:54,000 --> 00:04:01,000
+Imbalance A set of statements or principles devised to explain a group of facts or phenomena.
+
+30
+00:04:03,000 --> 00:04:14,000
+Theory The scientific study of matter in outer space, especially the positions, dimensions, distribution, motion, composition, energy and evolution of celestial bodies and phenomenon.
+
+31
+00:04:17,000 --> 00:04:28,000
+Astronomy A point of infinite density and infinitesimal volume at which space and time become infinitely distorted according to the theory of general relativity.
+
+32
+00:04:30,000 --> 00:04:34,000
+Singularity A small, faint, very dense star.
+
+33
+00:04:36,000 --> 00:04:42,000
+White dwarf The theory that a cosmic explosion caused the origin of the universe.
+
+34
+00:04:44,000 --> 00:04:51,000
+Big Bang A seemingly contradictory statement that may, nonetheless, be true.
+
+35
+00:04:52,000 --> 00:04:56,000
+Paradox What is happening?
+
+36
+00:04:56,000 --> 00:04:57,000
+An informal greeting.
+
+37
+00:04:59,000 --> 00:05:00,000
+What's up?
+
+38
+00:05:01,000 --> 00:05:03,000
+Ideas or concepts.
+
+39
+00:05:05,000 --> 00:05:14,000
+Notion The tendency of all matter and energy in the universe to evolve toward a state of inert uniformity.
+
+40
+00:05:15,000 --> 00:05:20,000
+Entropy Something that is extremely difficult to deal with or withstand.
+
+41
+00:05:22,000 --> 00:05:27,000
+Killer A state of something being very exact.
+
+42
+00:05:29,000 --> 00:05:37,000
+Rigor A region of space resulting from the collapse of a star with extremely high gravitational field.
+
+43
+00:05:39,000 --> 00:05:44,000
+Black hole Now say the word and hear it in a sentence.
+
+44
+00:05:51,000 --> 00:05:57,000
+So you can see that we've studied the fossil record and thus we can conclude that evolution is a fact.
+
+45
+00:06:04,000 --> 00:06:09,000
+He broke severe company policies, thus we had to fire him.
+
+46
+00:06:15,000 --> 00:06:20,000
+I did not receive the documents on time, thus I was unable to send them to you.
+
+47
+00:06:28,000 --> 00:06:30,000
+But we examined the data rigorously.
+
+48
+00:06:30,000 --> 00:06:32,000
+How can there be an error?
+
+49
+00:06:32,000 --> 00:06:33,000
+It's simply not possible.
+
+50
+00:06:42,000 --> 00:06:47,000
+Don't worry, the nuclear reactor went through rigorous testing so we can be sure that it is safe.
+
+51
+00:06:53,000 --> 00:06:58,000
+She is a professor who is known for her scientific rigor.
+
+52
+00:07:05,000 --> 00:07:11,000
+The dieting experts are touting the benefits of the latest weight loss program, but I think it's just a fad.
+
+53
+00:07:16,000 --> 00:07:20,000
+This drug is being touted as a miracle cure.
+
+54
+00:07:26,000 --> 00:07:31,000
+The release of the much touted web browser will revolutionize the way you use the internet.
+
+55
+00:07:34,000 --> 00:07:46,000
+Equivocate When asked about his plan for cutting taxes, the presidential candidate did not equivocate.
+
+56
+00:07:49,000 --> 00:08:03,000
+Equivocate In the interview, when I asked him about why he left his last job, he started to equivocate.
+
+57
+00:08:05,000 --> 00:08:12,000
+Equivocate Stop equivocating.
+
+58
+00:08:12,000 --> 00:08:14,000
+Tell me clearly what you mean.
+
+59
+00:08:16,000 --> 00:08:25,000
+Notion Where did you get this notion that the sun travels around the earth?
+
+60
+00:08:29,000 --> 00:08:39,000
+Notion Notion Scientists are advancing the notion that socialization plays a role in language learning.
+
+61
+00:08:41,000 --> 00:08:48,000
+Notion That's an absurd notion.
+
+62
+00:08:49,000 --> 00:08:50,000
+It's absolutely not true.
+

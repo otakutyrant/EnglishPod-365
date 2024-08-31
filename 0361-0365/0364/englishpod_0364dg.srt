@@ -1,0 +1,64 @@
+1
+00:00:01,000 --> 00:00:08,000
+EnglishPod.com Can you help me write a newspaper ad?
+
+2
+00:00:09,000 --> 00:00:09,000
+Sure.
+
+3
+00:00:09,000 --> 00:00:11,000
+What are you looking to buy or sell?
+
+4
+00:00:12,000 --> 00:00:14,000
+Actually, I want to hire someone to help me around the house.
+
+5
+00:00:15,000 --> 00:00:17,000
+Oh, you want to get a maid?
+
+6
+00:00:17,000 --> 00:00:20,000
+Well, I think it's better if you call her a cleaning lady or domestic help.
+
+7
+00:00:22,000 --> 00:00:24,000
+Okay, so what do you want her to do?
+
+8
+00:00:24,000 --> 00:00:25,000
+Well, let's see.
+
+9
+00:00:25,000 --> 00:00:31,000
+I want her to come in three times a week for a couple of hours to clean the kitchen, bathroom, and maybe do some cooking.
+
+10
+00:00:31,000 --> 00:00:32,000
+Got it.
+
+11
+00:00:32,000 --> 00:00:34,000
+And how much do you offer per month?
+
+12
+00:00:34,000 --> 00:00:35,000
+I would pay her hourly.
+
+13
+00:00:36,000 --> 00:00:37,000
+I don't know what the going rate is, though.
+
+14
+00:00:38,000 --> 00:00:43,000
+I know for sure it's more than minimum wage, but maybe you should just negotiate with the person that answers the ad.
+
+15
+00:00:43,000 --> 00:00:44,000
+Great.
+
+16
+00:00:44,000 --> 00:00:45,000
+Thanks for your help.
+

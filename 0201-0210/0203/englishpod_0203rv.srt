@@ -1,0 +1,380 @@
+1
+00:00:00,000 --> 00:00:07,000
+The EnglishPod Audio Review Listen to the meaning, then say the vocabulary word.
+
+2
+00:00:08,000 --> 00:00:12,000
+To express emotion or feeling, like God, Jesus.
+
+3
+00:00:14,000 --> 00:00:15,000
+Oh man.
+
+4
+00:00:17,000 --> 00:00:19,000
+Become quiet or calm.
+
+5
+00:00:20,000 --> 00:00:20,000
+Relax.
+
+6
+00:00:23,000 --> 00:00:23,000
+Calm down.
+
+7
+00:00:23,000 --> 00:00:27,000
+A small computer which is easily carried.
+
+8
+00:00:29,000 --> 00:00:30,000
+Laptop.
+
+9
+00:00:31,000 --> 00:00:34,000
+To express one's own opinion or meaning.
+
+10
+00:00:37,000 --> 00:00:37,000
+I mean.
+
+11
+00:00:39,000 --> 00:00:41,000
+An electronic display that shows images.
+
+12
+00:00:43,000 --> 00:00:44,000
+Monitor.
+
+13
+00:00:46,000 --> 00:00:48,000
+A program designed to harm a computer.
+
+14
+00:00:50,000 --> 00:00:51,000
+Virus.
+
+15
+00:00:52,000 --> 00:00:53,000
+No.
+
+16
+00:00:54,000 --> 00:00:55,000
+Informal.
+
+17
+00:00:57,000 --> 00:00:57,000
+Nope.
+
+18
+00:00:59,000 --> 00:01:01,000
+A set of instructions to perform.
+
+19
+00:01:03,000 --> 00:01:04,000
+Program.
+
+20
+00:01:05,000 --> 00:01:07,000
+Stop working or functioning properly.
+
+21
+00:01:10,000 --> 00:01:10,000
+Crash.
+
+22
+00:01:12,000 --> 00:01:15,000
+A program designed to identify and remove computer viruses.
+
+23
+00:01:18,000 --> 00:01:19,000
+Antivirus.
+
+24
+00:01:20,000 --> 00:01:22,000
+To work or be in operation.
+
+25
+00:01:24,000 --> 00:01:24,000
+Run.
+
+26
+00:01:26,000 --> 00:01:28,000
+Software that secretly gathers information.
+
+27
+00:01:31,000 --> 00:01:31,000
+Spyware.
+
+28
+00:01:33,000 --> 00:01:34,000
+Let's try that faster.
+
+29
+00:01:36,000 --> 00:01:38,000
+To express one's own opinion or meaning.
+
+30
+00:01:40,000 --> 00:01:41,000
+I mean.
+
+31
+00:01:42,000 --> 00:01:44,000
+Software that secretly gathers information.
+
+32
+00:01:46,000 --> 00:01:46,000
+Spyware.
+
+33
+00:01:46,000 --> 00:01:50,000
+A set of instructions to perform.
+
+34
+00:01:51,000 --> 00:01:52,000
+Program.
+
+35
+00:01:53,000 --> 00:01:54,000
+Become quiet or calm.
+
+36
+00:01:55,000 --> 00:01:55,000
+Relax.
+
+37
+00:01:57,000 --> 00:01:58,000
+Calm down.
+
+38
+00:01:59,000 --> 00:02:01,000
+Stop working or functioning properly.
+
+39
+00:02:03,000 --> 00:02:04,000
+Crash.
+
+40
+00:02:04,000 --> 00:02:08,000
+To express emotion or feeling, like God, Jesus.
+
+41
+00:02:10,000 --> 00:02:11,000
+Oh man.
+
+42
+00:02:12,000 --> 00:02:13,000
+No.
+
+43
+00:02:13,000 --> 00:02:14,000
+Informal.
+
+44
+00:02:15,000 --> 00:02:16,000
+Nope.
+
+45
+00:02:17,000 --> 00:02:20,000
+A small computer which is easily carried.
+
+46
+00:02:21,000 --> 00:02:22,000
+Laptop.
+
+47
+00:02:23,000 --> 00:02:27,000
+A program designed to identify and remove computer viruses.
+
+48
+00:02:29,000 --> 00:02:29,000
+Antivirus.
+
+49
+00:02:30,000 --> 00:02:32,000
+To work or be in operation.
+
+50
+00:02:34,000 --> 00:02:34,000
+Run.
+
+51
+00:02:35,000 --> 00:02:38,000
+An electronic display that shows images.
+
+52
+00:02:40,000 --> 00:02:40,000
+Monitor.
+
+53
+00:02:41,000 --> 00:02:43,000
+A program designed to harm a computer.
+
+54
+00:02:45,000 --> 00:02:46,000
+Virus.
+
+55
+00:02:47,000 --> 00:02:49,000
+Now say the word and hear it in a sentence.
+
+56
+00:02:51,000 --> 00:02:52,000
+Calm down.
+
+57
+00:02:56,000 --> 00:02:58,000
+I need to calm down.
+
+58
+00:02:58,000 --> 00:02:59,000
+I am too nervous.
+
+59
+00:03:01,000 --> 00:03:02,000
+Calm down.
+
+60
+00:03:06,000 --> 00:03:09,000
+The doctor gave me these pills to help me calm down.
+
+61
+00:03:10,000 --> 00:03:11,000
+Calm down.
+
+62
+00:03:16,000 --> 00:03:19,000
+You need to calm down your dog before he bites someone.
+
+63
+00:03:21,000 --> 00:03:21,000
+Oh man.
+
+64
+00:03:25,000 --> 00:03:26,000
+Oh man.
+
+65
+00:03:26,000 --> 00:03:27,000
+I lost my wallet.
+
+66
+00:03:29,000 --> 00:03:30,000
+Oh man.
+
+67
+00:03:30,000 --> 00:03:31,000
+Calm down.
+
+68
+00:03:33,000 --> 00:03:35,000
+Oh man.
+
+69
+00:03:35,000 --> 00:03:36,000
+You are in big trouble.
+
+70
+00:03:38,000 --> 00:03:39,000
+Oh man.
+
+71
+00:03:42,000 --> 00:03:44,000
+Oh man.
+
+72
+00:03:44,000 --> 00:03:45,000
+That car is amazing.
+
+73
+00:03:47,000 --> 00:03:48,000
+Virus.
+
+74
+00:03:53,000 --> 00:03:56,000
+My computer has a virus that erased all my hard disks.
+
+75
+00:03:58,000 --> 00:03:59,000
+Virus.
+
+76
+00:04:05,000 --> 00:04:10,000
+You have to be careful when you open a computer file because it might be infected with a virus.
+
+77
+00:04:11,000 --> 00:04:12,000
+Virus.
+
+78
+00:04:15,000 --> 00:04:18,000
+The disk you gave me had a virus on it.
+
+79
+00:04:19,000 --> 00:04:20,000
+Crash.
+
+80
+00:04:20,000 --> 00:04:20,000
+Crash.
+
+81
+00:04:24,000 --> 00:04:28,000
+My computer is too old and crashes all the time.
+
+82
+00:04:29,000 --> 00:04:30,000
+Crash.
+
+83
+00:04:35,000 --> 00:04:37,000
+I don't know what happened to my phone.
+
+84
+00:04:37,000 --> 00:04:40,000
+I was talking and all of a sudden it crashed.
+
+85
+00:04:41,000 --> 00:04:42,000
+Crash.
+
+86
+00:04:42,000 --> 00:04:42,000
+Crash.
+
+87
+00:04:45,000 --> 00:04:48,000
+This program causes my computer to crash.
+
+88
+00:04:50,000 --> 00:04:50,000
+Run.
+
+89
+00:04:56,000 --> 00:05:00,000
+You should run an anti-virus program occasionally to check for viruses.
+
+90
+00:05:01,000 --> 00:05:02,000
+Run.
+
+91
+00:05:06,000 --> 00:05:08,000
+There are too many programs running.
+
+92
+00:05:09,000 --> 00:05:11,000
+That's why your system is so slow.
+
+93
+00:05:12,000 --> 00:05:13,000
+Run.
+
+94
+00:05:19,000 --> 00:05:21,000
+This program doesn't run on Windows XP.
+
+95
+00:05:22,000 --> 00:05:24,000
+You must have Windows 7 if you want to use it.
+

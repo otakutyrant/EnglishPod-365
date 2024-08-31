@@ -1,0 +1,64 @@
+1
+00:00:01,000 --> 00:00:07,000
+EnglishPod.com I'm home!
+
+2
+00:00:08,000 --> 00:00:09,000
+Everyone come here!
+
+3
+00:00:09,000 --> 00:00:10,000
+I bought a Christmas tree!
+
+4
+00:00:11,000 --> 00:00:13,000
+Look at this beautiful pine tree!
+
+5
+00:00:13,000 --> 00:00:14,000
+Wow!
+
+6
+00:00:14,000 --> 00:00:15,000
+It's huge!
+
+7
+00:00:15,000 --> 00:00:16,000
+Are you sure it will fit in the living room?
+
+8
+00:00:17,000 --> 00:00:17,000
+Awesome!
+
+9
+00:00:17,000 --> 00:00:19,000
+I'll go get the Christmas lights.
+
+10
+00:00:20,000 --> 00:00:21,000
+Of course it will.
+
+11
+00:00:21,000 --> 00:00:23,000
+Help me put it in the living room.
+
+12
+00:00:25,000 --> 00:00:27,000
+I found the lights!
+
+13
+00:00:27,000 --> 00:00:28,000
+I got the Christmas ornaments.
+
+14
+00:00:28,000 --> 00:00:31,000
+We could also place these stockings next to the chimney.
+
+15
+00:00:31,000 --> 00:00:32,000
+Great idea!
+
+16
+00:00:33,000 --> 00:00:37,000
+While we decorate the tree, we can listen to some good old Christmas songs.
+

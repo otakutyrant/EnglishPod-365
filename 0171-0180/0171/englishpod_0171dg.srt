@@ -1,0 +1,124 @@
+1
+00:00:01,000 --> 00:00:11,000
+EnglishPod.com Hello ma'am can I help you find something?
+
+2
+00:00:12,000 --> 00:00:14,000
+Yes actually I'm looking to buy a camera.
+
+3
+00:00:14,000 --> 00:00:19,000
+We've got a wide selection Do you know if you'd like a point-and-shoot or something a little fancier?
+
+4
+00:00:20,000 --> 00:00:22,000
+Are you shopping for yourself or for someone else?
+
+5
+00:00:23,000 --> 00:00:29,000
+Actually I'm buying a camera for my husband Ah, well then I'd recommend a nice entry-level digital SLR.
+
+6
+00:00:30,000 --> 00:00:30,000
+Yeah?
+
+7
+00:00:30,000 --> 00:00:32,000
+Can I take a look at the SLRs you carry?
+
+8
+00:00:33,000 --> 00:00:34,000
+Sure thing, follow me.
+
+9
+00:00:35,000 --> 00:00:36,000
+This here is the...
+
+10
+00:00:36,000 --> 00:00:36,000
+The Canon EOS.
+
+11
+00:00:37,000 --> 00:00:43,000
+Yeah it's okay but I'm looking for something that performs better in low light has a better display panel and longer battery life.
+
+12
+00:00:44,000 --> 00:00:47,000
+Oh, ah, the Nikon D60 is a nice option?
+
+13
+00:00:48,000 --> 00:00:50,000
+Yeah but what kit lens does this camera come with?
+
+14
+00:00:50,000 --> 00:00:52,000
+I don't want some bulky telephoto lens.
+
+15
+00:00:53,000 --> 00:00:55,000
+Ah, well this one has the...
+
+16
+00:00:55,000 --> 00:00:59,000
+Looks to me like an 18 to 55 millimeter lens Pretty standard.
+
+17
+00:00:59,000 --> 00:01:00,000
+That'll do.
+
+18
+00:01:00,000 --> 00:01:03,000
+Not like my husband will be stalking celebrities or anything.
+
+19
+00:01:04,000 --> 00:01:08,000
+Haha so, um, can I interest you in any accessories?
+
+20
+00:01:08,000 --> 00:01:08,000
+Accessories?
+
+21
+00:01:08,000 --> 00:01:10,000
+Do you carry polarizing filters?
+
+22
+00:01:11,000 --> 00:01:12,000
+Polarizing filters?
+
+23
+00:01:13,000 --> 00:01:14,000
+Um, we...
+
+24
+00:01:14,000 --> 00:01:14,000
+we should.
+
+25
+00:01:15,000 --> 00:01:17,000
+I'm sorry ma'am looks like we're sold out.
+
+26
+00:01:18,000 --> 00:01:18,000
+No you're not.
+
+27
+00:01:18,000 --> 00:01:20,000
+There's some right here.
+
+28
+00:01:20,000 --> 00:01:23,000
+Oh well, would you look at that.
+
+29
+00:01:24,000 --> 00:01:25,000
+Polarizing filters.
+
+30
+00:01:25,000 --> 00:01:29,000
+Thanks for your help, Ralph.
+
+31
+00:01:30,000 --> 00:01:32,000
+No problem ma'am.
+

@@ -1,0 +1,840 @@
+1
+00:00:01,000 --> 00:00:03,000
+Hello everyone, and welcome to EnglishPod.
+
+2
+00:00:03,000 --> 00:00:03,000
+My name is Marco.
+
+3
+00:00:04,000 --> 00:00:07,000
+My name is Catherine, and today we're talking a little bit about Smalltalk.
+
+4
+00:00:07,000 --> 00:00:10,000
+That's right, we are getting towards the end of our series.
+
+5
+00:00:10,000 --> 00:00:17,000
+Actually, this is the last podcast that we will have all about Smalltalk, and we're just going to be following Mr.
+
+6
+00:00:17,000 --> 00:00:25,000
+Campbell and Michelle and Melissa, and they're just going to talk very briefly about the weather, about traveling, very casual things.
+
+7
+00:00:25,000 --> 00:00:30,000
+That's right, so let's take a listen to this dialogue, and we'll be back in a moment to discuss what's going on.
+
+8
+00:00:40,000 --> 00:00:42,000
+Hi ladies, thanks for picking me up.
+
+9
+00:00:42,000 --> 00:00:43,000
+It's awful weather out there.
+
+10
+00:00:44,000 --> 00:00:45,000
+Absolutely.
+
+11
+00:00:45,000 --> 00:00:47,000
+It's been raining for hours.
+
+12
+00:00:47,000 --> 00:00:48,000
+How are you, Melissa?
+
+13
+00:00:48,000 --> 00:00:49,000
+Are you okay?
+
+14
+00:00:49,000 --> 00:00:51,000
+I'm great thanks, Mr.
+
+15
+00:00:51,000 --> 00:00:51,000
+Campbell.
+
+16
+00:00:51,000 --> 00:00:53,000
+Do you have any business trips planned soon, Mr.
+
+17
+00:00:54,000 --> 00:00:54,000
+Campbell?
+
+18
+00:00:54,000 --> 00:00:56,000
+Of course, I'm always traveling.
+
+19
+00:00:56,000 --> 00:00:59,000
+I'll leave for London next Monday, and then I'll fly to Boston from there.
+
+20
+00:00:59,000 --> 00:01:01,000
+It's going to be a busy month.
+
+21
+00:01:01,000 --> 00:01:02,000
+How about you, Michelle?
+
+22
+00:01:03,000 --> 00:01:04,000
+Do you have any vacation plans?
+
+23
+00:01:05,000 --> 00:01:11,000
+Yes, Mike and I will travel to Beijing to see Mike's parents for the Spring Festival, and hopefully next year we will visit London.
+
+24
+00:01:11,000 --> 00:01:13,000
+I hear it's a wonderful city.
+
+25
+00:01:13,000 --> 00:01:14,000
+I couldn't agree more.
+
+26
+00:01:14,000 --> 00:01:16,000
+London is really fantastic.
+
+27
+00:01:16,000 --> 00:01:17,000
+It's my favorite city.
+
+28
+00:01:17,000 --> 00:01:18,000
+I'm sure you'll have a great time.
+
+29
+00:01:21,000 --> 00:01:25,000
+Alright, we're back, so now let's take a look at Language Takeaway.
+
+30
+00:01:28,000 --> 00:01:29,000
+Language Takeaway.
+
+31
+00:01:31,000 --> 00:01:35,000
+Alright, we don't have that much today in Language Takeaway, but we do have a couple of really important words and phrases.
+
+32
+00:01:36,000 --> 00:01:38,000
+The first one comes from the very first line.
+
+33
+00:01:38,000 --> 00:01:38,000
+Mr.
+
+34
+00:01:38,000 --> 00:01:41,000
+Campbell says, Hi ladies, thanks for picking me up.
+
+35
+00:01:41,000 --> 00:01:42,000
+That's right.
+
+36
+00:01:42,000 --> 00:01:47,000
+Now, this phrasal verb, to pick someone up, means to get them, right?
+
+37
+00:01:48,000 --> 00:01:49,000
+Yeah, to gather them, to collect them.
+
+38
+00:01:50,000 --> 00:02:00,000
+You can do this with a car, like, I will pick you up at the airport, but you can also do it in person by just walking to a place and meeting somebody, and then taking them somewhere else.
+
+39
+00:02:00,000 --> 00:02:02,000
+That's the important part, you take them somewhere else.
+
+40
+00:02:03,000 --> 00:02:08,000
+So maybe if you go pick your kids up from school, you just walk there, you get them, and you walk back home.
+
+41
+00:02:08,000 --> 00:02:17,000
+That's right, and so the key here is that you remember that the verb goes first, I will pick, and then you have the person, I will pick you up.
+
+42
+00:02:17,000 --> 00:02:18,000
+I will pick them up.
+
+43
+00:02:18,000 --> 00:02:20,000
+He will pick us up.
+
+44
+00:02:20,000 --> 00:02:23,000
+That's right, so the subject goes between pick and up.
+
+45
+00:02:24,000 --> 00:02:24,000
+That's right.
+
+46
+00:02:24,000 --> 00:02:26,000
+Alright, so we're going to pick someone up.
+
+47
+00:02:27,000 --> 00:02:27,000
+And then Mr.
+
+48
+00:02:27,000 --> 00:02:29,000
+Campbell comments on the weather.
+
+49
+00:02:29,000 --> 00:02:32,000
+He says, It's awful weather out there.
+
+50
+00:02:32,000 --> 00:02:33,000
+It's awful.
+
+51
+00:02:33,000 --> 00:02:39,000
+Alright, so awful, you listen to the tone, you automatically think that this is probably a bad thing.
+
+52
+00:02:39,000 --> 00:02:42,000
+And you're right, it is a bad thing, but what's another way to say awful?
+
+53
+00:02:43,000 --> 00:02:45,000
+It's terrible, it's bad, it's horrible.
+
+54
+00:02:46,000 --> 00:02:51,000
+So awful is a way to say something's really bad, and we use it very often with the weather.
+
+55
+00:02:51,000 --> 00:02:52,000
+This weather is awful.
+
+56
+00:02:53,000 --> 00:02:56,000
+But we can also use it about other things, like food for example.
+
+57
+00:02:56,000 --> 00:03:02,000
+So if you have something to eat and it doesn't taste good, you can say, This is awful, what is this?
+
+58
+00:03:02,000 --> 00:03:04,000
+Or, what's that awful smell?
+
+59
+00:03:05,000 --> 00:03:07,000
+Oh, Marco took his shoes off.
+
+60
+00:03:08,000 --> 00:03:10,000
+Right, an awful smell.
+
+61
+00:03:11,000 --> 00:03:12,000
+Alright, and well, Mr.
+
+62
+00:03:12,000 --> 00:03:18,000
+Campbell went on to tell them that he's taking another trip soon, but a specific kind of trip.
+
+63
+00:03:18,000 --> 00:03:23,000
+Alright, so you know that there are many different kinds of trips, but the one that he's taking is a business trip.
+
+64
+00:03:24,000 --> 00:03:27,000
+So normally we could just say, I'm going on a trip next year.
+
+65
+00:03:27,000 --> 00:03:32,000
+But here we specify, we say it's a business trip, so what are we doing on this trip, Marco?
+
+66
+00:03:32,000 --> 00:03:34,000
+That's right, so we're basically working.
+
+67
+00:03:34,000 --> 00:03:39,000
+We're going because our company needs us to go to a meeting or to do some work abroad.
+
+68
+00:03:40,000 --> 00:03:49,000
+Alright, so you know on a business trip that you'll be doing work things, you'll be having meetings, you will not be going to Disney World, you will not be meeting with friends and going to movies, probably.
+
+69
+00:03:50,000 --> 00:03:51,000
+Right, exactly.
+
+70
+00:03:51,000 --> 00:03:53,000
+So it's very different from a vacation.
+
+71
+00:03:53,000 --> 00:03:57,000
+A vacation you go with the objective of going to these fun places.
+
+72
+00:03:57,000 --> 00:04:00,000
+So can I say, I'm going on a business vacation?
+
+73
+00:04:00,000 --> 00:04:03,000
+No, you're either going on vacation or you're taking a business trip.
+
+74
+00:04:04,000 --> 00:04:05,000
+Alright, business trip.
+
+75
+00:04:05,000 --> 00:04:08,000
+So now let's take a break and let's review our dialogue.
+
+76
+00:04:18,000 --> 00:04:19,000
+Hi, ladies.
+
+77
+00:04:19,000 --> 00:04:20,000
+Thanks for picking me up.
+
+78
+00:04:20,000 --> 00:04:21,000
+It's awful weather out there.
+
+79
+00:04:23,000 --> 00:04:23,000
+Absolutely.
+
+80
+00:04:24,000 --> 00:04:25,000
+It's been raining for hours.
+
+81
+00:04:26,000 --> 00:04:26,000
+How are you, Melissa?
+
+82
+00:04:27,000 --> 00:04:27,000
+Are you okay?
+
+83
+00:04:28,000 --> 00:04:29,000
+I'm great, thanks, Mr.
+
+84
+00:04:29,000 --> 00:04:29,000
+Campbell.
+
+85
+00:04:30,000 --> 00:04:32,000
+Do you have any business trips planned soon, Mr.
+
+86
+00:04:32,000 --> 00:04:32,000
+Campbell?
+
+87
+00:04:32,000 --> 00:04:34,000
+Of course, I'm always traveling.
+
+88
+00:04:34,000 --> 00:04:37,000
+I'll leave for London next Monday and then I'll fly to Boston from there.
+
+89
+00:04:38,000 --> 00:04:39,000
+It's going to be a busy month.
+
+90
+00:04:39,000 --> 00:04:40,000
+How about you, Michelle?
+
+91
+00:04:41,000 --> 00:04:42,000
+Do you have any vacation plans?
+
+92
+00:04:43,000 --> 00:04:47,000
+Yes, Mike and I will travel to Beijing to see Mike's parents for the Spring Festival.
+
+93
+00:04:47,000 --> 00:04:49,000
+And hopefully next year we will visit London.
+
+94
+00:04:50,000 --> 00:04:51,000
+I hear it's a wonderful city.
+
+95
+00:04:51,000 --> 00:04:52,000
+I couldn't agree more.
+
+96
+00:04:52,000 --> 00:04:54,000
+London is really fantastic.
+
+97
+00:04:54,000 --> 00:04:55,000
+It's my favorite city.
+
+98
+00:04:55,000 --> 00:04:56,000
+I'm sure you'll have a great time.
+
+99
+00:05:00,000 --> 00:05:04,000
+Alright, so now let's take a look at four key phrases on Fluency Builder.
+
+100
+00:05:06,000 --> 00:05:07,000
+Fluency Builder.
+
+101
+00:05:09,000 --> 00:05:12,000
+Alright, now we have a great phrase for everybody here in Fluency Builder.
+
+102
+00:05:12,000 --> 00:05:13,000
+Melissa is talking to Mr.
+
+103
+00:05:14,000 --> 00:05:15,000
+Campbell and he asks her how she is.
+
+104
+00:05:16,000 --> 00:05:16,000
+Are you okay?
+
+105
+00:05:16,000 --> 00:05:18,000
+And she says, I'm great, thanks.
+
+106
+00:05:19,000 --> 00:05:23,000
+Now, Marco, why would we use this phrase instead of I'm fine, thank you?
+
+107
+00:05:23,000 --> 00:05:25,000
+Well, it's basically the same thing.
+
+108
+00:05:25,000 --> 00:05:29,000
+It's just another way of answering this common question.
+
+109
+00:05:29,000 --> 00:05:30,000
+How are you?
+
+110
+00:05:30,000 --> 00:05:31,000
+You can say I'm fine, thank you.
+
+111
+00:05:32,000 --> 00:05:33,000
+I'm well.
+
+112
+00:05:34,000 --> 00:05:36,000
+But this is just another way of saying I'm okay.
+
+113
+00:05:37,000 --> 00:05:44,000
+Alright, but I think it's important too to remember that this is also very casual, like the rest of the conversation, and pretty enthusiastic.
+
+114
+00:05:44,000 --> 00:05:45,000
+She's great.
+
+115
+00:05:46,000 --> 00:05:49,000
+So it's important to remember that I'm fine, thanks is standard.
+
+116
+00:05:49,000 --> 00:05:54,000
+It's very normal, but I'm great is a nice way to change it and do something different.
+
+117
+00:05:54,000 --> 00:05:54,000
+That's right.
+
+118
+00:05:54,000 --> 00:06:01,000
+Okay, and now we wanted to ask if we have any plans, but we wanted to know if we have any vacation plans.
+
+119
+00:06:01,000 --> 00:06:04,000
+And the interesting thing about this question was that Mr.
+
+120
+00:06:05,000 --> 00:06:07,000
+Campbell said, any vacation plans?
+
+121
+00:06:07,000 --> 00:06:09,000
+So that's the whole sentence.
+
+122
+00:06:09,000 --> 00:06:11,000
+Well, first he says, how about you, Michelle?
+
+123
+00:06:12,000 --> 00:06:13,000
+Any vacation plans?
+
+124
+00:06:13,000 --> 00:06:15,000
+So what we think here is that maybe it's wrong.
+
+125
+00:06:15,000 --> 00:06:19,000
+Do you have any vacation plans is something that we'd want to hear, right?
+
+126
+00:06:19,000 --> 00:06:20,000
+Right.
+
+127
+00:06:20,000 --> 00:06:24,000
+But here we don't actually need to say, do you have any vacation plans?
+
+128
+00:06:24,000 --> 00:06:27,000
+Because it's pretty clear who we're talking to.
+
+129
+00:06:27,000 --> 00:06:28,000
+We're talking to Michelle, right?
+
+130
+00:06:28,000 --> 00:06:29,000
+Right.
+
+131
+00:06:29,000 --> 00:06:38,000
+And we're talking about traveling and we're talking about plans, so it's overstated that we don't really need to say, do you have any vacation plans?
+
+132
+00:06:38,000 --> 00:06:40,000
+We're already talking about the subject.
+
+133
+00:06:40,000 --> 00:06:42,000
+Now this is a great way to transition.
+
+134
+00:06:42,000 --> 00:06:47,000
+One person is talking about himself or herself, and then you want to talk about the other person.
+
+135
+00:06:47,000 --> 00:06:49,000
+So you say, what about you?
+
+136
+00:06:50,000 --> 00:06:54,000
+Any vacation plans or any dinner plans or any ideas?
+
+137
+00:06:55,000 --> 00:06:55,000
+Exactly.
+
+138
+00:06:55,000 --> 00:07:01,000
+So it's a great way to, like you say, transition from one idea or from one person to another.
+
+139
+00:07:02,000 --> 00:07:10,000
+Now to the next phrase, a very common one, and specifically when you are not really sure about something, but somebody told you.
+
+140
+00:07:10,000 --> 00:07:16,000
+Specifically in this case, Michelle says, I hear it's a wonderful city when talking about London.
+
+141
+00:07:16,000 --> 00:07:18,000
+So what does she mean by, I hear it's a wonderful city?
+
+142
+00:07:19,000 --> 00:07:29,000
+Well basically Michelle is saying she's never been to London, but she's read or she's heard from friends or from a TV show that London's a wonderful city.
+
+143
+00:07:29,000 --> 00:07:33,000
+So she can't say, it is a wonderful city, because she's never been there.
+
+144
+00:07:34,000 --> 00:07:39,000
+But she can say, listen, I have heard this from other people or from magazines.
+
+145
+00:07:39,000 --> 00:07:42,000
+So it's not even clear where she heard it, but that's not really important.
+
+146
+00:07:43,000 --> 00:07:53,000
+So basically the idea is that we don't know personally, but we have friends that told us or we have read in a magazine or a TV show, we've seen it, that it's great.
+
+147
+00:07:53,000 --> 00:07:55,000
+So you can use it with many things, like a restaurant.
+
+148
+00:07:56,000 --> 00:07:56,000
+That's right.
+
+149
+00:07:56,000 --> 00:07:58,000
+I hear the food is delicious.
+
+150
+00:07:58,000 --> 00:08:02,000
+Or I could say, hey Marco, I'm going to Hong Kong Disneyland next year.
+
+151
+00:08:02,000 --> 00:08:05,000
+Right, and I can say, oh I hear that it's a very fun place.
+
+152
+00:08:06,000 --> 00:08:07,000
+So Marco, you've never been there, right?
+
+153
+00:08:07,000 --> 00:08:08,000
+No, I've never been there.
+
+154
+00:08:09,000 --> 00:08:11,000
+Alright, and to finish off, Mr.
+
+155
+00:08:11,000 --> 00:08:18,000
+Campbell agrees completely about London being such a wonderful city and he says, I couldn't agree more.
+
+156
+00:08:18,000 --> 00:08:20,000
+I couldn't agree more.
+
+157
+00:08:20,000 --> 00:08:23,000
+So he agrees, we understand that.
+
+158
+00:08:23,000 --> 00:08:28,000
+But I couldn't agree more is like saying, I really agree.
+
+159
+00:08:28,000 --> 00:08:30,000
+Right, like you are completely right.
+
+160
+00:08:31,000 --> 00:08:34,000
+Yeah, so this is a way to exaggerate.
+
+161
+00:08:34,000 --> 00:08:35,000
+You know, you want to say, I agree.
+
+162
+00:08:35,000 --> 00:08:36,000
+Eh, it's a little boring.
+
+163
+00:08:36,000 --> 00:08:39,000
+So you say, I couldn't agree more.
+
+164
+00:08:39,000 --> 00:08:41,000
+I'm agreeing the most I can.
+
+165
+00:08:41,000 --> 00:08:42,000
+That's right.
+
+166
+00:08:42,000 --> 00:08:47,000
+And then we can also use the opposite, which would be if you disagree with someone.
+
+167
+00:08:47,000 --> 00:08:50,000
+I couldn't disagree more.
+
+168
+00:08:50,000 --> 00:08:51,000
+So you just change that one word.
+
+169
+00:08:51,000 --> 00:08:53,000
+I couldn't disagree more.
+
+170
+00:08:53,000 --> 00:08:57,000
+So maybe I don't like London, maybe it's too rainy or too dark for me.
+
+171
+00:08:57,000 --> 00:08:59,000
+So I say, I couldn't disagree more.
+
+172
+00:08:59,000 --> 00:09:00,000
+I think London is terrible.
+
+173
+00:09:01,000 --> 00:09:05,000
+Maybe not the right thing to say in a small talk situation, but we can talk about that in a minute.
+
+174
+00:09:06,000 --> 00:09:06,000
+Exactly.
+
+175
+00:09:06,000 --> 00:09:08,000
+Alright, so let's review everything one last time.
+
+176
+00:09:18,000 --> 00:09:20,000
+Hi ladies, thanks for picking me up.
+
+177
+00:09:20,000 --> 00:09:22,000
+It's awful weather out there.
+
+178
+00:09:23,000 --> 00:09:23,000
+Absolutely.
+
+179
+00:09:24,000 --> 00:09:25,000
+It's been raining for hours.
+
+180
+00:09:26,000 --> 00:09:27,000
+How are you Melissa?
+
+181
+00:09:27,000 --> 00:09:27,000
+Are you okay?
+
+182
+00:09:28,000 --> 00:09:29,000
+I'm great thanks Mr.
+
+183
+00:09:29,000 --> 00:09:29,000
+Campbell.
+
+184
+00:09:30,000 --> 00:09:32,000
+Do you have any business trips planned soon Mr.
+
+185
+00:09:32,000 --> 00:09:32,000
+Campbell?
+
+186
+00:09:33,000 --> 00:09:34,000
+Of course, I'm always traveling.
+
+187
+00:09:34,000 --> 00:09:38,000
+I'll leave for London next Monday and then I'll fly to Boston from there.
+
+188
+00:09:38,000 --> 00:09:39,000
+It's going to be a busy month.
+
+189
+00:09:40,000 --> 00:09:40,000
+How about you Michelle?
+
+190
+00:09:41,000 --> 00:09:43,000
+Do you have any vacation plans?
+
+191
+00:09:43,000 --> 00:09:50,000
+Yes, Mike and I will travel to Beijing to see Mike's parents for the Spring Festival and hopefully next year we will visit London.
+
+192
+00:09:50,000 --> 00:09:51,000
+I hear it's a wonderful city.
+
+193
+00:09:52,000 --> 00:09:52,000
+I couldn't agree more.
+
+194
+00:09:53,000 --> 00:09:54,000
+London is really fantastic.
+
+195
+00:09:54,000 --> 00:09:55,000
+It's my favorite city.
+
+196
+00:09:56,000 --> 00:09:57,000
+I'm sure you'll have a great time.
+
+197
+00:10:00,000 --> 00:10:05,000
+Alright, so this is our last podcast all about small talk and well I hope it's been useful.
+
+198
+00:10:05,000 --> 00:10:15,000
+We've gotten some great feedback about the different topics and small conversations you can have with a stranger, a co-worker, a friend, to kind of not have that awkward silence.
+
+199
+00:10:15,000 --> 00:10:16,000
+That's right.
+
+200
+00:10:16,000 --> 00:10:19,000
+We've gone over a lot of different situations.
+
+201
+00:10:19,000 --> 00:10:28,000
+We've had situations with strangers, situations with work friends, but I think what's really important is that in all these situations we're very polite.
+
+202
+00:10:28,000 --> 00:10:29,000
+We say nice things.
+
+203
+00:10:30,000 --> 00:10:35,000
+There are these transitions like I hear or I couldn't agree more.
+
+204
+00:10:35,000 --> 00:10:39,000
+These are wonderful ways of really being nice to the person you're talking to.
+
+205
+00:10:40,000 --> 00:10:44,000
+That's right and we're going to come out with a new series soon so we would really like your feedback.
+
+206
+00:10:44,000 --> 00:10:52,000
+Any topics or any specific subject you want us to talk, you can let us know at EnglishPod.com and also your questions and comments can be left there.
+
+207
+00:10:52,000 --> 00:10:53,000
+That's right.
+
+208
+00:10:53,000 --> 00:10:55,000
+So please get in touch with us EnglishPod.com.
+
+209
+00:10:55,000 --> 00:10:56,000
+We'll see you guys there.
+
+210
+00:10:56,000 --> 00:10:56,000
+Bye.
+

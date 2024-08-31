@@ -1,0 +1,52 @@
+1
+00:00:05,000 --> 00:00:06,000
+What are you doing this weekend?
+
+2
+00:00:07,000 --> 00:00:10,000
+My brother-in-law is having a small get together at his house and he invited me.
+
+3
+00:00:11,000 --> 00:00:12,000
+Is it a family thing or just friends?
+
+4
+00:00:13,000 --> 00:00:13,000
+A bit of both.
+
+5
+00:00:14,000 --> 00:00:18,000
+Some cousins, aunts, and uncles will be there, but also some friends from the neighborhood.
+
+6
+00:00:19,000 --> 00:00:20,000
+Is your great uncle Rick going to be there?
+
+7
+00:00:20,000 --> 00:00:21,000
+He is really funny.
+
+8
+00:00:22,000 --> 00:00:24,000
+Yeah, he's going to be there with his stepson and his ex-wife.
+
+9
+00:00:25,000 --> 00:00:26,000
+You mean your sister?
+
+10
+00:00:26,000 --> 00:00:30,000
+No, Rick is actually my great uncle, so he's my grandmother's brother.
+
+11
+00:00:30,000 --> 00:00:31,000
+You lost me.
+
+12
+00:00:32,000 --> 00:00:32,000
+I'll explain later.
+
+13
+00:00:32,000 --> 00:00:33,000
+Let's go.
+

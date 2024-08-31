@@ -1,0 +1,252 @@
+1
+00:00:00,000 --> 00:00:07,000
+The EnglishPod Audio Review Listen to the meaning, then say the vocabulary word.
+
+2
+00:00:08,000 --> 00:00:11,000
+A female romantic partner.
+
+3
+00:00:13,000 --> 00:00:13,000
+Girlfriend.
+
+4
+00:00:16,000 --> 00:00:18,000
+End a romantic relationship.
+
+5
+00:00:21,000 --> 00:00:22,000
+Break up.
+
+6
+00:00:23,000 --> 00:00:26,000
+Take responsibility for your actions.
+
+7
+00:00:28,000 --> 00:00:29,000
+Man up.
+
+8
+00:00:31,000 --> 00:00:34,000
+An unplight way of saying something is foolish.
+
+9
+00:00:37,000 --> 00:00:37,000
+Crap.
+
+10
+00:00:39,000 --> 00:00:42,000
+A grown male still dependent on his mother.
+
+11
+00:00:44,000 --> 00:00:45,000
+Mama's boy.
+
+12
+00:00:48,000 --> 00:00:49,000
+Change the place where you live.
+
+13
+00:00:49,000 --> 00:00:50,000
+Leave a house.
+
+14
+00:00:52,000 --> 00:00:54,000
+Move out.
+
+15
+00:00:54,000 --> 00:00:57,000
+Let's try that faster.
+
+16
+00:00:59,000 --> 00:01:00,000
+A female romantic partner.
+
+17
+00:01:02,000 --> 00:01:03,000
+Girlfriend.
+
+18
+00:01:05,000 --> 00:01:07,000
+An unplight way of saying something is foolish.
+
+19
+00:01:09,000 --> 00:01:10,000
+Crap.
+
+20
+00:01:14,000 --> 00:01:16,000
+Man up.
+
+21
+00:01:18,000 --> 00:01:20,000
+End a romantic relationship.
+
+22
+00:01:20,000 --> 00:01:23,000
+Break up.
+
+23
+00:01:24,000 --> 00:01:27,000
+A grown male still dependent on his mother.
+
+24
+00:01:29,000 --> 00:01:30,000
+Mama's boy.
+
+25
+00:01:31,000 --> 00:01:33,000
+Change the place where you live.
+
+26
+00:01:33,000 --> 00:01:34,000
+Leave a house.
+
+27
+00:01:36,000 --> 00:01:37,000
+Move out.
+
+28
+00:01:39,000 --> 00:01:41,000
+Now say the word and hear it in a sentence.
+
+29
+00:01:43,000 --> 00:01:43,000
+Break up.
+
+30
+00:01:46,000 --> 00:01:51,000
+I am going to break up with my girlfriend next week.
+
+31
+00:01:52,000 --> 00:01:53,000
+Break up.
+
+32
+00:01:58,000 --> 00:02:00,000
+We decided to break up and date other people.
+
+33
+00:02:02,000 --> 00:02:04,000
+Break up.
+
+34
+00:02:08,000 --> 00:02:11,000
+They weren't getting along so they broke up.
+
+35
+00:02:13,000 --> 00:02:13,000
+Man up.
+
+36
+00:02:13,000 --> 00:02:14,000
+Man up.
+
+37
+00:02:19,000 --> 00:02:23,000
+You need to man up and take responsibility for your actions.
+
+38
+00:02:25,000 --> 00:02:26,000
+Man up.
+
+39
+00:02:31,000 --> 00:02:33,000
+He didn't want to man up to what he did.
+
+40
+00:02:35,000 --> 00:02:36,000
+Man up.
+
+41
+00:02:41,000 --> 00:02:42,000
+Man up.
+
+42
+00:02:42,000 --> 00:02:42,000
+Man up to him.
+
+43
+00:02:43,000 --> 00:02:44,000
+Don't let him bully you.
+
+44
+00:02:46,000 --> 00:02:47,000
+Mama's boy.
+
+45
+00:02:53,000 --> 00:02:55,000
+I don't like it when people call me a mama's boy.
+
+46
+00:02:58,000 --> 00:02:58,000
+Mama's boy.
+
+47
+00:03:03,000 --> 00:03:05,000
+When are you going to stop being a mama's boy?
+
+48
+00:03:08,000 --> 00:03:09,000
+Mama's boy.
+
+49
+00:03:15,000 --> 00:03:19,000
+Just because my mom cleans my room, my friends call me a mama's boy.
+
+50
+00:03:21,000 --> 00:03:22,000
+Crap.
+
+51
+00:03:26,000 --> 00:03:30,000
+I need to clean my room and get rid of all this crap.
+
+52
+00:03:31,000 --> 00:03:32,000
+Crap.
+
+53
+00:03:36,000 --> 00:03:37,000
+Crap.
+
+54
+00:03:37,000 --> 00:03:38,000
+I forgot my wallet.
+
+55
+00:03:40,000 --> 00:03:41,000
+Crap.
+
+56
+00:03:45,000 --> 00:03:47,000
+This car is a piece of crap.
+
+57
+00:03:49,000 --> 00:03:50,000
+Move out.
+
+58
+00:03:56,000 --> 00:04:00,000
+My parents told me I need to move out by my 21st birthday.
+
+59
+00:04:02,000 --> 00:04:03,000
+Move out.
+
+60
+00:04:08,000 --> 00:04:11,000
+I am looking for an apartment and will move out next week.
+
+61
+00:04:13,000 --> 00:04:14,000
+Move out.
+
+62
+00:04:19,000 --> 00:04:23,000
+My roommate is moving out next month so you can take his room.
+
+63
+00:04:27,000 --> 00:04:28,000
+Thanks for watching!
+

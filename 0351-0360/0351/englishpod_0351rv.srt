@@ -1,0 +1,136 @@
+1
+00:00:00,000 --> 00:00:07,000
+The EnglishPod Audio Review Listen to the meaning, then say the vocabulary word.
+
+2
+00:00:09,000 --> 00:00:12,000
+A medical substance that protects people or animals.
+
+3
+00:00:14,000 --> 00:00:21,000
+Vaccine Acute viral disease, usually affecting children and young adults.
+
+4
+00:00:24,000 --> 00:00:33,000
+Polio An infectious, often fatal disease caused by a specific bacterium that enters the body through wounds.
+
+5
+00:00:36,000 --> 00:00:42,000
+Tetanus Inflammation of the liver, caused by a virus or a toxin.
+
+6
+00:00:45,000 --> 00:00:57,000
+Hepatitis A mild contagious viral disease characterized by fever, mild upper respiratory congestion, and a fine red rash lasting a few days.
+
+7
+00:00:59,000 --> 00:01:08,000
+Rubella A disease common of children, characterized by mild headache and fever, an eruption of blisters on the skin.
+
+8
+00:01:11,000 --> 00:01:19,000
+Chicken pox An acute infectious disease occurring mostly in children, red spots being a common symptom.
+
+9
+00:01:22,000 --> 00:01:29,000
+Measles Characterized by inflammatory swelling of the other salivary glands.
+
+10
+00:01:31,000 --> 00:01:35,000
+Mumps Let's try that faster.
+
+11
+00:01:36,000 --> 00:01:43,000
+An acute infectious disease occurring mostly in children, red spots being a common symptom.
+
+12
+00:01:44,000 --> 00:01:53,000
+Measles A disease common of children, characterized by mild headache and fever, an eruption of blisters on the skin.
+
+13
+00:01:55,000 --> 00:02:01,000
+Chicken pox A medical substance that protects people or animals.
+
+14
+00:02:03,000 --> 00:02:14,000
+Vaccine A mild contagious viral disease characterized by fever, mild upper respiratory congestion, and a fine red rash lasting a few days.
+
+15
+00:02:16,000 --> 00:02:22,000
+Rubella Inflammation of the liver, caused by a virus or a toxin.
+
+16
+00:02:24,000 --> 00:02:30,000
+Hepatitis Characterized by inflammatory swelling of the other salivary glands.
+
+17
+00:02:31,000 --> 00:02:40,000
+Mumps An infectious, often fatal disease caused by a specific bacterium that enters the body through wounds.
+
+18
+00:02:42,000 --> 00:02:48,000
+Tetanus Acute viral disease usually affecting children and young adults.
+
+19
+00:02:51,000 --> 00:02:55,000
+Polio Now say the word and hear it in a sentence.
+
+20
+00:02:57,000 --> 00:03:06,000
+Polio Polio was basically eliminated early in the 20th century.
+
+21
+00:03:08,000 --> 00:03:16,000
+Polio Jonas Salk created the first polio vaccine.
+
+22
+00:03:18,000 --> 00:03:26,000
+Polio If untreated, polio can cause paralysis.
+
+23
+00:03:27,000 --> 00:03:37,000
+Chicken pox Chicken pox My entire class got chicken pox when I was in the third grade.
+
+24
+00:03:40,000 --> 00:03:49,000
+Chicken pox Chicken pox is not a fatal disease, but it is very irritating.
+
+25
+00:03:52,000 --> 00:04:02,000
+Chicken pox Vaccine A person with chicken pox will have little rashes all over the body.
+
+26
+00:04:06,000 --> 00:04:12,000
+Vaccine Scientists are working on an AIDS vaccine.
+
+27
+00:04:15,000 --> 00:04:24,000
+Vaccine There are many vaccines for pets such as dogs or cats.
+
+28
+00:04:26,000 --> 00:04:33,000
+Vaccine The flu vaccine is very popular in winter.
+
+29
+00:04:35,000 --> 00:04:45,000
+Hepatitis The doctor will administer a small dose of heroin to ease the pain.
+
+30
+00:04:47,000 --> 00:04:55,000
+Hepatitis Only doctors can administer certain types of drugs.
+
+31
+00:04:59,000 --> 00:05:08,000
+Hepatitis An antibiotic may be administered orally or by an injection.
+
+32
+00:05:10,000 --> 00:05:18,000
+Measles Measles are also referred to as rubiola.
+
+33
+00:05:21,000 --> 00:05:32,000
+Measles People that have measles will have a fever, runny nose, cough, and red eyes.
+
+34
+00:05:34,000 --> 00:05:43,000
+Measles There was a recent outbreak of measles in Boston.
+

@@ -1,0 +1,976 @@
+1
+00:00:01,000 --> 00:00:04,000
+Hello English learners, welcome back to EnglishPod.
+
+2
+00:00:05,000 --> 00:00:05,000
+My name is Marco.
+
+3
+00:00:06,000 --> 00:00:06,000
+And I'm Erika.
+
+4
+00:00:07,000 --> 00:00:09,000
+We're bringing you an advanced lesson today.
+
+5
+00:00:09,000 --> 00:00:10,000
+That's right.
+
+6
+00:00:10,000 --> 00:00:14,000
+An advanced lesson where we talk about investing in emerging markets.
+
+7
+00:00:14,000 --> 00:00:14,000
+Right.
+
+8
+00:00:15,000 --> 00:00:16,000
+So it's kind of a business topic.
+
+9
+00:00:17,000 --> 00:00:19,000
+It's kind of a world topic as well.
+
+10
+00:00:19,000 --> 00:00:19,000
+Yes.
+
+11
+00:00:20,000 --> 00:00:21,000
+And it's pretty difficult.
+
+12
+00:00:21,000 --> 00:00:22,000
+Yeah, it is really hard.
+
+13
+00:00:23,000 --> 00:00:23,000
+Right.
+
+14
+00:00:23,000 --> 00:00:28,000
+So if you're listening and you don't understand everything, please don't get discouraged.
+
+15
+00:00:28,000 --> 00:00:30,000
+Just don't worry about it because we're here to learn.
+
+16
+00:00:31,000 --> 00:00:31,000
+Yes.
+
+17
+00:00:31,000 --> 00:00:32,000
+And we're here to help you.
+
+18
+00:00:32,000 --> 00:00:32,000
+Right.
+
+19
+00:00:33,000 --> 00:00:35,000
+So let's get started with this.
+
+20
+00:00:35,000 --> 00:00:36,000
+I'm really excited about this lesson.
+
+21
+00:00:37,000 --> 00:00:37,000
+Okay.
+
+22
+00:00:37,000 --> 00:00:39,000
+Well, Marco, maybe you can tell us a little bit.
+
+23
+00:00:39,000 --> 00:00:41,000
+What is an emerging market?
+
+24
+00:00:41,000 --> 00:00:45,000
+An emerging market is a market that is starting to develop.
+
+25
+00:00:46,000 --> 00:00:46,000
+Okay.
+
+26
+00:00:46,000 --> 00:00:47,000
+And it's growing rapidly.
+
+27
+00:00:48,000 --> 00:00:50,000
+So you can maybe give some examples of emerging market.
+
+28
+00:00:50,000 --> 00:00:53,000
+Well, for example, China is an emerging market.
+
+29
+00:00:53,000 --> 00:00:53,000
+Yeah.
+
+30
+00:00:53,000 --> 00:00:55,000
+In the last years, it's been growing rapidly.
+
+31
+00:00:55,000 --> 00:00:59,000
+More and more people are moving to the middle class and have money to spend.
+
+32
+00:01:00,000 --> 00:01:00,000
+Exactly.
+
+33
+00:01:00,000 --> 00:01:03,000
+So China is like a really great example of an emerging market.
+
+34
+00:01:03,000 --> 00:01:04,000
+All right.
+
+35
+00:01:04,000 --> 00:01:06,000
+Well, with that, let's listen to the dialogue for the first time.
+
+36
+00:01:19,000 --> 00:01:20,000
+Dad, I'd like to borrow some money.
+
+37
+00:01:21,000 --> 00:01:21,000
+Sure, Johnny.
+
+38
+00:01:22,000 --> 00:01:22,000
+How much do you need?
+
+39
+00:01:23,000 --> 00:01:23,000
+Five bucks?
+
+40
+00:01:24,000 --> 00:01:24,000
+Come on, Dad.
+
+41
+00:01:24,000 --> 00:01:26,000
+I need 30,000.
+
+42
+00:01:26,000 --> 00:01:27,000
+I want to get into the market.
+
+43
+00:01:27,000 --> 00:01:33,000
+You know, I'm tired of hearing all this news about the economic downturn, the inevitable recession, people stuffing their money in their mattresses.
+
+44
+00:01:34,000 --> 00:01:35,000
+I look at this as an opportunity.
+
+45
+00:01:36,000 --> 00:01:38,000
+This is a chance for me to get a jumpstart on building my nest egg.
+
+46
+00:01:38,000 --> 00:01:39,000
+I don't know about that.
+
+47
+00:01:40,000 --> 00:01:43,000
+With all the uncertainty in the markets right now, it would be a very unwise decision to invest.
+
+48
+00:01:44,000 --> 00:01:48,000
+I don't know if you're aware, son, but there has been a lot of turmoil in the markets recently.
+
+49
+00:01:49,000 --> 00:01:56,000
+There have already been half a million layoffs in the last few months, and we have no idea how the proposed stimulus package will impact upon the economy.
+
+50
+00:01:57,000 --> 00:01:58,000
+There's just too much instability.
+
+51
+00:01:59,000 --> 00:02:01,000
+I just wouldn't feel comfortable investing in this climate.
+
+52
+00:02:02,000 --> 00:02:03,000
+But look at it this way.
+
+53
+00:02:03,000 --> 00:02:04,000
+Every challenge is an opportunity.
+
+54
+00:02:05,000 --> 00:02:08,000
+And anyway, I'm not talking about investing in the domestic market.
+
+55
+00:02:08,000 --> 00:02:10,000
+There are emerging markets that promise great returns.
+
+56
+00:02:10,000 --> 00:02:11,000
+Look at China, for example.
+
+57
+00:02:12,000 --> 00:02:16,000
+They have 1.4 billion people, half a billion of whom have recently entered the middle class.
+
+58
+00:02:16,000 --> 00:02:21,000
+Here alone, the aggregate demand for consumer goods represents an amazing wealth-generating opportunity.
+
+59
+00:02:22,000 --> 00:02:23,000
+Oh, come on, son.
+
+60
+00:02:23,000 --> 00:02:24,000
+And you're looking at this too, naively.
+
+61
+00:02:25,000 --> 00:02:31,000
+The Chinese market has exhibited a great deal of instability, and their currency has been devalued by almost a whole percentage point.
+
+62
+00:02:31,000 --> 00:02:32,000
+Fine, then.
+
+63
+00:02:32,000 --> 00:02:34,000
+If that's the way you feel, so be it.
+
+64
+00:02:34,000 --> 00:02:36,000
+But you're losing out on a great opportunity here.
+
+65
+00:02:36,000 --> 00:02:38,000
+I'm going to hit up mom for the cash.
+
+66
+00:02:49,000 --> 00:02:53,000
+Well, it sounds like the dad has missed out on a really big investment opportunity, hey?
+
+67
+00:02:54,000 --> 00:02:56,000
+Yeah, and his son is pretty smart.
+
+68
+00:02:57,000 --> 00:02:58,000
+Pretty smart little boy.
+
+69
+00:02:59,000 --> 00:03:02,000
+OK, so we have some great words that we want to look at here.
+
+70
+00:03:02,000 --> 00:03:04,000
+Why don't we start with the first one?
+
+71
+00:03:05,000 --> 00:03:05,000
+Turmoil.
+
+72
+00:03:07,000 --> 00:03:07,000
+Turmoil.
+
+73
+00:03:07,000 --> 00:03:08,000
+Turmoil.
+
+74
+00:03:08,000 --> 00:03:13,000
+So we have some great examples of how turmoil is used in different sentences, so let's listen.
+
+75
+00:03:15,000 --> 00:03:15,000
+Example one.
+
+76
+00:03:19,000 --> 00:03:24,000
+With a civil war, a famine, and inflation, the country has been in turmoil for 10 years.
+
+77
+00:03:29,000 --> 00:03:30,000
+Example two.
+
+78
+00:03:34,000 --> 00:03:41,000
+There's been a lot of turmoil in my life recently, but I've moved to a new city, I've changed my job, I broke up with my girlfriend.
+
+79
+00:03:46,000 --> 00:03:47,000
+Example three.
+
+80
+00:03:51,000 --> 00:03:54,000
+The devaluation of the dollar caused a great deal of turmoil in the markets.
+
+81
+00:03:58,000 --> 00:04:06,000
+So turmoil is a state of uncertainty, of change, of difficult times, a little bit of chaos.
+
+82
+00:04:06,000 --> 00:04:07,000
+Yeah, yeah.
+
+83
+00:04:07,000 --> 00:04:13,000
+So, for example, when there's a lot of turmoil in the market, that means stock prices are changing drastically from day to day.
+
+84
+00:04:14,000 --> 00:04:18,000
+Or the economies in turmoil, there's a lot of problems going on.
+
+85
+00:04:18,000 --> 00:04:19,000
+Yeah, uncertainty.
+
+86
+00:04:20,000 --> 00:04:20,000
+Uncertainty.
+
+87
+00:04:20,000 --> 00:04:21,000
+OK, good word.
+
+88
+00:04:21,000 --> 00:04:22,000
+All right.
+
+89
+00:04:22,000 --> 00:04:28,000
+And we also saw something really interesting in the dialogue about a proposed stimulus package.
+
+90
+00:04:28,000 --> 00:04:30,000
+A proposed stimulus package.
+
+91
+00:04:31,000 --> 00:04:35,000
+So a proposed stimulus package is something that's going on now.
+
+92
+00:04:35,000 --> 00:04:35,000
+Yes.
+
+93
+00:04:35,000 --> 00:04:36,000
+Let's break this phrase down.
+
+94
+00:04:37,000 --> 00:04:39,000
+So we've got stimulus package.
+
+95
+00:04:39,000 --> 00:04:43,000
+A stimulus package, something to stimulate the economy, right?
+
+96
+00:04:43,000 --> 00:04:43,000
+Right.
+
+97
+00:04:44,000 --> 00:04:46,000
+So money from the government to get the economy moving.
+
+98
+00:04:47,000 --> 00:04:47,000
+To get it moving.
+
+99
+00:04:48,000 --> 00:04:48,000
+Stimulus package.
+
+100
+00:04:49,000 --> 00:04:49,000
+Proposed.
+
+101
+00:04:49,000 --> 00:04:52,000
+It means that it hasn't been approved yet.
+
+102
+00:04:53,000 --> 00:04:53,000
+It's suggested.
+
+103
+00:04:54,000 --> 00:04:54,000
+It's suggested.
+
+104
+00:04:54,000 --> 00:04:55,000
+It's an idea.
+
+105
+00:04:56,000 --> 00:04:58,000
+So the proposed stimulus package for the U.S.
+
+106
+00:04:58,000 --> 00:05:01,000
+economy, for example, is $150 billion.
+
+107
+00:05:02,000 --> 00:05:02,000
+Right.
+
+108
+00:05:02,000 --> 00:05:09,000
+That's $150 billion of American taxpayers' money that the government wants to put into the economy to keep it moving.
+
+109
+00:05:09,000 --> 00:05:10,000
+To keep it moving, right.
+
+110
+00:05:10,000 --> 00:05:16,000
+So if it works or not, that's still a debate, but it's a proposed stimulus package.
+
+111
+00:05:16,000 --> 00:05:17,000
+Let's move to our third phrase.
+
+112
+00:05:18,000 --> 00:05:19,000
+Aggregate demand.
+
+113
+00:05:20,000 --> 00:05:21,000
+Aggregate demand.
+
+114
+00:05:21,000 --> 00:05:22,000
+Aggregate demand.
+
+115
+00:05:23,000 --> 00:05:24,000
+Aggregate demand.
+
+116
+00:05:24,000 --> 00:05:27,000
+So demand is pretty clear, but this word aggregate, what's that about?
+
+117
+00:05:28,000 --> 00:05:31,000
+Aggregate is like a combined, added, right?
+
+118
+00:05:32,000 --> 00:05:33,000
+Aggregate demand.
+
+119
+00:05:33,000 --> 00:05:46,000
+For example, in a country like China, where cities like in Shanghai or cities like Beijing, where more and more people are accumulating wealth, the aggregate demand is increasing.
+
+120
+00:05:47,000 --> 00:05:47,000
+Right, right.
+
+121
+00:05:47,000 --> 00:05:50,000
+The combined demand for consumer goods is growing.
+
+122
+00:05:51,000 --> 00:05:51,000
+Right.
+
+123
+00:05:51,000 --> 00:05:54,000
+More people have more money, so they're spending more.
+
+124
+00:05:54,000 --> 00:05:54,000
+Yes.
+
+125
+00:05:55,000 --> 00:05:55,000
+Okay.
+
+126
+00:05:55,000 --> 00:05:59,000
+You know, Marco, there's a ton of excellent language in this dialogue, isn't there?
+
+127
+00:05:59,000 --> 00:06:00,000
+Yeah.
+
+128
+00:06:00,000 --> 00:06:01,000
+A lot of good stuff here.
+
+129
+00:06:01,000 --> 00:06:01,000
+Yeah.
+
+130
+00:06:01,000 --> 00:06:04,000
+And we want to listen to the dialogue one more time.
+
+131
+00:06:04,000 --> 00:06:09,000
+But before we do, we have three words for you that we want you to listen for.
+
+132
+00:06:09,000 --> 00:06:09,000
+Yeah.
+
+133
+00:06:09,000 --> 00:06:11,000
+Pay attention to these words.
+
+134
+00:06:11,000 --> 00:06:12,000
+Nest egg.
+
+135
+00:06:13,000 --> 00:06:14,000
+Nest egg.
+
+136
+00:06:14,000 --> 00:06:15,000
+Inevitable.
+
+137
+00:06:15,000 --> 00:06:16,000
+Inevitable.
+
+138
+00:06:17,000 --> 00:06:18,000
+And hit up.
+
+139
+00:06:18,000 --> 00:06:19,000
+Hit up.
+
+140
+00:06:19,000 --> 00:06:24,000
+So, from the context of the dialogue, try and see if you can figure out what they mean.
+
+141
+00:06:24,000 --> 00:06:27,000
+But after listening to it, we'll come back and explain it anyways.
+
+142
+00:06:35,000 --> 00:06:37,000
+Dad, I'd like to borrow some money.
+
+143
+00:06:37,000 --> 00:06:38,000
+Sure, Johnny.
+
+144
+00:06:38,000 --> 00:06:39,000
+How much do you need?
+
+145
+00:06:39,000 --> 00:06:40,000
+Five bucks?
+
+146
+00:06:41,000 --> 00:06:41,000
+Come on, Dad.
+
+147
+00:06:41,000 --> 00:06:42,000
+I need thirty thousand.
+
+148
+00:06:43,000 --> 00:06:44,000
+I want to get into the market.
+
+149
+00:06:44,000 --> 00:06:50,000
+You know, I'm tired of hearing all this news about the economic downturn, the inevitable recession, people stuffing their money in their mattresses.
+
+150
+00:06:51,000 --> 00:06:52,000
+I look at this as an opportunity.
+
+151
+00:06:52,000 --> 00:06:55,000
+This is a chance for me to get a jumpstart on building my nest egg.
+
+152
+00:06:55,000 --> 00:06:56,000
+I don't know about that.
+
+153
+00:06:56,000 --> 00:07:00,000
+With all the uncertainty in the markets right now, it would be a very unwise decision to invest.
+
+154
+00:07:01,000 --> 00:07:05,000
+I don't know if you're aware, son, but there has been a lot of turmoil in the markets recently.
+
+155
+00:07:05,000 --> 00:07:13,000
+There have already been half a million layoffs in the last few months, and we have no idea how the proposed stimulus package will impact upon the economy.
+
+156
+00:07:14,000 --> 00:07:15,000
+There's just too much instability.
+
+157
+00:07:16,000 --> 00:07:18,000
+I just wouldn't feel comfortable investing in this climate.
+
+158
+00:07:19,000 --> 00:07:19,000
+But look at it this way.
+
+159
+00:07:20,000 --> 00:07:21,000
+Every challenge is an opportunity.
+
+160
+00:07:21,000 --> 00:07:24,000
+And anyway, I'm not talking about investing in the domestic market.
+
+161
+00:07:25,000 --> 00:07:27,000
+There are emerging markets that promise great returns.
+
+162
+00:07:27,000 --> 00:07:28,000
+Look at China, for example.
+
+163
+00:07:28,000 --> 00:07:32,000
+They have 1.4 billion people, half a billion of whom have recently entered the middle class.
+
+164
+00:07:33,000 --> 00:07:38,000
+Here alone, the aggregate demand for consumer goods represents an amazing wealth-generating opportunity.
+
+165
+00:07:38,000 --> 00:07:41,000
+Aw, come on, son, you're looking at this too naively.
+
+166
+00:07:41,000 --> 00:07:47,000
+The Chinese market has exhibited a great deal of instability, and their currency has been devalued by almost a whole percentage point.
+
+167
+00:07:48,000 --> 00:07:49,000
+Fine, then.
+
+168
+00:07:49,000 --> 00:07:51,000
+If that's the way you feel, so be it.
+
+169
+00:07:51,000 --> 00:07:53,000
+But you're losing out on a great opportunity here.
+
+170
+00:07:53,000 --> 00:07:54,000
+I'm gonna hit up mom for the cash.
+
+171
+00:08:00,000 --> 00:08:04,000
+So the kid wants to invest because he wants to set up his nest egg.
+
+172
+00:08:04,000 --> 00:08:05,000
+That's right.
+
+173
+00:08:05,000 --> 00:08:13,000
+So basically, he wants to get a bunch of cash together so that he can buy a house or get married or whatever.
+
+174
+00:08:14,000 --> 00:08:16,000
+It's that money you need to start your life, right?
+
+175
+00:08:16,000 --> 00:08:17,000
+To start your life, your nest egg.
+
+176
+00:08:17,000 --> 00:08:20,000
+It's kind of a weird way of referring to this money, right?
+
+177
+00:08:20,000 --> 00:08:21,000
+I guess it is kind of funny.
+
+178
+00:08:23,000 --> 00:08:24,000
+And also, the little boy talked about investing in the domestic market.
+
+179
+00:08:24,000 --> 00:08:26,000
+Inevitable recession.
+
+180
+00:08:26,000 --> 00:08:27,000
+Yes, inevitable.
+
+181
+00:08:27,000 --> 00:08:28,000
+Inevitable.
+
+182
+00:08:28,000 --> 00:08:31,000
+Inevitable basically means unavoidable.
+
+183
+00:08:32,000 --> 00:08:35,000
+So this guy thinks that the recession is unavoidable.
+
+184
+00:08:35,000 --> 00:08:36,000
+It's gonna happen.
+
+185
+00:08:36,000 --> 00:08:37,000
+Yes, inevitable.
+
+186
+00:08:38,000 --> 00:08:44,000
+You know, this word inevitable, if you apply the root words, you can get a noun, an adjective, or an adverb, right?
+
+187
+00:08:44,000 --> 00:08:44,000
+Right.
+
+188
+00:08:45,000 --> 00:08:48,000
+So we've got some examples where you can see this word in action.
+
+189
+00:08:49,000 --> 00:08:50,000
+Example one.
+
+190
+00:08:52,000 --> 00:08:56,000
+Jason knew he was going to get laid off, but he was trying to delay the inevitable.
+
+191
+00:08:59,000 --> 00:09:00,000
+Example two.
+
+192
+00:09:04,000 --> 00:09:07,000
+As a new manager, it's inevitable that you're going to make mistakes.
+
+193
+00:09:10,000 --> 00:09:11,000
+Example three.
+
+194
+00:09:14,000 --> 00:09:17,000
+Inevitably, we all die at the end of our lives.
+
+195
+00:09:20,000 --> 00:09:24,000
+So as you can see, the noun and adjective form are the same.
+
+196
+00:09:24,000 --> 00:09:25,000
+Yes, inevitable.
+
+197
+00:09:25,000 --> 00:09:25,000
+Inevitable.
+
+198
+00:09:25,000 --> 00:09:28,000
+When we use it as an adverb, though, we add the ly to it.
+
+199
+00:09:29,000 --> 00:09:29,000
+Inevitably.
+
+200
+00:09:30,000 --> 00:09:30,000
+Inevitably.
+
+201
+00:09:30,000 --> 00:09:30,000
+Yes.
+
+202
+00:09:31,000 --> 00:09:35,000
+So yeah, as you can see, we could use it in many different ways depending on what we want to say.
+
+203
+00:09:36,000 --> 00:09:36,000
+Right.
+
+204
+00:09:36,000 --> 00:09:39,000
+Well, inevitably, we have to move on to our third word.
+
+205
+00:09:40,000 --> 00:09:40,000
+Hit up.
+
+206
+00:09:40,000 --> 00:09:41,000
+Hit up.
+
+207
+00:09:42,000 --> 00:09:44,000
+So he says he's going to hit up mom for the cash.
+
+208
+00:09:45,000 --> 00:09:46,000
+Ask his mom.
+
+209
+00:09:46,000 --> 00:09:47,000
+Yeah, hit up.
+
+210
+00:09:47,000 --> 00:09:49,000
+Yeah, this is kind of a slangy term, isn't it?
+
+211
+00:09:49,000 --> 00:09:51,000
+Yeah, it's more informal.
+
+212
+00:09:52,000 --> 00:09:53,000
+A lot more slangy.
+
+213
+00:09:53,000 --> 00:09:53,000
+Yeah.
+
+214
+00:09:53,000 --> 00:09:55,000
+You wouldn't really use it with your boss, would you?
+
+215
+00:09:55,000 --> 00:09:59,000
+No, you're not going to go up to your boss and say, hey, I need to hit you up for some cash.
+
+216
+00:09:59,000 --> 00:10:03,000
+So Marco, I think this word is only applying to money, right?
+
+217
+00:10:03,000 --> 00:10:08,000
+Well, you wouldn't go up to your boss and say, oh, I need to hit you up for some vacation time.
+
+218
+00:10:08,000 --> 00:10:10,000
+No, it's typically used for money.
+
+219
+00:10:10,000 --> 00:10:11,000
+In this context.
+
+220
+00:10:11,000 --> 00:10:11,000
+Yeah.
+
+221
+00:10:12,000 --> 00:10:12,000
+Yeah.
+
+222
+00:10:12,000 --> 00:10:12,000
+Hit them up.
+
+223
+00:10:12,000 --> 00:10:14,000
+We've got some examples of the phrase hit up.
+
+224
+00:10:15,000 --> 00:10:16,000
+Let's listen.
+
+225
+00:10:17,000 --> 00:10:17,000
+Example one.
+
+226
+00:10:19,000 --> 00:10:21,000
+I'm going to hit up the boss for a raise.
+
+227
+00:10:24,000 --> 00:10:25,000
+Example two.
+
+228
+00:10:28,000 --> 00:10:29,000
+Are you trying to hit me up for money?
+
+229
+00:10:33,000 --> 00:10:33,000
+Example three.
+
+230
+00:10:36,000 --> 00:10:37,000
+I don't have any cash.
+
+231
+00:10:37,000 --> 00:10:38,000
+Have you tried hitting up Sophie?
+
+232
+00:10:38,000 --> 00:10:39,000
+She's rich.
+
+233
+00:10:41,000 --> 00:10:43,000
+Okay, so this is our first advanced lesson.
+
+234
+00:10:43,000 --> 00:10:45,000
+I hope you enjoyed it.
+
+235
+00:10:45,000 --> 00:10:47,000
+It is a lot more challenging, I think.
+
+236
+00:10:47,000 --> 00:10:50,000
+Especially because it's set in a business context.
+
+237
+00:10:50,000 --> 00:10:55,000
+So we have a lot of specific words and a lot of technical vocabulary.
+
+238
+00:10:55,000 --> 00:10:56,000
+That's right.
+
+239
+00:10:56,000 --> 00:10:57,000
+Marco, you're exactly right.
+
+240
+00:10:57,000 --> 00:11:01,000
+And I think that our users are going to have a lot of questions about the language in this lesson.
+
+241
+00:11:01,000 --> 00:11:05,000
+So I'd like to invite you guys to come onto our website at EnglishPod.com.
+
+242
+00:11:06,000 --> 00:11:10,000
+Exactly where you can leave all your questions and comments and we'll be there to answer them.
+
+243
+00:11:10,000 --> 00:11:11,000
+But until then, it's goodbye.
+
+244
+00:11:16,000 --> 00:11:17,000
+Bye.
+

@@ -1,0 +1,108 @@
+1
+00:00:01,000 --> 00:00:08,000
+EnglishPod.com I've had it!
+
+2
+00:00:09,000 --> 00:00:11,000
+I'm done working for a company that is taking me nowhere.
+
+3
+00:00:12,000 --> 00:00:13,000
+So what are you going to do?
+
+4
+00:00:13,000 --> 00:00:13,000
+Just quit?
+
+5
+00:00:14,000 --> 00:00:16,000
+That's exactly what I'm going to do.
+
+6
+00:00:16,000 --> 00:00:18,000
+I've decided to create my own company.
+
+7
+00:00:19,000 --> 00:00:23,000
+I'm going to write up a business plan, get some investors and start working for myself.
+
+8
+00:00:23,000 --> 00:00:25,000
+Have you ever written up a business plan before?
+
+9
+00:00:25,000 --> 00:00:27,000
+Well, no.
+
+10
+00:00:27,000 --> 00:00:28,000
+It can't be that hard.
+
+11
+00:00:28,000 --> 00:00:34,000
+I mean, all you have to do is explain your business, how are you going to do things, and that's it, right?
+
+12
+00:00:34,000 --> 00:00:36,000
+You couldn't be more wrong.
+
+13
+00:00:36,000 --> 00:00:41,000
+A well-written business plan will include an executive summary which highlights the idea of the business in two pages or less.
+
+14
+00:00:42,000 --> 00:00:47,000
+Then you need to describe your company with information such as what type of legal structure it has, history, etc.
+
+15
+00:00:48,000 --> 00:00:49,000
+Well, that seems easy enough.
+
+16
+00:00:49,000 --> 00:00:50,000
+Wait, there's more!
+
+17
+00:00:51,000 --> 00:00:56,000
+Then you need to introduce and describe your goods or services, what they are and how they're different from competitors.
+
+18
+00:00:57,000 --> 00:00:59,000
+Then comes the hard part, a market analysis.
+
+19
+00:01:00,000 --> 00:01:02,000
+You need to investigate and analyse hundreds of variables.
+
+20
+00:01:03,000 --> 00:01:10,000
+You need to take into consideration socioeconomic factors from GDP per capita to how many children on average the population has.
+
+21
+00:01:10,000 --> 00:01:18,000
+All this information is useful so that you can move on to your strategy and implementation stage where you will describe in detail how you will actually execute your idea.
+
+22
+00:01:19,000 --> 00:01:20,000
+Geez, is that all?
+
+23
+00:01:21,000 --> 00:01:21,000
+Almost.
+
+24
+00:01:21,000 --> 00:01:25,000
+The most important piece of information for your investors will be the financial analysis.
+
+25
+00:01:26,000 --> 00:01:29,000
+Here you will calculate and estimate sales, cash flow and profits.
+
+26
+00:01:30,000 --> 00:01:33,000
+After all, people will want to know when they will begin to see a return on their investment.
+
+27
+00:01:35,000 --> 00:01:41,000
+I think I'll just stick to my old job and save myself all the hassle of trying to start up a business.
+

@@ -1,0 +1,256 @@
+1
+00:00:00,000 --> 00:00:07,000
+The EnglishPod Audio Review Listen to the meaning, then say the vocabulary word.
+
+2
+00:00:08,000 --> 00:00:09,000
+How are you?
+
+3
+00:00:12,000 --> 00:00:12,000
+How's it going?
+
+4
+00:00:16,000 --> 00:00:17,000
+Close to here.
+
+5
+00:00:19,000 --> 00:00:19,000
+Around here.
+
+6
+00:00:21,000 --> 00:00:23,000
+On the next street.
+
+7
+00:00:25,000 --> 00:00:26,000
+Around the corner.
+
+8
+00:00:27,000 --> 00:00:29,000
+Moving quickly.
+
+9
+00:00:29,000 --> 00:00:31,000
+Having no time.
+
+10
+00:00:33,000 --> 00:00:34,000
+In a bit of a hurry.
+
+11
+00:00:36,000 --> 00:00:38,000
+Information required to contact someone.
+
+12
+00:00:39,000 --> 00:00:42,000
+For example, telephone number, email address.
+
+13
+00:00:44,000 --> 00:00:45,000
+Contact details.
+
+14
+00:00:47,000 --> 00:00:48,000
+Been forgotten.
+
+15
+00:00:50,000 --> 00:00:51,000
+Slip my mind.
+
+16
+00:00:53,000 --> 00:00:54,000
+Bad at.
+
+17
+00:00:56,000 --> 00:00:57,000
+Terrible with.
+
+18
+00:00:58,000 --> 00:00:59,000
+Let's try that faster.
+
+19
+00:01:01,000 --> 00:01:04,000
+Information required to contact someone.
+
+20
+00:01:04,000 --> 00:01:07,000
+For example, telephone number, email address.
+
+21
+00:01:09,000 --> 00:01:10,000
+Contact details.
+
+22
+00:01:11,000 --> 00:01:12,000
+Bad at.
+
+23
+00:01:13,000 --> 00:01:14,000
+Terrible with.
+
+24
+00:01:15,000 --> 00:01:17,000
+On the next street.
+
+25
+00:01:18,000 --> 00:01:19,000
+Around the corner.
+
+26
+00:01:20,000 --> 00:01:22,000
+Information required to contact someone.
+
+27
+00:01:22,000 --> 00:01:26,000
+For example, telephone number, email address.
+
+28
+00:01:27,000 --> 00:01:28,000
+Contact details.
+
+29
+00:01:30,000 --> 00:01:31,000
+Close to here.
+
+30
+00:01:32,000 --> 00:01:33,000
+Around here.
+
+31
+00:01:34,000 --> 00:01:35,000
+Bad at.
+
+32
+00:01:36,000 --> 00:01:37,000
+Terrible with.
+
+33
+00:01:38,000 --> 00:01:40,000
+On the next street.
+
+34
+00:01:41,000 --> 00:01:42,000
+Around the corner.
+
+35
+00:01:43,000 --> 00:01:44,000
+Moving quickly.
+
+36
+00:01:45,000 --> 00:01:46,000
+Having no time.
+
+37
+00:01:47,000 --> 00:01:48,000
+In a bit of a hurry.
+
+38
+00:01:50,000 --> 00:01:51,000
+Bad at.
+
+39
+00:01:52,000 --> 00:01:52,000
+Terrible with.
+
+40
+00:01:54,000 --> 00:01:55,000
+Moving quickly.
+
+41
+00:01:56,000 --> 00:01:57,000
+Having no time.
+
+42
+00:01:58,000 --> 00:01:59,000
+In a bit of a hurry.
+
+43
+00:02:01,000 --> 00:02:01,000
+How are you?
+
+44
+00:02:02,000 --> 00:02:03,000
+How's it going?
+
+45
+00:02:05,000 --> 00:02:06,000
+Been forgotten.
+
+46
+00:02:07,000 --> 00:02:08,000
+Slip my mind.
+
+47
+00:02:09,000 --> 00:02:10,000
+On the next street.
+
+48
+00:02:12,000 --> 00:02:13,000
+Around the corner.
+
+49
+00:02:14,000 --> 00:02:16,000
+Now say the word and hear it in a sentence.
+
+50
+00:02:18,000 --> 00:02:18,000
+Around here.
+
+51
+00:02:22,000 --> 00:02:25,000
+Excuse me, is there a bakery around here?
+
+52
+00:02:26,000 --> 00:02:27,000
+In a bit of a hurry.
+
+53
+00:02:31,000 --> 00:02:35,000
+I'm in a bit of a hurry now, so I will talk to you later.
+
+54
+00:02:36,000 --> 00:02:37,000
+Contact details.
+
+55
+00:02:43,000 --> 00:02:47,000
+Isabel, do you have the contact details of our internet service provider?
+
+56
+00:02:49,000 --> 00:02:50,000
+Slip my mind.
+
+57
+00:02:54,000 --> 00:02:57,000
+I'm sorry I forgot to respond to your email.
+
+58
+00:02:57,000 --> 00:02:58,000
+It just slipped my mind.
+
+59
+00:03:00,000 --> 00:03:01,000
+Terrible with.
+
+60
+00:03:05,000 --> 00:03:07,000
+I always make mistakes with the budget.
+
+61
+00:03:07,000 --> 00:03:09,000
+I'm terrible with numbers.
+
+62
+00:03:11,000 --> 00:03:12,000
+Contact details.
+
+63
+00:03:17,000 --> 00:03:21,000
+Isabel, do you have the contact details of our internet service provider?
+
+64
+00:03:23,000 --> 00:03:25,000
+Thank you.
+

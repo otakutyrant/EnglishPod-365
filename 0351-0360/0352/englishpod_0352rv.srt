@@ -1,0 +1,156 @@
+1
+00:00:00,000 --> 00:00:07,000
+The EnglishPod Audio Review Listen to the meaning, then say the vocabulary word.
+
+2
+00:00:08,000 --> 00:00:13,000
+A mausoleum located in India, made entirely of white marble.
+
+3
+00:00:15,000 --> 00:00:23,000
+Taj Mahal An extensive wall in China that kept invaders at bay.
+
+4
+00:00:26,000 --> 00:00:32,000
+Great Wall The art and science of designing buildings.
+
+5
+00:00:34,000 --> 00:00:41,000
+Architecture A historical city in Jordan which was carved out of the mountain.
+
+6
+00:00:43,000 --> 00:00:51,000
+Petra An ancient Incan city set high in the Andes Mountains in Peru.
+
+7
+00:00:53,000 --> 00:01:01,000
+Machu Picchu A structure where the outer surfaces are triangular and converge at a point.
+
+8
+00:01:03,000 --> 00:01:09,000
+Pyramid An ancient amphitheater located in Rome.
+
+9
+00:01:11,000 --> 00:01:17,000
+Colosseum A monumental human creation that is amazing.
+
+10
+00:01:19,000 --> 00:01:27,000
+Wonder A person trained to entertain the public by engaging in mortal combat.
+
+11
+00:01:29,000 --> 00:01:34,000
+Gladiator A grave or other place of burial.
+
+12
+00:01:36,000 --> 00:01:40,000
+Tomb Let's try that faster.
+
+13
+00:01:42,000 --> 00:01:45,000
+The art and science of designing buildings.
+
+14
+00:01:47,000 --> 00:01:54,000
+Architecture A person trained to entertain the public by engaging in mortal combat.
+
+15
+00:01:56,000 --> 00:02:03,000
+Gladiator A structure where the outer surfaces are triangular and converge at a point.
+
+16
+00:02:05,000 --> 00:02:10,000
+Pyramid An ancient amphitheater located in Rome.
+
+17
+00:02:12,000 --> 00:02:18,000
+Colosseum An extensive wall in China that kept invaders at bay.
+
+18
+00:02:20,000 --> 00:02:26,000
+Great Wall A historical city in Jordan which was carved out of the mountain.
+
+19
+00:02:28,000 --> 00:02:35,000
+Petra A mausoleum located in India made entirely of white marble.
+
+20
+00:02:37,000 --> 00:02:44,000
+Taj Mahal An ancient Incan city set high in the Andes Mountains in Peru.
+
+21
+00:02:46,000 --> 00:02:51,000
+Machu Picchu A grave or other place of burial.
+
+22
+00:02:52,000 --> 00:02:57,000
+Tomb A monumental human creation that is amazing.
+
+23
+00:02:59,000 --> 00:03:04,000
+Wonder Now say the word and hear it in a sentence.
+
+24
+00:03:05,000 --> 00:03:14,000
+Architecture The architecture of this town is very bizarre.
+
+25
+00:03:16,000 --> 00:03:25,000
+Architecture I wish my city was designed better.
+
+26
+00:03:26,000 --> 00:03:29,000
+The architecture looks like it comes from outer space.
+
+27
+00:03:31,000 --> 00:03:41,000
+Architecture Architecture My friend wanted his new house to have architecture like that of Japan.
+
+28
+00:03:43,000 --> 00:03:52,000
+Tomb When the king died he left all his treasure in the tomb.
+
+29
+00:03:54,000 --> 00:04:04,000
+Tomb His tomb is so big that you could fit a bus in there.
+
+30
+00:04:05,000 --> 00:04:14,000
+Tomb If anyone breaks into a tomb they will have a curse put upon them.
+
+31
+00:04:16,000 --> 00:04:28,000
+Wonder Wonder I think the temples of Angkor Wat should be considered as one of the wonders of the world.
+
+32
+00:04:29,000 --> 00:04:39,000
+Wonder My dream is to visit all the wonders of the world before I die.
+
+33
+00:04:41,000 --> 00:04:52,000
+Wonder The only surviving wonder of the ancient world is the Pyramid of Giza.
+
+34
+00:04:54,000 --> 00:05:01,000
+Pyramid This building complex is very big.
+
+35
+00:05:03,000 --> 00:05:12,000
+Pyramid The temple complex of Angkor Wat has over a dozen temples.
+
+36
+00:05:14,000 --> 00:05:23,000
+Pyramid They are building a new housing complex next to my office.
+
+37
+00:05:25,000 --> 00:05:36,000
+Great Wall The prize is round-trip airfare to a destination of your choice.
+
+38
+00:05:38,000 --> 00:05:47,000
+Great Wall Airfare is set to increase with the higher cost of fuel.
+
+39
+00:05:49,000 --> 00:05:59,000
+Great Wall The UK has one of the highest airfare taxes in all of Europe.
+
