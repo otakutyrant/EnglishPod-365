@@ -4,7 +4,7 @@ The subtitles are automatically transcribed using faster-whisper. Unfortunately,
 
 Any corrections are welcome! You can submit a pull request (PR) or send the corrected subtitles directly to me at otakutyrant@gmail.com.
 
-The corrected subtitles are stored in the `fixed` branch.
+The corrected subtitles are stored in the `fixed` branch, otherwise `master` branch.
 
 **Commercial usage or sharing to drive traffic to closed websites are prohibited**, like asking users to follow a WeChat Official Account first.
 
