@@ -1,8 +1,0 @@
-1
-00:00:00,740 --> 00:00:07,280
-The EnglishPod Audio Review Listen to the meaning, then say the vocabulary word.
-
-2
-00:00:08,599 --> 00:00:09,619
-Let's try that faster!
-
