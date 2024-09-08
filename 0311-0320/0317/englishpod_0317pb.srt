@@ -1,0 +1,1040 @@
+1
+00:00:02,360 --> 00:00:04,480
+Hello, everyone, and welcome to EnglishPod.
+
+2
+00:00:04,540 --> 00:00:05,200
+My name is Marco.
+
+3
+00:00:05,660 --> 00:00:09,460
+My name is Katherine, and today we have a very complicated topic for you.
+
+4
+00:00:09,779 --> 00:00:10,060
+That's right.
+
+5
+00:00:10,119 --> 00:00:20,940
+This is an upper intermediate lesson, a little bit more difficult, and we're talking all about taxes, paychecks, and all the information for when you work in the United States.
+
+6
+00:00:21,160 --> 00:00:21,460
+That's right.
+
+7
+00:00:21,500 --> 00:00:25,000
+It confuses me, and I'm American, so take a close listen.
+
+8
+00:00:25,079 --> 00:00:29,239
+We're going to listen to this dialogue one time, and we'll be back in a moment to discuss what's going on.
+
+9
+00:00:36,100 --> 00:00:38,039
+Hey, Susan, have you got a sec?
+
+10
+00:00:38,500 --> 00:00:40,100
+I have some questions about my paycheck.
+
+11
+00:00:40,799 --> 00:00:41,539
+You bet, Emily.
+
+12
+00:00:41,840 --> 00:00:42,320
+Pull up a chair.
+
+13
+00:00:42,840 --> 00:00:47,359
+Well, this is my first paycheck here in the States, and there are a few things I don't understand.
+
+14
+00:00:48,340 --> 00:00:56,960
+First off, what is this FICA and SUISDI tax, and why are there deductions both from Medicare and from my health insurance plan?
+
+15
+00:00:57,799 --> 00:01:00,539
+Okay, let's start from the top of your pay stub.
+
+16
+00:01:01,219 --> 00:01:03,780
+This number here represents your gross pay.
+
+17
+00:01:04,439 --> 00:01:05,780
+Yes, that's easy enough to understand.
+
+18
+00:01:06,719 --> 00:01:08,500
+Then here we have a series of deductions.
+
+19
+00:01:09,200 --> 00:01:10,739
+First off are the federal ones.
+
+20
+00:01:11,140 --> 00:01:15,680
+FICA stands for Federal Insurance Contribution Act, or something like that.
+
+21
+00:01:15,920 --> 00:01:24,599
+It's your federal income tax, and then there's Social Security and Medicare, which are both federal programs to help you out after you retire or if you are unable to work.
+
+22
+00:01:24,859 --> 00:01:25,739
+All right, I see.
+
+23
+00:01:25,739 --> 00:01:29,819
+So the Medicare isn't actually a health insurance I can use now.
+
+24
+00:01:30,319 --> 00:01:31,079
+That's right.
+
+25
+00:01:31,540 --> 00:01:34,060
+Below the federal deductions are the state deductions.
+
+26
+00:01:34,500 --> 00:01:44,799
+There's the state income tax, and then this SUISDI tax you were asking about is paying into an unemployment and or disability fund that our state has set up.
+
+27
+00:01:45,000 --> 00:01:47,620
+But you can see that it's a pretty small quantity that they take.
+
+28
+00:01:48,260 --> 00:01:50,500
+Yeah, I don't mind giving them $1.50 for that.
+
+29
+00:01:51,079 --> 00:01:56,379
+So there are two separate income taxes, one at a state level and one at a federal level.
+
+30
+00:01:56,900 --> 00:01:57,519
+That's right.
+
+31
+00:01:58,180 --> 00:01:59,719
+Not all states have an income tax.
+
+32
+00:02:00,060 --> 00:02:03,219
+Some use higher property taxes or sales taxes instead.
+
+33
+00:02:04,140 --> 00:02:04,459
+I see.
+
+34
+00:02:05,099 --> 00:02:05,480
+All right.
+
+35
+00:02:05,819 --> 00:02:08,419
+Well, I think everything else I can figure out on my own.
+
+36
+00:02:09,000 --> 00:02:13,620
+The deductions for health insurance and my 401k are pretty self-explanatory.
+
+37
+00:02:14,099 --> 00:02:15,020
+Thanks for your help, Susan.
+
+38
+00:02:15,360 --> 00:02:16,000
+No problem.
+
+39
+00:02:16,560 --> 00:02:20,860
+All those deductions do add up, and nobody's net pay is as high as they'd like.
+
+40
+00:02:21,080 --> 00:02:23,280
+I can understand why you'd want some explanation.
+
+41
+00:02:23,719 --> 00:02:25,500
+Yeah, I guess it's the same in the UK.
+
+42
+00:02:25,860 --> 00:02:27,199
+I just never paid much attention.
+
+43
+00:02:27,580 --> 00:02:28,060
+See you later.
+
+44
+00:02:31,620 --> 00:02:32,599
+All right, we're back.
+
+45
+00:02:32,800 --> 00:02:38,360
+So obviously a lot of vocab there, a lot of acronyms as well, like FICA and all that stuff.
+
+46
+00:02:38,759 --> 00:02:40,639
+We'll take a look at that in a little bit.
+
+47
+00:02:40,860 --> 00:02:43,860
+First, let's start off with some language on Language Takeaway.
+
+48
+00:02:46,479 --> 00:02:47,520
+Language Takeaway.
+
+49
+00:02:49,319 --> 00:02:52,379
+So when you get paid, there's a very important number you want to look at, or a couple of numbers.
+
+50
+00:02:52,439 --> 00:02:53,560
+These are called deductions.
+
+51
+00:02:53,939 --> 00:02:56,560
+Now, why do deductions make people sad, Marco?
+
+52
+00:02:56,979 --> 00:03:00,599
+Because a deduction is to take away or reduce.
+
+53
+00:03:01,219 --> 00:03:10,120
+So obviously if your salary is, let's say, $1,000 and you have $500 deductions, then you only get five instead of $1,000.
+
+54
+00:03:10,240 --> 00:03:15,379
+All right, so deductions mean what money is being taken away from you, all right?
+
+55
+00:03:15,379 --> 00:03:19,319
+That's the money that's deducted for certain taxes or certain programs.
+
+56
+00:03:19,900 --> 00:03:24,360
+It's important to remember that deduct to deduct is the opposite of to add.
+
+57
+00:03:24,500 --> 00:03:25,219
+It means to take away.
+
+58
+00:03:25,460 --> 00:03:26,479
+To take away, that's right.
+
+59
+00:03:26,819 --> 00:03:33,439
+So Emily had some questions about her salary, and so she brought her pay stub to Susan to ask her, why are all these deductions?
+
+60
+00:03:33,819 --> 00:03:35,400
+Why am I not getting all my salary?
+
+61
+00:03:35,879 --> 00:03:36,080
+That's right.
+
+62
+00:03:36,259 --> 00:03:38,819
+So pay stubs are very important pieces of paper.
+
+63
+00:03:39,039 --> 00:03:41,699
+Basically when you go to a store and you buy something, you get a receipt.
+
+64
+00:03:42,140 --> 00:03:45,819
+Well, when you go to work and you get paid, you get a receipt for your payment.
+
+65
+00:03:46,460 --> 00:03:50,199
+That means that it shows you how much money you earn and all of these deductions.
+
+66
+00:03:51,099 --> 00:03:54,580
+So if you're paid every month, you get a paid stub every month.
+
+67
+00:03:55,000 --> 00:03:57,460
+If you're paid every two weeks, you get a pay stub every two weeks.
+
+68
+00:03:57,879 --> 00:03:57,939
+Okay.
+
+69
+00:03:58,300 --> 00:04:02,500
+So it's basically a little receipt that tells you you have been paid and how much you were paid.
+
+70
+00:04:02,680 --> 00:04:02,979
+That's right.
+
+71
+00:04:03,580 --> 00:04:10,080
+All right, so Susan started explaining about her gross salary and her net salary.
+
+72
+00:04:10,080 --> 00:04:13,780
+All right, and these are the two most important numbers on your pay stub.
+
+73
+00:04:14,099 --> 00:04:20,660
+On your pay stub, it will say gross pay, not gross like icky gross, but like total.
+
+74
+00:04:21,459 --> 00:04:33,100
+So in total, you earn $1,000 a month, but that's not how much money you have in your bank because the money that you earn is actually a little bit different because of these deductions we mentioned.
+
+75
+00:04:33,540 --> 00:04:38,259
+So the net pay is the actual amount of money you get to keep.
+
+76
+00:04:38,680 --> 00:04:38,879
+Right.
+
+77
+00:04:39,339 --> 00:04:50,319
+So the company will pay $1,000, but with taxes and all these deductions, the actual money that you get is less, and that's called the net pay.
+
+78
+00:04:50,920 --> 00:04:53,699
+So it's important when you're looking at these numbers, look at your gross pay.
+
+79
+00:04:53,779 --> 00:04:54,459
+Is that correct?
+
+80
+00:04:54,920 --> 00:04:56,439
+And then afterwards, look at your net pay.
+
+81
+00:04:56,459 --> 00:04:58,759
+Is that what money you actually received?
+
+82
+00:04:58,980 --> 00:04:59,519
+That's right.
+
+83
+00:05:00,079 --> 00:05:10,779
+All right, so now getting into a little bit of taxes and the type of taxes that we have out there, not considering the taxes for the salary, this is a different one.
+
+84
+00:05:10,899 --> 00:05:12,399
+We have a property tax.
+
+85
+00:05:12,759 --> 00:05:12,959
+That's right.
+
+86
+00:05:13,100 --> 00:05:21,560
+So some places in America tax you on the amount of money you earn at your job, but a lot of others like to collect taxes from different areas.
+
+87
+00:05:21,639 --> 00:05:23,180
+So property tax is one of those.
+
+88
+00:05:23,300 --> 00:05:31,180
+If you own land, if you own a house or a condo, you will pay a property tax every year.
+
+89
+00:05:31,420 --> 00:05:33,860
+Every year you have to pay for owning this property.
+
+90
+00:05:33,980 --> 00:05:34,459
+That's right.
+
+91
+00:05:34,459 --> 00:05:38,860
+Because basically you're paying the state for the land that you have, or the space that you have.
+
+92
+00:05:39,420 --> 00:05:43,699
+And the bigger your house is, the bigger the land is, the more money you pay.
+
+93
+00:05:44,500 --> 00:05:47,939
+And you have to pay the same value every year, or does it change over time?
+
+94
+00:05:48,120 --> 00:05:49,379
+It can change over time.
+
+95
+00:05:49,600 --> 00:05:50,519
+You hear this sometimes.
+
+96
+00:05:50,980 --> 00:05:56,660
+Property taxes are, or property value increases, and so then property tax will probably increase as well.
+
+97
+00:05:57,300 --> 00:05:57,379
+Okay.
+
+98
+00:05:57,519 --> 00:05:59,019
+And what about sales tax?
+
+99
+00:05:59,100 --> 00:06:02,240
+I think this is very straightforward, but how does it work?
+
+100
+00:06:02,240 --> 00:06:06,180
+Well, it's straightforward, Marco, but I don't think they have this in many other places in the world.
+
+101
+00:06:06,699 --> 00:06:10,379
+China, for example, we don't really have a sales tax, so people don't have to worry about it.
+
+102
+00:06:10,439 --> 00:06:14,779
+But a sales tax is a small tax that you pay every time you buy something.
+
+103
+00:06:15,899 --> 00:06:16,160
+All right.
+
+104
+00:06:16,240 --> 00:06:22,639
+If I buy a TV and the TV is $100, it's possible that the sales tax is 3%, I pay $103.
+
+105
+00:06:24,000 --> 00:06:30,959
+So that's another way that you are taxed, not on how much money you make, but on the purchases that you make.
+
+106
+00:06:31,120 --> 00:06:31,620
+It makes sense.
+
+107
+00:06:31,620 --> 00:06:41,519
+If I buy a lot of cool things, cars, TVs, I'm paying more money to my state to provide services like schools and roads and things like that.
+
+108
+00:06:41,879 --> 00:06:42,000
+Uh-huh.
+
+109
+00:06:42,120 --> 00:06:42,439
+Okay.
+
+110
+00:06:42,680 --> 00:06:44,160
+So a lot of interesting things here.
+
+111
+00:06:44,300 --> 00:06:53,860
+I think we can move on now to specifically talking about the taxes related to people's salaries or how it works in the United States.
+
+112
+00:06:54,360 --> 00:07:00,019
+This is, remember that we are talking specifically about the United States here, so let's take a look at that now on Fluency Builder.
+
+113
+00:07:02,280 --> 00:07:03,220
+Fluency Builder.
+
+114
+00:07:04,680 --> 00:07:08,180
+All right, so one of the scary acronyms here, Marco, was FICA.
+
+115
+00:07:08,620 --> 00:07:09,240
+The FICA.
+
+116
+00:07:09,480 --> 00:07:09,779
+FICA.
+
+117
+00:07:10,339 --> 00:07:11,740
+It looks very strange here.
+
+118
+00:07:11,819 --> 00:07:13,000
+What is this FICA?
+
+119
+00:07:13,339 --> 00:07:14,199
+Well, this is an acronym.
+
+120
+00:07:14,420 --> 00:07:17,639
+And remember, acronyms are words that stand for other words.
+
+121
+00:07:17,779 --> 00:07:24,220
+So F, federal, I, insurance, C, contribution and A, act.
+
+122
+00:07:24,480 --> 00:07:26,779
+So Federal Insurance Contribution Act.
+
+123
+00:07:27,279 --> 00:07:29,759
+Basically, this is a federal tax.
+
+124
+00:07:30,099 --> 00:07:32,220
+That means that it's everyone in the country.
+
+125
+00:07:32,699 --> 00:07:33,500
+Everyone has to pay it.
+
+126
+00:07:33,519 --> 00:07:34,579
+No matter where you live.
+
+127
+00:07:35,100 --> 00:07:37,620
+Illinois, New York, California, everyone has to pay.
+
+128
+00:07:37,959 --> 00:07:39,860
+And how much is this tax, do you know?
+
+129
+00:07:40,180 --> 00:07:40,860
+I do not know.
+
+130
+00:07:41,120 --> 00:07:43,120
+It's called a graduated income tax.
+
+131
+00:07:43,120 --> 00:07:45,939
+That means that people who earn very little pay very little.
+
+132
+00:07:46,100 --> 00:07:47,360
+People who earn a lot pay more.
+
+133
+00:07:47,600 --> 00:07:47,959
+Uh-huh.
+
+134
+00:07:48,040 --> 00:07:48,439
+Okay.
+
+135
+00:07:48,740 --> 00:07:53,319
+So this is something that everyone has to pay, and that's why it's called federal tax, right?
+
+136
+00:07:53,540 --> 00:07:53,899
+That's right.
+
+137
+00:07:53,899 --> 00:08:00,120
+So in America, federal means national, and state means more local for your own state.
+
+138
+00:08:01,100 --> 00:08:05,680
+Now, she is obviously paying the federal tax that everyone has to pay.
+
+139
+00:08:05,959 --> 00:08:07,360
+And what about Medicare?
+
+140
+00:08:08,060 --> 00:08:08,180
+All right.
+
+141
+00:08:08,180 --> 00:08:10,000
+So this is not a tax, per se.
+
+142
+00:08:10,120 --> 00:08:15,420
+This is actually a deduction that goes into kind of a fund.
+
+143
+00:08:15,800 --> 00:08:17,040
+You know, it's a government program.
+
+144
+00:08:17,139 --> 00:08:26,220
+And when you're older, when you're retired, you will receive benefits from the federal government, from the United States government, to get healthcare.
+
+145
+00:08:26,680 --> 00:08:30,800
+So Medicare is a kind of healthcare that is paid for by the U.S.
+
+146
+00:08:30,899 --> 00:08:31,160
+government.
+
+147
+00:08:31,560 --> 00:08:31,879
+I see.
+
+148
+00:08:32,299 --> 00:08:40,100
+So when you're older, you don't really have to pay for your hospital bills then because you worked and contributed to this Medicare fund, then you can go and get treatment.
+
+149
+00:08:40,500 --> 00:08:40,820
+That's right.
+
+150
+00:08:40,879 --> 00:08:42,820
+Or you pay for part of it, and they pay for part of it.
+
+151
+00:08:42,860 --> 00:08:45,059
+So it depends on the system.
+
+152
+00:08:45,419 --> 00:08:48,299
+But yes, it's a way to get healthcare through the government.
+
+153
+00:08:48,759 --> 00:08:48,860
+Okay.
+
+154
+00:08:48,860 --> 00:08:53,600
+And now our next word is interesting because we've heard about Social Security before.
+
+155
+00:08:53,779 --> 00:08:59,659
+You have the Social Security card, which is basically your ID, or it states also that you are an American.
+
+156
+00:08:59,659 --> 00:09:03,639
+But what is the Social Security fund now that you are contributing to?
+
+157
+00:09:04,059 --> 00:09:09,879
+Well, basically, this is another government program that is designed to make sure that people are comfortable when they stop working.
+
+158
+00:09:10,019 --> 00:09:12,379
+Because when you stop working, you don't have any income anymore.
+
+159
+00:09:12,779 --> 00:09:13,960
+You need money to live.
+
+160
+00:09:13,960 --> 00:09:24,220
+And so your whole life, you're paying into this fund, and the government will then give you the money back, some money, to basically live off of when you're retired.
+
+161
+00:09:25,059 --> 00:09:25,139
+Okay.
+
+162
+00:09:25,659 --> 00:09:31,659
+And so how long do you actually have to work in order to be eligible for Social Security?
+
+163
+00:09:32,000 --> 00:09:36,360
+I believe you have to be 65 to be eligible for Social Security, but I'm not sure.
+
+164
+00:09:36,500 --> 00:09:37,659
+It's either 60 or 65.
+
+165
+00:09:37,980 --> 00:09:38,960
+I'm not there yet.
+
+166
+00:09:39,059 --> 00:09:39,419
+All right.
+
+167
+00:09:39,939 --> 00:09:48,419
+And actually, another one that's very similar is you have this 401k, which is actually a very interesting name for this tax or fund.
+
+168
+00:09:49,039 --> 00:09:50,799
+Yeah, 401k is more of an investment.
+
+169
+00:09:51,059 --> 00:09:58,120
+So a 401k is something that you put money into every month or year to access later on when you're retired.
+
+170
+00:09:58,500 --> 00:10:00,679
+So again, it's a kind of security for you.
+
+171
+00:10:00,860 --> 00:10:07,679
+If you work every day, every year for 30 years, 40 years, you want to have some money when you're all done.
+
+172
+00:10:07,679 --> 00:10:10,720
+And this is basically a retirement savings plan.
+
+173
+00:10:11,539 --> 00:10:16,279
+So what is the difference between Social Security and the 401k, or are they the same?
+
+174
+00:10:16,700 --> 00:10:20,059
+I think the difference is where the money goes, I'm not 100%.
+
+175
+00:10:20,059 --> 00:10:33,840
+But all of these are like, you have to give the government this money, or can I say, hey, I don't want to, don't worry about me, I don't need Social Security, I'm set, I'm saving all on my own, and can I refuse to pay these taxes?
+
+176
+00:10:33,840 --> 00:10:43,679
+401k, yes, you can refuse, it's not a tax, it's just something that you can, usually this is not a government program, this is something that the company that you work for will set up for you.
+
+177
+00:10:44,440 --> 00:10:48,080
+But Medicare and Social Security, these are things that you have to pay into.
+
+178
+00:10:48,360 --> 00:10:53,620
+Because even if you're rich, and you have all this money, you know, there are a lot of people in America that don't have any of this.
+
+179
+00:10:53,659 --> 00:10:57,899
+And so we consider it something that we do for each other, as much as for ourselves.
+
+180
+00:10:58,579 --> 00:11:08,059
+Because also, you know, Medicare, Medicaid, these are programs that you can also be eligible for, even if you're 25 years old, or 30 years old, you're poor, you don't have a job.
+
+181
+00:11:08,519 --> 00:11:10,019
+So these are social programs.
+
+182
+00:11:10,500 --> 00:11:11,139
+Okay, very good.
+
+183
+00:11:11,440 --> 00:11:12,600
+It's very, very interesting.
+
+184
+00:11:12,779 --> 00:11:22,879
+You see that, obviously, this is why in movies, you see that people make fun of taxes and how much tax in America there is and how you can escape taxes.
+
+185
+00:11:23,259 --> 00:11:29,200
+But it's interesting to see how it's made up and why you are giving your money to the government.
+
+186
+00:11:29,639 --> 00:11:30,000
+That's right.
+
+187
+00:11:30,059 --> 00:11:31,720
+So let's listen to today's dialogue again.
+
+188
+00:11:31,720 --> 00:11:33,059
+It was pretty complicated.
+
+189
+00:11:33,200 --> 00:11:36,179
+So hopefully, you've understood a little bit more after we've talked about it now.
+
+190
+00:11:43,200 --> 00:11:45,080
+Hey, Susan, have you got a sec?
+
+191
+00:11:45,580 --> 00:11:47,159
+I have some questions about my paycheck.
+
+192
+00:11:47,840 --> 00:11:49,379
+You bet, Emily, pull up a chair.
+
+193
+00:11:49,899 --> 00:11:52,220
+Well, this is my first paycheck here in the States.
+
+194
+00:11:52,559 --> 00:11:54,360
+And there are a few things I don't understand.
+
+195
+00:11:55,320 --> 00:11:59,539
+First off, what is this FICA and SUI SDI tax?
+
+196
+00:11:59,899 --> 00:12:04,000
+And why are there deductions both from Medicare and from my health insurance plan?
+
+197
+00:12:05,259 --> 00:12:07,580
+Okay, let's start from the top of your pay stub.
+
+198
+00:12:08,279 --> 00:12:10,820
+This number here represents your gross pay.
+
+199
+00:12:11,419 --> 00:12:12,840
+Yes, that's easy enough to understand.
+
+200
+00:12:13,759 --> 00:12:15,600
+Then here we have a series of deductions.
+
+201
+00:12:16,120 --> 00:12:17,779
+First off are the federal ones.
+
+202
+00:12:18,200 --> 00:12:22,720
+FICA stands for Federal Insurance Contribution Act, or something like that.
+
+203
+00:12:22,940 --> 00:12:24,379
+It's your federal income tax.
+
+204
+00:12:24,559 --> 00:12:31,620
+And then there's Social Security and Medicare, which are both federal programs to help you out after you retire or if you are unable to work.
+
+205
+00:12:32,019 --> 00:12:32,799
+All right, I see.
+
+206
+00:12:33,399 --> 00:12:36,779
+So the Medicare isn't actually a health insurance I can use now.
+
+207
+00:12:37,340 --> 00:12:38,139
+That's right.
+
+208
+00:12:38,580 --> 00:12:41,200
+Below the federal deductions are the state deductions.
+
+209
+00:12:41,360 --> 00:12:43,059
+There's the state income tax.
+
+210
+00:12:43,080 --> 00:12:51,820
+And then this SUI SDI tax you were asking about is paying into an unemployment and or disability fund that our state has set up.
+
+211
+00:12:51,980 --> 00:12:54,700
+But you can see that it's a pretty small quantity that they take.
+
+212
+00:12:55,159 --> 00:12:57,539
+Yeah, I don't mind giving them $1.50 for that.
+
+213
+00:12:58,120 --> 00:13:03,440
+So there are two separate income taxes, one at a state level and one at a federal level.
+
+214
+00:13:03,940 --> 00:13:04,559
+That's right.
+
+215
+00:13:05,240 --> 00:13:06,759
+Not all states have an income tax.
+
+216
+00:13:07,120 --> 00:13:10,259
+Some use higher property taxes or sales taxes instead.
+
+217
+00:13:11,179 --> 00:13:11,500
+I see.
+
+218
+00:13:12,159 --> 00:13:12,519
+All right.
+
+219
+00:13:12,879 --> 00:13:15,480
+Well, I think everything else I can figure out on my own.
+
+220
+00:13:16,059 --> 00:13:20,679
+The deductions for health insurance and my 401k are pretty self-explanatory.
+
+221
+00:13:21,100 --> 00:13:22,080
+Thanks for your help, Susan.
+
+222
+00:13:22,379 --> 00:13:23,039
+No problem.
+
+223
+00:13:23,559 --> 00:13:27,879
+All those deductions do add up and nobody's net pay is as high as they'd like.
+
+224
+00:13:28,419 --> 00:13:30,320
+I can understand why you'd want some explanation.
+
+225
+00:13:30,860 --> 00:13:32,559
+Yeah, I guess it's the same in the UK.
+
+226
+00:13:33,000 --> 00:13:34,240
+I just never paid much attention.
+
+227
+00:13:34,659 --> 00:13:35,200
+See you later.
+
+228
+00:13:39,580 --> 00:13:39,759
+All right.
+
+229
+00:13:39,940 --> 00:13:50,080
+So another interesting thought that came up was, well, where does the money for government spending come from?
+
+230
+00:13:50,080 --> 00:14:00,259
+So because you have all these taxes that are for you basically, you have property tax, or maybe does it come from sales tax that maybe the government can make roads and parks and stuff like this?
+
+231
+00:14:00,659 --> 00:14:01,320
+Well, that's the thing.
+
+232
+00:14:02,039 --> 00:14:04,679
+Remember earlier we talked about federal and state taxes.
+
+233
+00:14:05,220 --> 00:14:12,100
+Well, if it's a state tax like sales tax, you know, in America, I can pay sales tax in California, but maybe in New Mexico there is no sales tax.
+
+234
+00:14:12,679 --> 00:14:21,080
+So this is a state tax and that means that the state government can use the money for state projects, parks, roads, things like that.
+
+235
+00:14:21,419 --> 00:14:29,740
+But then the Federal Insurance Contribution Act, the FICA, this federal tax, that is something that's used for our military, our government.
+
+236
+00:14:29,879 --> 00:14:32,860
+You know, this pays the paychecks of people in Congress, the president.
+
+237
+00:14:32,960 --> 00:14:35,379
+This is where all the money to pay them comes from.
+
+238
+00:14:35,440 --> 00:14:43,100
+And so basically the state taxes pay for state benefits and programs and the federal taxes pay for these nationwide programs.
+
+239
+00:14:43,100 --> 00:14:52,500
+So that's, I think, one of the most interesting things about this topic is that the United States is like 50 small countries that kind of have their own little governments.
+
+240
+00:14:52,740 --> 00:14:55,379
+You know, they have their own taxes and they have their own rules.
+
+241
+00:14:55,639 --> 00:15:00,139
+Like in some states you can start driving when you're 16 and others when you're 15.
+
+242
+00:15:00,919 --> 00:15:10,779
+And so it's like all these little small countries, but at the same time you have this one mega country that has federal taxes and federal insurance and military and all this.
+
+243
+00:15:11,220 --> 00:15:11,600
+That's true.
+
+244
+00:15:11,600 --> 00:15:20,120
+And, you know, it's an interesting fact about American history that the most conflict in our country has really come down to these two groups.
+
+245
+00:15:20,679 --> 00:15:25,600
+One group believes that the federal government, so that's the national government, should have more power than the states.
+
+246
+00:15:25,779 --> 00:15:28,340
+And another group believes that the states should have more power.
+
+247
+00:15:28,340 --> 00:15:35,299
+And that is a big problem, you know, this disagreement that we've had in America that goes back to 1776 and the founding fathers.
+
+248
+00:15:35,500 --> 00:15:38,259
+And so I don't think it's something that is fixed.
+
+249
+00:15:38,540 --> 00:15:44,820
+These things change, you know, sometimes more federal power, sometimes less, but it's a very interesting part of American history.
+
+250
+00:15:45,100 --> 00:15:59,100
+And also it would be interesting to hear from our users how it works over there, because I know that approximately a rough estimate is that around 30 to 40 percent of Americans' income goes to tax, right?
+
+251
+00:15:59,320 --> 00:16:00,159
+About that, yeah.
+
+252
+00:16:00,320 --> 00:16:03,419
+So almost half of your money goes into taxes.
+
+253
+00:16:03,419 --> 00:16:05,740
+So I wonder how much it is in other people's countries.
+
+254
+00:16:05,740 --> 00:16:09,360
+Maybe they have 60 percent of taxes or maybe 10.
+
+255
+00:16:09,820 --> 00:16:10,080
+Yeah.
+
+256
+00:16:10,139 --> 00:16:10,759
+So let us know.
+
+257
+00:16:10,919 --> 00:16:12,620
+Our website is EnglishPod.com.
+
+258
+00:16:12,799 --> 00:16:13,659
+We hope to see you guys there.
+
+259
+00:16:13,960 --> 00:16:14,120
+All right.
+
+260
+00:16:14,279 --> 00:16:14,559
+See you guys.
+

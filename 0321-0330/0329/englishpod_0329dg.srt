@@ -1,0 +1,64 @@
+1
+00:00:01,759 --> 00:00:07,860
+EnglishPod.com Welcome to Al's Bakery.
+
+2
+00:00:08,240 --> 00:00:09,039
+What can I get you?
+
+3
+00:00:09,640 --> 00:00:14,199
+Hi, let me get a dozen croissants, four blueberry muffins, and a loaf of sourdough bread.
+
+4
+00:00:14,599 --> 00:00:14,880
+Sure.
+
+5
+00:00:15,240 --> 00:00:16,820
+Would you like to have the loaf sliced?
+
+6
+00:00:17,239 --> 00:00:18,140
+No, that's okay.
+
+7
+00:00:18,440 --> 00:00:19,539
+Do you have any whole wheat bread?
+
+8
+00:00:19,839 --> 00:00:21,320
+Oh, we're out at the moment.
+
+9
+00:00:21,980 --> 00:00:23,539
+May I suggest some rye bread?
+
+10
+00:00:23,859 --> 00:00:24,820
+Sure, that sounds good.
+
+11
+00:00:25,059 --> 00:00:25,899
+Do you have any cakes?
+
+12
+00:00:26,359 --> 00:00:29,820
+We have various birthday cakes and also some ice cream cakes.
+
+13
+00:00:29,820 --> 00:00:31,219
+I'll just take a cheesecake.
+
+14
+00:00:31,739 --> 00:00:32,179
+Will that be all?
+
+15
+00:00:32,600 --> 00:00:32,840
+Yes.
+
+16
+00:00:33,460 --> 00:00:35,439
+Your total is $43.20.
+

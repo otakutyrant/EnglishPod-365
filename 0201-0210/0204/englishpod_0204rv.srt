@@ -1,0 +1,372 @@
+1
+00:00:00,000 --> 00:00:07,519
+The EnglishPod Audio Review Listen to the meaning, then say the vocabulary word.
+
+2
+00:00:08,759 --> 00:00:11,699
+Succeed in making the finding of a jury in a trial.
+
+3
+00:00:13,699 --> 00:00:14,839
+Reach a verdict.
+
+4
+00:00:17,400 --> 00:00:19,420
+Responsible for doing something bad.
+
+5
+00:00:21,440 --> 00:00:21,739
+Guilty.
+
+6
+00:00:23,440 --> 00:00:26,280
+A respectful title used to or of certain judges.
+
+7
+00:00:27,820 --> 00:00:29,019
+Your honour.
+
+8
+00:00:30,719 --> 00:00:32,979
+A body of persons sworn to judge.
+
+9
+00:00:35,179 --> 00:00:35,500
+Jury.
+
+10
+00:00:37,079 --> 00:00:39,020
+To charge someone with a crime.
+
+11
+00:00:40,859 --> 00:00:41,679
+Accuse of.
+
+12
+00:00:43,219 --> 00:00:45,479
+To do something, usually a crime.
+
+13
+00:00:47,579 --> 00:00:47,960
+Commit.
+
+14
+00:00:49,560 --> 00:00:51,159
+The lawyers against the defendant.
+
+15
+00:00:53,299 --> 00:00:54,079
+Prosecution.
+
+16
+00:00:54,079 --> 00:00:57,340
+One who steals from pockets.
+
+17
+00:00:59,399 --> 00:00:59,899
+Pickpocket.
+
+18
+00:01:01,460 --> 00:01:03,960
+A declaration of truth or fact.
+
+19
+00:01:05,760 --> 00:01:06,680
+Testimony.
+
+20
+00:01:08,200 --> 00:01:10,180
+The person being sued or accused.
+
+21
+00:01:12,159 --> 00:01:12,579
+Defendant.
+
+22
+00:01:14,180 --> 00:01:17,200
+People affected by a painful or sad experience.
+
+23
+00:01:19,439 --> 00:01:19,700
+Victim.
+
+24
+00:01:21,379 --> 00:01:22,319
+Not guilty.
+
+25
+00:01:24,419 --> 00:01:25,019
+Innocent.
+
+26
+00:01:26,439 --> 00:01:28,859
+Refer to something that is not suitable.
+
+27
+00:01:31,120 --> 00:01:31,719
+So-called.
+
+28
+00:01:33,280 --> 00:01:35,280
+Something that shows the thing is true.
+
+29
+00:01:37,200 --> 00:01:37,659
+Evidence.
+
+30
+00:01:39,239 --> 00:01:41,959
+One who is called on to testify before a court.
+
+31
+00:01:44,239 --> 00:01:44,519
+Witness.
+
+32
+00:01:46,180 --> 00:01:47,200
+Let's try that faster.
+
+33
+00:01:48,859 --> 00:01:51,280
+To do something, usually a crime.
+
+34
+00:01:52,479 --> 00:01:53,319
+Commit.
+
+35
+00:01:54,219 --> 00:01:56,599
+A body of persons sworn to judge.
+
+36
+00:01:59,939 --> 00:02:01,780
+Refer to something that is not suitable.
+
+37
+00:02:03,560 --> 00:02:04,159
+So-called.
+
+38
+00:02:05,180 --> 00:02:07,140
+Responsible for doing something bad.
+
+39
+00:02:08,659 --> 00:02:08,960
+Guilty.
+
+40
+00:02:10,219 --> 00:02:12,419
+A declaration of truth or fact.
+
+41
+00:02:14,120 --> 00:02:14,620
+Testimony.
+
+42
+00:02:15,580 --> 00:02:17,139
+One who steals from pockets.
+
+43
+00:02:18,800 --> 00:02:19,259
+Pickpocket.
+
+44
+00:02:20,240 --> 00:02:22,159
+The lawyers against the defendant.
+
+45
+00:02:23,800 --> 00:02:24,460
+Prosecution.
+
+46
+00:02:25,599 --> 00:02:27,460
+Something that shows the thing is true.
+
+47
+00:02:28,979 --> 00:02:29,379
+Evidence.
+
+48
+00:02:30,379 --> 00:02:32,240
+To charge someone with a crime.
+
+49
+00:02:33,639 --> 00:02:34,439
+Accuse of.
+
+50
+00:02:35,620 --> 00:02:38,300
+One who is called on to testify before a court.
+
+51
+00:02:40,020 --> 00:02:40,340
+Witness.
+
+52
+00:02:41,460 --> 00:02:43,500
+The person being sued or accused.
+
+53
+00:02:44,939 --> 00:02:45,379
+Defendant.
+
+54
+00:02:46,599 --> 00:02:47,360
+Not guilty.
+
+55
+00:02:48,840 --> 00:02:49,479
+Innocent.
+
+56
+00:02:50,599 --> 00:02:53,620
+Succeed in making the finding of a jury in a trial.
+
+57
+00:02:55,219 --> 00:02:56,199
+Reach a verdict.
+
+58
+00:02:57,400 --> 00:03:00,219
+People affected by a painful or sad experience.
+
+59
+00:03:01,979 --> 00:03:02,199
+Victim.
+
+60
+00:03:03,479 --> 00:03:06,400
+A respectful title used to or of certain judges.
+
+61
+00:03:08,000 --> 00:03:08,560
+Your honor.
+
+62
+00:03:10,139 --> 00:03:12,560
+Now say the word and hear it in a sentence.
+
+63
+00:03:14,180 --> 00:03:14,939
+Accuse of.
+
+64
+00:03:18,879 --> 00:03:21,560
+Martha accused me of stealing her boyfriend.
+
+65
+00:03:23,340 --> 00:03:24,000
+Accuse of.
+
+66
+00:03:27,639 --> 00:03:29,620
+This man is being accused with murder.
+
+67
+00:03:31,259 --> 00:03:32,180
+Accuse of.
+
+68
+00:03:36,280 --> 00:03:38,639
+The teacher accused the students of being lazy.
+
+69
+00:03:40,419 --> 00:03:40,979
+Testimony.
+
+70
+00:03:45,599 --> 00:03:50,120
+In your testimony, you stated that you were there at the moment of the crime.
+
+71
+00:03:51,340 --> 00:03:51,900
+Testimony.
+
+72
+00:03:55,500 --> 00:03:58,419
+The witness gave her testimony in court today.
+
+73
+00:04:00,159 --> 00:04:00,699
+Testimony.
+
+74
+00:04:04,919 --> 00:04:08,300
+The judge discarded her testimony since it was inaccurate.
+
+75
+00:04:10,000 --> 00:04:10,680
+So-called.
+
+76
+00:04:14,800 --> 00:04:17,259
+I have to go to my so-called job today.
+
+77
+00:04:17,779 --> 00:04:19,300
+I hate it.
+
+78
+00:04:20,180 --> 00:04:20,740
+So-called.
+
+79
+00:04:24,560 --> 00:04:27,100
+I was betrayed by my so-called best friend.
+
+80
+00:04:28,839 --> 00:04:29,560
+So-called.
+
+81
+00:04:35,339 --> 00:04:40,139
+My so-called supervisor makes me do all the work while he is on the phone all day.
+
+82
+00:04:41,540 --> 00:04:42,899
+Reach a verdict.
+
+83
+00:04:48,420 --> 00:04:52,420
+The jury has reached a verdict and we find the defendant not guilty.
+
+84
+00:04:54,259 --> 00:04:55,279
+Reach a verdict.
+
+85
+00:04:59,900 --> 00:05:03,920
+We disagree with the verdict and will appeal to the court's decision today.
+
+86
+00:05:05,579 --> 00:05:06,540
+Reach a verdict.
+
+87
+00:05:10,139 --> 00:05:13,579
+The judge still hasn't reached a verdict in this case.
+
+88
+00:05:15,079 --> 00:05:15,480
+Evidence.
+
+89
+00:05:18,400 --> 00:05:20,800
+There is evidence of life on Mars.
+
+90
+00:05:22,439 --> 00:05:22,819
+Evidence.
+
+91
+00:05:28,259 --> 00:05:33,500
+The forensic scientists recollect and analyse evidence found at the scene of the crime.
+
+92
+00:05:35,259 --> 00:05:35,639
+Evidence.
+
+93
+00:05:37,979 --> 00:05:41,399
+There is no evidence that proves your theory.
+

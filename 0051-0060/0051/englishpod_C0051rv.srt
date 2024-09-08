@@ -1,0 +1,360 @@
+1
+00:00:00,000 --> 00:00:07,540
+The EnglishPod Audio Review Listen to the meaning, then say the vocabulary word.
+
+2
+00:00:08,439 --> 00:00:11,240
+Too expensive, can't afford it.
+
+3
+00:00:12,759 --> 00:00:14,480
+Out of my price range.
+
+4
+00:00:16,500 --> 00:00:18,219
+Agreement to buy something.
+
+5
+00:00:20,160 --> 00:00:20,539
+Deal.
+
+6
+00:00:22,859 --> 00:00:25,000
+Not common, unique.
+
+7
+00:00:27,239 --> 00:00:27,940
+Exclusive.
+
+8
+00:00:29,039 --> 00:00:32,340
+A good deal, a cheap price.
+
+9
+00:00:33,840 --> 00:00:34,780
+Bargain.
+
+10
+00:00:36,500 --> 00:00:40,399
+Look in many stores and try and find the best price.
+
+11
+00:00:42,299 --> 00:00:43,380
+Shop around.
+
+12
+00:00:45,200 --> 00:00:47,320
+A lowering of the price of something.
+
+13
+00:00:49,219 --> 00:00:49,820
+Discount.
+
+14
+00:00:52,119 --> 00:00:52,939
+Expensive.
+
+15
+00:00:55,219 --> 00:00:55,899
+Pricey.
+
+16
+00:00:56,899 --> 00:01:00,780
+An opportunity to buy something at a low price.
+
+17
+00:01:01,780 --> 00:01:02,659
+Offer.
+
+18
+00:01:04,560 --> 00:01:07,859
+Money in the form of coins and bills.
+
+19
+00:01:10,180 --> 00:01:11,060
+Cash.
+
+20
+00:01:12,599 --> 00:01:17,159
+Card that is used to buy things and pay at a later time.
+
+21
+00:01:19,219 --> 00:01:19,879
+Credit card.
+
+22
+00:01:20,960 --> 00:01:25,299
+A special discount or offer on goods and services.
+
+23
+00:01:27,420 --> 00:01:28,219
+Promotion.
+
+24
+00:01:30,040 --> 00:01:32,640
+To discuss and fight for a better price.
+
+25
+00:01:34,540 --> 00:01:35,340
+Negotiate.
+
+26
+00:01:37,000 --> 00:01:40,540
+A free item that is usually given to promote a product.
+
+27
+00:01:42,500 --> 00:01:42,840
+Freebie.
+
+28
+00:01:44,500 --> 00:01:45,799
+Let's try that faster.
+
+29
+00:01:45,799 --> 00:01:49,599
+A lowering of the price of something.
+
+30
+00:01:50,959 --> 00:01:51,519
+Discount.
+
+31
+00:01:53,099 --> 00:01:55,540
+A good deal, a cheap price.
+
+32
+00:01:57,000 --> 00:01:57,459
+Bargain.
+
+33
+00:01:58,719 --> 00:02:02,239
+A free item that is usually given to promote a product.
+
+34
+00:02:03,659 --> 00:02:04,019
+Freebie.
+
+35
+00:02:05,099 --> 00:02:07,560
+Too expensive, can't afford it.
+
+36
+00:02:08,719 --> 00:02:10,659
+Out of my price range.
+
+37
+00:02:11,500 --> 00:02:14,139
+To discuss and fight for a better price.
+
+38
+00:02:15,699 --> 00:02:16,539
+Negotiate.
+
+39
+00:02:17,520 --> 00:02:21,900
+Card that is used to buy things and pay at a later time.
+
+40
+00:02:23,259 --> 00:02:24,080
+Credit card.
+
+41
+00:02:25,419 --> 00:02:28,500
+Money in the form of coins and bills.
+
+42
+00:02:30,539 --> 00:02:31,159
+Cash.
+
+43
+00:02:32,340 --> 00:02:35,879
+A special discount or offer on goods and services.
+
+44
+00:02:37,900 --> 00:02:38,319
+Promotion.
+
+45
+00:02:39,719 --> 00:02:40,960
+Agreement to buy something.
+
+46
+00:02:41,960 --> 00:02:42,819
+Deal.
+
+47
+00:02:44,780 --> 00:02:47,680
+An opportunity to buy something at a low price.
+
+48
+00:02:49,039 --> 00:02:49,300
+Offer.
+
+49
+00:02:50,919 --> 00:02:54,560
+Look in many stores and try and find the best price.
+
+50
+00:02:56,379 --> 00:02:57,259
+Shop around.
+
+51
+00:02:58,699 --> 00:02:59,520
+Expensive.
+
+52
+00:03:01,219 --> 00:03:01,979
+Pricey.
+
+53
+00:03:02,960 --> 00:03:03,759
+Not common.
+
+54
+00:03:04,699 --> 00:03:04,979
+Unique.
+
+55
+00:03:06,719 --> 00:03:07,419
+Exclusive.
+
+56
+00:03:09,060 --> 00:03:11,879
+Now say the word and hear it in a sentence.
+
+57
+00:03:13,280 --> 00:03:13,919
+Bargain.
+
+58
+00:03:20,139 --> 00:03:22,080
+I got this shirt for half price.
+
+59
+00:03:22,759 --> 00:03:23,479
+What a bargain.
+
+60
+00:03:25,580 --> 00:03:26,219
+Bargain.
+
+61
+00:03:32,620 --> 00:03:34,039
+Let's go shopping.
+
+62
+00:03:34,039 --> 00:03:38,919
+Everything is on sale and I'm sure we'll find some great bargains.
+
+63
+00:03:40,539 --> 00:03:41,139
+Bargain.
+
+64
+00:03:45,300 --> 00:03:47,919
+If you look around, you'll find some great bargains.
+
+65
+00:03:49,460 --> 00:03:50,219
+Shop around.
+
+66
+00:03:54,939 --> 00:03:56,819
+I'm not sure about it yet.
+
+67
+00:03:57,180 --> 00:03:59,139
+I'm going to shop around for a while.
+
+68
+00:04:00,479 --> 00:04:01,580
+Shop around.
+
+69
+00:04:06,039 --> 00:04:10,219
+Let's shop around and see if we can find it cheaper in another store.
+
+70
+00:04:11,520 --> 00:04:12,199
+Shop around.
+
+71
+00:04:17,379 --> 00:04:21,339
+I was shopping around and I found this computer on sale.
+
+72
+00:04:23,540 --> 00:04:24,199
+Pricey.
+
+73
+00:04:28,319 --> 00:04:31,120
+This restaurant is too pricey for me.
+
+74
+00:04:31,500 --> 00:04:32,680
+Can we go somewhere else?
+
+75
+00:04:35,479 --> 00:04:36,139
+Pricey.
+
+76
+00:04:40,560 --> 00:04:44,939
+This phone is a little pricey, but it is a really good phone.
+
+77
+00:04:46,540 --> 00:04:47,199
+Pricey.
+
+78
+00:04:51,180 --> 00:04:52,800
+I can't afford that trip.
+
+79
+00:04:53,199 --> 00:04:54,600
+It's just too pricey.
+
+80
+00:04:56,120 --> 00:04:57,779
+Out of my price range.
+
+81
+00:04:59,939 --> 00:05:06,600
+No, that computer is out of my price range.
+
+82
+00:05:06,899 --> 00:05:08,199
+Do you have something cheaper?
+
+83
+00:05:10,040 --> 00:05:11,800
+Out of my price range.
+
+84
+00:05:16,259 --> 00:05:20,139
+Honey, you know this restaurant is out of my price range.
+
+85
+00:05:26,259 --> 00:05:29,139
+We can't afford to buy a house in this neighborhood.
+
+86
+00:05:29,600 --> 00:05:31,439
+It's out of our price range.
+
+87
+00:05:37,339 --> 00:05:40,660
+This house is a little bit more than we wanted to spend.
+
+88
+00:05:46,480 --> 00:05:48,819
+We can't afford that car.
+
+89
+00:05:49,199 --> 00:05:51,439
+It's more than we wanted to spend.
+
+90
+00:05:56,080 --> 00:05:58,879
+$100 is more than I wanted to spend.
+

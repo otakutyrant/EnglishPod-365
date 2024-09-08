@@ -1,0 +1,300 @@
+1
+00:00:00,000 --> 00:00:07,419
+The EnglishPod Audio Review Listen to the meaning, then say the vocabulary word.
+
+2
+00:00:08,640 --> 00:00:10,960
+Not thinking of the feelings of other people.
+
+3
+00:00:11,599 --> 00:00:12,439
+Not thoughtful.
+
+4
+00:00:15,259 --> 00:00:16,000
+Inconsiderate.
+
+5
+00:00:18,239 --> 00:00:19,660
+Not a big problem.
+
+6
+00:00:21,940 --> 00:00:23,699
+Not such a big deal.
+
+7
+00:00:25,399 --> 00:00:26,399
+Unable to hear.
+
+8
+00:00:28,319 --> 00:00:29,960
+Can't hear a thing.
+
+9
+00:00:31,699 --> 00:00:32,340
+Be quiet.
+
+10
+00:00:34,640 --> 00:00:35,659
+Keep it down.
+
+11
+00:00:37,500 --> 00:00:38,179
+Turn off.
+
+12
+00:00:40,380 --> 00:00:41,539
+Switch off.
+
+13
+00:00:43,299 --> 00:00:44,340
+Could you please?
+
+14
+00:00:46,100 --> 00:00:47,520
+Do you mind?
+
+15
+00:00:49,340 --> 00:00:50,579
+Let's try that faster.
+
+16
+00:00:52,640 --> 00:00:53,679
+Unable to hear.
+
+17
+00:00:54,619 --> 00:00:56,259
+Can't hear a thing.
+
+18
+00:00:57,439 --> 00:00:58,020
+Turn off.
+
+19
+00:00:59,460 --> 00:01:00,299
+Switch off.
+
+20
+00:01:02,119 --> 00:01:02,719
+Be quiet.
+
+21
+00:01:04,140 --> 00:01:05,040
+Keep it down.
+
+22
+00:01:06,400 --> 00:01:07,120
+Turn off.
+
+23
+00:01:08,480 --> 00:01:09,400
+Switch off.
+
+24
+00:01:10,959 --> 00:01:11,840
+Be quiet.
+
+25
+00:01:13,219 --> 00:01:14,140
+Keep it down.
+
+26
+00:01:15,439 --> 00:01:17,560
+Not thinking of the feelings of other people.
+
+27
+00:01:18,219 --> 00:01:19,000
+Not thoughtful.
+
+28
+00:01:20,659 --> 00:01:21,500
+Inconsiderate.
+
+29
+00:01:21,500 --> 00:01:23,420
+Could you please?
+
+30
+00:01:24,739 --> 00:01:25,560
+Do you mind?
+
+31
+00:01:27,219 --> 00:01:29,340
+Not thinking of the feelings of other people.
+
+32
+00:01:29,719 --> 00:01:30,840
+Not thoughtful.
+
+33
+00:01:32,540 --> 00:01:33,299
+Inconsiderate.
+
+34
+00:01:34,599 --> 00:01:35,219
+Turn off.
+
+35
+00:01:36,560 --> 00:01:37,620
+Switch off.
+
+36
+00:01:39,280 --> 00:01:41,400
+Not thinking of the feelings of other people.
+
+37
+00:01:41,900 --> 00:01:42,879
+Not thoughtful.
+
+38
+00:01:44,700 --> 00:01:45,459
+Inconsiderate.
+
+39
+00:01:46,599 --> 00:01:47,599
+Unable to hear.
+
+40
+00:01:49,040 --> 00:01:50,120
+Can't hear a thing.
+
+41
+00:01:51,500 --> 00:01:52,000
+Be quiet.
+
+42
+00:01:53,400 --> 00:01:54,280
+Keep it down.
+
+43
+00:01:55,540 --> 00:01:56,540
+Unable to hear.
+
+44
+00:01:58,019 --> 00:01:59,060
+Can't hear a thing.
+
+45
+00:02:00,359 --> 00:02:02,700
+Now say the word and hear it in a sentence.
+
+46
+00:02:05,060 --> 00:02:05,659
+Inconsiderate.
+
+47
+00:02:11,300 --> 00:02:14,580
+Stop being so inconsiderate and turn down the TV.
+
+48
+00:02:14,960 --> 00:02:16,120
+I'm trying to sleep.
+
+49
+00:02:17,919 --> 00:02:19,819
+Not such a big deal.
+
+50
+00:02:24,139 --> 00:02:28,280
+It won't be such a big deal if you forget to wash the dishes tonight.
+
+51
+00:02:29,960 --> 00:02:31,240
+Can't hear a thing.
+
+52
+00:02:35,379 --> 00:02:36,379
+Can you speak louder?
+
+53
+00:02:36,860 --> 00:02:37,939
+I can't hear a thing.
+
+54
+00:02:39,860 --> 00:02:40,759
+Keep it down.
+
+55
+00:02:45,860 --> 00:02:47,180
+It's four in the morning.
+
+56
+00:02:47,560 --> 00:02:48,719
+Can you keep it down?
+
+57
+00:02:50,420 --> 00:02:51,900
+Switch off.
+
+58
+00:02:56,640 --> 00:03:00,120
+Remember to switch off your mobile phone before class.
+
+59
+00:03:01,919 --> 00:03:03,039
+Do you mind?
+
+60
+00:03:06,060 --> 00:03:08,659
+Do you mind holding my coat for me?
+
+61
+00:03:10,700 --> 00:03:11,110
+Inconsiderate.
+
+62
+00:03:11,110 --> 00:03:11,449
+Inconsiderate.
+
+63
+00:03:17,090 --> 00:03:20,370
+Stop being so inconsiderate and turn down the TV.
+
+64
+00:03:20,849 --> 00:03:21,930
+I'm trying to sleep.
+
+65
+00:03:23,889 --> 00:03:25,629
+Not such a big deal.
+
+66
+00:03:29,890 --> 00:03:33,909
+It won't be such a big deal if you forget to wash the dishes tonight.
+
+67
+00:03:35,909 --> 00:03:37,030
+Can't hear a thing.
+
+68
+00:03:41,110 --> 00:03:42,169
+Can you speak louder?
+
+69
+00:03:42,629 --> 00:03:43,789
+I can't hear a thing.
+
+70
+00:03:45,689 --> 00:03:46,569
+Keep it down.
+
+71
+00:03:51,569 --> 00:03:52,969
+It's four in the morning.
+
+72
+00:03:53,370 --> 00:03:54,490
+Can you keep it down?
+
+73
+00:03:56,509 --> 00:03:57,650
+Switch off.
+
+74
+00:04:02,710 --> 00:04:05,870
+Remember to switch off your mobile phone before class.
+
+75
+00:04:11,110 --> 00:04:11,129
+It won't be such a big deal.
+

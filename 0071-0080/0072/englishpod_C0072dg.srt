@@ -1,0 +1,72 @@
+1
+00:00:01,399 --> 00:00:13,560
+EnglishPod.com Hi Isabel, you wanted to see me?
+
+2
+00:00:14,640 --> 00:00:15,500
+Yes, Anthony.
+
+3
+00:00:16,100 --> 00:00:17,539
+Come on in and have a seat.
+
+4
+00:00:20,179 --> 00:00:21,420
+Is everything okay?
+
+5
+00:00:21,800 --> 00:00:23,420
+You seem a bit preoccupied.
+
+6
+00:00:24,260 --> 00:00:28,300
+Well, Anthony, this is not going to be an easy conversation.
+
+7
+00:00:28,300 --> 00:00:33,439
+The company has made some decisions which will have a direct impact on your employment.
+
+8
+00:00:34,100 --> 00:00:34,399
+Okay.
+
+9
+00:00:35,600 --> 00:00:38,740
+I don't want to beat around the bush, so I'm just going to come out with it.
+
+10
+00:00:39,200 --> 00:00:40,500
+We're going to have to let you go.
+
+11
+00:00:41,640 --> 00:00:41,799
+What?
+
+12
+00:00:42,140 --> 00:00:42,539
+Why?
+
+13
+00:00:42,759 --> 00:00:45,399
+I mean, just like that, I'm fired?
+
+14
+00:00:45,960 --> 00:00:49,700
+I'm sorry, but to be honest, you're a terrible employee.
+
+15
+00:00:50,299 --> 00:00:50,640
+What?
+
+16
+00:00:51,340 --> 00:00:52,540
+I resent that.
+
+17
+00:00:53,299 --> 00:00:57,359
+Anthony, you were caught making international calls from the office phone.
+
+18
+00:00:57,359 --> 00:01:03,520
+You called in sick eight times this month, and you smell like alcohol.
+

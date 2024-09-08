@@ -1,0 +1,56 @@
+1
+00:00:01,779 --> 00:00:08,220
+EnglishPod.com Telco Mobile, how can I help you?
+
+2
+00:00:08,779 --> 00:00:11,660
+Yes, I'd like to activate my voicemail service, please.
+
+3
+00:00:12,000 --> 00:00:12,640
+Certainly, sir.
+
+4
+00:00:13,060 --> 00:00:18,899
+We currently have a special promotion where we include voicemail services, call waiting, and also three-way calling.
+
+5
+00:00:19,399 --> 00:00:20,420
+Sure, that sounds great.
+
+6
+00:00:20,660 --> 00:00:21,739
+Are there any other fees?
+
+7
+00:00:22,059 --> 00:00:22,600
+Not at all.
+
+8
+00:00:22,859 --> 00:00:24,440
+No hidden fees or surcharges.
+
+9
+00:00:24,579 --> 00:00:26,079
+It is a flat monthly rate.
+
+10
+00:00:26,079 --> 00:00:26,739
+Perfect.
+
+11
+00:00:27,379 --> 00:00:30,399
+I also wanted to know if there is any call forwarding service.
+
+12
+00:00:30,960 --> 00:00:35,579
+I am usually out of town and would like my calls to be forwarded to a local number.
+
+13
+00:00:36,020 --> 00:00:36,619
+Yes, of course.
+
+14
+00:00:37,060 --> 00:00:39,780
+We can activate all these services in about an hour.
+

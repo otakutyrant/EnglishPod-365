@@ -1,0 +1,108 @@
+1
+00:00:00,000 --> 00:00:31,780
+EnglishPod.com Pin code followed by the pound key.
+
+2
+00:00:32,399 --> 00:00:32,880
+Thank you.
+
+3
+00:00:33,359 --> 00:00:34,439
+Please select an option.
+
+4
+00:00:35,100 --> 00:00:35,539
+Thank you.
+
+5
+00:00:36,140 --> 00:00:37,600
+You have selected withdraw.
+
+6
+00:00:37,979 --> 00:00:39,920
+Yeah, yeah, I know what I selected.
+
+7
+00:00:40,100 --> 00:00:40,979
+Just give me my money.
+
+8
+00:00:41,619 --> 00:00:43,579
+Please type the amount you would like to withdraw.
+
+9
+00:00:46,939 --> 00:00:47,740
+Thank you.
+
+10
+00:00:48,140 --> 00:00:49,060
+You want to transfer.
+
+11
+00:00:50,039 --> 00:00:54,520
+10,000 US dollars to the World Wildlife Foundation.
+
+12
+00:00:55,000 --> 00:00:56,820
+If this is correct, please press 1.
+
+13
+00:00:57,179 --> 00:00:57,759
+No, no.
+
+14
+00:00:58,159 --> 00:00:59,399
+Stupid machine, what are you doing?
+
+15
+00:00:59,399 --> 00:00:59,780
+No.
+
+16
+00:01:00,359 --> 00:01:00,899
+Confirmed.
+
+17
+00:01:01,420 --> 00:01:02,759
+Thank you for using our bank.
+
+18
+00:01:03,299 --> 00:01:05,000
+Please remove your card from the slot.
+
+19
+00:01:05,459 --> 00:01:05,739
+Goodbye.
+
+20
+00:01:06,140 --> 00:01:06,840
+No way.
+
+21
+00:01:07,079 --> 00:01:07,540
+What happened?
+
+22
+00:01:07,939 --> 00:01:08,760
+Give me my money.
+
+23
+00:01:10,019 --> 00:01:10,459
+Danger.
+
+24
+00:01:10,959 --> 00:01:11,260
+Danger.
+
+25
+00:01:11,799 --> 00:01:17,159
+The exits have been sealed and the doors will remain locked until the local authorities arrive.
+
+26
+00:01:17,659 --> 00:01:18,879
+Thank you for using our bank.
+
+27
+00:01:19,280 --> 00:01:20,000
+Have a nice day.
+

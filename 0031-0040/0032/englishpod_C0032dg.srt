@@ -1,0 +1,104 @@
+1
+00:00:04,300 --> 00:00:09,740
+Next, please.
+
+2
+00:00:10,259 --> 00:00:10,900
+May I help you, sir?
+
+3
+00:00:12,080 --> 00:00:12,419
+Hello.
+
+4
+00:00:12,860 --> 00:00:13,259
+Yes.
+
+5
+00:00:13,539 --> 00:00:15,039
+I'd like to open a bank account.
+
+6
+00:00:15,780 --> 00:00:16,179
+Certainly.
+
+7
+00:00:16,760 --> 00:00:17,760
+I can help you with that.
+
+8
+00:00:18,239 --> 00:00:21,679
+What type of account would you like to open, a checking or a saving account?
+
+9
+00:00:22,140 --> 00:00:23,280
+What features do they offer?
+
+10
+00:00:23,800 --> 00:00:30,600
+Well, if you just take a look here, see, with our checking account, you can have unlimited daily transactions for a small monthly fee.
+
+11
+00:00:31,239 --> 00:00:36,600
+And our savings account has a higher interest rate, but you must carry a minimum balance of $10,000.
+
+12
+00:00:37,520 --> 00:00:38,000
+I see.
+
+13
+00:00:38,399 --> 00:00:41,159
+Well, I think I'm more interested in a checking account.
+
+14
+00:00:41,799 --> 00:00:43,600
+I'd like to have easy access to my money.
+
+15
+00:00:44,960 --> 00:00:45,479
+All right, then.
+
+16
+00:00:45,799 --> 00:00:49,320
+With this checking account, you'll be issued a debit card and a checkbook.
+
+17
+00:00:50,200 --> 00:00:51,979
+Will you require overdraft protection?
+
+18
+00:00:52,640 --> 00:00:54,079
+There is an extra fee for that.
+
+19
+00:00:54,320 --> 00:00:55,579
+No, that won't be necessary.
+
+20
+00:00:56,379 --> 00:00:59,399
+In that case, I'll get you to fill out this paperwork.
+
+21
+00:00:59,979 --> 00:01:03,179
+I'll need your social insurance number and two pieces of government ID.
+
+22
+00:01:07,980 --> 00:01:13,200
+If you could just sign here and here and here, we'll be all set.
+
+23
+00:01:14,000 --> 00:01:15,379
+Would you like to make a deposit today?
+
+24
+00:01:16,439 --> 00:01:16,739
+Yes.
+
+25
+00:01:16,939 --> 00:01:18,599
+I'd like to deposit $1 billion.
+
+26
+00:01:18,599 --> 00:01:19,260
+One billion dollars!
+

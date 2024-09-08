@@ -1,0 +1,368 @@
+1
+00:00:01,079 --> 00:00:07,540
+The EnglishPod Audio Review Listen to the meaning, then say the vocabulary word.
+
+2
+00:00:08,759 --> 00:00:11,519
+Beer served from a barrel, not in a bottle or can.
+
+3
+00:00:13,960 --> 00:00:14,539
+On tap.
+
+4
+00:00:17,260 --> 00:00:19,039
+Buy one and take one free.
+
+5
+00:00:21,280 --> 00:00:22,019
+Two for one.
+
+6
+00:00:23,780 --> 00:00:27,059
+A period of time at a bar when drinks are sold cheaper than usual.
+
+7
+00:00:28,799 --> 00:00:30,019
+Happy hour.
+
+8
+00:00:32,179 --> 00:00:33,880
+A sale, a special price.
+
+9
+00:00:36,179 --> 00:00:36,600
+Special.
+
+10
+00:00:38,840 --> 00:00:43,000
+A measuring unit which is equal to 0.473 liters.
+
+11
+00:00:44,899 --> 00:00:45,200
+Pint.
+
+12
+00:00:46,859 --> 00:00:48,880
+A small dish served before a meal.
+
+13
+00:00:51,359 --> 00:00:52,020
+Appetizer.
+
+14
+00:00:52,020 --> 00:00:56,960
+A dish with tortilla chips and melted cheese cooked together.
+
+15
+00:00:59,560 --> 00:01:00,159
+Nachos.
+
+16
+00:01:02,100 --> 00:01:03,219
+Fried Italian cheese.
+
+17
+00:01:05,920 --> 00:01:06,000
+Null.
+
+18
+00:01:07,680 --> 00:01:09,079
+Dollar, informal.
+
+19
+00:01:11,719 --> 00:01:11,939
+Buck.
+
+20
+00:01:13,900 --> 00:01:17,700
+Alcoholic drink made from one or more liqueur and other ingredients.
+
+21
+00:01:20,079 --> 00:01:20,560
+Cocktail.
+
+22
+00:01:20,560 --> 00:01:25,180
+A relaxed casual bar where beer is served.
+
+23
+00:01:27,019 --> 00:01:27,400
+Pub.
+
+24
+00:01:29,439 --> 00:01:32,340
+A menu or list of drinks served in a restaurant or bar.
+
+25
+00:01:34,599 --> 00:01:35,540
+Drinks list.
+
+26
+00:01:37,180 --> 00:01:41,239
+Strong alcohol drink such as gin, rum, vodka, etc.
+
+27
+00:01:43,560 --> 00:01:44,159
+Liquor.
+
+28
+00:01:45,900 --> 00:01:48,640
+A chair with no back used for sitting on at a bar.
+
+29
+00:01:51,399 --> 00:01:52,019
+Barstool.
+
+30
+00:01:53,680 --> 00:01:55,019
+Let's try that faster.
+
+31
+00:01:57,040 --> 00:01:59,560
+Beer served from a barrel, not in a bottle or can.
+
+32
+00:02:01,560 --> 00:02:02,159
+On tap.
+
+33
+00:02:03,480 --> 00:02:07,519
+Strong alcohol drink such as gin, rum, vodka, etc.
+
+34
+00:02:09,539 --> 00:02:09,939
+Liquor.
+
+35
+00:02:11,180 --> 00:02:14,340
+A dish with tortilla chips and melted cheese cooked together.
+
+36
+00:02:15,979 --> 00:02:16,419
+Nachos.
+
+37
+00:02:17,819 --> 00:02:21,680
+Alcoholic drink made from one or more liqueur and other ingredients.
+
+38
+00:02:23,460 --> 00:02:23,939
+Cocktail.
+
+39
+00:02:25,099 --> 00:02:28,039
+A menu or list of drinks served in a restaurant or bar.
+
+40
+00:02:30,000 --> 00:02:30,620
+Drinks list.
+
+41
+00:02:31,780 --> 00:02:36,000
+A measuring unit which is equal to 0.473 liters.
+
+42
+00:02:37,400 --> 00:02:37,639
+Pint.
+
+43
+00:02:38,819 --> 00:02:40,060
+Fried Italian cheese.
+
+44
+00:02:42,259 --> 00:02:42,419
+Null.
+
+45
+00:02:43,740 --> 00:02:44,879
+Dollar, informal.
+
+46
+00:02:46,719 --> 00:02:47,300
+Buck.
+
+47
+00:02:48,800 --> 00:02:50,659
+A small dish served before a meal.
+
+48
+00:02:52,680 --> 00:02:53,259
+Appetizer.
+
+49
+00:02:55,180 --> 00:02:55,560
+A sale.
+
+50
+00:02:55,900 --> 00:02:56,780
+A special price.
+
+51
+00:02:58,659 --> 00:02:59,120
+Special.
+
+52
+00:03:01,000 --> 00:03:02,439
+Buy one and take one free.
+
+53
+00:03:04,199 --> 00:03:04,879
+Two for one.
+
+54
+00:03:06,219 --> 00:03:09,360
+A period of time at a bar when drinks are sold cheaper than usual.
+
+55
+00:03:10,800 --> 00:03:11,639
+Happy hour.
+
+56
+00:03:11,639 --> 00:03:15,879
+A chair with no back used for sitting on at a bar.
+
+57
+00:03:18,099 --> 00:03:18,659
+Barstool.
+
+58
+00:03:20,000 --> 00:03:22,439
+A relaxed casual bar where beer is served.
+
+59
+00:03:24,479 --> 00:03:24,580
+Pub.
+
+60
+00:03:26,439 --> 00:03:28,919
+Now say the word and hear it in a sentence.
+
+61
+00:03:30,659 --> 00:03:31,199
+On tap.
+
+62
+00:03:34,840 --> 00:03:36,780
+We have four types of beer on tap.
+
+63
+00:03:38,680 --> 00:03:39,580
+On tap.
+
+64
+00:03:42,659 --> 00:03:43,719
+What's on tap?
+
+65
+00:03:46,219 --> 00:03:46,819
+On tap.
+
+66
+00:03:50,580 --> 00:03:52,240
+We don't have any beer on tap.
+
+67
+00:03:54,240 --> 00:03:54,500
+Special.
+
+68
+00:03:58,740 --> 00:04:00,539
+Do you have a happy hour special?
+
+69
+00:04:02,439 --> 00:04:03,020
+Special.
+
+70
+00:04:06,360 --> 00:04:08,039
+I'll have the lunch special.
+
+71
+00:04:09,919 --> 00:04:10,460
+Special.
+
+72
+00:04:14,219 --> 00:04:14,740
+Special.
+
+73
+00:04:14,740 --> 00:04:16,120
+Can we have the two for one special?
+
+74
+00:04:22,340 --> 00:04:25,879
+If you can't drink coffee, what about a cup of tea?
+
+75
+00:04:32,280 --> 00:04:34,660
+My computer can't connect to the internet.
+
+76
+00:04:34,920 --> 00:04:35,600
+What about yours?
+
+77
+00:04:40,839 --> 00:04:42,579
+I'm quite busy in the afternoon.
+
+78
+00:04:42,899 --> 00:04:43,779
+What about tomorrow?
+
+79
+00:04:45,660 --> 00:04:46,139
+Appetizer.
+
+80
+00:04:51,079 --> 00:04:53,800
+Would you like to start with some appetizers?
+
+81
+00:04:55,899 --> 00:04:56,579
+Appetizer.
+
+82
+00:05:00,399 --> 00:05:02,319
+What appetizers do you have?
+
+83
+00:05:04,199 --> 00:05:04,879
+Appetizer.
+
+84
+00:05:08,439 --> 00:05:09,139
+Appetizer.
+
+85
+00:05:10,319 --> 00:05:13,019
+There aren't that many appetizers on the menu.
+
+86
+00:05:14,699 --> 00:05:15,339
+Two for one.
+
+87
+00:05:19,199 --> 00:05:21,699
+All shirts are now two for one.
+
+88
+00:05:23,199 --> 00:05:24,360
+Two for one.
+
+89
+00:05:26,900 --> 00:05:28,819
+We're having a two for one sale.
+
+90
+00:05:30,420 --> 00:05:31,480
+Two for one.
+
+91
+00:05:32,459 --> 00:05:32,939
+Appetizer.
+
+92
+00:05:35,639 --> 00:05:38,160
+The store is having a two for one sale.
+

@@ -1,0 +1,12 @@
+1
+00:00:00,000 --> 00:00:30,940
+EnglishPod.com My rules.
+
+2
+00:00:31,160 --> 00:00:34,899
+But I already mopped the floors, dusted the furniture, and vacuumed the rugs.
+
+3
+00:00:35,299 --> 00:00:37,899
+That's great, but you still have work to do so get to it.
+

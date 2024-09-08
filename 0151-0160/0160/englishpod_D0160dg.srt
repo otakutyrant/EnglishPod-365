@@ -1,0 +1,80 @@
+1
+00:00:01,980 --> 00:00:10,279
+EnglishPod.com Hey honey, how was your day?
+
+2
+00:00:10,599 --> 00:00:11,599
+It was alright.
+
+3
+00:00:11,919 --> 00:00:14,060
+I ran into Bill and we got to talking for a while.
+
+4
+00:00:14,320 --> 00:00:15,380
+He's in a bit of a jam.
+
+5
+00:00:15,800 --> 00:00:15,980
+Why?
+
+6
+00:00:16,160 --> 00:00:16,679
+What happened?
+
+7
+00:00:17,300 --> 00:00:18,980
+Well, his son had an accident.
+
+8
+00:00:19,239 --> 00:00:20,539
+Bill doesn't have health insurance.
+
+9
+00:00:21,120 --> 00:00:25,839
+This really got me thinking, and I wondered if we shouldn't look into a couple of different HMOs.
+
+10
+00:00:25,839 --> 00:00:27,000
+Yeah, you're right.
+
+11
+00:00:27,539 --> 00:00:29,879
+We aren't getting any younger and our kids are getting older.
+
+12
+00:00:30,620 --> 00:00:30,859
+Exactly.
+
+13
+00:00:31,480 --> 00:00:35,759
+I searched on the web and found a couple of HMOs with low co-pays and good coverage.
+
+14
+00:00:36,159 --> 00:00:37,479
+The deductibles are low too.
+
+15
+00:00:37,880 --> 00:00:38,380
+Sounds good.
+
+16
+00:00:38,880 --> 00:00:41,100
+Although, do you think we can qualify for insurance?
+
+17
+00:00:41,520 --> 00:00:44,439
+Those insurance companies are real pirates when it comes to money.
+
+18
+00:00:44,880 --> 00:00:49,600
+Well, we don't have any pre-existing illnesses or conditions, so we should be fine.
+
+19
+00:00:50,140 --> 00:00:52,840
+I wish our company or country provided us with health care.
+
+20
+00:00:52,840 --> 00:00:56,280
+Not in a million years.
+

@@ -1,0 +1,96 @@
+1
+00:00:01,720 --> 00:00:07,799
+EnglishPod.com Ah, Michelle.
+
+2
+00:00:08,199 --> 00:00:08,500
+Hi.
+
+3
+00:00:08,779 --> 00:00:09,820
+I was hoping to see you.
+
+4
+00:00:10,019 --> 00:00:10,679
+How have you been?
+
+5
+00:00:10,779 --> 00:00:11,539
+How's the family?
+
+6
+00:00:11,919 --> 00:00:12,919
+Oh, hello, Mr.
+
+7
+00:00:13,119 --> 00:00:13,320
+Campbell.
+
+8
+00:00:13,900 --> 00:00:15,539
+I'm fine and Jack's doing well.
+
+9
+00:00:15,939 --> 00:00:16,500
+How are you?
+
+10
+00:00:16,739 --> 00:00:18,120
+I'm fine, thanks.
+
+11
+00:00:18,399 --> 00:00:19,640
+I got your report this morning.
+
+12
+00:00:20,140 --> 00:00:20,739
+Thanks for that.
+
+13
+00:00:20,940 --> 00:00:22,219
+Are you joining the conference today?
+
+14
+00:00:22,559 --> 00:00:24,160
+Yes, I'm leaving at 4 p.m.
+
+15
+00:00:24,420 --> 00:00:26,559
+Good, well we can discuss this more then.
+
+16
+00:00:26,559 --> 00:00:29,579
+But I think the figures are looking very good for this quarter.
+
+17
+00:00:30,100 --> 00:00:30,559
+Yes, me too.
+
+18
+00:00:31,019 --> 00:00:33,500
+I'm planning to discuss the advertising budget at the conference.
+
+19
+00:00:33,859 --> 00:00:35,920
+I don't think we should continue with the TV advertising.
+
+20
+00:00:36,439 --> 00:00:37,700
+No, me neither.
+
+21
+00:00:37,939 --> 00:00:39,219
+It's far too expensive.
+
+22
+00:00:39,700 --> 00:00:41,600
+Well, let's discuss this more at the conference.
+
+23
+00:00:41,899 --> 00:00:43,219
+Maybe we can share a taxi there?
+
+24
+00:00:43,479 --> 00:00:44,100
+Yes, sure.
+

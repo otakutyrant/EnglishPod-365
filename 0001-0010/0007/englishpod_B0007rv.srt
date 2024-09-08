@@ -1,0 +1,296 @@
+1
+00:00:00,000 --> 00:00:07,400
+The EnglishPod Audio Review Listen to the meaning, then say the vocabulary word.
+
+2
+00:00:08,820 --> 00:00:10,699
+To stop working properly.
+
+3
+00:00:12,859 --> 00:00:13,220
+Freeze.
+
+4
+00:00:15,539 --> 00:00:17,420
+See, revise.
+
+5
+00:00:20,079 --> 00:00:21,079
+Take a look.
+
+6
+00:00:22,839 --> 00:00:24,620
+Not working properly.
+
+7
+00:00:26,879 --> 00:00:27,820
+Act up.
+
+8
+00:00:28,820 --> 00:00:30,920
+Go upstairs soon.
+
+9
+00:00:32,579 --> 00:00:34,039
+Be right up.
+
+10
+00:00:35,560 --> 00:00:36,619
+Get, acquire.
+
+11
+00:00:38,359 --> 00:00:39,460
+Pick up.
+
+12
+00:00:41,479 --> 00:00:42,939
+Look, search.
+
+13
+00:00:45,420 --> 00:00:45,939
+Browse.
+
+14
+00:00:48,100 --> 00:00:50,399
+Having all the most recent information.
+
+15
+00:00:52,259 --> 00:00:53,299
+Up to date.
+
+16
+00:00:54,619 --> 00:00:56,579
+Let's try that faster.
+
+17
+00:00:58,600 --> 00:00:59,859
+Look, search.
+
+18
+00:01:01,299 --> 00:01:01,759
+Browse.
+
+19
+00:01:03,340 --> 00:01:04,799
+Go upstairs soon.
+
+20
+00:01:06,060 --> 00:01:06,879
+Be right up.
+
+21
+00:01:08,079 --> 00:01:09,579
+Not working properly.
+
+22
+00:01:10,900 --> 00:01:11,780
+Act up.
+
+23
+00:01:12,780 --> 00:01:14,400
+To stop working properly.
+
+24
+00:01:15,840 --> 00:01:16,319
+Freeze.
+
+25
+00:01:17,739 --> 00:01:18,980
+See, revise.
+
+26
+00:01:20,799 --> 00:01:21,620
+Take a look.
+
+27
+00:01:22,539 --> 00:01:25,340
+Having all the most recent information.
+
+28
+00:01:26,400 --> 00:01:27,239
+Up to date.
+
+29
+00:01:28,819 --> 00:01:30,420
+To stop working properly.
+
+30
+00:01:31,920 --> 00:01:32,299
+Freeze.
+
+31
+00:01:33,840 --> 00:01:34,879
+Go upstairs soon.
+
+32
+00:01:36,180 --> 00:01:37,000
+Be right up.
+
+33
+00:01:38,200 --> 00:01:40,420
+Having all the most recent information.
+
+34
+00:01:41,379 --> 00:01:42,299
+Up to date.
+
+35
+00:01:43,900 --> 00:01:45,420
+Not working properly.
+
+36
+00:01:46,680 --> 00:01:47,480
+Act up.
+
+37
+00:01:48,739 --> 00:01:49,900
+Go upstairs soon.
+
+38
+00:01:50,820 --> 00:01:52,000
+Be right up.
+
+39
+00:01:53,459 --> 00:01:54,780
+Not working properly.
+
+40
+00:01:56,079 --> 00:01:56,980
+Act up.
+
+41
+00:01:57,959 --> 00:01:59,560
+To stop working properly.
+
+42
+00:02:01,099 --> 00:02:01,400
+Freeze.
+
+43
+00:02:02,819 --> 00:02:03,879
+Get, acquire.
+
+44
+00:02:05,060 --> 00:02:05,739
+Pick up.
+
+45
+00:02:07,099 --> 00:02:08,520
+Go upstairs soon.
+
+46
+00:02:09,680 --> 00:02:10,719
+Be right up.
+
+47
+00:02:11,819 --> 00:02:13,159
+See, revise.
+
+48
+00:02:14,719 --> 00:02:15,780
+Take a look.
+
+49
+00:02:17,339 --> 00:02:20,000
+Now say the word and hear it in a sentence.
+
+50
+00:02:21,860 --> 00:02:22,840
+Be right up.
+
+51
+00:02:27,379 --> 00:02:29,360
+I'll be right down to help you with your computer.
+
+52
+00:02:31,580 --> 00:02:32,060
+Freeze.
+
+53
+00:02:36,180 --> 00:02:39,439
+If your computer freezes, you'll have to shut it down.
+
+54
+00:02:41,340 --> 00:02:42,099
+Act up.
+
+55
+00:02:46,800 --> 00:02:48,580
+Your computer is fixed now.
+
+56
+00:02:48,819 --> 00:02:50,280
+It shouldn't act up anymore.
+
+57
+00:02:52,460 --> 00:02:53,539
+Take a look.
+
+58
+00:02:58,560 --> 00:03:02,419
+I need you to take a look at these reports after they've been edited.
+
+59
+00:03:04,980 --> 00:03:05,580
+Browse.
+
+60
+00:03:06,680 --> 00:03:07,360
+Browse.
+
+61
+00:03:11,780 --> 00:03:14,039
+I didn't get anything done at work.
+
+62
+00:03:14,400 --> 00:03:16,680
+I was browsing the internet all day.
+
+63
+00:03:18,120 --> 00:03:18,900
+Up to date.
+
+64
+00:03:23,159 --> 00:03:26,080
+Is my virus protection software up to date?
+
+65
+00:03:27,939 --> 00:03:29,240
+Be right up.
+
+66
+00:03:33,579 --> 00:03:36,080
+I'll be right down to help you with your computer.
+
+67
+00:03:38,159 --> 00:03:39,199
+Act up.
+
+68
+00:03:43,740 --> 00:03:45,439
+Your computer is fixed now.
+
+69
+00:03:45,699 --> 00:03:47,159
+It shouldn't act up anymore.
+
+70
+00:03:49,520 --> 00:03:49,979
+Browse.
+
+71
+00:03:56,460 --> 00:03:58,560
+I didn't get anything done at work.
+
+72
+00:03:58,840 --> 00:03:59,219
+I was browsing the internet all day.
+
+73
+00:04:01,280 --> 00:04:03,360
+Up to date.
+
+74
+00:04:07,480 --> 00:04:10,560
+Is my virus protection software up to date?
+

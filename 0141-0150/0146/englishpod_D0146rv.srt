@@ -1,0 +1,388 @@
+1
+00:00:00,000 --> 00:00:07,500
+The EnglishPod Audio Review Listen to the meaning, then say the vocabulary word.
+
+2
+00:00:08,839 --> 00:00:10,640
+The rights people have.
+
+3
+00:00:12,640 --> 00:00:13,740
+Civil rights.
+
+4
+00:00:16,839 --> 00:00:19,920
+Capable of being decomposed by natural means.
+
+5
+00:00:22,500 --> 00:00:23,359
+Biodegradable.
+
+6
+00:00:25,199 --> 00:00:26,640
+Easily hurt or harmed.
+
+7
+00:00:28,560 --> 00:00:29,480
+Vulnerable.
+
+8
+00:00:32,000 --> 00:00:35,560
+A prolonged period of time during which no rain falls.
+
+9
+00:00:37,439 --> 00:00:38,079
+Drought.
+
+10
+00:00:40,340 --> 00:00:40,899
+Defenseless.
+
+11
+00:00:43,640 --> 00:00:44,460
+Defenseless.
+
+12
+00:00:46,439 --> 00:00:48,299
+A severe shortage of food.
+
+13
+00:00:51,000 --> 00:00:51,240
+Famine.
+
+14
+00:00:51,799 --> 00:00:56,100
+In a position where you can be harmed.
+
+15
+00:00:58,179 --> 00:00:59,820
+At the mercy of.
+
+16
+00:01:01,179 --> 00:01:05,760
+The part of the Earth's surface and atmosphere inhabited by living things.
+
+17
+00:01:08,400 --> 00:01:09,040
+Biosphere.
+
+18
+00:01:11,480 --> 00:01:12,959
+Something that is not allowed.
+
+19
+00:01:15,239 --> 00:01:15,959
+Transgression.
+
+20
+00:01:17,480 --> 00:01:23,680
+A general term for the research activity that creates a copy of some biological entity.
+
+21
+00:01:25,819 --> 00:01:26,400
+Cloning.
+
+22
+00:01:28,719 --> 00:01:31,439
+An unfair comparison of two different things.
+
+23
+00:01:33,840 --> 00:01:35,099
+Apples and oranges.
+
+24
+00:01:37,400 --> 00:01:39,680
+To illegally hunt protected animals.
+
+25
+00:01:42,140 --> 00:01:42,700
+Poach.
+
+26
+00:01:44,239 --> 00:01:45,840
+Not natural.
+
+27
+00:01:48,319 --> 00:01:49,159
+Synthetic.
+
+28
+00:01:50,900 --> 00:01:52,659
+To help accomplish a goal.
+
+29
+00:01:54,900 --> 00:01:55,980
+Do your part.
+
+30
+00:01:57,700 --> 00:01:58,760
+Let's try that faster!
+
+31
+00:02:00,620 --> 00:02:02,299
+The rights people have.
+
+32
+00:02:04,200 --> 00:02:05,140
+Civil rights.
+
+33
+00:02:06,819 --> 00:02:11,039
+The part of the Earth's surface and atmosphere inhabited by living things.
+
+34
+00:02:13,219 --> 00:02:13,979
+Biosphere.
+
+35
+00:02:16,080 --> 00:02:17,400
+Something that is not allowed.
+
+36
+00:02:19,340 --> 00:02:19,879
+Transgression.
+
+37
+00:02:21,560 --> 00:02:23,039
+Easily hurt or harmed.
+
+38
+00:02:24,960 --> 00:02:25,240
+Vulnerable.
+
+39
+00:02:27,259 --> 00:02:29,879
+An unfair comparison of two different things.
+
+40
+00:02:31,960 --> 00:02:33,099
+Apples and oranges.
+
+41
+00:02:34,819 --> 00:02:37,020
+In a position where you can be harmed.
+
+42
+00:02:37,020 --> 00:02:40,620
+At the mercy of.
+
+43
+00:02:41,900 --> 00:02:44,439
+To illegally hunt protected animals.
+
+44
+00:02:46,139 --> 00:02:47,060
+Poach.
+
+45
+00:02:48,240 --> 00:02:48,740
+Defenseless.
+
+46
+00:02:51,020 --> 00:02:51,719
+Defenseless.
+
+47
+00:02:53,460 --> 00:02:55,080
+A severe shortage of food.
+
+48
+00:02:57,219 --> 00:02:57,520
+Famine.
+
+49
+00:02:59,099 --> 00:03:02,120
+Capable of being decomposed by natural means.
+
+50
+00:03:04,039 --> 00:03:05,000
+Biodegradable.
+
+51
+00:03:06,159 --> 00:03:07,599
+Not natural.
+
+52
+00:03:09,699 --> 00:03:10,419
+Synthetic.
+
+53
+00:03:11,979 --> 00:03:16,960
+A general term for the research activity that creates a copy of some biological entity.
+
+54
+00:03:18,800 --> 00:03:19,319
+Cloning.
+
+55
+00:03:21,139 --> 00:03:22,539
+To help accomplish a goal.
+
+56
+00:03:24,580 --> 00:03:25,419
+Do your part.
+
+57
+00:03:26,840 --> 00:03:30,280
+A prolonged period of time during which no rain falls.
+
+58
+00:03:32,120 --> 00:03:32,560
+Drought.
+
+59
+00:03:33,860 --> 00:03:36,780
+Now say the word and hear it in a sentence.
+
+60
+00:03:38,539 --> 00:03:38,960
+Vulnerable.
+
+61
+00:03:44,599 --> 00:03:46,520
+The wound is vulnerable to infection.
+
+62
+00:03:48,960 --> 00:03:49,419
+Vulnerable.
+
+63
+00:03:54,659 --> 00:03:57,319
+A dry forest is vulnerable to fires.
+
+64
+00:03:59,780 --> 00:04:00,080
+Vulnerable.
+
+65
+00:04:00,539 --> 00:04:00,939
+Vulnerable.
+
+66
+00:04:05,660 --> 00:04:08,979
+The spawning salmon is vulnerable to predators.
+
+67
+00:04:11,159 --> 00:04:12,460
+At the mercy of.
+
+68
+00:04:17,720 --> 00:04:20,899
+The city is at the mercy of the forest fire.
+
+69
+00:04:22,740 --> 00:04:24,560
+At the mercy of.
+
+70
+00:04:30,639 --> 00:04:35,600
+The lost sailors were at the mercy of the vast ocean that lay ahead of them.
+
+71
+00:04:37,500 --> 00:04:39,000
+At the mercy of.
+
+72
+00:04:46,139 --> 00:04:49,399
+Our city is at the mercy of criminals and gangsters.
+
+73
+00:04:50,100 --> 00:04:51,240
+Something must be done.
+
+74
+00:04:53,560 --> 00:04:54,160
+Transgression.
+
+75
+00:05:00,520 --> 00:05:04,339
+All transgressions of the law will be severely punished.
+
+76
+00:05:06,300 --> 00:05:07,139
+Transgression.
+
+77
+00:05:12,259 --> 00:05:15,860
+She was guilty of the worst moral transgression.
+
+78
+00:05:18,180 --> 00:05:18,980
+Transgression.
+
+79
+00:05:25,300 --> 00:05:29,639
+There are legal consequences for those that transgress the law.
+
+80
+00:05:31,740 --> 00:05:33,120
+Apples and oranges.
+
+81
+00:05:39,740 --> 00:05:42,939
+You can't compare Batman and Superman.
+
+82
+00:05:43,459 --> 00:05:45,040
+It's like apples and oranges.
+
+83
+00:05:47,399 --> 00:05:48,720
+Apples and oranges.
+
+84
+00:05:54,879 --> 00:05:57,759
+The two operating systems are so different.
+
+85
+00:05:58,439 --> 00:05:59,819
+They're like apples and oranges.
+
+86
+00:06:02,060 --> 00:06:03,240
+Apples and oranges.
+
+87
+00:06:09,460 --> 00:06:11,819
+You can't compare those two authors.
+
+88
+00:06:12,139 --> 00:06:14,139
+It's like comparing apples to oranges.
+
+89
+00:06:16,120 --> 00:06:17,339
+Do your part.
+
+90
+00:06:21,519 --> 00:06:22,759
+Do your part.
+
+91
+00:06:23,060 --> 00:06:23,839
+Don't litter.
+
+92
+00:06:26,060 --> 00:06:26,939
+Do your part.
+
+93
+00:06:33,540 --> 00:06:35,439
+Your wife looks so tired.
+
+94
+00:06:36,120 --> 00:06:38,420
+You haven't been doing your part around the house.
+
+95
+00:06:40,379 --> 00:06:41,600
+Do your part.
+
+96
+00:06:47,259 --> 00:06:48,079
+Do your part.
+
+97
+00:06:48,079 --> 00:06:51,220
+Do your part to prevent climate change and try riding your bike to work.
+

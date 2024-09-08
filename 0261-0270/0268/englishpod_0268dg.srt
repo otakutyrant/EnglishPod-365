@@ -1,0 +1,84 @@
+1
+00:00:01,840 --> 00:00:10,519
+EnglishPod.com Good morning Angela, how have you been lately?
+
+2
+00:00:11,259 --> 00:00:13,839
+Morning Michael, I've been very busy lately.
+
+3
+00:00:14,419 --> 00:00:18,780
+One of our other vendors is going out of business and I've been searching for a suitable replacement.
+
+4
+00:00:19,519 --> 00:00:22,359
+Well, rest assured that you can count on us to be here for the long run.
+
+5
+00:00:22,879 --> 00:00:23,500
+Please sit down.
+
+6
+00:00:23,760 --> 00:00:23,960
+Coffee?
+
+7
+00:00:24,500 --> 00:00:25,160
+No thanks.
+
+8
+00:00:25,719 --> 00:00:27,579
+I've been trying to cut down on the caffeine.
+
+9
+00:00:27,579 --> 00:00:29,760
+I could never do that.
+
+10
+00:00:30,120 --> 00:00:32,600
+I'd be a zombie if I didn't have my morning coffee fix.
+
+11
+00:00:33,200 --> 00:00:34,520
+Let's get down to business then.
+
+12
+00:00:35,179 --> 00:00:40,619
+Yes, I've come to talk with you about ordering the 8 megapixel cameras for our new Mi Phone.
+
+13
+00:00:41,299 --> 00:00:45,600
+The demand for phone cameras is growing and Pear has been falling behind in the market.
+
+14
+00:00:46,179 --> 00:00:46,820
+That's great.
+
+15
+00:00:47,039 --> 00:00:49,780
+I'm glad to hear that Pear has finally jumped on the bandwagon.
+
+16
+00:00:50,299 --> 00:00:53,000
+Right now our contract is for the 5 megapixel cameras.
+
+17
+00:00:53,359 --> 00:00:55,060
+Is Pear still interested in having those?
+
+18
+00:00:55,060 --> 00:00:59,079
+No, we're changing all the cameras to 8 megapixels.
+
+19
+00:00:59,880 --> 00:01:05,760
+We were hoping that by making your company our sole supplier for cameras, we could negotiate a better deal.
+
+20
+00:01:06,239 --> 00:01:06,519
+Surely.
+
+21
+00:01:07,060 --> 00:01:08,980
+Let's get started by drafting a new contract.
+

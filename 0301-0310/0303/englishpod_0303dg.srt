@@ -1,0 +1,56 @@
+1
+00:00:01,619 --> 00:00:07,259
+EnglishPod.com Hello, sir.
+
+2
+00:00:07,360 --> 00:00:08,820
+Welcome to Pistoleira Restaurant.
+
+3
+00:00:08,960 --> 00:00:09,859
+May I take your order?
+
+4
+00:00:10,759 --> 00:00:14,820
+Yes, I would like the chicken cheese enchiladas with a side of guacamole.
+
+5
+00:00:15,300 --> 00:00:17,140
+Sorry, sir, but we ran out of chicken.
+
+6
+00:00:17,579 --> 00:00:20,780
+May I suggest our delicious beef burritos or cheese quesadillas?
+
+7
+00:00:21,019 --> 00:00:23,879
+Both include a side of guacamole and jalapeños.
+
+8
+00:00:24,500 --> 00:00:25,859
+Sure, I'll have the burrito.
+
+9
+00:00:26,320 --> 00:00:27,219
+Do you have nachos?
+
+10
+00:00:27,219 --> 00:00:28,519
+Of course, sir.
+
+11
+00:00:28,679 --> 00:00:30,780
+Our nachos come with melted cheese and chili.
+
+12
+00:00:31,480 --> 00:00:31,960
+Sounds good.
+
+13
+00:00:32,479 --> 00:00:33,619
+Would you like anything to drink?
+
+14
+00:00:34,280 --> 00:00:35,520
+Sure, I'll have a Corona.
+

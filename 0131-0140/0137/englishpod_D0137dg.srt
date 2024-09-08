@@ -1,0 +1,80 @@
+1
+00:00:01,420 --> 00:00:07,419
+EnglishPod.com Welcome to Galenet.
+
+2
+00:00:07,759 --> 00:00:08,679
+How can I help you?
+
+3
+00:00:09,179 --> 00:00:09,419
+Hi.
+
+4
+00:00:09,919 --> 00:00:11,839
+I would like to get an internet plan for my house.
+
+5
+00:00:12,320 --> 00:00:12,839
+Of course.
+
+6
+00:00:13,880 --> 00:00:17,600
+We have three different plans with different prices you can choose from.
+
+7
+00:00:18,120 --> 00:00:22,500
+The first one is the cheapest, but most basic plan, which is $30 a month.
+
+8
+00:00:23,000 --> 00:00:27,620
+This is for broadband internet with a download speed of 512 kbps.
+
+9
+00:00:27,620 --> 00:00:31,440
+I have no idea what kbps means.
+
+10
+00:00:32,140 --> 00:00:35,560
+I just want to be able to get online, play games, and chat with my friends.
+
+11
+00:00:36,100 --> 00:00:37,700
+Oh, and watch movies online as well.
+
+12
+00:00:38,359 --> 00:00:41,380
+Well, this connection might be a bit too slow for your needs.
+
+13
+00:00:41,880 --> 00:00:47,640
+I suggest you get the premium package for $50 a month, which includes a connection speed of 2 megabytes.
+
+14
+00:00:48,079 --> 00:00:50,880
+That way, you can play games online without any lag.
+
+15
+00:00:51,219 --> 00:00:55,439
+This package also includes a wireless router and a personal firewall, absolutely free.
+
+16
+00:00:55,439 --> 00:00:57,700
+Do I have to pay an installation fee?
+
+17
+00:00:58,880 --> 00:01:02,420
+Lucky for you, this month we aren't charging our normal installation fee.
+
+18
+00:01:02,939 --> 00:01:05,280
+You are saving yourself $100 right there.
+
+19
+00:01:05,640 --> 00:01:07,040
+And we'll throw in this pen drive.
+
+20
+00:01:07,480 --> 00:01:07,900
+Awesome!
+

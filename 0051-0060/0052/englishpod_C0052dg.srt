@@ -1,0 +1,72 @@
+1
+00:00:01,760 --> 00:00:10,839
+EnglishPod.com Good evening, Pizza House.
+
+2
+00:00:11,099 --> 00:00:12,220
+This is Marty speaking.
+
+3
+00:00:12,460 --> 00:00:13,539
+May I take your order?
+
+4
+00:00:14,420 --> 00:00:17,879
+Yes, I'd like a medium pizza with pepperoni, olives, and extra cheese.
+
+5
+00:00:18,440 --> 00:00:21,199
+We have a 2 for 1 special on large pizzas.
+
+6
+00:00:21,539 --> 00:00:23,219
+Would you like a large pizza instead?
+
+7
+00:00:23,760 --> 00:00:24,699
+Sure, that sounds good.
+
+8
+00:00:25,200 --> 00:00:25,679
+Great!
+
+9
+00:00:26,140 --> 00:00:29,160
+Would you like your second pizza to be the same size as the first?
+
+10
+00:00:29,160 --> 00:00:32,780
+No, make the second one with ham, pineapple, and green peppers.
+
+11
+00:00:33,219 --> 00:00:34,079
+Oh, and make it thin crust.
+
+12
+00:00:34,600 --> 00:00:36,140
+Okay, thin crust.
+
+13
+00:00:36,520 --> 00:00:40,380
+Your total is $21.50 and your order will arrive in 30 minutes or it's free.
+
+14
+00:00:41,140 --> 00:00:41,579
+Perfect.
+
+15
+00:00:41,920 --> 00:00:42,500
+Thank you.
+
+16
+00:00:42,579 --> 00:00:42,700
+Bye.
+
+17
+00:00:43,039 --> 00:00:43,640
+Sir, wait!
+
+18
+00:00:43,759 --> 00:00:44,700
+I need your address!
+

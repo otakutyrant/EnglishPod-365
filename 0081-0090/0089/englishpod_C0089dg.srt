@@ -1,0 +1,92 @@
+1
+00:00:07,719 --> 00:00:08,839
+Next please.
+
+2
+00:00:09,859 --> 00:00:11,720
+Hello sir, may I see your passport please?
+
+3
+00:00:12,019 --> 00:00:13,619
+Yes, here you go.
+
+4
+00:00:14,119 --> 00:00:15,740
+Will you be checking any bags today?
+
+5
+00:00:16,160 --> 00:00:17,640
+Yes, I'd like to check three pieces.
+
+6
+00:00:18,559 --> 00:00:26,500
+I'm sorry sir, airline policy only allows two pieces of check luggage at 20 kilograms each plus one piece of carry-on luggage.
+
+7
+00:00:26,500 --> 00:00:29,399
+I will have to charge you extra for the additional suitcase.
+
+8
+00:00:29,579 --> 00:00:29,859
+What?
+
+9
+00:00:30,260 --> 00:00:30,679
+Why?
+
+10
+00:00:31,120 --> 00:00:32,679
+I'm taking an intercontinental flight.
+
+11
+00:00:32,880 --> 00:00:35,000
+I'm flying 16,000 kilometers.
+
+12
+00:00:35,219 --> 00:00:38,100
+How am I supposed to take only two 20 kilo bags?
+
+13
+00:00:38,359 --> 00:00:38,859
+That's absurd.
+
+14
+00:00:39,520 --> 00:00:41,579
+I'm sorry sir, there's nothing I can do.
+
+15
+00:00:42,079 --> 00:00:44,780
+You cannot board the flight with that large bag either.
+
+16
+00:00:45,119 --> 00:00:48,500
+Carry-on bags must fit in the overhead compartment or under your seat.
+
+17
+00:00:49,119 --> 00:00:51,140
+That bag is clearly too big.
+
+18
+00:00:51,520 --> 00:00:52,100
+Now I see.
+
+19
+00:00:52,439 --> 00:00:54,560
+You charge next to nothing for an international ticket.
+
+20
+00:00:54,560 --> 00:00:58,320
+When it comes to charging for any other small thing, you charge an arm and a leg.
+
+21
+00:00:58,799 --> 00:01:01,759
+So tell me miss, how much will I have to pay for all of this?
+
+22
+00:01:02,859 --> 00:01:06,700
+Let's see, 625 US dollars.
+
+23
+00:01:06,959 --> 00:01:08,599
+That's more than my round trip ticket!
+

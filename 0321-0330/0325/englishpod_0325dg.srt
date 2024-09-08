@@ -1,0 +1,96 @@
+1
+00:00:01,839 --> 00:00:10,880
+EnglishPod.com Hey, Michelle.
+
+2
+00:00:11,119 --> 00:00:11,859
+Good to see you.
+
+3
+00:00:12,060 --> 00:00:12,720
+Are you at lunch?
+
+4
+00:00:13,060 --> 00:00:13,980
+Oh, hi, Jim.
+
+5
+00:00:14,400 --> 00:00:15,580
+No, I just got back.
+
+6
+00:00:15,960 --> 00:00:17,519
+I thought you were on vacation now.
+
+7
+00:00:17,739 --> 00:00:19,160
+No, I wish I was.
+
+8
+00:00:19,500 --> 00:00:21,280
+I just got back from Spain, actually.
+
+9
+00:00:21,600 --> 00:00:22,559
+Oh, wonderful.
+
+10
+00:00:23,239 --> 00:00:25,879
+Have you been there before or was it your first time?
+
+11
+00:00:25,879 --> 00:00:26,739
+My first time.
+
+12
+00:00:27,039 --> 00:00:29,839
+I've traveled around Europe a lot, but this is my first time to Spain.
+
+13
+00:00:30,100 --> 00:00:32,380
+It was amazing and the weather was just beautiful.
+
+14
+00:00:32,640 --> 00:00:34,600
+No rain and just sun, sun, sun.
+
+15
+00:00:35,280 --> 00:00:36,979
+I'm so jealous of you.
+
+16
+00:00:37,439 --> 00:00:39,280
+I've never been anywhere in Europe.
+
+17
+00:00:39,640 --> 00:00:42,899
+I've always dreamed of traveling around and seeing the sights.
+
+18
+00:00:43,200 --> 00:00:44,539
+Well, I really recommend Spain.
+
+19
+00:00:44,960 --> 00:00:45,960
+You really should go.
+
+20
+00:00:47,119 --> 00:00:49,759
+Anyway, it's been great to catch up, but I must be going.
+
+21
+00:00:50,020 --> 00:00:50,780
+This is my floor.
+
+22
+00:00:51,280 --> 00:00:52,179
+Speak again soon, I hope.
+
+23
+00:00:52,600 --> 00:00:53,020
+For sure.
+
+24
+00:00:53,280 --> 00:00:53,700
+Take care.
+

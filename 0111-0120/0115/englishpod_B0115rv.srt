@@ -1,0 +1,356 @@
+1
+00:00:00,000 --> 00:00:07,540
+The EnglishPod Audio Review Listen to the meaning, then say the vocabulary word.
+
+2
+00:00:08,740 --> 00:00:10,519
+Become out of control.
+
+3
+00:00:12,779 --> 00:00:14,000
+Got a little out of hand.
+
+4
+00:00:16,620 --> 00:00:17,620
+Very drunk.
+
+5
+00:00:20,219 --> 00:00:20,600
+Wasted.
+
+6
+00:00:22,620 --> 00:00:24,100
+To go to a place.
+
+7
+00:00:26,660 --> 00:00:26,859
+Hit.
+
+8
+00:00:26,859 --> 00:00:29,359
+To vomit.
+
+9
+00:00:32,259 --> 00:00:33,159
+Barf.
+
+10
+00:00:34,740 --> 00:00:36,340
+To happen a certain way.
+
+11
+00:00:38,840 --> 00:00:39,780
+Turned out.
+
+12
+00:00:41,640 --> 00:00:43,659
+Medicine you take to cure a headache.
+
+13
+00:00:46,579 --> 00:00:47,219
+Painkillers.
+
+14
+00:00:49,219 --> 00:00:49,659
+I agree.
+
+15
+00:00:50,119 --> 00:00:50,859
+I understand.
+
+16
+00:00:52,939 --> 00:00:54,780
+Tell me about it.
+
+17
+00:00:55,739 --> 00:00:57,659
+I feel very bad.
+
+18
+00:00:59,659 --> 00:01:01,479
+I feel like death.
+
+19
+00:01:03,280 --> 00:01:05,319
+Feel like you are going to vomit.
+
+20
+00:01:08,239 --> 00:01:08,939
+Nauseous.
+
+21
+00:01:10,400 --> 00:01:14,280
+Drink alcohol when you have a hangover to cure it.
+
+22
+00:01:16,420 --> 00:01:17,280
+Hair of the dog.
+
+23
+00:01:19,340 --> 00:01:20,099
+Vomit.
+
+24
+00:01:20,099 --> 00:01:23,920
+Through up.
+
+25
+00:01:25,319 --> 00:01:26,439
+Lacking water.
+
+26
+00:01:29,060 --> 00:01:30,000
+Dehydrated.
+
+27
+00:01:31,980 --> 00:01:33,640
+To beat loudly and quickly.
+
+28
+00:01:36,180 --> 00:01:37,000
+Pounding.
+
+29
+00:01:39,000 --> 00:01:40,060
+Let's try that faster.
+
+30
+00:01:42,019 --> 00:01:44,019
+To beat loudly and quickly.
+
+31
+00:01:46,379 --> 00:01:46,840
+Pounding.
+
+32
+00:01:48,340 --> 00:01:50,719
+Feel like you are going to vomit.
+
+33
+00:01:53,340 --> 00:01:54,060
+Nauseous.
+
+34
+00:01:54,719 --> 00:01:58,480
+Drink alcohol when you have a hangover to cure it.
+
+35
+00:02:00,159 --> 00:02:00,980
+Hair of the dog.
+
+36
+00:02:02,420 --> 00:02:04,260
+To happen a certain way.
+
+37
+00:02:06,459 --> 00:02:07,140
+Turned out.
+
+38
+00:02:08,520 --> 00:02:09,919
+To go to a place.
+
+39
+00:02:10,560 --> 00:02:12,139
+Hit.
+
+40
+00:02:13,719 --> 00:02:14,120
+I agree.
+
+41
+00:02:14,580 --> 00:02:15,340
+I understand.
+
+42
+00:02:17,280 --> 00:02:18,919
+Tell me about it.
+
+43
+00:02:19,719 --> 00:02:20,960
+Lacking water.
+
+44
+00:02:23,219 --> 00:02:24,039
+Dehydrated.
+
+45
+00:02:25,620 --> 00:02:28,759
+Threw up.
+
+46
+00:02:32,020 --> 00:02:33,419
+Wasted.
+
+47
+00:02:34,280 --> 00:02:36,400
+Become out of control.
+
+48
+00:02:38,419 --> 00:02:39,479
+Got a little out of hand.
+
+49
+00:02:40,740 --> 00:02:43,199
+Medicine you take to cure a headache.
+
+50
+00:02:45,300 --> 00:02:45,919
+Painkillers.
+
+51
+00:02:47,319 --> 00:02:47,879
+To vomit.
+
+52
+00:02:50,280 --> 00:02:50,599
+Barf.
+
+53
+00:02:52,060 --> 00:02:53,219
+I feel very bad.
+
+54
+00:02:53,219 --> 00:02:56,620
+I feel like death.
+
+55
+00:02:57,819 --> 00:03:00,360
+Now say the word and hear it in a sentence.
+
+56
+00:03:02,020 --> 00:03:03,180
+Got a little out of hand.
+
+57
+00:03:08,240 --> 00:03:10,580
+Honey, the kids are getting a little out of hand.
+
+58
+00:03:10,979 --> 00:03:11,840
+Can you do something?
+
+59
+00:03:13,379 --> 00:03:15,199
+Got a little out of hand.
+
+60
+00:03:19,960 --> 00:03:22,280
+Guys, this argument is getting out of hand.
+
+61
+00:03:22,280 --> 00:03:24,180
+Let's all calm down.
+
+62
+00:03:25,539 --> 00:03:26,740
+Got a little out of hand.
+
+63
+00:03:32,180 --> 00:03:34,620
+The party last night got out of hand.
+
+64
+00:03:35,060 --> 00:03:36,340
+The neighbors called the police.
+
+65
+00:03:42,319 --> 00:03:44,439
+You have to come to the party tonight.
+
+66
+00:03:44,900 --> 00:03:46,199
+It's going to be a beer fest.
+
+67
+00:03:54,300 --> 00:03:57,419
+It was a real food fest last night at Pete's house.
+
+68
+00:03:57,539 --> 00:04:00,180
+There was enough food to feed a small country.
+
+69
+00:04:06,560 --> 00:04:08,900
+We have to go to Jessica's birthday party.
+
+70
+00:04:09,180 --> 00:04:11,500
+It's going to be a chick fest for sure.
+
+71
+00:04:13,140 --> 00:04:13,740
+Nauseous.
+
+72
+00:04:18,339 --> 00:04:21,540
+It's normal to feel nauseous sometimes during a pregnancy.
+
+73
+00:04:23,899 --> 00:04:24,500
+Nauseous.
+
+74
+00:04:28,819 --> 00:04:32,540
+Every time I get on a boat, I feel really nauseous.
+
+75
+00:04:34,420 --> 00:04:35,019
+Nauseous.
+
+76
+00:04:39,259 --> 00:04:42,800
+If you get nauseous on the plane, take two of these pills.
+
+77
+00:04:44,600 --> 00:04:45,379
+Threw up.
+
+78
+00:04:50,659 --> 00:04:54,060
+Carl got on the roller coaster and threw up all over me.
+
+79
+00:04:55,720 --> 00:04:56,660
+Threw up.
+
+80
+00:05:01,699 --> 00:05:05,740
+If you feel like you are going to throw up, be sure to tell me so I can pull over.
+
+81
+00:05:07,499 --> 00:05:08,459
+Threw up.
+
+82
+00:05:12,800 --> 00:05:16,560
+If you have too much to drink, you will throw up later.
+
+83
+00:05:19,480 --> 00:05:25,360
+I have a pounding pain in my head.
+
+84
+00:05:25,879 --> 00:05:26,860
+Do you have any aspirin?
+
+85
+00:05:29,019 --> 00:05:29,399
+Pounding.
+
+86
+00:05:34,400 --> 00:05:36,399
+I can't take it anymore.
+
+87
+00:05:36,899 --> 00:05:38,980
+I've had a pounding headache all morning.
+
+88
+00:05:40,540 --> 00:05:41,300
+Pounding.
+
+89
+00:05:46,060 --> 00:05:49,319
+My head started pounding the moment I saw my ex-girlfriend.
+

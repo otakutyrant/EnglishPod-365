@@ -1,0 +1,444 @@
+1
+00:00:00,000 --> 00:00:07,519
+The EnglishPod Audio Review Listen to the meaning, then say the vocabulary word.
+
+2
+00:00:08,880 --> 00:00:12,140
+Phrase used to introduce a piece of information.
+
+3
+00:00:14,960 --> 00:00:16,160
+I don't know if you heard.
+
+4
+00:00:19,420 --> 00:00:20,960
+Tell me about it.
+
+5
+00:00:23,140 --> 00:00:24,300
+Fill me in.
+
+6
+00:00:25,359 --> 00:00:30,179
+A sense or feeling that something bad is going to happen.
+
+7
+00:00:32,939 --> 00:00:33,859
+A bad feeling.
+
+8
+00:00:35,799 --> 00:00:37,679
+Strange, unusual.
+
+9
+00:00:40,679 --> 00:00:41,240
+Weird.
+
+10
+00:00:43,579 --> 00:00:48,000
+Make or force someone to leave when they don't want to.
+
+11
+00:00:50,240 --> 00:00:51,359
+Kick out.
+
+12
+00:00:52,000 --> 00:00:57,460
+Make me feel uncomfortable and a bit scared.
+
+13
+00:00:59,820 --> 00:01:01,659
+Creep me out.
+
+14
+00:01:03,219 --> 00:01:05,939
+Phrase used to introduce a piece of news.
+
+15
+00:01:08,659 --> 00:01:09,799
+You'll never guess.
+
+16
+00:01:12,239 --> 00:01:14,700
+Cause someone to feel a lot of fear.
+
+17
+00:01:17,599 --> 00:01:19,959
+Scare the heck out of me.
+
+18
+00:01:21,700 --> 00:01:23,019
+Strange or unusual.
+
+19
+00:01:26,400 --> 00:01:26,840
+Bizarre.
+
+20
+00:01:29,159 --> 00:01:33,760
+Strange or scary, causing people to feel nervous and afraid.
+
+21
+00:01:36,560 --> 00:01:37,319
+Creepy.
+
+22
+00:01:38,959 --> 00:01:41,799
+A dead person who drinks the blood of living people.
+
+23
+00:01:44,700 --> 00:01:45,540
+Vampire.
+
+24
+00:01:47,760 --> 00:01:49,879
+Phrase used to introduce a piece of gossip.
+
+25
+00:01:52,900 --> 00:01:53,780
+Have you heard?
+
+26
+00:01:55,579 --> 00:01:59,879
+Phrase used to introduce an interesting or surprising piece of information.
+
+27
+00:02:02,439 --> 00:02:03,739
+Guess what?
+
+28
+00:02:05,159 --> 00:02:06,400
+Let's try that faster.
+
+29
+00:02:07,400 --> 00:02:11,780
+A dead person who drinks the blood of living people.
+
+30
+00:02:13,879 --> 00:02:14,639
+Vampire.
+
+31
+00:02:16,099 --> 00:02:18,800
+Phrase used to introduce a piece of news.
+
+32
+00:02:21,099 --> 00:02:22,060
+You'll never guess.
+
+33
+00:02:23,879 --> 00:02:25,340
+Tell me about it.
+
+34
+00:02:26,939 --> 00:02:28,060
+Fill me in.
+
+35
+00:02:29,360 --> 00:02:31,780
+Phrase used to introduce a piece of gossip.
+
+36
+00:02:33,840 --> 00:02:35,159
+Have you heard?
+
+37
+00:02:36,179 --> 00:02:41,259
+Strange or scary, causing people to feel nervous and afraid.
+
+38
+00:02:43,740 --> 00:02:44,699
+Creepy.
+
+39
+00:02:45,759 --> 00:02:49,639
+Phrase used to introduce an interesting or surprising piece of information.
+
+40
+00:02:52,120 --> 00:02:52,979
+Guess what?
+
+41
+00:02:54,120 --> 00:02:56,240
+Strange, unusual.
+
+42
+00:02:58,860 --> 00:02:59,319
+Weird.
+
+43
+00:03:00,679 --> 00:03:04,939
+Make me feel uncomfortable and a bit scared.
+
+44
+00:03:06,780 --> 00:03:08,460
+Creep me out.
+
+45
+00:03:09,840 --> 00:03:12,300
+Cause someone to feel a lot of fear.
+
+46
+00:03:15,000 --> 00:03:16,879
+Scare the heck out of me.
+
+47
+00:03:18,319 --> 00:03:22,680
+Make or force someone to leave when they don't want to.
+
+48
+00:03:24,560 --> 00:03:25,479
+Kick out.
+
+49
+00:03:25,479 --> 00:03:31,099
+A sense or feeling that something bad is going to happen.
+
+50
+00:03:33,379 --> 00:03:34,280
+A bad feeling.
+
+51
+00:03:35,740 --> 00:03:37,400
+Strange or unusual.
+
+52
+00:03:39,699 --> 00:03:40,379
+Bizarre.
+
+53
+00:03:42,300 --> 00:03:45,280
+Phrase used to introduce a piece of information.
+
+54
+00:03:47,300 --> 00:03:48,780
+I don't know if you heard.
+
+55
+00:03:50,439 --> 00:03:53,080
+Now say the word and hear it in a sentence.
+
+56
+00:03:54,759 --> 00:03:55,439
+Weird.
+
+57
+00:04:01,580 --> 00:04:05,099
+Last night I kept hearing a really weird sound.
+
+58
+00:04:05,439 --> 00:04:06,800
+I don't know what it was.
+
+59
+00:04:08,580 --> 00:04:09,020
+Weird.
+
+60
+00:04:13,360 --> 00:04:16,220
+Our teacher seems a bit weird, don't you think?
+
+61
+00:04:18,279 --> 00:04:18,819
+Weird.
+
+62
+00:04:25,360 --> 00:04:27,839
+The weirdest thing happened to me yesterday.
+
+63
+00:04:28,480 --> 00:04:31,079
+A pack of monkeys stole my car keys.
+
+64
+00:04:32,879 --> 00:04:33,879
+A bad feeling.
+
+65
+00:04:39,920 --> 00:04:43,000
+I've got a bad feeling about Kelly's new boyfriend.
+
+66
+00:04:43,579 --> 00:04:45,040
+I don't think he's a good guy.
+
+67
+00:04:46,420 --> 00:04:47,480
+A bad feeling.
+
+68
+00:04:53,840 --> 00:04:56,860
+I have a bad feeling about this sales strategy.
+
+69
+00:04:57,300 --> 00:04:58,620
+I think it's going to fail.
+
+70
+00:05:00,139 --> 00:05:01,079
+A bad feeling.
+
+71
+00:05:06,840 --> 00:05:09,300
+I've got a bad feeling about this trip.
+
+72
+00:05:09,939 --> 00:05:11,319
+I think we should stay home.
+
+73
+00:05:12,899 --> 00:05:13,579
+Kick out.
+
+74
+00:05:17,500 --> 00:05:22,019
+If you don't be quiet, I'm going to kick you out of this meeting.
+
+75
+00:05:23,480 --> 00:05:24,199
+Kick out.
+
+76
+00:05:29,939 --> 00:05:34,160
+We got kicked out of the restaurant at midnight because they were closing.
+
+77
+00:05:36,000 --> 00:05:37,120
+Kick out.
+
+78
+00:05:42,160 --> 00:05:43,060
+That's it.
+
+79
+00:05:43,060 --> 00:05:44,740
+I'm kicking you out of class.
+
+80
+00:05:45,360 --> 00:05:46,360
+Go stand in the hall.
+
+81
+00:05:47,980 --> 00:05:49,500
+Creep me out.
+
+82
+00:05:54,139 --> 00:05:56,160
+This old house is so scary.
+
+83
+00:05:56,779 --> 00:05:58,699
+It's really creeping me out.
+
+84
+00:05:59,839 --> 00:06:01,360
+Creep me out.
+
+85
+00:06:06,360 --> 00:06:08,839
+I watched The Exorcist last night.
+
+86
+00:06:09,279 --> 00:06:11,519
+That movie really creeps me out.
+
+87
+00:06:12,279 --> 00:06:13,980
+Creep me out.
+
+88
+00:06:18,300 --> 00:06:22,639
+The last time I walked home alone at night, I really got creeped out.
+
+89
+00:06:27,939 --> 00:06:30,459
+I almost got in a car accident yesterday.
+
+90
+00:06:31,100 --> 00:06:32,600
+That scared the heck out of me.
+
+91
+00:06:38,360 --> 00:06:40,399
+Don't wear that vampire mask.
+
+92
+00:06:40,860 --> 00:06:42,519
+You're scaring the heck out of the baby.
+
+93
+00:06:47,800 --> 00:06:49,579
+I'm terrified of clowns.
+
+94
+00:06:49,740 --> 00:06:51,300
+They scare the heck out of me.
+
+95
+00:06:57,000 --> 00:07:00,980
+I don't know if you've heard, but Susan and John are breaking up.
+
+96
+00:07:07,100 --> 00:07:11,319
+I don't know if you've heard, but the new marketing manager is single.
+
+97
+00:07:17,259 --> 00:07:21,360
+I don't know if you've heard, but Maurice quit his job yesterday.
+
+98
+00:07:23,240 --> 00:07:24,079
+Fill me in.
+
+99
+00:07:26,759 --> 00:07:27,600
+Fill me in.
+
+100
+00:07:29,879 --> 00:07:35,120
+I can't go to today's meeting, but can you fill me in on the important details?
+
+101
+00:07:37,240 --> 00:07:39,180
+Fill me in.
+
+102
+00:07:42,160 --> 00:07:43,379
+How was your date?
+
+103
+00:07:43,600 --> 00:07:45,399
+You have to fill me in.
+
+104
+00:07:46,459 --> 00:07:48,040
+Fill me in.
+
+105
+00:07:53,160 --> 00:07:57,720
+Sarah missed her class yesterday, but I filled her in on the homework assignment.
+
+106
+00:08:03,240 --> 00:08:04,860
+You'll never guess what I heard.
+
+107
+00:08:05,420 --> 00:08:07,360
+Peter and Anna are getting married.
+
+108
+00:08:13,639 --> 00:08:15,879
+You'll never guess who I saw yesterday.
+
+109
+00:08:16,459 --> 00:08:18,480
+Bill, my boyfriend from high school.
+
+110
+00:08:24,040 --> 00:08:26,360
+You'll never guess what Sandra told me.
+
+111
+00:08:26,740 --> 00:08:28,240
+She's moving to Alaska.
+

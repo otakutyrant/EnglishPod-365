@@ -1,0 +1,416 @@
+1
+00:00:00,000 --> 00:00:07,440
+The EnglishPod Audio Review Listen to the meaning, then say the vocabulary word.
+
+2
+00:00:08,740 --> 00:00:09,720
+Very dirty.
+
+3
+00:00:10,460 --> 00:00:11,000
+Disordered.
+
+4
+00:00:13,839 --> 00:00:14,980
+Such a mess.
+
+5
+00:00:17,300 --> 00:00:19,160
+Put things in place.
+
+6
+00:00:19,719 --> 00:00:20,339
+Organize.
+
+7
+00:00:23,160 --> 00:00:24,059
+Tidy up.
+
+8
+00:00:26,359 --> 00:00:27,239
+Perfectly clean.
+
+9
+00:00:30,439 --> 00:00:31,239
+Spotless.
+
+10
+00:00:33,600 --> 00:00:35,439
+Busy doing something at the moment.
+
+11
+00:00:38,700 --> 00:00:40,159
+In the middle of something.
+
+12
+00:00:42,079 --> 00:00:43,520
+Common house tasks.
+
+13
+00:00:46,780 --> 00:00:47,200
+Chores.
+
+14
+00:00:49,539 --> 00:00:51,320
+Food that you buy at a store.
+
+15
+00:00:54,320 --> 00:00:55,119
+Groceries.
+
+16
+00:00:56,960 --> 00:01:00,299
+Careful, thorough house cleaning usually done in the spring.
+
+17
+00:01:04,420 --> 00:01:05,319
+Perfectly clean.
+
+18
+00:01:05,819 --> 00:01:07,680
+Having no dirt at all.
+
+19
+00:01:09,959 --> 00:01:10,519
+Immaculate.
+
+20
+00:01:12,480 --> 00:01:14,200
+Wash the dirty clothes.
+
+21
+00:01:16,519 --> 00:01:17,719
+Do the laundry.
+
+22
+00:01:19,939 --> 00:01:23,680
+Soap used to wash plates, knives, forks, bowls, etc.
+
+23
+00:01:26,099 --> 00:01:28,480
+Dish detergent.
+
+24
+00:01:31,359 --> 00:01:32,000
+Garbage.
+
+25
+00:01:32,560 --> 00:01:33,439
+American English.
+
+26
+00:01:36,099 --> 00:01:36,959
+Trash.
+
+27
+00:01:39,099 --> 00:01:39,920
+Garbage.
+
+28
+00:01:40,620 --> 00:01:41,359
+British English.
+
+29
+00:01:44,219 --> 00:01:44,780
+Rubbish.
+
+30
+00:01:46,780 --> 00:01:47,879
+Let's try that faster.
+
+31
+00:01:50,000 --> 00:01:51,180
+Perfectly clean.
+
+32
+00:01:53,700 --> 00:01:54,400
+Spotless.
+
+33
+00:01:55,739 --> 00:01:59,400
+Careful, thorough house cleaning usually done in the spring.
+
+34
+00:02:02,239 --> 00:02:03,480
+Put things in place.
+
+35
+00:02:04,159 --> 00:02:05,140
+Organize.
+
+36
+00:02:07,180 --> 00:02:08,060
+Tidy up.
+
+37
+00:02:09,460 --> 00:02:09,979
+Garbage.
+
+38
+00:02:10,719 --> 00:02:11,379
+British English.
+
+39
+00:02:13,580 --> 00:02:14,379
+Rubbish.
+
+40
+00:02:16,180 --> 00:02:17,580
+Common house tasks.
+
+41
+00:02:20,180 --> 00:02:20,719
+Chores.
+
+42
+00:02:22,420 --> 00:02:26,439
+Soap used to wash plates, knives, forks, bowls, etc.
+
+43
+00:02:29,379 --> 00:02:30,060
+Dish detergent.
+
+44
+00:02:32,140 --> 00:02:33,219
+Perfectly clean.
+
+45
+00:02:33,680 --> 00:02:35,199
+Having no dirt at all.
+
+46
+00:02:37,180 --> 00:02:37,840
+Immaculate.
+
+47
+00:02:40,340 --> 00:02:41,099
+Garbage.
+
+48
+00:02:41,740 --> 00:02:42,500
+American English.
+
+49
+00:02:44,760 --> 00:02:45,520
+Trash.
+
+50
+00:02:47,280 --> 00:02:48,780
+Wash the dirty clothes.
+
+51
+00:02:48,780 --> 00:02:51,879
+Do the laundry.
+
+52
+00:02:53,500 --> 00:02:54,219
+Very dirty.
+
+53
+00:02:54,939 --> 00:02:55,439
+Disordered.
+
+54
+00:02:57,879 --> 00:02:58,860
+Such a mess.
+
+55
+00:03:00,479 --> 00:03:02,319
+Food that you buy at a store.
+
+56
+00:03:04,819 --> 00:03:05,539
+Groceries.
+
+57
+00:03:07,099 --> 00:03:08,919
+Busy doing something at the moment.
+
+58
+00:03:11,699 --> 00:03:13,120
+In the middle of something.
+
+59
+00:03:14,560 --> 00:03:17,060
+Now say the word and hear it in a sentence.
+
+60
+00:03:18,340 --> 00:03:19,599
+Such a mess.
+
+61
+00:03:23,719 --> 00:03:25,500
+Your room is such a mess.
+
+62
+00:03:25,800 --> 00:03:27,159
+You need to clean it.
+
+63
+00:03:28,060 --> 00:03:29,080
+Such a mess.
+
+64
+00:03:33,819 --> 00:03:35,439
+The garage is such a mess.
+
+65
+00:03:35,659 --> 00:03:37,360
+I can't find anything in here.
+
+66
+00:03:38,620 --> 00:03:39,659
+Such a mess.
+
+67
+00:03:43,640 --> 00:03:46,599
+When you cook, you always make such a mess.
+
+68
+00:03:47,939 --> 00:03:48,900
+Tidy up.
+
+69
+00:03:54,680 --> 00:03:59,340
+I want to tidy up my closet today because my clothes are all over the floor.
+
+70
+00:04:00,979 --> 00:04:01,699
+Tidy up.
+
+71
+00:04:06,199 --> 00:04:09,080
+Since I cooked dinner tonight, you can tidy up the kitchen.
+
+72
+00:04:10,580 --> 00:04:11,400
+Tidy up.
+
+73
+00:04:15,720 --> 00:04:20,800
+If you want to go outside and play, you need to tidy up your room.
+
+74
+00:04:22,480 --> 00:04:23,639
+Tidy up.
+
+75
+00:04:28,420 --> 00:04:32,540
+Every morning, I tidy up my room before leaving for work.
+
+76
+00:04:34,460 --> 00:04:35,100
+Spotless.
+
+77
+00:04:40,699 --> 00:04:41,379
+I spend a lot of time in the kitchen.
+
+78
+00:04:41,379 --> 00:04:45,199
+I spent all morning cleaning my car, so now it's spotless.
+
+79
+00:04:47,220 --> 00:04:47,819
+Spotless.
+
+80
+00:04:52,660 --> 00:04:54,620
+You did a great job cleaning the kitchen.
+
+81
+00:04:55,100 --> 00:04:56,019
+It's spotless.
+
+82
+00:04:57,819 --> 00:04:58,420
+Spotless.
+
+83
+00:05:03,379 --> 00:05:07,620
+We need to make sure that the house is spotless before the guests arrive.
+
+84
+00:05:09,079 --> 00:05:10,740
+In the middle of something.
+
+85
+00:05:16,459 --> 00:05:20,939
+I'm in the middle of something right now, so I'll call you back in 10 minutes.
+
+86
+00:05:22,459 --> 00:05:23,860
+In the middle of something.
+
+87
+00:05:28,839 --> 00:05:30,439
+I can't go to lunch now.
+
+88
+00:05:30,600 --> 00:05:32,680
+I'm in the middle of something really important.
+
+89
+00:05:34,040 --> 00:05:35,699
+In the middle of something.
+
+90
+00:05:40,859 --> 00:05:44,720
+I hate it when people interrupt me when I'm in the middle of something.
+
+91
+00:05:46,459 --> 00:05:46,899
+Chores.
+
+92
+00:05:52,300 --> 00:05:56,040
+When I was younger, I used to help my mother with the daily chores.
+
+93
+00:05:57,879 --> 00:05:58,360
+Chores.
+
+94
+00:06:03,759 --> 00:06:07,600
+I wish I could go with you guys, but I have to finish my chores.
+
+95
+00:06:09,079 --> 00:06:09,839
+Chores.
+
+96
+00:06:15,060 --> 00:06:19,000
+I hate doing chores, especially washing the dishes.
+
+97
+00:06:20,680 --> 00:06:21,379
+Groceries.
+
+98
+00:06:25,480 --> 00:06:27,980
+We need to go buy some groceries for this week.
+
+99
+00:06:29,699 --> 00:06:30,459
+Groceries.
+
+100
+00:06:36,180 --> 00:06:36,660
+Groceries.
+
+101
+00:06:36,660 --> 00:06:38,939
+I forgot the grocery list at home, but don't worry.
+
+102
+00:06:39,459 --> 00:06:41,540
+I remember everything that was on it.
+
+103
+00:06:43,160 --> 00:06:43,639
+Groceries.
+
+104
+00:06:48,000 --> 00:06:51,560
+Don't forget to buy some milk from the grocery store on your way home.
+

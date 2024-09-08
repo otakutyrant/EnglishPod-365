@@ -1,0 +1,84 @@
+1
+00:00:01,759 --> 00:00:11,160
+EnglishPod.com Excuse me, is this where I register?
+
+2
+00:00:11,460 --> 00:00:13,679
+I'd like to sign up for my courses for next semester.
+
+3
+00:00:14,500 --> 00:00:15,179
+Yes, of course.
+
+4
+00:00:15,480 --> 00:00:17,399
+I need your student ID, please.
+
+5
+00:00:18,039 --> 00:00:18,699
+Here you are.
+
+6
+00:00:19,160 --> 00:00:20,480
+Okay, Susan.
+
+7
+00:00:21,620 --> 00:00:25,300
+It says here that you are a business major and that you're in your second year.
+
+8
+00:00:25,320 --> 00:00:26,640
+Is this information correct?
+
+9
+00:00:26,640 --> 00:00:31,839
+Yes, I do want to take some additional credits this year to get a minor in psychology.
+
+10
+00:00:32,439 --> 00:00:33,299
+Sure, that's not a problem.
+
+11
+00:00:33,719 --> 00:00:36,100
+Do you have a list of courses that you want to take this semester?
+
+12
+00:00:36,840 --> 00:00:38,000
+Yeah, here's my list.
+
+13
+00:00:38,780 --> 00:00:41,920
+I'm not sure if the class schedule will allow me to take all of them, though.
+
+14
+00:00:42,299 --> 00:00:43,159
+Yeah, that's perfect.
+
+15
+00:00:43,479 --> 00:00:45,240
+What about the subjects for your minor?
+
+16
+00:00:45,600 --> 00:00:47,100
+Oh yeah, I almost forgot.
+
+17
+00:00:47,799 --> 00:00:52,579
+I need to take fundamental linguistics, consumer psychology, and neuroanatomy.
+
+18
+00:00:53,020 --> 00:00:54,759
+Wow, you're going to be busy this semester.
+
+19
+00:00:58,700 --> 00:00:59,780
+Okay, here you go.
+
+20
+00:01:00,380 --> 00:01:01,159
+You're registered now.
+
+21
+00:01:01,359 --> 00:01:03,979
+You have to make your first tuition payment before classes start.
+

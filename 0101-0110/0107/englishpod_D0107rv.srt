@@ -1,0 +1,504 @@
+1
+00:00:00,000 --> 00:00:07,379
+The EnglishPod Audio Review Listen to the meaning, then say the vocabulary word.
+
+2
+00:00:08,699 --> 00:00:10,300
+A bad second taste.
+
+3
+00:00:13,019 --> 00:00:14,240
+A bad aftertaste.
+
+4
+00:00:16,980 --> 00:00:20,379
+A strong unpleasant taste that is opposite of sweet.
+
+5
+00:00:22,699 --> 00:00:23,359
+Bitter.
+
+6
+00:00:23,359 --> 00:00:27,679
+A strong unpleasant smell.
+
+7
+00:00:29,719 --> 00:00:30,460
+Rank.
+
+8
+00:00:32,659 --> 00:00:34,759
+A rotten taste or smell.
+
+9
+00:00:37,359 --> 00:00:37,899
+Rancid.
+
+10
+00:00:40,000 --> 00:00:42,979
+Not appealing, not attractive or tasty.
+
+11
+00:00:45,479 --> 00:00:46,020
+Unappealing.
+
+12
+00:00:48,159 --> 00:00:50,640
+Little dish people have before meal.
+
+13
+00:00:53,379 --> 00:00:54,219
+Appetizer.
+
+14
+00:00:56,219 --> 00:00:58,899
+Place of business like a restaurant or hotel.
+
+15
+00:01:01,079 --> 00:01:01,920
+Establishment.
+
+16
+00:01:04,200 --> 00:01:06,420
+Work done by someone to serve customers.
+
+17
+00:01:09,140 --> 00:01:09,739
+Service.
+
+18
+00:01:12,079 --> 00:01:14,420
+The list containing your choices of dishes.
+
+19
+00:01:16,900 --> 00:01:17,319
+Order.
+
+20
+00:01:18,180 --> 00:01:23,140
+A food made from the livers of geese.
+
+21
+00:01:24,760 --> 00:01:25,739
+Foie gras.
+
+22
+00:01:27,379 --> 00:01:28,920
+More liquid than expected.
+
+23
+00:01:31,519 --> 00:01:32,219
+Runny.
+
+24
+00:01:34,079 --> 00:01:34,780
+Too salty.
+
+25
+00:01:37,519 --> 00:01:38,700
+Over-seasoned.
+
+26
+00:01:40,459 --> 00:01:41,459
+Cannot be eaten.
+
+27
+00:01:44,040 --> 00:01:44,560
+Inedible.
+
+28
+00:01:46,459 --> 00:01:48,019
+Difficult to chew.
+
+29
+00:01:50,400 --> 00:01:51,219
+Rubbery.
+
+30
+00:01:53,519 --> 00:01:55,159
+Be cooked over time.
+
+31
+00:01:57,680 --> 00:01:58,359
+Overcooked.
+
+32
+00:02:00,400 --> 00:02:02,980
+The amount of food that is served to a person.
+
+33
+00:02:05,379 --> 00:02:06,219
+Portion size.
+
+34
+00:02:08,240 --> 00:02:09,699
+A small thin piece.
+
+35
+00:02:11,960 --> 00:02:12,759
+Sliver.
+
+36
+00:02:14,760 --> 00:02:18,170
+Get very upset about something small.
+
+37
+00:02:20,500 --> 00:02:22,379
+Make a big deal.
+
+38
+00:02:24,199 --> 00:02:26,360
+Be given to customers for free.
+
+39
+00:02:28,939 --> 00:02:29,159
+Comp.
+
+40
+00:02:30,939 --> 00:02:32,340
+To spend money.
+
+41
+00:02:34,699 --> 00:02:35,300
+Shell out.
+
+42
+00:02:37,139 --> 00:02:38,939
+Money you work hard for.
+
+43
+00:02:40,900 --> 00:02:42,300
+Hard earned.
+
+44
+00:02:44,360 --> 00:02:45,340
+Let's try that faster.
+
+45
+00:02:47,259 --> 00:02:49,680
+Work done by someone to serve customers.
+
+46
+00:02:52,060 --> 00:02:52,479
+Service.
+
+47
+00:02:53,919 --> 00:02:56,719
+Place of business like a restaurant or hotel.
+
+48
+00:02:58,919 --> 00:02:59,419
+Establishment.
+
+49
+00:03:01,060 --> 00:03:02,580
+More liquid than expected.
+
+50
+00:03:04,740 --> 00:03:05,139
+Runny.
+
+51
+00:03:06,140 --> 00:03:09,300
+The amount of food that is served to a person.
+
+52
+00:03:10,319 --> 00:03:11,800
+Portion size.
+
+53
+00:03:13,020 --> 00:03:15,120
+A strong unpleasant smell.
+
+54
+00:03:17,099 --> 00:03:17,639
+Rank.
+
+55
+00:03:19,379 --> 00:03:20,699
+Difficult to chew.
+
+56
+00:03:22,960 --> 00:03:23,319
+Rubbery.
+
+57
+00:03:25,340 --> 00:03:26,060
+Too salty.
+
+58
+00:03:28,199 --> 00:03:29,240
+Over-seasoned.
+
+59
+00:03:30,240 --> 00:03:33,699
+Not appealing, not attractive or tasty.
+
+60
+00:03:35,560 --> 00:03:36,180
+Unappealing.
+
+61
+00:03:37,960 --> 00:03:39,819
+Be given to customers for free.
+
+62
+00:03:41,939 --> 00:03:42,120
+Comp.
+
+63
+00:03:43,800 --> 00:03:46,680
+Get very upset about something small.
+
+64
+00:03:48,680 --> 00:03:50,340
+Make a big deal.
+
+65
+00:03:51,680 --> 00:03:54,819
+A strong unpleasant taste that is opposite of sweet.
+
+66
+00:03:56,939 --> 00:03:57,240
+Bitter.
+
+67
+00:03:58,240 --> 00:04:00,400
+A bad second taste.
+
+68
+00:04:02,319 --> 00:04:03,800
+A bad aftertaste.
+
+69
+00:04:05,240 --> 00:04:07,800
+A food made from the livers of geese.
+
+70
+00:04:10,020 --> 00:04:10,500
+Foie gras.
+
+71
+00:04:11,919 --> 00:04:14,780
+The list containing your choices of dishes.
+
+72
+00:04:16,699 --> 00:04:17,160
+Order.
+
+73
+00:04:18,860 --> 00:04:20,620
+Be cooked over time.
+
+74
+00:04:22,459 --> 00:04:23,180
+Overcooked.
+
+75
+00:04:23,180 --> 00:04:26,019
+Cannot be eaten.
+
+76
+00:04:27,920 --> 00:04:28,480
+Inedible.
+
+77
+00:04:29,959 --> 00:04:30,959
+To spend money.
+
+78
+00:04:32,779 --> 00:04:33,420
+Shell out.
+
+79
+00:04:34,920 --> 00:04:36,680
+Money you work hard for.
+
+80
+00:04:38,519 --> 00:04:39,279
+Hard earned.
+
+81
+00:04:40,920 --> 00:04:42,740
+A rotten taste or smell.
+
+82
+00:04:45,000 --> 00:04:45,579
+Rancid.
+
+83
+00:04:47,120 --> 00:04:48,519
+A small thin piece.
+
+84
+00:04:50,480 --> 00:04:51,100
+Sliver.
+
+85
+00:04:52,660 --> 00:04:55,759
+Little dish people have before meal.
+
+86
+00:04:57,540 --> 00:04:58,300
+Appetizer.
+
+87
+00:05:00,180 --> 00:05:02,360
+Now say the word and hear it in a sentence.
+
+88
+00:05:04,180 --> 00:05:04,680
+Inedible.
+
+89
+00:05:09,640 --> 00:05:11,860
+This fish tastes terrible.
+
+90
+00:05:12,240 --> 00:05:13,519
+It's completely inedible.
+
+91
+00:05:15,600 --> 00:05:16,160
+Inedible.
+
+92
+00:05:22,279 --> 00:05:27,160
+If you leave meat out of the refrigerator for too long, it will be inedible.
+
+93
+00:05:29,220 --> 00:05:29,819
+Inedible.
+
+94
+00:05:35,720 --> 00:05:37,439
+Are you sure you can eat that?
+
+95
+00:05:37,939 --> 00:05:40,620
+Aren't the flower decorations on cakes inedible?
+
+96
+00:05:42,939 --> 00:05:43,540
+Rubbery.
+
+97
+00:05:45,300 --> 00:05:45,980
+Rubbery.
+
+98
+00:05:50,100 --> 00:05:53,939
+This steak is so rubbery I can barely chew it.
+
+99
+00:05:55,800 --> 00:05:56,279
+Rubbery.
+
+100
+00:06:01,220 --> 00:06:04,480
+If the meat is so rubbery, why don't you send it back?
+
+101
+00:06:06,800 --> 00:06:07,220
+Rubbery.
+
+102
+00:06:13,960 --> 00:06:15,920
+The foie gras is so rubbery.
+
+103
+00:06:16,259 --> 00:06:19,899
+I bet it would bounce on the floor if I dropped it.
+
+104
+00:06:20,500 --> 00:06:21,019
+Sliver.
+
+105
+00:06:28,259 --> 00:06:30,139
+No, John's on a diet.
+
+106
+00:06:30,519 --> 00:06:33,180
+He'll just have a sliver of cake and no ice cream.
+
+107
+00:06:35,379 --> 00:06:35,899
+Sliver.
+
+108
+00:06:43,199 --> 00:06:46,060
+I'm really full, but it looks so delicious.
+
+109
+00:06:46,699 --> 00:06:48,000
+Can you just cut me a sliver?
+
+110
+00:06:50,600 --> 00:06:51,199
+Sliver.
+
+111
+00:06:58,019 --> 00:07:00,959
+You call this sliver of beef on my plate a meal?
+
+112
+00:07:01,379 --> 00:07:03,120
+There's almost nothing here.
+
+113
+00:07:05,139 --> 00:07:05,879
+Hard earned.
+
+114
+00:07:06,639 --> 00:07:07,360
+Hard earned.
+
+115
+00:07:13,060 --> 00:07:18,040
+Doesn't it feel good when you use your hard earned bucks to buy something you've always wanted?
+
+116
+00:07:20,259 --> 00:07:21,300
+Hard earned.
+
+117
+00:07:27,759 --> 00:07:32,259
+I refuse to spend my hard earned bucks on someone who won't appreciate it.
+
+118
+00:07:34,040 --> 00:07:35,040
+Hard earned.
+
+119
+00:07:43,180 --> 00:07:44,839
+Richard is such a great guy.
+
+120
+00:07:45,420 --> 00:07:48,779
+Every year he would donate his hard earned bucks to a different charity.
+
+121
+00:07:57,579 --> 00:08:00,600
+I can't believe I got a parking ticket yesterday.
+
+122
+00:08:01,220 --> 00:08:03,780
+Now I'm going to have to shell out $75 bucks.
+
+123
+00:08:14,100 --> 00:08:17,319
+It's me and my girlfriend's 5 year anniversary on Saturday.
+
+124
+00:08:17,879 --> 00:08:21,439
+So I'm going to shell out for a nice dinner and a pair of nice earrings.
+
+125
+00:08:29,480 --> 00:08:31,060
+Tommy loved to party.
+
+126
+00:08:31,500 --> 00:08:34,740
+Last night he shelled out $300 buying people drinks.
+

@@ -1,0 +1,104 @@
+1
+00:00:01,719 --> 00:00:11,919
+EnglishPod.com Hello, Samantha speaking.
+
+2
+00:00:12,500 --> 00:00:13,199
+Hi, Samantha.
+
+3
+00:00:13,460 --> 00:00:14,519
+This is Angela calling.
+
+4
+00:00:14,900 --> 00:00:15,560
+Oh, hi, Angela.
+
+5
+00:00:15,619 --> 00:00:16,059
+What's up?
+
+6
+00:00:16,500 --> 00:00:18,460
+I'm just calling about our meeting today.
+
+7
+00:00:19,140 --> 00:00:22,800
+I wonder, is it possible to reschedule our appointment in the afternoon?
+
+8
+00:00:23,260 --> 00:00:26,339
+I have a bit of an emergency that I need to take care of.
+
+9
+00:00:26,879 --> 00:00:27,539
+Let me see.
+
+10
+00:00:28,059 --> 00:00:29,219
+It shouldn't be too much of a problem.
+
+11
+00:00:29,219 --> 00:00:30,739
+I'm really sorry.
+
+12
+00:00:31,239 --> 00:00:33,600
+I hope it doesn't inconvenience you too much.
+
+13
+00:00:33,700 --> 00:00:36,179
+It's just this thing came up and...
+
+14
+00:00:36,179 --> 00:00:37,100
+Angela, you know what?
+
+15
+00:00:37,179 --> 00:00:38,520
+I can't make it to our meeting either.
+
+16
+00:00:38,979 --> 00:00:41,640
+Why don't we postpone it to tomorrow afternoon at the same time?
+
+17
+00:00:42,039 --> 00:00:42,579
+Sounds great.
+
+18
+00:00:42,859 --> 00:00:43,600
+See you tomorrow.
+
+19
+00:00:46,299 --> 00:00:46,780
+Angela?
+
+20
+00:00:47,439 --> 00:00:48,380
+Angela, look up.
+
+21
+00:00:48,659 --> 00:00:51,079
+See that lady over there who's trying on a red leather jacket?
+
+22
+00:00:51,460 --> 00:00:52,299
+Isn't that Samantha?
+
+23
+00:00:52,880 --> 00:00:53,140
+What?
+
+24
+00:00:53,859 --> 00:00:56,439
+No wonder she told me she couldn't make it to the meeting.
+
+25
+00:00:56,439 --> 00:00:57,320
+Oh, no.
+
+26
+00:00:57,460 --> 00:00:58,679
+I think she saw me.
+

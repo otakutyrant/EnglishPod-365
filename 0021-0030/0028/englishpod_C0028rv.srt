@@ -1,0 +1,420 @@
+1
+00:00:00,000 --> 00:00:07,540
+The EnglishPod Audio Review Listen to the meaning, then say the vocabulary word.
+
+2
+00:00:08,779 --> 00:00:12,480
+Relaxed and happy that something difficult has been stopped.
+
+3
+00:00:14,859 --> 00:00:22,120
+Relieved Do something good as a balance to a bad or hurtful action.
+
+4
+00:00:24,700 --> 00:00:25,679
+Make it up.
+
+5
+00:00:26,980 --> 00:00:28,399
+I will pay.
+
+6
+00:00:30,820 --> 00:00:31,559
+My treat.
+
+7
+00:00:33,840 --> 00:00:37,039
+Go somewhere in order to get someone or something.
+
+8
+00:00:39,479 --> 00:00:40,219
+Pick up.
+
+9
+00:00:42,320 --> 00:00:42,859
+Normal.
+
+10
+00:00:45,500 --> 00:00:46,020
+Ordinary.
+
+11
+00:00:48,100 --> 00:00:51,539
+Unplanned events that have a big impact on the future.
+
+12
+00:00:53,320 --> 00:00:54,719
+Twist of fate.
+
+13
+00:00:56,679 --> 00:00:59,079
+Hit something causing serious damage.
+
+14
+00:01:01,280 --> 00:01:01,759
+Crash.
+
+15
+00:01:03,719 --> 00:01:05,260
+Start being in love.
+
+16
+00:01:07,900 --> 00:01:09,079
+Fall in love.
+
+17
+00:01:12,159 --> 00:01:13,519
+Go on a date.
+
+18
+00:01:15,500 --> 00:01:18,099
+Invite or ask someone to go on a date.
+
+19
+00:01:18,099 --> 00:01:18,879
+Invite.
+
+20
+00:01:20,120 --> 00:01:21,480
+Ask you out.
+
+21
+00:01:23,260 --> 00:01:25,579
+Invite someone to go and do something.
+
+22
+00:01:27,819 --> 00:01:28,680
+Take you out.
+
+23
+00:01:30,299 --> 00:01:31,560
+Decline an invitation.
+
+24
+00:01:34,140 --> 00:01:34,799
+Turn down.
+
+25
+00:01:36,780 --> 00:01:39,859
+An expression to show excitement about something.
+
+26
+00:01:42,060 --> 00:01:42,980
+Look forward to.
+
+27
+00:01:44,339 --> 00:01:47,500
+Be in a relationship with someone.
+
+28
+00:01:49,019 --> 00:01:49,739
+See someone.
+
+29
+00:01:52,620 --> 00:01:53,540
+Flirt.
+
+30
+00:01:55,620 --> 00:01:56,659
+Let's try that faster.
+
+31
+00:01:58,599 --> 00:01:59,560
+I will pay.
+
+32
+00:02:01,400 --> 00:02:02,200
+My treat.
+
+33
+00:02:04,140 --> 00:02:04,859
+Normal.
+
+34
+00:02:07,099 --> 00:02:07,500
+Ordinary.
+
+35
+00:02:09,000 --> 00:02:11,419
+Hit something causing serious damage.
+
+36
+00:02:12,140 --> 00:02:12,860
+Crash.
+
+37
+00:02:16,060 --> 00:02:17,400
+Go on a date.
+
+38
+00:02:19,020 --> 00:02:20,080
+Decline an invitation.
+
+39
+00:02:21,960 --> 00:02:22,780
+Turn down.
+
+40
+00:02:24,419 --> 00:02:27,000
+Invite or ask someone to go on a date.
+
+41
+00:02:28,840 --> 00:02:29,819
+Ask you out.
+
+42
+00:02:31,180 --> 00:02:34,020
+An expression to show excitement about something.
+
+43
+00:02:35,759 --> 00:02:36,620
+Look forward to.
+
+44
+00:02:37,640 --> 00:02:40,919
+Go somewhere in order to get someone or something.
+
+45
+00:02:42,719 --> 00:02:43,840
+Pick up.
+
+46
+00:02:45,360 --> 00:02:48,919
+Relaxed and happy that something difficult has been stopped.
+
+47
+00:02:50,740 --> 00:02:51,259
+Relieved.
+
+48
+00:02:52,759 --> 00:02:54,259
+Start being in love.
+
+49
+00:02:56,539 --> 00:02:57,500
+Fall in love.
+
+50
+00:02:58,680 --> 00:03:00,860
+Invite someone to go and do something.
+
+51
+00:03:02,599 --> 00:03:03,319
+Take you out.
+
+52
+00:03:04,180 --> 00:03:08,800
+Do something good as a balance to a bad or hurtful action.
+
+53
+00:03:10,719 --> 00:03:11,759
+Make it up.
+
+54
+00:03:12,840 --> 00:03:16,219
+Unplanned events that have a big impact on the future.
+
+55
+00:03:18,039 --> 00:03:18,819
+Twist of fate.
+
+56
+00:03:21,259 --> 00:03:21,539
+Flirt.
+
+57
+00:03:23,360 --> 00:03:25,259
+Be in a relationship with someone.
+
+58
+00:03:26,740 --> 00:03:27,319
+See someone.
+
+59
+00:03:28,819 --> 00:03:31,439
+Now say the word and hear it in a sentence.
+
+60
+00:03:32,960 --> 00:03:33,599
+Relieved.
+
+61
+00:03:40,340 --> 00:03:44,960
+They were relieved to hear that the company would not be making any layoffs.
+
+62
+00:03:46,740 --> 00:03:47,199
+Relieved.
+
+63
+00:03:52,520 --> 00:03:54,599
+I'm so relieved to hear your voice.
+
+64
+00:03:54,719 --> 00:03:56,759
+I was worried something happened to you.
+
+65
+00:03:57,759 --> 00:03:58,300
+Relieved.
+
+66
+00:04:02,739 --> 00:04:05,439
+She was relieved to know that she didn't have cancer.
+
+67
+00:04:06,840 --> 00:04:07,780
+Make it up.
+
+68
+00:04:12,300 --> 00:04:13,840
+I'm sorry I forgot your birthday.
+
+69
+00:04:14,020 --> 00:04:15,199
+How can I make it up to you?
+
+70
+00:04:16,759 --> 00:04:17,639
+Make it up.
+
+71
+00:04:23,480 --> 00:04:25,660
+I feel terrible for calling your mother fat.
+
+72
+00:04:26,139 --> 00:04:28,839
+I want to make it up to her so I got her these flowers.
+
+73
+00:04:30,419 --> 00:04:31,480
+Make it up.
+
+74
+00:04:37,199 --> 00:04:39,319
+John forgot our anniversary again.
+
+75
+00:04:40,100 --> 00:04:41,959
+He's going to have to make it up to me.
+
+76
+00:04:43,300 --> 00:04:43,980
+Pick up.
+
+77
+00:04:49,759 --> 00:04:53,139
+The dinner is at seven tonight so we'll pick you up at six o'clock.
+
+78
+00:04:54,619 --> 00:04:55,579
+Pick up.
+
+79
+00:04:58,839 --> 00:05:00,920
+Are you going to pick her up on the way home?
+
+80
+00:05:02,379 --> 00:05:03,079
+Pick up.
+
+81
+00:05:09,639 --> 00:05:12,300
+Sorry but I cannot pick you up today.
+
+82
+00:05:12,680 --> 00:05:14,439
+I have to go somewhere else.
+
+83
+00:05:16,120 --> 00:05:16,560
+Ordinary.
+
+84
+00:05:16,560 --> 00:05:17,500
+Ordinary.
+
+85
+00:05:23,480 --> 00:05:26,300
+It was just an ordinary day at work.
+
+86
+00:05:26,680 --> 00:05:27,899
+Nothing special happened.
+
+87
+00:05:29,740 --> 00:05:30,199
+Ordinary.
+
+88
+00:05:35,459 --> 00:05:39,379
+We had the ordinary problems that you find when starting a new business.
+
+89
+00:05:40,959 --> 00:05:41,639
+Ordinary.
+
+90
+00:05:45,640 --> 00:05:48,019
+Ordinary people can't afford to buy Hummers.
+
+91
+00:05:49,620 --> 00:05:49,980
+Crash.
+
+92
+00:05:52,960 --> 00:05:53,740
+Watch out.
+
+93
+00:05:53,819 --> 00:05:55,000
+You're going to crash into that tree.
+
+94
+00:05:56,340 --> 00:05:56,860
+Crash.
+
+95
+00:06:03,660 --> 00:06:09,279
+On my way to work this morning I was looking at my phone and I crashed right into a telephone pole.
+
+96
+00:06:10,759 --> 00:06:11,279
+Crash.
+
+97
+00:06:11,279 --> 00:06:11,439
+Crash.
+
+98
+00:06:17,300 --> 00:06:20,839
+I saw a bush crashing into a car this morning.
+
+99
+00:06:21,540 --> 00:06:22,959
+Luckily no one was injured.
+
+100
+00:06:24,500 --> 00:06:25,500
+Fall in love.
+
+101
+00:06:31,800 --> 00:06:34,199
+This guy is such a gentleman.
+
+102
+00:06:34,579 --> 00:06:36,899
+I feel like I'm falling in love with him.
+
+103
+00:06:38,139 --> 00:06:39,519
+Fall in love.
+
+104
+00:06:43,459 --> 00:06:46,660
+After their first date she totally fell in love with him.
+
+105
+00:06:48,160 --> 00:06:49,199
+Fall in love.
+

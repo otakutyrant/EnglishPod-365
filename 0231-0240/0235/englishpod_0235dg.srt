@@ -1,0 +1,104 @@
+1
+00:00:01,980 --> 00:00:07,620
+EnglishPod.com Come in.
+
+2
+00:00:09,140 --> 00:00:09,580
+Mr.
+
+3
+00:00:09,660 --> 00:00:09,919
+Parsons?
+
+4
+00:00:10,380 --> 00:00:11,679
+Ah, you must be Rebecca.
+
+5
+00:00:11,939 --> 00:00:12,859
+Please do come in.
+
+6
+00:00:14,080 --> 00:00:16,219
+Thank you for making some time to see me, Mr.
+
+7
+00:00:16,320 --> 00:00:16,600
+Parsons.
+
+8
+00:00:16,920 --> 00:00:18,420
+It's a pleasure to meet you finally.
+
+9
+00:00:18,920 --> 00:00:20,399
+The pleasure's all mine, Rebecca.
+
+10
+00:00:20,739 --> 00:00:21,440
+Have a seat, please.
+
+11
+00:00:22,960 --> 00:00:25,719
+Now, would you like any refreshments, tea, or coffee?
+
+12
+00:00:26,059 --> 00:00:27,699
+A coffee would be lovely, thank you.
+
+13
+00:00:27,960 --> 00:00:28,859
+Black, no sugar.
+
+14
+00:00:28,859 --> 00:00:30,059
+No problem.
+
+15
+00:00:32,340 --> 00:00:34,600
+Sally, can we have two coffees, please?
+
+16
+00:00:35,060 --> 00:00:36,399
+One, no milk or sugar.
+
+17
+00:00:36,920 --> 00:00:37,840
+Certainly, Mr.
+
+18
+00:00:38,060 --> 00:00:38,159
+Parsons.
+
+19
+00:00:38,920 --> 00:00:42,679
+So, Rebecca, I understand you had a first interview with Ms.
+
+20
+00:00:42,899 --> 00:00:43,579
+Childs last week?
+
+21
+00:00:43,939 --> 00:00:44,780
+Yes, that's correct.
+
+22
+00:00:45,060 --> 00:00:47,399
+She filled me in on the details of the job on the telephone.
+
+23
+00:00:48,159 --> 00:00:48,500
+Great.
+
+24
+00:00:48,799 --> 00:00:52,960
+Well, I'm glad to say she recommended you for a second interview, and here we are.
+
+25
+00:00:53,500 --> 00:00:57,679
+Perhaps we can start by discussing your background and resume details a little.
+
+26
+00:00:57,679 --> 00:00:58,820
+Yes, of course.
+

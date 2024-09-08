@@ -1,0 +1,356 @@
+1
+00:00:00,000 --> 00:00:07,400
+The EnglishPod Audio Review Listen to the meaning, then say the vocabulary word.
+
+2
+00:00:08,699 --> 00:00:11,000
+An issue that must be discussed.
+
+3
+00:00:12,960 --> 00:00:14,220
+Order of business.
+
+4
+00:00:16,600 --> 00:00:19,780
+Flu originated from birds that carry virus.
+
+5
+00:00:21,719 --> 00:00:22,460
+Bird flu.
+
+6
+00:00:22,460 --> 00:00:28,339
+A plan that prepares for a situation where things can go wrong.
+
+7
+00:00:30,160 --> 00:00:31,440
+Contingency plan.
+
+8
+00:00:33,079 --> 00:00:34,320
+Extremely important.
+
+9
+00:00:36,439 --> 00:00:37,039
+Critical.
+
+10
+00:00:38,799 --> 00:00:44,600
+A situation where a disease is spread out very quickly and affects many people in many countries.
+
+11
+00:00:46,899 --> 00:00:47,679
+Pandemic.
+
+12
+00:00:47,679 --> 00:00:51,200
+Make a first version of something.
+
+13
+00:00:52,740 --> 00:00:53,240
+Draft.
+
+14
+00:00:54,780 --> 00:00:57,159
+Major influence or effect on something.
+
+15
+00:00:59,179 --> 00:00:59,659
+Impact.
+
+16
+00:01:01,039 --> 00:01:04,280
+A sudden start of disease affecting many people.
+
+17
+00:01:06,260 --> 00:01:06,819
+Outbreak.
+
+18
+00:01:08,400 --> 00:01:10,540
+Lead and be responsible for.
+
+19
+00:01:12,459 --> 00:01:13,180
+Head up.
+
+20
+00:01:14,260 --> 00:01:18,659
+Predict what is going to happen based on available information.
+
+21
+00:01:20,460 --> 00:01:21,260
+Forecast.
+
+22
+00:01:22,459 --> 00:01:26,640
+Medical substance that protect people or animal against diseases.
+
+23
+00:01:28,680 --> 00:01:29,359
+Vaccine.
+
+24
+00:01:30,560 --> 00:01:31,620
+Let's try that faster.
+
+25
+00:01:33,680 --> 00:01:39,480
+A situation where a disease is spread out very quickly and affects many people in many countries.
+
+26
+00:01:40,740 --> 00:01:41,540
+Pandemic.
+
+27
+00:01:41,540 --> 00:01:46,319
+Predict what is going to happen based on available information.
+
+28
+00:01:47,319 --> 00:01:48,019
+Forecast.
+
+29
+00:01:49,000 --> 00:01:51,959
+Flu originated from birds that carry virus.
+
+30
+00:01:53,040 --> 00:01:53,620
+Bird flu.
+
+31
+00:01:54,560 --> 00:02:00,439
+A situation where a disease is spread out very quickly and affects many people in many countries.
+
+32
+00:02:01,700 --> 00:02:02,500
+Pandemic.
+
+33
+00:02:03,260 --> 00:02:06,260
+A sudden start of disease affecting many people.
+
+34
+00:02:07,579 --> 00:02:08,120
+Outbreak.
+
+35
+00:02:08,120 --> 00:02:11,439
+An issue that must be discussed.
+
+36
+00:02:12,379 --> 00:02:13,620
+Order of business.
+
+37
+00:02:14,580 --> 00:02:18,539
+Medical substance that protect people or animal against diseases.
+
+38
+00:02:19,659 --> 00:02:20,240
+Vaccine.
+
+39
+00:02:20,919 --> 00:02:24,120
+A sudden start of disease affecting many people.
+
+40
+00:02:25,199 --> 00:02:25,740
+Outbreak.
+
+41
+00:02:26,919 --> 00:02:29,860
+Flu originated from birds that carry virus.
+
+42
+00:02:30,960 --> 00:02:31,539
+Bird flu.
+
+43
+00:02:32,080 --> 00:02:35,280
+A sudden start of disease affecting many people.
+
+44
+00:02:36,580 --> 00:02:37,199
+Outbreak.
+
+45
+00:02:38,079 --> 00:02:40,460
+Lead and be responsible for.
+
+46
+00:02:41,400 --> 00:02:41,979
+Head up.
+
+47
+00:02:43,120 --> 00:02:46,659
+Predict what is going to happen based on available information.
+
+48
+00:02:47,800 --> 00:02:48,439
+Forecast.
+
+49
+00:02:49,219 --> 00:02:51,500
+Lead and be responsible for.
+
+50
+00:02:52,340 --> 00:02:53,120
+Head up.
+
+51
+00:02:54,120 --> 00:02:59,879
+A situation where a disease is spread out very quickly and affects many people in many countries.
+
+52
+00:03:01,180 --> 00:03:01,939
+Pandemic.
+
+53
+00:03:02,599 --> 00:03:06,960
+A plan that prepares for a situation where things can go wrong.
+
+54
+00:03:08,159 --> 00:03:09,300
+Contingency plan.
+
+55
+00:03:10,280 --> 00:03:11,800
+Make a first version of something.
+
+56
+00:03:13,000 --> 00:03:13,340
+Draft.
+
+57
+00:03:14,539 --> 00:03:17,460
+Flu originated from birds that carry virus.
+
+58
+00:03:18,520 --> 00:03:19,139
+Bird flu.
+
+59
+00:03:20,039 --> 00:03:22,180
+An issue that must be discussed.
+
+60
+00:03:23,280 --> 00:03:24,479
+Order of business.
+
+61
+00:03:25,259 --> 00:03:26,979
+Make a first version of something.
+
+62
+00:03:28,219 --> 00:03:28,500
+Draft.
+
+63
+00:03:29,349 --> 00:03:31,819
+An issue that must be discussed.
+
+64
+00:03:32,879 --> 00:03:34,000
+Order of business.
+
+65
+00:03:35,319 --> 00:03:37,680
+Now say the word and hear it in a sentence.
+
+66
+00:03:39,300 --> 00:03:39,759
+Critical.
+
+67
+00:03:45,120 --> 00:03:48,300
+It's absolutely critical that we increase our sales.
+
+68
+00:03:48,419 --> 00:03:50,340
+If not, the company will go bankrupt.
+
+69
+00:03:52,180 --> 00:03:52,659
+Impact.
+
+70
+00:03:57,440 --> 00:04:02,599
+The cost savings plans have a positive impact on our profits.
+
+71
+00:04:04,340 --> 00:04:04,740
+Draft.
+
+72
+00:04:09,300 --> 00:04:10,280
+I'm going to draft an email.
+
+73
+00:04:10,819 --> 00:04:12,039
+Can you read it when I'm done?
+
+74
+00:04:13,920 --> 00:04:15,120
+Contingency plan.
+
+75
+00:04:21,400 --> 00:04:27,560
+The purpose of the plan is to make sure that we have the best of this meeting is to develop a contingency plan in case the workers decide to strike.
+
+76
+00:04:29,279 --> 00:04:29,879
+Forecast.
+
+77
+00:04:35,220 --> 00:04:40,100
+John, please tell us about the forecast revenues and expenses for the upcoming month.
+
+78
+00:04:41,740 --> 00:04:42,240
+Outbreak.
+
+79
+00:04:45,480 --> 00:04:48,579
+This outbreak has already caused more than a thousand deaths.
+
+80
+00:04:50,439 --> 00:04:50,920
+Head up.
+
+81
+00:04:55,479 --> 00:04:59,900
+If I receive the promotion, I will be heading up the implementation of new policies.
+
+82
+00:05:01,879 --> 00:05:02,439
+Critical.
+
+83
+00:05:07,839 --> 00:05:10,959
+It's absolutely critical that we increase our sales.
+
+84
+00:05:11,100 --> 00:05:13,000
+If not, the company will go bankrupt.
+
+85
+00:05:14,839 --> 00:05:15,360
+Impact.
+
+86
+00:05:20,780 --> 00:05:25,259
+The cost savings plans have a positive impact on our profits.
+
+87
+00:05:26,980 --> 00:05:27,379
+Draft.
+
+88
+00:05:31,540 --> 00:05:32,939
+I'm going to draft an email.
+
+89
+00:05:33,519 --> 00:05:34,579
+Can you read it when I'm done?
+

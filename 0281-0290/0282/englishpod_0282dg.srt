@@ -1,0 +1,64 @@
+1
+00:00:02,179 --> 00:00:11,599
+EnglishPod.com Good morning everybody.
+
+2
+00:00:12,099 --> 00:00:13,099
+Welcome to Physics 101.
+
+3
+00:00:13,779 --> 00:00:16,760
+My name is Ed Brown and I will be a professor for the semester.
+
+4
+00:00:17,480 --> 00:00:24,980
+Since today is our first day, I wanted to give you an overview of what this course will look like, how you will be graded, and what we will cover this semester.
+
+5
+00:00:25,679 --> 00:00:29,879
+Will we be focusing more on theoretical physics or experimental physics, professor?
+
+6
+00:00:30,199 --> 00:00:35,380
+This is an introductory course, and my aim is to give you a broad overview of the field of physics.
+
+7
+00:00:35,780 --> 00:00:47,420
+The term physics encompasses many different areas of research and study, and I hope this course will provide you with a conceptual understanding of physics, which will prove useful whether or not you choose to further your study in the field.
+
+8
+00:00:47,979 --> 00:00:55,899
+We will begin the course by looking at the fundamental concepts of physics, then by the middle of the semester, we will begin exploring the more theoretical side of physics.
+
+9
+00:00:56,380 --> 00:01:03,479
+It is essential that you first have a firm grasp of the fundamentals, so that you can better understand the theoretical concepts when we get to them.
+
+10
+00:01:04,060 --> 00:01:08,000
+Will we learn about black holes, wormholes, and string theory?
+
+11
+00:01:08,280 --> 00:01:12,319
+We will learn about the general theory of relativity, including black holes.
+
+12
+00:01:12,879 --> 00:01:17,180
+We will also explore the developing theories in quantum mechanics, such as string theory.
+
+13
+00:01:17,560 --> 00:01:21,480
+We will discuss some hypothetical features of space-time, like wormholes.
+
+14
+00:01:21,980 --> 00:01:31,079
+We will also explore some of the more influential developments in the field of thermodynamics, electromagnetism, and nuclear physics, all of which have had significant impacts on modern life.
+
+15
+00:01:31,540 --> 00:01:37,040
+Now I'm going to have the TAs pass out the syllabus for this class, so you can see how this course will be graded.
+
+16
+00:01:37,760 --> 00:01:41,620
+Oh man, looks like this isn't going to be the easy A I thought it'd be.
+

@@ -1,0 +1,400 @@
+1
+00:00:00,000 --> 00:00:07,540
+The EnglishPod Audio Review Listen to the meaning, then say the vocabulary word.
+
+2
+00:00:08,839 --> 00:00:12,000
+A person you always do things together with.
+
+3
+00:00:13,480 --> 00:00:14,919
+Partner in crime.
+
+4
+00:00:17,780 --> 00:00:19,519
+The final time period.
+
+5
+00:00:21,899 --> 00:00:22,640
+Stretch.
+
+6
+00:00:24,920 --> 00:00:25,820
+Left to complete.
+
+7
+00:00:27,819 --> 00:00:29,000
+To go.
+
+8
+00:00:31,359 --> 00:00:33,960
+Hit or step on the brakes quickly and forcefully.
+
+9
+00:00:36,079 --> 00:00:37,719
+Jam on the brakes.
+
+10
+00:00:40,020 --> 00:00:44,359
+A car slides and makes a turn rapidly in an uncontrolled way.
+
+11
+00:00:46,899 --> 00:00:48,060
+Spin out.
+
+12
+00:00:50,640 --> 00:00:56,039
+The car used when accidents happen which leads other cars but is not a competitor in the race.
+
+13
+00:00:58,119 --> 00:00:58,979
+Pace car.
+
+14
+00:01:01,219 --> 00:01:05,120
+The sign used in an F1 race to show that there is an accident on some part of the track.
+
+15
+00:01:07,520 --> 00:01:08,439
+Yellow flag.
+
+16
+00:01:10,760 --> 00:01:13,359
+The group of people who clean up the track.
+
+17
+00:01:15,879 --> 00:01:16,560
+Clean up crew.
+
+18
+00:01:18,780 --> 00:01:24,420
+The sign used in an F1 race to show that the race is now back to the normal state.
+
+19
+00:01:26,260 --> 00:01:27,040
+Green flag.
+
+20
+00:01:29,280 --> 00:01:31,400
+To be the first in position.
+
+21
+00:01:33,560 --> 00:01:34,579
+Take the lead.
+
+22
+00:01:36,359 --> 00:01:39,540
+A flag with black and white squares showing someone has won.
+
+23
+00:01:42,060 --> 00:01:42,980
+Checkered flag.
+
+24
+00:01:45,040 --> 00:01:47,299
+Cause an engine to run very quickly.
+
+25
+00:01:49,480 --> 00:01:50,340
+Rev.
+
+26
+00:01:52,420 --> 00:01:55,570
+The status of winning a championship in a sport.
+
+27
+00:01:58,040 --> 00:01:58,900
+Title.
+
+28
+00:02:01,200 --> 00:02:04,219
+The quality of moving easily through the air.
+
+29
+00:02:06,680 --> 00:02:07,480
+Aerodynamic.
+
+30
+00:02:10,080 --> 00:02:12,780
+A person who loves cars and racing.
+
+31
+00:02:13,120 --> 00:02:13,919
+American English.
+
+32
+00:02:16,539 --> 00:02:17,319
+Motorhead.
+
+33
+00:02:19,979 --> 00:02:24,460
+The race that determines who will be able to participate in the main race.
+
+34
+00:02:26,900 --> 00:02:27,900
+Qualifying round.
+
+35
+00:02:30,580 --> 00:02:33,099
+The front position in a car race.
+
+36
+00:02:35,599 --> 00:02:36,400
+Pole position.
+
+37
+00:02:38,280 --> 00:02:39,340
+Let's try that faster.
+
+38
+00:02:41,140 --> 00:02:43,439
+Cause an engine to run very quickly.
+
+39
+00:02:45,659 --> 00:02:46,159
+Rev.
+
+40
+00:02:47,919 --> 00:02:51,919
+The sign used in an F1 race to show that there is an accident on some part of the track.
+
+41
+00:02:53,819 --> 00:02:54,699
+Yellow flag.
+
+42
+00:02:56,319 --> 00:02:57,340
+Left to complete.
+
+43
+00:02:59,300 --> 00:02:59,840
+To go.
+
+44
+00:03:02,020 --> 00:03:06,219
+The race that determines who will be able to participate in the main race.
+
+45
+00:03:08,219 --> 00:03:09,699
+Qualifying round.
+
+46
+00:03:11,580 --> 00:03:14,159
+A person who loves cars and racing.
+
+47
+00:03:14,840 --> 00:03:15,379
+American English.
+
+48
+00:03:18,439 --> 00:03:21,780
+To be the first in position.
+
+49
+00:03:23,460 --> 00:03:24,479
+Take the lead.
+
+50
+00:03:26,199 --> 00:03:28,719
+The status of winning a championship in a sport.
+
+51
+00:03:31,259 --> 00:03:31,659
+Title.
+
+52
+00:03:32,840 --> 00:03:36,960
+The quality of moving easily through the air.
+
+53
+00:03:38,580 --> 00:03:39,219
+Aerodynamic.
+
+54
+00:03:41,120 --> 00:03:43,659
+The group of people who clean up the track.
+
+55
+00:03:45,620 --> 00:03:46,360
+Clean up crew.
+
+56
+00:03:48,620 --> 00:03:53,680
+The car used when accidents happen which leads other cars but is not a competitor in the race.
+
+57
+00:03:55,860 --> 00:03:56,340
+Pace car.
+
+58
+00:03:57,939 --> 00:04:01,020
+A flag with black and white squares showing someone has won.
+
+59
+00:04:02,719 --> 00:04:03,960
+Checkered flag.
+
+60
+00:04:05,840 --> 00:04:08,300
+The front position in a car race.
+
+61
+00:04:10,139 --> 00:04:11,099
+Pole position.
+
+62
+00:04:12,780 --> 00:04:15,460
+Hit or step on the brakes quickly and forcefully.
+
+63
+00:04:17,360 --> 00:04:18,720
+Jam on the brakes.
+
+64
+00:04:20,420 --> 00:04:25,199
+The sign used in an F1 race to show that the race is now back to the normal state.
+
+65
+00:04:26,899 --> 00:04:27,920
+Green flag.
+
+66
+00:04:27,920 --> 00:04:34,420
+A car slides and makes a turn rapidly in an uncontrolled way.
+
+67
+00:04:36,439 --> 00:04:37,399
+Spin out.
+
+68
+00:04:39,180 --> 00:04:41,839
+A person you always do things together with.
+
+69
+00:04:43,740 --> 00:04:44,620
+Partnering crime.
+
+70
+00:04:46,259 --> 00:04:47,560
+The final time period.
+
+71
+00:04:49,480 --> 00:04:50,180
+Stretch.
+
+72
+00:04:52,300 --> 00:04:54,660
+Now say the word and hear it in a sentence.
+
+73
+00:04:56,079 --> 00:04:57,740
+Jam on the brakes.
+
+74
+00:05:04,680 --> 00:05:07,740
+You shouldn't jam on the brakes suddenly while driving.
+
+75
+00:05:08,199 --> 00:05:09,680
+You can lose control of your car.
+
+76
+00:05:11,519 --> 00:05:13,199
+Jam on the brakes.
+
+77
+00:05:19,740 --> 00:05:25,160
+He was really angry and jammed on the brakes and ordered me to get out of the car.
+
+78
+00:05:27,060 --> 00:05:28,560
+Jam on the brakes.
+
+79
+00:05:36,480 --> 00:05:38,939
+There was an accident right in front of me.
+
+80
+00:05:39,399 --> 00:05:42,720
+Luckily I jammed on the brakes and was able to avoid it.
+
+81
+00:05:49,400 --> 00:05:50,899
+That was a close one.
+
+82
+00:05:51,240 --> 00:05:53,120
+The teacher almost caught me cheating.
+
+83
+00:06:00,200 --> 00:06:01,439
+It's a close one.
+
+84
+00:06:01,639 --> 00:06:04,040
+We are tied and the game is almost over.
+
+85
+00:06:11,800 --> 00:06:15,500
+My girlfriend almost found the presents I hid under the bed.
+
+86
+00:06:16,040 --> 00:06:17,519
+It was a close one.
+
+87
+00:06:19,279 --> 00:06:19,819
+To go.
+
+88
+00:06:25,259 --> 00:06:28,740
+Only three days to go and then we are going on vacation.
+
+89
+00:06:30,800 --> 00:06:31,660
+To go.
+
+90
+00:06:36,660 --> 00:06:40,939
+I have another 15 minutes to go before I can go home.
+
+91
+00:06:42,580 --> 00:06:43,500
+To go.
+
+92
+00:06:50,040 --> 00:06:51,439
+I'm so excited.
+
+93
+00:06:51,879 --> 00:06:54,600
+Only one month to go until my new baby is born.
+
+94
+00:07:00,939 --> 00:07:04,740
+I managed to make my way through the crowd and go into the concert.
+
+95
+00:07:12,699 --> 00:07:17,939
+There was a lot of security at the concert but I managed to make my way onto the stage.
+
+96
+00:07:23,620 --> 00:07:26,699
+She was able to make her way onto the train.
+
+97
+00:07:32,720 --> 00:07:36,160
+You can't park here or your car will be towed by the police.
+
+98
+00:07:43,379 --> 00:07:47,920
+My car broke down last night so I had to call someone to come and tow my car.
+
+99
+00:07:55,260 --> 00:07:57,819
+I can't believe they towed my car away.
+
+100
+00:07:58,339 --> 00:08:00,420
+I was parked there for only a few minutes.
+

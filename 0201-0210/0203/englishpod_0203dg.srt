@@ -1,0 +1,120 @@
+1
+00:00:01,239 --> 00:00:07,860
+Hello, thanks for calling 123 Tech Help.
+
+2
+00:00:08,160 --> 00:00:08,560
+I'm Todd.
+
+3
+00:00:08,740 --> 00:00:09,500
+How can I help you?
+
+4
+00:00:10,019 --> 00:00:10,460
+Hello?
+
+5
+00:00:10,960 --> 00:00:12,900
+Can you help me on my computer?
+
+6
+00:00:13,519 --> 00:00:14,119
+Oh, man.
+
+7
+00:00:14,320 --> 00:00:15,140
+It's okay, sir.
+
+8
+00:00:15,480 --> 00:00:16,059
+Calm down.
+
+9
+00:00:16,219 --> 00:00:16,760
+What happened?
+
+10
+00:00:17,239 --> 00:00:18,920
+I turned on my laptop and it broke.
+
+11
+00:00:19,739 --> 00:00:21,140
+I mean, the monitor went black.
+
+12
+00:00:21,539 --> 00:00:22,300
+Okay, sir.
+
+13
+00:00:22,399 --> 00:00:24,199
+It sounds like you might have a virus.
+
+14
+00:00:25,059 --> 00:00:26,379
+I don't feel sick.
+
+15
+00:00:26,940 --> 00:00:27,559
+Let me check.
+
+16
+00:00:28,420 --> 00:00:28,699
+Nope.
+
+17
+00:00:28,699 --> 00:00:29,440
+No fever.
+
+18
+00:00:29,620 --> 00:00:30,120
+I'm fine.
+
+19
+00:00:30,500 --> 00:00:33,039
+No, your computer might have a virus.
+
+20
+00:00:33,420 --> 00:00:36,179
+I mean, it has a bad program on it.
+
+21
+00:00:36,359 --> 00:00:37,780
+Maybe that's why it crashed.
+
+22
+00:00:38,259 --> 00:00:44,439
+I recommend that you run an antivirus program in order to safely remove any unwanted spyware or Trojans.
+
+23
+00:00:45,200 --> 00:00:45,420
+Phew.
+
+24
+00:00:46,500 --> 00:00:47,100
+Wait a minute.
+
+25
+00:00:47,899 --> 00:00:48,200
+Crash.
+
+26
+00:00:49,000 --> 00:00:49,600
+Spyware.
+
+27
+00:00:50,259 --> 00:00:50,759
+Trojans.
+
+28
+00:00:51,359 --> 00:00:51,539
+What?
+
+29
+00:00:52,179 --> 00:00:52,399
+Where?
+
+30
+00:00:53,020 --> 00:00:53,340
+When?
+

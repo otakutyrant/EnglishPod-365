@@ -1,0 +1,512 @@
+1
+00:00:00,000 --> 00:00:07,540
+The EnglishPod Audio Review Listen to the meaning, then say the vocabulary word.
+
+2
+00:00:08,859 --> 00:00:09,259
+Relax.
+
+3
+00:00:09,779 --> 00:00:10,619
+Become calm.
+
+4
+00:00:13,880 --> 00:00:14,560
+Settle down.
+
+5
+00:00:18,100 --> 00:00:18,339
+Part.
+
+6
+00:00:21,699 --> 00:00:22,699
+Aspect.
+
+7
+00:00:25,300 --> 00:00:26,420
+Origin.
+
+8
+00:00:27,160 --> 00:00:27,519
+Beginning.
+
+9
+00:00:34,320 --> 00:00:36,119
+Understand deeply.
+
+10
+00:00:39,520 --> 00:00:40,240
+Comprehend.
+
+11
+00:00:42,460 --> 00:00:45,859
+The day that all people in a country will be on holiday.
+
+12
+00:00:48,820 --> 00:00:50,859
+National holiday.
+
+13
+00:00:52,800 --> 00:00:53,840
+Terrible.
+
+14
+00:00:54,439 --> 00:00:54,859
+Horrible.
+
+15
+00:00:55,380 --> 00:00:55,780
+Shocking.
+
+16
+00:00:59,200 --> 00:00:59,899
+Appalling.
+
+17
+00:01:02,500 --> 00:01:04,299
+Showing no interest in.
+
+18
+00:01:07,400 --> 00:01:08,120
+Indifference.
+
+19
+00:01:10,840 --> 00:01:13,400
+The attitude of treating something as enemy.
+
+20
+00:01:16,680 --> 00:01:17,500
+Hostility.
+
+21
+00:01:19,879 --> 00:01:22,599
+Relating to legal system.
+
+22
+00:01:24,819 --> 00:01:25,500
+Legislative.
+
+23
+00:01:29,079 --> 00:01:30,260
+Sudden and severe.
+
+24
+00:01:33,659 --> 00:01:34,180
+Drastic.
+
+25
+00:01:36,680 --> 00:01:39,280
+A formal document stating the wishes of a group.
+
+26
+00:01:41,740 --> 00:01:42,700
+Resolution.
+
+27
+00:01:44,219 --> 00:01:45,459
+Form.
+
+28
+00:01:46,000 --> 00:01:46,620
+Consist.
+
+29
+00:01:49,400 --> 00:01:50,400
+Constitute.
+
+30
+00:01:52,459 --> 00:01:54,200
+Violent treatment or behavior.
+
+31
+00:01:56,719 --> 00:01:57,859
+Brutality.
+
+32
+00:02:00,219 --> 00:02:01,920
+Shoot guns into a place.
+
+33
+00:02:04,379 --> 00:02:05,719
+Fire into.
+
+34
+00:02:07,959 --> 00:02:13,419
+Describing an event that is done to honor and remember a person or event in history.
+
+35
+00:02:14,340 --> 00:02:15,919
+In commemoration of.
+
+36
+00:02:18,120 --> 00:02:18,800
+Know.
+
+37
+00:02:20,919 --> 00:02:23,580
+The lowest socioeconomic class.
+
+38
+00:02:24,120 --> 00:02:24,460
+Workers.
+
+39
+00:02:27,960 --> 00:02:28,639
+Proletariat.
+
+40
+00:02:30,680 --> 00:02:35,800
+A public meeting of a large group of people to support or oppose something.
+
+41
+00:02:37,840 --> 00:02:38,740
+Rally.
+
+42
+00:02:40,680 --> 00:02:44,379
+An official statement made by a person who has power.
+
+43
+00:02:47,020 --> 00:02:47,919
+Proclamation.
+
+44
+00:02:50,139 --> 00:02:55,439
+Something like a statue built to remember a person or event from history.
+
+45
+00:02:58,340 --> 00:02:59,240
+Memorial.
+
+46
+00:03:00,360 --> 00:03:02,379
+Let's try that faster.
+
+47
+00:03:04,280 --> 00:03:06,680
+Shoot guns into a place.
+
+48
+00:03:08,500 --> 00:03:09,780
+Fire into.
+
+49
+00:03:11,599 --> 00:03:12,020
+Terrible.
+
+50
+00:03:12,599 --> 00:03:13,039
+Horrible.
+
+51
+00:03:13,539 --> 00:03:13,900
+Shocking.
+
+52
+00:03:16,460 --> 00:03:17,520
+Appalling.
+
+53
+00:03:19,439 --> 00:03:19,939
+Form.
+
+54
+00:03:20,419 --> 00:03:20,979
+Consist.
+
+55
+00:03:22,920 --> 00:03:24,020
+Constitute.
+
+56
+00:03:24,860 --> 00:03:25,919
+Relax.
+
+57
+00:03:26,400 --> 00:03:27,139
+Become calm.
+
+58
+00:03:29,699 --> 00:03:30,759
+Settle down.
+
+59
+00:03:32,659 --> 00:03:34,439
+Violent treatment or behavior.
+
+60
+00:03:36,800 --> 00:03:37,580
+Brutality.
+
+61
+00:03:39,060 --> 00:03:40,740
+Relating to legal system.
+
+62
+00:03:43,039 --> 00:03:43,539
+Legislative.
+
+63
+00:03:46,240 --> 00:03:49,159
+The attitude of treating something as enemy.
+
+64
+00:03:52,000 --> 00:03:52,879
+Hostility.
+
+65
+00:03:55,319 --> 00:03:57,500
+The lowest socioeconomic class.
+
+66
+00:03:58,000 --> 00:03:58,460
+Workers.
+
+67
+00:04:01,140 --> 00:04:02,020
+Proletariat.
+
+68
+00:04:03,900 --> 00:04:09,219
+Describing an event that is done to honor and remember a person or event in history.
+
+69
+00:04:10,080 --> 00:04:11,340
+In commemoration of.
+
+70
+00:04:13,640 --> 00:04:14,080
+Know.
+
+71
+00:04:16,100 --> 00:04:17,259
+Sudden and severe.
+
+72
+00:04:19,560 --> 00:04:20,879
+Drastic.
+
+73
+00:04:22,500 --> 00:04:23,180
+Part.
+
+74
+00:04:25,759 --> 00:04:26,959
+Aspect.
+
+75
+00:04:29,800 --> 00:04:30,199
+Origin.
+
+76
+00:04:30,860 --> 00:04:31,199
+Beginning.
+
+77
+00:04:33,879 --> 00:04:34,459
+Genesis.
+
+78
+00:04:37,120 --> 00:04:39,620
+A formal document stating the wishes of a group.
+
+79
+00:04:41,779 --> 00:04:42,439
+Resolution.
+
+80
+00:04:43,900 --> 00:04:49,740
+Something like a statue built to remember a person or event from history.
+
+81
+00:04:52,019 --> 00:04:52,779
+Memorial.
+
+82
+00:04:54,439 --> 00:04:57,680
+The day that all people in a country will be on holiday.
+
+83
+00:05:00,640 --> 00:05:02,160
+National holiday.
+
+84
+00:05:03,800 --> 00:05:07,399
+An official statement made by a person who has power.
+
+85
+00:05:09,819 --> 00:05:10,579
+Proclamation.
+
+86
+00:05:12,259 --> 00:05:14,600
+Showing no interest in.
+
+87
+00:05:17,000 --> 00:05:17,740
+Indifference.
+
+88
+00:05:19,939 --> 00:05:24,139
+A public meeting of a large group of people to support or oppose something.
+
+89
+00:05:26,199 --> 00:05:26,920
+Rally.
+
+90
+00:05:29,100 --> 00:05:30,480
+Understand deeply.
+
+91
+00:05:33,339 --> 00:05:34,079
+Comprehend.
+
+92
+00:05:35,980 --> 00:05:38,420
+Now say the word and hear it in a sentence.
+
+93
+00:05:40,319 --> 00:05:41,019
+Genesis.
+
+94
+00:05:47,720 --> 00:05:50,120
+How did you get started on this project?
+
+95
+00:05:50,839 --> 00:05:52,019
+What was its genesis?
+
+96
+00:05:54,969 --> 00:05:55,319
+Genesis.
+
+97
+00:06:00,319 --> 00:06:03,199
+We need to identify the genesis of this problem.
+
+98
+00:06:05,540 --> 00:06:06,060
+Genesis.
+
+99
+00:06:06,620 --> 00:06:07,000
+Genesis.
+
+100
+00:06:11,439 --> 00:06:14,759
+I'm studying the genesis of the feminist movement.
+
+101
+00:06:17,720 --> 00:06:18,399
+Appalling.
+
+102
+00:06:24,079 --> 00:06:28,279
+The way those poor children have been treated is just appalling.
+
+103
+00:06:31,360 --> 00:06:32,120
+Appalling.
+
+104
+00:06:37,599 --> 00:06:41,100
+I'm absolutely appalled by your behavior.
+
+105
+00:06:44,300 --> 00:06:44,660
+Appalling.
+
+106
+00:06:52,379 --> 00:06:55,680
+The service in that restaurant was appalling.
+
+107
+00:06:56,139 --> 00:06:59,240
+It took 45 minutes for them to bring us our wine.
+
+108
+00:07:01,560 --> 00:07:02,100
+Legislative.
+
+109
+00:07:11,060 --> 00:07:14,959
+We can't just rely on self-enforced policy.
+
+110
+00:07:15,120 --> 00:07:17,920
+We must find a legislative solution.
+
+111
+00:07:19,980 --> 00:07:20,639
+Legislative.
+
+112
+00:07:26,800 --> 00:07:30,699
+I don't know much about the legislative process in the US.
+
+113
+00:07:33,139 --> 00:07:33,740
+Legislative.
+
+114
+00:07:34,429 --> 00:07:34,839
+Legislative.
+
+115
+00:07:42,560 --> 00:07:45,319
+The president can't decide the laws.
+
+116
+00:07:45,779 --> 00:07:48,860
+That's the responsibility of the legislative branch of government.
+
+117
+00:07:51,160 --> 00:07:51,939
+Resolution.
+
+118
+00:07:57,480 --> 00:08:02,000
+The board will vote on a resolution asking the president to resign.
+
+119
+00:08:03,820 --> 00:08:04,660
+Resolution.
+
+120
+00:08:11,259 --> 00:08:14,800
+The UN Security Council passed a resolution regarding the Middle East.
+
+121
+00:08:16,880 --> 00:08:17,720
+Resolution.
+
+122
+00:08:23,880 --> 00:08:28,600
+A resolution was introduced in the Senate supporting states' rights.
+
+123
+00:08:35,420 --> 00:08:37,620
+We've got to take drastic measures.
+
+124
+00:08:38,019 --> 00:08:39,919
+I think we should cut off his leg.
+
+125
+00:08:46,519 --> 00:08:48,679
+This calls for drastic measures.
+
+126
+00:08:48,879 --> 00:08:51,159
+I'm declaring a state of emergency.
+
+127
+00:08:57,620 --> 00:08:58,580
+We've got to take drastic measures.
+
+128
+00:08:58,580 --> 00:09:00,879
+We have to take drastic measures to cut our costs.
+

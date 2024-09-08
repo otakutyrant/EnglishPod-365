@@ -1,0 +1,80 @@
+1
+00:00:01,599 --> 00:00:10,099
+EnglishPod.com This is such a nice restaurant.
+
+2
+00:00:10,380 --> 00:00:11,480
+I feel so classy.
+
+3
+00:00:12,140 --> 00:00:15,140
+Yeah, it's a little bit pricey, but they serve the best seafood in town.
+
+4
+00:00:15,720 --> 00:00:16,620
+May I take your order?
+
+5
+00:00:17,359 --> 00:00:21,940
+Yes, I would like some marinated grilled shrimp for starters, and I'll also have the lobster.
+
+6
+00:00:22,800 --> 00:00:23,820
+Excellent choice, sir.
+
+7
+00:00:24,059 --> 00:00:25,179
+And for you, madame?
+
+8
+00:00:25,739 --> 00:00:28,660
+I would like the baked oysters and the seafood platter.
+
+9
+00:00:28,660 --> 00:00:30,160
+Very good, madame.
+
+10
+00:00:30,839 --> 00:00:32,280
+That seafood platter sounds good.
+
+11
+00:00:32,640 --> 00:00:34,299
+Excuse me, what does the platter have?
+
+12
+00:00:34,759 --> 00:00:40,899
+It's a great combination of clams, scallops, mussels, calamari, and filet of salmon and tuna.
+
+13
+00:00:41,280 --> 00:00:43,679
+It comes with a side of butter sauce and french fries.
+
+14
+00:00:44,380 --> 00:00:45,259
+That sounds great.
+
+15
+00:00:45,520 --> 00:00:47,340
+Cancel the lobster and give me one of the same, please.
+
+16
+00:00:47,780 --> 00:00:48,460
+Very well, sir.
+
+17
+00:00:48,759 --> 00:00:49,460
+Anything to drink?
+
+18
+00:00:49,880 --> 00:00:52,560
+Can we get a bottle of your house-wiped wine, please?
+
+19
+00:00:53,200 --> 00:00:53,960
+Superb choice.
+
+20
+00:00:54,240 --> 00:00:55,880
+I will be back shortly with the wine.
+

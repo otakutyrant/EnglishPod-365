@@ -1,0 +1,408 @@
+1
+00:00:00,000 --> 00:00:07,519
+The EnglishPod Audio Review Listen to the meaning, then say the vocabulary word.
+
+2
+00:00:09,000 --> 00:00:10,339
+Please come in.
+
+3
+00:00:12,380 --> 00:00:13,199
+Come on in.
+
+4
+00:00:15,779 --> 00:00:17,940
+The person that rents a house.
+
+5
+00:00:20,739 --> 00:00:21,359
+Tenant.
+
+6
+00:00:23,059 --> 00:00:24,600
+Disorder, unorganized.
+
+7
+00:00:27,179 --> 00:00:27,420
+Mess.
+
+8
+00:00:28,819 --> 00:00:31,039
+The owner of the apartment.
+
+9
+00:00:33,799 --> 00:00:34,679
+Landlord.
+
+10
+00:00:36,219 --> 00:00:38,719
+Spacious so that air moves freely.
+
+11
+00:00:41,100 --> 00:00:41,640
+Airy.
+
+12
+00:00:43,399 --> 00:00:46,640
+Showing how big one's space is measured in feet.
+
+13
+00:00:49,200 --> 00:00:50,159
+Square footage.
+
+14
+00:00:52,200 --> 00:00:54,600
+Electric equipment found in a house.
+
+15
+00:00:57,620 --> 00:00:58,439
+Appliance.
+
+16
+00:01:00,159 --> 00:01:02,840
+Good enough to satisfy professional use.
+
+17
+00:01:05,239 --> 00:01:06,299
+Professional grade.
+
+18
+00:01:08,219 --> 00:01:10,319
+A stove that uses gas to cook.
+
+19
+00:01:13,060 --> 00:01:13,939
+Gas range.
+
+20
+00:01:15,859 --> 00:01:17,879
+Large, having lots of space.
+
+21
+00:01:20,459 --> 00:01:21,060
+Spacious.
+
+22
+00:01:22,260 --> 00:01:26,439
+A room contained in a bedroom for storing clothes.
+
+23
+00:01:28,439 --> 00:01:29,439
+Walk-in closet.
+
+24
+00:01:31,299 --> 00:01:33,620
+A bathroom within the main bedroom.
+
+25
+00:01:36,180 --> 00:01:37,040
+Ensuite bathroom.
+
+26
+00:01:38,959 --> 00:01:44,920
+A room or space that is just below the roof of a building and that is often used to store things.
+
+27
+00:01:47,280 --> 00:01:47,640
+Attic.
+
+28
+00:01:49,219 --> 00:01:54,519
+The parts of a building that is entirely or partly below the ground.
+
+29
+00:01:56,599 --> 00:01:57,239
+Basement.
+
+30
+00:01:59,420 --> 00:02:07,159
+An area of ground, such as the ground around a house or in a garden or park, that is covered with short grass.
+
+31
+00:02:09,819 --> 00:02:10,219
+Lawn.
+
+32
+00:02:12,060 --> 00:02:15,039
+The business of selling land and buildings.
+
+33
+00:02:17,020 --> 00:02:18,360
+Real estate.
+
+34
+00:02:20,180 --> 00:02:25,240
+To allow someone to use something for a period of time in return for payment.
+
+35
+00:02:27,400 --> 00:02:28,159
+Lease.
+
+36
+00:02:30,080 --> 00:02:31,180
+Let's try that faster.
+
+37
+00:02:32,780 --> 00:02:33,639
+Disorder.
+
+38
+00:02:34,060 --> 00:02:34,699
+Unorganized.
+
+39
+00:02:37,600 --> 00:02:40,780
+The person that rents a house.
+
+40
+00:02:42,919 --> 00:02:43,599
+Tenant.
+
+41
+00:02:44,840 --> 00:02:49,879
+To allow someone to use something for a period of time in return for payment.
+
+42
+00:02:51,879 --> 00:02:52,300
+Lease.
+
+43
+00:02:53,800 --> 00:02:59,819
+A room or space that is just below the roof of a building and that is often used to store things.
+
+44
+00:03:01,280 --> 00:03:01,960
+Attic.
+
+45
+00:03:03,439 --> 00:03:05,680
+Spacious so that air moves freely.
+
+46
+00:03:07,759 --> 00:03:08,199
+Airy.
+
+47
+00:03:08,199 --> 00:03:17,539
+An area of ground, such as the ground around a house or in a garden or park, that is covered with short grass.
+
+48
+00:03:19,520 --> 00:03:19,860
+Lawn.
+
+49
+00:03:21,520 --> 00:03:22,780
+The owner of the apartment.
+
+50
+00:03:25,120 --> 00:03:25,819
+Landlord.
+
+51
+00:03:27,300 --> 00:03:29,879
+The business of selling land and buildings.
+
+52
+00:03:31,800 --> 00:03:32,539
+Real estate.
+
+53
+00:03:34,000 --> 00:03:38,639
+The parts of a building that is entirely or partly below the ground.
+
+54
+00:03:40,330 --> 00:03:40,800
+Basement.
+
+55
+00:03:42,280 --> 00:03:43,439
+Please come in.
+
+56
+00:03:45,219 --> 00:03:46,139
+Come on in.
+
+57
+00:03:47,259 --> 00:03:49,539
+A stove that uses gas to cook.
+
+58
+00:03:51,599 --> 00:03:52,580
+Gas range.
+
+59
+00:03:54,199 --> 00:03:56,539
+Electric equipment found in a house.
+
+60
+00:03:58,819 --> 00:03:59,539
+Appliance.
+
+61
+00:04:01,199 --> 00:04:03,599
+Good enough to satisfy professional use.
+
+62
+00:04:05,420 --> 00:04:06,680
+Professional grade.
+
+63
+00:04:07,979 --> 00:04:11,060
+A room contained in a bedroom for storing clothes.
+
+64
+00:04:12,939 --> 00:04:13,840
+Walk-in closet.
+
+65
+00:04:15,460 --> 00:04:15,740
+Large.
+
+66
+00:04:16,120 --> 00:04:17,339
+Having lots of space.
+
+67
+00:04:19,259 --> 00:04:20,019
+Spacious.
+
+68
+00:04:21,459 --> 00:04:24,720
+Showing how big one's space is measured in feet.
+
+69
+00:04:26,819 --> 00:04:27,740
+Square footage.
+
+70
+00:04:28,959 --> 00:04:31,259
+A bathroom within the main bedroom.
+
+71
+00:04:32,800 --> 00:04:34,259
+En suite bathroom.
+
+72
+00:04:36,120 --> 00:04:38,360
+Now say the word and hear it in a sentence.
+
+73
+00:04:45,519 --> 00:04:51,060
+I had to renovate my kitchen because I accidentally burned everything while cooking.
+
+74
+00:04:57,199 --> 00:05:00,680
+The city recently renovated the local church.
+
+75
+00:05:07,860 --> 00:05:12,439
+John is planning on renovating his night club so as to make it more modern.
+
+76
+00:05:14,579 --> 00:05:15,220
+Airy.
+
+77
+00:05:21,319 --> 00:05:24,240
+I'm glad we took out all the extra furniture.
+
+78
+00:05:24,620 --> 00:05:27,079
+Now this room is a lot more airy.
+
+79
+00:05:28,860 --> 00:05:29,540
+Airy.
+
+80
+00:05:34,399 --> 00:05:36,040
+The living room looks great.
+
+81
+00:05:36,399 --> 00:05:39,579
+That big window really makes it feel more airy.
+
+82
+00:05:43,800 --> 00:05:44,480
+Airy.
+
+83
+00:05:48,839 --> 00:05:54,720
+Our office has a high ceiling and big windows so it feels really open and airy.
+
+84
+00:05:56,080 --> 00:05:57,339
+Square footage.
+
+85
+00:06:03,560 --> 00:06:08,720
+As a civil engineer I have to calculate the square footage of the construction site.
+
+86
+00:06:11,240 --> 00:06:12,279
+Square footage.
+
+87
+00:06:18,460 --> 00:06:23,779
+Robert is worried that the square footage of the house wasn't big enough for his family.
+
+88
+00:06:26,100 --> 00:06:26,819
+Square footage.
+
+89
+00:06:31,060 --> 00:06:33,579
+What's the square footage of the living room?
+
+90
+00:06:35,899 --> 00:06:36,500
+Appliance.
+
+91
+00:06:45,000 --> 00:06:51,040
+In this store you can buy any type of kitchen appliance such as a toaster, a blender, etc.
+
+92
+00:06:53,760 --> 00:06:54,660
+Appliance.
+
+93
+00:07:00,939 --> 00:07:05,550
+All of our electrical appliances were damaged by the thunderstorm.
+
+94
+00:07:08,600 --> 00:07:09,500
+Appliance.
+
+95
+00:07:15,080 --> 00:07:20,180
+My cousin is selling all her household appliances because she is moving to China.
+
+96
+00:07:26,319 --> 00:07:28,139
+This job offer is amazing.
+
+97
+00:07:28,459 --> 00:07:30,060
+It's almost too good to be true.
+
+98
+00:07:36,180 --> 00:07:38,740
+I can't believe you got this car for free.
+
+99
+00:07:39,100 --> 00:07:41,439
+I think it sounds too good to be true.
+
+100
+00:07:49,259 --> 00:07:51,180
+I found the perfect boyfriend.
+
+101
+00:07:51,180 --> 00:07:53,740
+He cooks, cleans, and treats me well.
+
+102
+00:07:54,319 --> 00:07:55,939
+It's almost too good to be true.
+

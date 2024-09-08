@@ -1,0 +1,40 @@
+1
+00:00:02,180 --> 00:00:09,140
+EnglishPod.com Bruno Bistro, how may I help you?
+
+2
+00:00:09,640 --> 00:00:11,720
+Yes hello, I would like to make a reservation please.
+
+3
+00:00:11,980 --> 00:00:13,800
+Certainly sir, for which day and time please?
+
+4
+00:00:14,259 --> 00:00:15,419
+Tonight at 7.
+
+5
+00:00:15,779 --> 00:00:18,600
+I'm sorry sir, but we are fully booked tonight until 8.
+
+6
+00:00:18,940 --> 00:00:20,879
+In that case 8 o'clock is fine.
+
+7
+00:00:21,440 --> 00:00:23,219
+Very well, and how many people will attend tonight?
+
+8
+00:00:23,760 --> 00:00:24,239
+4 people.
+
+9
+00:00:24,760 --> 00:00:27,579
+Lastly, may I please know what name I should make the reservation under?
+
+10
+00:00:27,579 --> 00:00:28,140
+Mark.
+

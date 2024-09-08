@@ -1,0 +1,96 @@
+1
+00:00:01,700 --> 00:00:11,480
+EnglishPod.com Hi, what can I get for you?
+
+2
+00:00:12,140 --> 00:00:14,240
+I'd like half a pound of ground beef, please.
+
+3
+00:00:15,019 --> 00:00:15,800
+Good choice.
+
+4
+00:00:16,379 --> 00:00:21,199
+Our ground beef is extra lean, if you know what I mean.
+
+5
+00:00:22,559 --> 00:00:26,660
+Could I also have half a dozen pork chops and two pounds of boneless chicken breast?
+
+6
+00:00:26,660 --> 00:00:30,120
+No, no, no.
+
+7
+00:00:30,460 --> 00:00:32,179
+Chicken breasts at the moment.
+
+8
+00:00:32,799 --> 00:00:36,560
+But we have some nice chicken thighs.
+
+9
+00:00:37,259 --> 00:00:38,500
+No, that won't do.
+
+10
+00:00:38,939 --> 00:00:40,780
+I'll take this smoked ham you have here.
+
+11
+00:00:41,179 --> 00:00:43,579
+Okay, is there anything else?
+
+12
+00:00:44,299 --> 00:00:47,020
+Is this salami and bologna you have here?
+
+13
+00:00:47,840 --> 00:00:48,380
+Yes.
+
+14
+00:00:49,159 --> 00:00:51,399
+It's very fine meat.
+
+15
+00:00:52,100 --> 00:00:53,060
+Made it myself.
+
+16
+00:00:54,000 --> 00:00:54,759
+Sounds good.
+
+17
+00:00:54,759 --> 00:00:55,960
+Okay, that's it.
+
+18
+00:00:56,340 --> 00:01:01,780
+Wait, we have t-bone, ribeye, and sirloin sticks.
+
+19
+00:01:02,299 --> 00:01:03,780
+They are very fresh.
+
+20
+00:01:04,439 --> 00:01:06,359
+Just came from the slaughterhouse.
+
+21
+00:01:07,179 --> 00:01:10,120
+No, that's okay, really.
+
+22
+00:01:10,459 --> 00:01:11,459
+I think that's all for today.
+
+23
+00:01:17,579 --> 00:01:19,719
+Okay, that'll be $34.50.
+
+24
+00:01:24,760 --> 00:01:25,120
+Thanks for watching.
+
